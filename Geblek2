@@ -6,7 +6,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.31/7-00:50",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.31/7-21:40",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -255,7 +255,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227065/1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7jSkJbsnjExIfpvj6UIFhHvSwvAHUNUZmasoQ8T_a86ZedDEu" group-title="SPORTS", Olympic Channel
-http://ott-live.olympicchannel.com:80/out/u/OC1_3.m3u8
+#http://ott-live.olympicchannel.com:80/out/u/OC1_3.m3u8
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/xuNr5M3m2xoUkfEAxFf8oA/ls.jpg" group-title="SPORTS",TENNIS Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -287,35 +288,57 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042869.jpg" group-title="SPORTS", REAL MADRID TV ESP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
 
-
-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042838.png" group-title="SPORTS", MOTOR SPORT
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="SPORTS",Eurosport 1
+http://5.135.92.133:52841/out/u/509_1.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042868.png" group-title="SPORTS", DUBAI RACING UAE
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1 group-title="SPORTS",SkynetsportHD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Skynetsport1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Skynetsport3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Skynetsport4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Skynetsport5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Skynetsport6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",PremierHD1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",PremierHD2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",PremierHD3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",PremierHD4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",PremierHD5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",True Sport HD1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",True Sport HD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",True Sport HD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",True Sport HD4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 
 ####BEIN###
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport extra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/JAgksj.png" group-title="BEIN SPORTS",BEIN SPORTS HABER
+http://94.46.195.170:9000/bein-sports-haber/live.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 ID
-http://nonton.site:8888/ko Amat/123456/728
-
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 ID Test durasi
-https://edgejt7.useetv.com/joss/15/bein1/chunklist_w1573840928_b1344100_sleng.m3u8?enc=A3RrzNCz9rllgMfmovFXZA&id=MGIyMWVkMzU0OGJhNGQ5MWI5ODhkYThhZDU3OGNhMmM=&exp=1595952716
 
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 2 
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 2 ID
-##supersport##
-http://nonton.site:8888/ko Amat/123456/729
-####SKY SPORTS####
 
 #####MOVIES####
 
@@ -535,7 +558,6 @@ http://rr1.dens.tv/h/h02/index.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227353/2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DreamWorks
-https://cdnbdsa1.useetv.com/joss/15/dreamworks/chunklist_w104958851_b1344100_sleng.m3u8?enc=rF3DKkZvKLu7AFsqmqGnpQ&id=MGIyMWVkMzU0OGJhNGQ5MWI5ODhkYThhZDU3OGNhMmM=&exp=1594901611
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040593.png" group-title="KIDS", Nick Jr
 
@@ -557,7 +579,8 @@ https://cdnbdsa1.useetv.com/joss/15/dreamworks/chunklist_w104958851_b1344100_sle
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6YzvbH/maxresdefault.jpg" group-title="KIDS", LARVA TV NIMOTV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6YzvbH/maxresdefault.jpg" group-title="KIDS", Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 #EXTINF: -1 tvg-logo="" group-title="KIDS", DUNIA ANAK
 
