@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="selalu.KLIK.⟳(LINGKARAN).tiap.mulai.utk.dptk.update.channel",Lihat Cara Refreshnya
 http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 
@@ -91,7 +90,7 @@ http://45.126.83.51/session/3b544424-8cad-11ea-a602-b2e0b736ce20/qwr9ew/s/s07/01
 http://103.47.132.165:80/PLTV/88888888/224/3221227215/1.m3u8
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-QkqGHicv8mM/W492FAqm6XI/AAAAAAAABo8/iyYsYikOsYc281fi-y_BxkaPqGpNa1u1QCLcBGAs/h120/tvone.png" group-title="LOKAL",TVONE 
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybJTPOHMEUlBdcSiwXmu7ExE)/dm/3/x619221/s/live-2.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+http://103.47.132.164/PLTV/88888888/224/3221227213/3.m3u8
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
@@ -441,7 +440,7 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040515.png" group-title="MOVIES", FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="MOVIES",CINEMA WORLD 
 
@@ -541,7 +540,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226819/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="ZooMoo TV" group-title="KIDS" tvg-logo="https://macan.live/img/zoomoo.png", Zoomoo
-
+http://103.47.132.165/PLTV/88888888/224/3221227323/2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",My Kids (load awal lama)
 https://www.useetv.com/livetv/mykids
@@ -632,7 +631,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+http://103.47.132.165/PLTV/88888888/224/3221227335/1.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY 2
 
@@ -916,7 +915,6 @@ http://210.210.155.35:80/uq2663/h/h08/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA",Sony ONE HD
 http://45.126.83.51:80/session/b41ceb24-ce64-11ea-a858-b3448a745abc/uq2663/h/h143/02.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="KOREA",K-Drama
 
