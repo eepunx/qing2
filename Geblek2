@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.2/8-21:30",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.4/8-05:27",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -54,7 +54,8 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 
 #EXTINF:-1 tvg-ID="MNCTV.id" group-title="LOKAL" tvg-logo="https://1.bp.blogspot.com/-qKYM06dndw0/W4X_vyqw25I/AAAAAAAABno/c0rh0K0zbnkm2up2jPyoewgQQuJwv50BQCLcBGAs/s1600/mnctv.png", MNCTV (load awal lama)
 https://m.vidio.com/live/870-mnc
-
+#EXTINF:-1 tvg-ID="MNCTV.id" group-title="LOKAL" tvg-logo="https://1.bp.blogspot.com/-qKYM06dndw0/W4X_vyqw25I/AAAAAAAABno/c0rh0K0zbnkm2up2jPyoewgQQuJwv50BQCLcBGAs/s1600/mnctv.png", MNCTV (load awal lama.)
+https://m.rctiplus.com/tv/mnctv
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-0Lw_7wEZhAw/W4-sdm6b68I/AAAAAAAABq0/qoohjarDCisoPf9MkAK6HzhoN0HHyMRjgCLcBGAs/h120/RCTI.png" group-title="LOKAL",GTV 
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -324,6 +325,17 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",True Sport HD4
 https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 ####BEIN###
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport extra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
@@ -404,7 +416,7 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227117/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png" group-title="MOVIES", FOX MOVIES PREMIUM 
 #https://bit.ly/qingfmovies
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/756717990
 
 
@@ -439,7 +451,7 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040515.png" group-title="MOVIES", FX
-http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
+https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="MOVIES",CINEMA WORLD 
 
