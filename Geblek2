@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.5/8-05:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.6/8-18:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -197,17 +197,17 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 
 ###fox###
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 
-http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 backup
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 
-http://103.47.132.165:80/PLTV/88888888/224/3221227175/2.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 backup
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
-http://103.47.132.165:80/PLTV/88888888/224/3221227219/2.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 backup
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
@@ -400,31 +400,31 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://103.47.132.165:80/PLTV/88888888/224/3221227147/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png" group-title="MOVIES", FOX 
-http://103.47.132.165/PLTV/88888888/224/3221227137/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227137/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="MOVIES",FOX Action Movies 
-http://103.47.132.165:80/PLTV/88888888/224/3221227121/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227121/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/1744735983
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png"" group-title="MOVIES", FOX Family Movies 
 #http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png"" group-title="MOVIES", FOX Family Movies 
-http://103.47.132.165:80/PLTV/88888888/224/3221227117/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227117/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/1949182550
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png" group-title="MOVIES", FOX MOVIES PREMIUM 
 #https://bit.ly/qingfmovies
-http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227119/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/756717990
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png" group-title="MOVIES", FOX Crime 
-http://103.47.132.165:80/PLTV/88888888/224/3221227165/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227165/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://macan.live/img/fox_life.png" group-title="MOVIES", FOX Life
-http://103.47.132.165:80/PLTV/88888888/224/3221227277/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227277/1.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="MOVIES", Crime Investigation
 
@@ -488,7 +488,7 @@ http://210.210.155.35/session/f210c69e-c392-11ea-b500-857c9830f64d/qwr9ew/s/s32/
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES",CELESTIAL MOVIES 
-
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042777.png" group-title="MOVIES", RAI MOVIES HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -556,7 +556,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227323/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",My Kids (load awal lama)
 https://www.useetv.com/livetv/mykids
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042892.png" group-title="KIDS", ANIMAX ID
-http://103.47.132.165:80/PLTV/88888888/224/3221227145/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
 #http://45.126.83.51:80/dr9445/h/h144/01.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042906.png" group-title="KIDS", ANIPLUS
@@ -642,7 +642,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY
-http://103.47.132.165/PLTV/88888888/224/3221227335/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY 2
 
