@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.6/8-18:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.8/8-05:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -70,7 +70,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4
 https://m.vidio.com/live/665-rcti
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-gFkMmSgxrPA/W492KRb8rBI/AAAAAAAABpE/gFW4KSdQkaU5Y3n8H0FCc0MpOzOFRTPHQCLcBGAs/h120/indosiar.png" group-title="LOKAL",INDOSIAR 
-https://etslive-2-vidio-com.akamaized.net/exp=1596592535~acl=/hls-p/ingest_205_*/*~hmac=5313ace41aa75af17bd819b205e9d01775d3166a559445568ed665ef98c2a441/hls-p/ingest_205_480p/index.m3u8
+https://mkctv.net/video/indosiar.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-gFkMmSgxrPA/W492KRb8rBI/AAAAAAAABpE/gFW4KSdQkaU5Y3n8H0FCc0MpOzOFRTPHQCLcBGAs/h120/indosiar.png" group-title="LOKAL",INDOSIAR (load awal lama)
 https://m.vidio.com/live/205-indosiar?gclid=EAIaIQobChMI5tHZjYCs6gIVjjgrCh1d2wTIEAAYASAAEgJW3vD_BwE
 
@@ -366,27 +366,25 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227159/1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES", HBO
-https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES", HBO test
-https://pastebin.com/raw/UTBts9n4
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MOVIES",Red By HBO
-https://dl.dropbox.com/s/83u4976cz4j6nc1/red.m3u8?dl=0
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="MOVIES",HBO Hits SD
-#Https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
-http://203.153.218.28:9981/stream/channelid/2038175895
+#http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="MOVIES",HBO Signature 
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="MOVIES",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
-
+#http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040527.png" group-title="MOVIES", Cinemax
-https://dl.dropboxusercontent.com/s/4p97p2b0zcxrblj/cinemax.m3u8?dl=0
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",My Cinema
 http://210.210.155.35:80/uq2663/h/h99/index.m3u8
