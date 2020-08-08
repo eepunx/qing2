@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.8/8-05:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.9/8-00:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -856,8 +856,13 @@ https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",CCTV4 (load awal lama)
 https://www.useetv.com/livetv/cctv4
 
-#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN TV
-http://223.110.229.13:6610/gitv/live1/G_HUNAN/G_HUNAN/1.m3u8?IASHttpSessionId=SLB4507320200626105933007121
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN 1 test
+https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWNkZGIwMDRhZTIwNDlkNTFiZGUzZjdjMGY5OWVlZmJiJmVzPTE1OTY5MzQwMjMmdXVpZD0yODgwYTY0YmYwY2M0N2Y3ZDQ1M2RjODVhMWE2ZDk0YS04YmMwOTA0NCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
+
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN 2 test
+https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTI5MzViNzY1NjgxM2I0ZDQ3NjIxZWU0ZmQxMGJhM2FmJmVzPTE1OTY5MzQzMzMmdXVpZD05NWMzYTM3ZGM4MzM3YzIwZjcxZTZiYjE4NjliZWM1ZC04YmMwOTA0NCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN 3 test
+https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWJjNWFhNTE0ODU3ZjVkZGI4NDVjM2Q5OGUyZDM0MDY2JmVzPTE1OTY5MzQ0NDkmdXVpZD03ZTA5NmI2YzY1NDlkOTJhNDc3OGJhZWQwY2ExNTEzOC04YmMwOTA0NCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",Dragon TV
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
