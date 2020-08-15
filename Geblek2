@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.9/8-00:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.15/8-14:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -268,6 +268,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="SPORTS",UFC
 http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="SPORTS",UFC Fight Pass
+http://iptv.rent:8080/mqg62jlsbe/utvusfwa2d/677130
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Box
 
@@ -512,14 +514,8 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS", Disney Channel
 http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042917.svg" group-title="KIDS", Disney Channel EN
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR BR
-http://fonteangelusiptv.com:25461/11993598600ELMO/RE53GGT54/92919?checkedby:iptvcat.com
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR US
-http://ui.k93c.com:3356/striming_2019/vClAh3sfn1/1179?checkedby:iptvcat.com
+http://interlatins.es:8691/hpqservicio180/servicio180mr/2401
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo HD
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -536,13 +532,13 @@ http://globe2.midomed.com:80/memon/memon123/3489
 http://210.210.155.35:80/uq2663/h/h98/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="KIDS", PBS Kids
-http://161.0.157.9/PLTV/88888888/224/3221226819/index.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040597.webp" group-title="KIDS", Boomerang
-
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042918.png" group-title="KIDS", Baby First 
-
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="KIDS", Davinci
 
@@ -568,7 +564,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227353/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DreamWorks
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040593.png" group-title="KIDS", Nick Jr
-
+http://iptv.rent:8080/mqg62jlsbe/utvusfwa2d/15807
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040598.png" group-title="KIDS", Nickelodeon
 
@@ -670,7 +666,7 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",Outdoor Channel
-http://207.38.89.242:8080/live/2993/2993/14665.ts?checkedby:iptvcat.com
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",Fashion TV Paris
@@ -819,9 +815,6 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="SG" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="SG" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8 backup
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK;SG" tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="Singapore",Miao Mi
@@ -855,14 +848,6 @@ https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?checkedby:iptvcat.
 
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",CCTV4 (load awal lama)
 https://www.useetv.com/livetv/cctv4
-
-#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN 1 test
-https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWNkZGIwMDRhZTIwNDlkNTFiZGUzZjdjMGY5OWVlZmJiJmVzPTE1OTY5MzQwMjMmdXVpZD0yODgwYTY0YmYwY2M0N2Y3ZDQ1M2RjODVhMWE2ZDk0YS04YmMwOTA0NCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNJSMPP360.m3u8
-
-#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN 2 test
-https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTI5MzViNzY1NjgxM2I0ZDQ3NjIxZWU0ZmQxMGJhM2FmJmVzPTE1OTY5MzQzMzMmdXVpZD05NWMzYTM3ZGM4MzM3YzIwZjcxZTZiYjE4NjliZWM1ZC04YmMwOTA0NCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
-#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",HUNAN 3 test
-https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWJjNWFhNTE0ODU3ZjVkZGI4NDVjM2Q5OGUyZDM0MDY2JmVzPTE1OTY5MzQ0NDkmdXVpZD03ZTA5NmI2YzY1NDlkOTJhNDc3OGJhZWQwY2ExNTEzOC04YmMwOTA0NCZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNGJMPP360.m3u8
 
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA",Dragon TV
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
