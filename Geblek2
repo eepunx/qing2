@@ -200,11 +200,15 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 backup
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 BR
+http://interlatins.es:8691/hpqservicio180/servicio180mr/27341
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 
 http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 backup
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 BR
+http://interlatins.es:8691/hpqservicio180/servicio180mr/27342
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
 http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
@@ -277,6 +281,7 @@ http://iptv.rent:8080/mqg62jlsbe/utvusfwa2d/677130
 #EXTINF:-1 tvg-id="US: AE" tvg-name="WWE Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="SPORTS",WWE
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042821.png" group-title="SPORTS",GOLF Channel
 http://103.47.132.165/PLTV/88888888/224/3221227325/1.m3u8
 
@@ -294,6 +299,8 @@ http://5.135.92.133:52841/out/u/509_1.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042868.png" group-title="SPORTS", DUBAI RACING UAE
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF: -1 tvg-logo="" group-title="SPORTS",ESPN
+http://interlatins.es:8691/hpqservicio180/servicio180mr/85778
 
 #EXTINF:-1 group-title="SPORTS",SkynetsportHD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
@@ -516,7 +523,8 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR US
 http://interlatins.es:8691/hpqservicio180/servicio180mr/2401
-
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR ES
+http://interlatins.es:8691/hpqservicio180/servicio180mr/39855
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo HD
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
@@ -602,6 +610,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 ###knowledge##
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Knowledge",HGTV
+http://interlatins.es:8691/hpqservicio180/servicio180mr/6532
 
 #EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic
 http://103.47.132.165:80/PLTV/88888888/224/3221227177/1.m3u8
