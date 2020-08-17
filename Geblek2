@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.15/8-14:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.17/8-23:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -54,8 +54,6 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 
 #EXTINF:-1 tvg-ID="MNCTV.id" group-title="LOKAL" tvg-logo="https://1.bp.blogspot.com/-qKYM06dndw0/W4X_vyqw25I/AAAAAAAABno/c0rh0K0zbnkm2up2jPyoewgQQuJwv50BQCLcBGAs/s1600/mnctv.png", MNCTV (load awal lama)
 https://m.vidio.com/live/870-mnc
-#EXTINF:-1 tvg-ID="MNCTV.id" group-title="LOKAL" tvg-logo="https://1.bp.blogspot.com/-qKYM06dndw0/W4X_vyqw25I/AAAAAAAABno/c0rh0K0zbnkm2up2jPyoewgQQuJwv50BQCLcBGAs/s1600/mnctv.png", MNCTV (load awal lama.)
-https://m.rctiplus.com/tv/mnctv
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-0Lw_7wEZhAw/W4-sdm6b68I/AAAAAAAABq0/qoohjarDCisoPf9MkAK6HzhoN0HHyMRjgCLcBGAs/h120/RCTI.png" group-title="LOKAL",GTV 
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -75,12 +73,16 @@ https://mkctv.net/video/indosiar.m3u8
 https://m.vidio.com/live/205-indosiar?gclid=EAIaIQobChMI5tHZjYCs6gIVjjgrCh1d2wTIEAAYASAAEgJW3vD_BwE
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-SrcPMuGvAXQ/W491rgUV-7I/AAAAAAAABoo/Q1zMB4js_lg6B3WZhALefirb9ApHQrBagCLcBGAs/h120/sctv.png" group-title="LOKAL",SCTV
-http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227227/1.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-SrcPMuGvAXQ/W491rgUV-7I/AAAAAAAABoo/Q1zMB4js_lg6B3WZhALefirb9ApHQrBagCLcBGAs/h120/sctv.png" group-title="LOKAL",SCTV FHD
+http://103.47.132.164/PLTV/88888888/224/3221227227/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-SrcPMuGvAXQ/W491rgUV-7I/AAAAAAAABoo/Q1zMB4js_lg6B3WZhALefirb9ApHQrBagCLcBGAs/h120/sctv.png" group-title="LOKAL",SCTV (load awal lama)
 https://m.vidio.com/live/204-sctv
 
 #EXTINF:-1  tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV
-http://103.47.132.165:80/PLTV/88888888/224/3221227101/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227101/1.m3u8
+#EXTINF:-1  tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV FHD
+http://103.47.132.164/PLTV/88888888/224/3221227101/3.m3u8
 #EXTINF:-1  tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV (load awal lama)
 https://www.useetv.com/livetv/net
 
@@ -88,18 +90,23 @@ https://www.useetv.com/livetv/net
 http://45.126.83.51/session/3b544424-8cad-11ea-a602-b2e0b736ce20/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-jGwVxUtqudk/W492AzGBIjI/AAAAAAAABo0/JOuWdG604u0h7O_1wrsIKFTeMzYpuPe4wCLcBGAs/h120/antv.png" group-title="LOKAL",ANTV
-http://103.47.132.165:80/PLTV/88888888/224/3221227215/1.m3u8
-
+http://103.47.132.164/PLTV/88888888/224/3221227215/1.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-jGwVxUtqudk/W492AzGBIjI/AAAAAAAABo0/JOuWdG604u0h7O_1wrsIKFTeMzYpuPe4wCLcBGAs/h120/antv.png" group-title="LOKAL",ANTV FHD
+http://103.47.132.164/PLTV/88888888/224/3221227215/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-QkqGHicv8mM/W492FAqm6XI/AAAAAAAABo8/iyYsYikOsYc281fi-y_BxkaPqGpNa1u1QCLcBGAs/h120/tvone.png" group-title="LOKAL",TVONE 
 http://103.47.132.164/PLTV/88888888/224/3221227213/3.m3u8
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV 
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227195/1.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV FHD
+http://103.47.132.164/PLTV/88888888/224/3221227195/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV (load awal lama)
 https://m.vidio.com/live/733-trans-tv
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227195/1.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 FHD
+http://103.47.132.164/PLTV/88888888/224/3221227195/3.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 (load awal lama)
 https://m.vidio.com/live/734-trans7
 
@@ -521,15 +528,11 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS", Disney Channel
 http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR US
-http://interlatins.es:8691/hpqservicio180/servicio180mr/2401
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR ES
-http://interlatins.es:8691/hpqservicio180/servicio180mr/39855
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo HD
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo SD
+http://103.47.132.165/PLTV/88888888/224/3221227539/1.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042900.jpg" group-title="KIDS", DISNEY JUNIOR ID FHD backup
-#http://103.47.132.164/PLTV/88888888/224/3221226011/4.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042900.jpg" group-title="KIDS", DISNEY JUNIOR ID FHD
+http://103.47.132.165/PLTV/88888888/224/3221227539/3.m3u8
 
 #EXTINF:-1 tvg-ID="Disney XD" group-title="KIDS" tvg-logo="https://macan.live/img/disneyxd.png", Disney XD
 
