@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.17/8-23:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.22/8-04:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -97,9 +97,9 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/3.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227213/3.m3u8
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV 
-http://103.47.132.164/PLTV/88888888/224/3221227195/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227197/1.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV FHD
-http://103.47.132.164/PLTV/88888888/224/3221227195/3.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227197/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV (load awal lama)
 https://m.vidio.com/live/733-trans-tv
 
@@ -823,20 +823,20 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="Singapore",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="SG" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HK;SG" tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="Singapore",Miao Mi
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="Singapore",OKTO on 5
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapore",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8?checkedby:iptvcat.com
+
 
 ###TaiwanHK##
 
