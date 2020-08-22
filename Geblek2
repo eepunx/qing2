@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.22/8-04:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.22/8-20:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",ASTRO XTV 
@@ -910,18 +910,16 @@ https://tv.nknews.org/tvhls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM 
 http://103.47.132.165/PLTV/88888888/224/3221227187/2.m3u8
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn.png", tvN
+http://211.245.55.198:1024/m2u/239.192.53.7:49220
+
+#EXTINF:-1 tvg-logo="" group-title="KOREA",KBS World
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-kbsworld_720/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA",K+
 http://210.210.155.35:80/uq2663/h/h08/02.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn.png", tvN
-
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn.png", tvN
-
-
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies.
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",KBS World
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA",Sony ONE HD
