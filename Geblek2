@@ -613,7 +613,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 ###knowledge##
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Knowledge",HGTV
-http://interlatins.es:8691/hpqservicio180/servicio180mr/6532
+http://103.47.132.164/PLTV/88888888/224/3221227035/1.m3u8
 
 #EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic
 http://103.47.132.165:80/PLTV/88888888/224/3221227177/1.m3u8
