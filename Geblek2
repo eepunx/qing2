@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.27/8-06:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.27/8-16:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",Update LIVETV Ver.14
@@ -525,8 +525,10 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF: -1 tvg-logo="" group-title="KIDS", Cocomelon YT Channel
 
 
-#EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS", Disney Channel
+#EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS", Disney Channel EN
 http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
+#EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS", Disney Channel ID
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28790?play_token=PtImioqsvK&token=QhVcUhcJRggXVQdeBwQIDAIEAQtWX1QBVlcAVwJWUFRYDwYCXVRRA1dGGURBEkJRAFtpWgVEXlFdUwxRSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlBQCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo SD
 http://103.47.132.165/PLTV/88888888/224/3221227539/1.m3u8
