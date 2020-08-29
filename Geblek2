@@ -286,7 +286,7 @@ http://iptv.rent:8080/mqg62jlsbe/utvusfwa2d/677130
 
 
 #EXTINF:-1 tvg-id="US: AE" tvg-name="WWE Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="SPORTS",WWE
-http://interlatins.es:8691/hpqservicio180/servicio180mr/35381
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3083
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042821.png" group-title="SPORTS",GOLF Channel
@@ -359,12 +359,16 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0 tvg-logo="https://iili.io/JAgksj.png" group-title="BEIN SPORTS",BEIN SPORTS HABER
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 asia
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28732?play_token=3EUkeY2c4P&token=QhVcUhcJRggXXFFeBFUFUQJVU1JTV1FaAQJQUwNQB1YNDlJQAVFUA1ZGGURBEkJRAFtpWgVEXlFdUwZTSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlJZCBsWQw0FRggXVgVSA0QcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAAxDGhRQDhMKFxcdF1tEKyZDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVAJVBBYc
 
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 2 asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 2 
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28731?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #####MOVIES####
 
@@ -482,7 +486,7 @@ http://45.126.83.51/qwr9ew/s/s34/index1.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies
-
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28797?play_token=M4F6sinwKP&token=QhVcUhcJRggXAAwDUQMCV1NSDgFZVAJXBwVUBVQHA1BYBQxVUARTAgRGGURBEkJRAFtpWgVEXlFdUwxWSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNWDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM HD
 http://103.47.132.165/PLTV/88888888/224/3221227187/2.m3u8
@@ -502,7 +506,7 @@ http://210.210.155.35/session/f210c69e-c392-11ea-b500-857c9830f64d/qwr9ew/s/s32/
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES",CELESTIAL MOVIES 
-http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28797?play_token=M4F6sinwKP&token=QhVcUhcJRggXAAwDUQMCV1NSDgFZVAJXBwVUBVQHA1BYBQxVUARTAgRGGURBEkJRAFtpWgVEXlFdUwxWSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNWDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042777.png" group-title="MOVIES", RAI MOVIES HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -650,7 +654,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png",Waku Waku Japan
-
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28734?play_token=4dtAJcKDHo&token=QhVcUhcJRggXAARVB1MBB1cDAApYAlcBB1wDBwRSAQBfBFAFUgAHAwxGGURBEkJRAFtpWgVEXlFdUwZVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1dTARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",AFN
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
@@ -916,7 +920,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-kbsworld_720/playlist.m3
 http://210.210.155.35:80/uq2663/h/h08/02.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies.
-
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28797?play_token=M4F6sinwKP&token=QhVcUhcJRggXAAwDUQMCV1NSDgFZVAJXBwVUBVQHA1BYBQxVUARTAgRGGURBEkJRAFtpWgVEXlFdUwxWSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNWDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA",Sony ONE HD
 http://45.126.83.51:80/session/b41ceb24-ce64-11ea-a858-b3448a745abc/uq2663/h/h143/02.m3u8
