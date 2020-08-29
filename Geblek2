@@ -545,6 +545,9 @@ http://103.47.132.165/PLTV/88888888/224/3221227539/3.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042916.png" group-title="KIDS", Cartoon Network EN
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28798?play_token=bQ31n524Bd&token=QhVcUhcJRggXBwNRAgADBwNSD1cDAAJRUAYFUV9bUQBaAQYAUAQAC1ZGGURBEkJRAFtpWgVEXlFdUwxZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUVZXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040598.png" group-title="KIDS", Nickelodeon
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28748?play_token=hKT9DlhPxC&token=QhVcUhcJRggXVFBRVFABUAJVVVYHUgdUAVVUWAVWA1QBDwRXBVFUC1dGGURBEkJRAFtpWgVEXlFdUwFZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deWlpRCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040593.png" group-title="KIDS", Nick Jr ID
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28747?play_token=O5SnEQSaKf&token=QhVcUhcJRggXVwwHBAMHAQcGBVIHXwJbVVAFBQJXVAcLUgADAANTAFRGGURBEkJRAFtpWgVEXlFdUwFWSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deWlpVChsWQw0FRggXVQVQBVcSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAQ1WFBoRAgkRDREWTENcQCslGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRANVBAZXFEs=
 
@@ -580,13 +583,12 @@ http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DreamWorks
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040598.png" group-title="KIDS", Nickelodeon
 
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://x1.cdn.broiptv.online/img/horee.png" group-title="KIDS", Horee
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042898.png" group-title="KIDS", MIAO MI
-
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28755?play_token=eDB5maTZY9&token=QhVcUhcJRggXUQRXVAJTBgMDAgpZAwAGUAJXUwJRV1laAQwGBQNcCgNGGURBEkJRAFtpWgVEXlFdUwBUSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deV1VVChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="KIDS",Duck TV
 
@@ -825,11 +827,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:0 tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore",Channel 5
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
-
-
-#EXTINF:0 tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HK;SG" tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="Singapore",Miao Mi
 
 #EXTINF:0 tvg-country="SG" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="Singapore",OKTO on 5
 
