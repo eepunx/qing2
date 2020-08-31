@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.30/8-00:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.1/9-05:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",Update LIVETV Ver.14
@@ -207,15 +207,11 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 backup
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 BR
-http://interlatins.es:8691/hpqservicio180/servicio180mr/27341
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 
 http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 backup
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 BR
-http://interlatins.es:8691/hpqservicio180/servicio180mr/27342
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
 http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
@@ -243,9 +239,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042880.jpg" group-title="SPORTS", EGG NETWORK ESSport HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",MOTOGP Channel
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="SPORTS",NBA TV 
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
@@ -279,8 +272,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="SPORTS",UFC
 http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="SPORTS",UFC Fight Pass
-http://iptv.rent:8080/mqg62jlsbe/utvusfwa2d/677130
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Box
 
@@ -302,36 +293,13 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="SPORTS",Eurosport 1
-http://5.135.92.133:52841/out/u/509_1.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042868.png" group-title="SPORTS", DUBAI RACING UAE
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF: -1 tvg-logo="" group-title="SPORTS",ESPN
 http://interlatins.es:8691/hpqservicio180/servicio180mr/85778
 
-#EXTINF:-1 group-title="SPORTS",SkynetsportHD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Skynetsport1
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Skynetsport3
-https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Skynetsport4
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Skynetsport5
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",Skynetsport6
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS",PremierHD1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",PremierHD2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",PremierHD3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",PremierHD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS",PremierHD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",True Sport HD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS",True Sport HD2
@@ -356,8 +324,6 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport extra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 
-#EXTINF:0 tvg-logo="https://iili.io/JAgksj.png" group-title="BEIN SPORTS",BEIN SPORTS HABER
-http://94.46.195.170:9000/bein-sports-haber/live.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 asia
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -369,6 +335,9 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 2 
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28731?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 3
+http://stream-e30453a4b.nmbs.top/m3u/Sports/ba015d8bf1.m3u8?checkedby:iptvcat.com
 
 #####MOVIES####
 
@@ -513,21 +482,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",Fail Army 
 
-
-
-###moviesxxi##
-
-
-
-
-
 #####KIDS#####
-
-#EXTINF: -1 tvg-logo="" group-title="KIDS", Badanamu YT Channel
-
-
-#EXTINF: -1 tvg-logo="" group-title="KIDS", Cocomelon YT Channel
-
 
 #EXTINF: -1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS", Disney Channel EN
 http://103.47.132.165:80/PLTV/88888888/224/3221227183/1.m3u8
@@ -537,8 +492,8 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28790?play_token=PtI
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo SD
 http://103.47.132.165/PLTV/88888888/224/3221227539/1.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042900.jpg" group-title="KIDS", DISNEY JUNIOR ID FHD
-http://103.47.132.165/PLTV/88888888/224/3221227539/3.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042900.jpg" group-title="KIDS", DISNEY JUNIOR ID HD
+http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 
 #EXTINF:-1 tvg-ID="Disney XD" group-title="KIDS" tvg-logo="https://macan.live/img/disneyxd.png", Disney XD
 
@@ -553,9 +508,10 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28747?play_token=O5S
 
 #EXTINF: -1 tvg-logo="" group-title="KIDS", MKIDZ
 http://210.210.155.35:80/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",My Kids (load awal lama)
+https://www.useetv.com/livetv/mykids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="KIDS", PBS Kids
-
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040597.webp" group-title="KIDS", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -571,8 +527,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227353/2.m3u8
 #EXTINF:-1 tvg-ID="ZooMoo TV" group-title="KIDS" tvg-logo="https://macan.live/img/zoomoo.png", Zoomoo
 http://103.47.132.165/PLTV/88888888/224/3221227323/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",My Kids (load awal lama)
-https://www.useetv.com/livetv/mykids
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042892.png" group-title="KIDS", ANIMAX ID
 http://103.47.132.164/PLTV/88888888/224/3221227145/1.m3u8
 #http://45.126.83.51:80/dr9445/h/h144/01.m3u8
@@ -583,23 +537,20 @@ http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DreamWorks
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://x1.cdn.broiptv.online/img/horee.png" group-title="KIDS", Horee
-
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042898.png" group-title="KIDS", MIAO MI
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28755?play_token=eDB5maTZY9&token=QhVcUhcJRggXUQRXVAJTBgMDAgpZAwAGUAJXUwJRV1laAQwGBQNcCgNGGURBEkJRAFtpWgVEXlFdUwBUSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deV1VVChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="KIDS",Duck TV
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jqvqKPC/logo-for-print-med-5a7c20f9f13344239c117812.jpg" group-title="KIDS",Spacetoon ID
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6YzvbH/maxresdefault.jpg" group-title="KIDS", LARVA TV NIMOTV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6YzvbH/maxresdefault.jpg" group-title="KIDS", Tom & Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
 
 #EXTINF: -1 tvg-logo="" group-title="KIDS", DUNIA ANAK
 
@@ -655,10 +606,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY 2
 
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png",Waku Waku Japan
-http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28734?play_token=4dtAJcKDHo&token=QhVcUhcJRggXAARVB1MBB1cDAApYAlcBB1wDBwRSAQBfBFAFUgAHAwxGGURBEkJRAFtpWgVEXlFdUwZVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1dTARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 group-title="Knowledge" tvg-logo="",AFN
-http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",NHK World
@@ -799,8 +747,11 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLH9NTdd/naura4.png" group-title="Malaysia",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="Malaysia",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Astro_prima.png" group-title="Malaysia",Astro Prima
-http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/Wt-GtSPs2dc/maxresdefault.jpg" group-title="Malaysia",Astro Ria
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Astrowarna.png" group-title="Malaysia",Astro Warna
@@ -900,29 +851,33 @@ http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvc
 
 ###KOREA###
 
-
-#EXTINF:-1 group-title="KOREA" tvg-logo="", KOREA UTARA
+#EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png",Waku Waku Japan
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28734?play_token=4dtAJcKDHo&token=QhVcUhcJRggXAARVB1MBB1cDAApYAlcBB1wDBwRSAQBfBFAFUgAHAwxGGURBEkJRAFtpWgVEXlFdUwZVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1dTARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="Knowledge" tvg-logo="",AFN
+http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+#EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="", KOREA UTARA
 https://tv.nknews.org/tvhls/stream.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM 
+#EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM 
 http://103.47.132.165/PLTV/88888888/224/3221227187/2.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn.png", tvN
+#EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="https://macan.live/img/tvn.png", tvN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",KBS World
-https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-kbsworld_720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA",K+
-http://210.210.155.35:80/uq2663/h/h08/02.m3u8
-
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies.
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28738?play_token=wPuKwpk9wC&token=QhVcUhcJRggXAQNUAl8AUANSVQsCVFNSVwAFUwIEVVVaBANWXAABA1FGGURBEkJRAFtpWgVEXlFdUwZZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1ZXCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA",Sony ONE HD
+#EXTINF:-1 tvg-logo="" group-title="KOREA/JAPAN",KBS World
+https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-kbsworld_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA/JAPAN",K+
+http://210.210.155.35:80/uq2663/h/h08/02.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA/JAPAN",Sony ONE HD
 http://45.126.83.51:80/session/b41ceb24-ce64-11ea-a858-b3448a745abc/uq2663/h/h143/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="KOREA",K-Drama
+#EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="KOREA/JAPAN",K-Drama
 
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="KOREA",Arirang HD
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="KOREA/JAPAN",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
