@@ -5,7 +5,7 @@ http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.1/9-05:00",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="UPDATE.CHANNEL.13/9-05:00",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",Update LIVETV Ver.14
@@ -170,6 +170,7 @@ https://www.useetv.com/livetv/daaitv
 #EXTINF:0 tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" group-title="LOKAL",Elshinta
 
 
+
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/f/f7/Jtv.png" group-title="LOKAL",JTV (load awal lama)
 https://www.useetv.com/livetv/jtv
 
@@ -263,8 +264,8 @@ https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/xuNr5M3m2xoUkfEAxFf8oA/ls.jpg" group-title="SPORTS",TENNIS Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS", D Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",MBC Sports
+http://161.0.157.5:80/PLTV/88888888/224/3221227040/1599394539-1-159939454.hls.ts
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042834.png" group-title="SPORTS", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -453,7 +454,7 @@ http://45.126.83.51/qwr9ew/s/s34/index1.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040523.jpg" group-title="MOVIES", Warner TV 
 
 
-#EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28738?play_token=wPuKwpk9wC&token=QhVcUhcJRggXAQNUAl8AUANSVQsCVFNSVwAFUwIEVVVaBANWXAABA1FGGURBEkJRAFtpWgVEXlFdUwZZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1ZXCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://macan.live/img/gem.jpg", Sony GEM HD
@@ -495,6 +496,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227539/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 
 #EXTINF:-1 tvg-ID="Disney XD" group-title="KIDS" tvg-logo="https://macan.live/img/disneyxd.png", Disney XD
+http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10343?token=TRcKBRBcRAkVUgENXAdXVgZRBwEMV1ICClZUVwJSDQAHAFYAU1VUAQRBSRpKFxFXU1hvDVwUDgcDVVUFSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpVVQNXVxQRRlwGRlkWVQMCV1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg5UQR4QVl8RVkJGTxFcQ38gQRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGgpTUAoCF00=
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042916.png" group-title="KIDS", Cartoon Network EN
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28798?play_token=bQ31n524Bd&token=QhVcUhcJRggXBwNRAgADBwNSD1cDAAJRUAYFUV9bUQBaAQYAUAQAC1ZGGURBEkJRAFtpWgVEXlFdUwxZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUVZXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -511,6 +513,9 @@ http://210.210.155.35:80/uq2663/h/h98/index.m3u8
 https://www.useetv.com/livetv/mykids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="KIDS", PBS Kids
+
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/x2ZLVFOZiy4/maxresdefault.jpg" group-title="KIDS",Astro Ceria
+http://ts.lemmovie.com:80/12153MY_CERIA-20200912-1599891305.ts
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14040597.webp" group-title="KIDS", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -586,7 +591,7 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
 http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
-
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://pbs.twimg.com/profile_images/712196436495044608/XdMFfe5Q.jpg" group-title="Knowledge",Discovery Shed
 
@@ -755,8 +760,7 @@ http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Astrowarna.png" group-title="Malaysia",Astro Warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/x2ZLVFOZiy4/maxresdefault.jpg" group-title="Malaysia",Astro Ceria
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Astrocitrahd.png" group-title="Malaysia",Astro Citra
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/BJUJbE6sVPI/maxresdefault.jpg" group-title="Malaysia",Astro Oasis
@@ -862,7 +866,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227187/2.m3u8
 
 #EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="https://macan.live/img/tvn.png", tvN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies.
+#EXTINF:-1 group-title="KOREA/JAPAN" tvg-logo="https://macan.live/img/tvn_movies.png", tvN Movies.
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28738?play_token=wPuKwpk9wC&token=QhVcUhcJRggXAQNUAl8AUANSVQsCVFNSVwAFUwIEVVVaBANWXAABA1FGGURBEkJRAFtpWgVEXlFdUwZZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1ZXCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA/JAPAN",KBS World
@@ -870,6 +874,8 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-kbsworld_720/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA/JAPAN",K+
 http://210.210.155.35:80/uq2663/h/h08/02.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA/JAPAN",Sony ONE HD
 http://45.126.83.51:80/session/b41ceb24-ce64-11ea-a858-b3448a745abc/uq2663/h/h143/02.m3u8
