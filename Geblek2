@@ -203,7 +203,6 @@ https://www.useetv.com/livetv/idx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",MOLA CHANNEL FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8?app_type=web&userid=0n128n6xf4&tkn=I8PLN5GATXUOR45HOTKC5KGF8QS3UWA1&chname=Mola_Sports_Free_Trial-
 
-###fox###
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 
 http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 backup
