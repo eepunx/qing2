@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="selalu.KLIK.⟳(LINGKARAN).tiap.mulai.utk.dptk.update.channel",Lihat Cara Refreshnya
 http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 
@@ -405,7 +406,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227117/1.m3u8
 #https://bit.ly/qingfmovies
 http://103.47.132.164/PLTV/88888888/224/3221227119/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/756717990
-
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png" group-title="MOVIES", FOX Crime 
 http://103.47.132.164/PLTV/88888888/224/3221227165/1.m3u8
@@ -850,7 +850,6 @@ http://220.158.149.28:8180/live/TV00000000000000000077@HHZT?checkedby:iptvcat.co
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TW" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="TAIWAN/HK/CHINA",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
-
 
 ###KOREA###
 
