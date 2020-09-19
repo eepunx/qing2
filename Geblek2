@@ -97,7 +97,7 @@ http://45.126.83.51:80/session/2fc5615a-f9fa-11ea-abf7-90d69dc550f2/x6bnqe/s/s25
 https://m.vidio.com/live/733-trans-tv
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 
-http://210.210.155.35:80/session/5b7840ba-f9fa-11ea-851a-8ad08b0e2034/qwr9ew/s/s101/index.m3u8 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w487606771_b744100_sleng.m3u8 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 (load awal lama)
 https://m.vidio.com/live/734-trans7
