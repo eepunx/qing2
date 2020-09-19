@@ -91,7 +91,7 @@ http://45.126.83.51:80/session/c2b7693c-f9f9-11ea-b669-901ea87edf2d/qwr9ew/s/s07
 http://210.210.155.35:80/session/f32008ea-f9f9-11ea-98c0-b3d1ab08621e/qwr9ew/s/s105/index.m3u8 
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV 
-http://45.126.83.51:80/session/2fc5615a-f9fa-11ea-abf7-90d69dc550f2/x6bnqe/s/s252/index.m3u8 
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1361190654_b744100_sleng.m3u8 
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV (load awal lama)
 https://m.vidio.com/live/733-trans-tv
