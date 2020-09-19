@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="selalu.KLIK.⟳(LINGKARAN).tiap.mulai.utk.dptk.update.channel",Lihat Cara Refreshnya
 http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 
@@ -69,45 +68,36 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4
 https://m.vidio.com/live/665-rcti
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-gFkMmSgxrPA/W492KRb8rBI/AAAAAAAABpE/gFW4KSdQkaU5Y3n8H0FCc0MpOzOFRTPHQCLcBGAs/h120/indosiar.png" group-title="LOKAL",INDOSIAR 
-https://mkctv.net/video/indosiar.m3u8
+http://210.210.155.35:80/session/a73b7dca-f9f8-11ea-a22a-8c68a30f71ae/qwr9ew/s/s04/index.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-gFkMmSgxrPA/W492KRb8rBI/AAAAAAAABpE/gFW4KSdQkaU5Y3n8H0FCc0MpOzOFRTPHQCLcBGAs/h120/indosiar.png" group-title="LOKAL",INDOSIAR (load awal lama)
 https://m.vidio.com/live/205-indosiar?gclid=EAIaIQobChMI5tHZjYCs6gIVjjgrCh1d2wTIEAAYASAAEgJW3vD_BwE
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-SrcPMuGvAXQ/W491rgUV-7I/AAAAAAAABoo/Q1zMB4js_lg6B3WZhALefirb9ApHQrBagCLcBGAs/h120/sctv.png" group-title="LOKAL",SCTV
-http://103.47.132.164/PLTV/88888888/224/3221227227/1.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-SrcPMuGvAXQ/W491rgUV-7I/AAAAAAAABoo/Q1zMB4js_lg6B3WZhALefirb9ApHQrBagCLcBGAs/h120/sctv.png" group-title="LOKAL",SCTV FHD
-http://103.47.132.164/PLTV/88888888/224/3221227227/3.m3u8
+http://45.126.83.51:80/session/2aaf4b0a-f9f9-11ea-976b-bf17a64481eb/qwr9ew/s/s03/index.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-SrcPMuGvAXQ/W491rgUV-7I/AAAAAAAABoo/Q1zMB4js_lg6B3WZhALefirb9ApHQrBagCLcBGAs/h120/sctv.png" group-title="LOKAL",SCTV (load awal lama)
 https://m.vidio.com/live/204-sctv
 
 #EXTINF:-1  tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV
-http://103.47.132.164/PLTV/88888888/224/3221227101/1.m3u8
-#EXTINF:-1  tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV FHD
-http://103.47.132.164/PLTV/88888888/224/3221227101/3.m3u8
+http://45.126.83.51:80/session/714003f2-f9f9-11ea-9a38-b779ae507d0d/qwr9ew/s/s08/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",NET TV (load awal lama)
 https://www.useetv.com/livetv/net
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-jGwVxUtqudk/W492AzGBIjI/AAAAAAAABo0/JOuWdG604u0h7O_1wrsIKFTeMzYpuPe4wCLcBGAs/h120/antv.png" group-title="LOKAL",ANTV
-http://45.126.83.51/session/3b544424-8cad-11ea-a602-b2e0b736ce20/qwr9ew/s/s07/01.m3u8
+http://45.126.83.51:80/session/c2b7693c-f9f9-11ea-b669-901ea87edf2d/qwr9ew/s/s07/index.m3u8 
 
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-jGwVxUtqudk/W492AzGBIjI/AAAAAAAABo0/JOuWdG604u0h7O_1wrsIKFTeMzYpuPe4wCLcBGAs/h120/antv.png" group-title="LOKAL",ANTV
-http://103.47.132.164/PLTV/88888888/224/3221227215/1.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-jGwVxUtqudk/W492AzGBIjI/AAAAAAAABo0/JOuWdG604u0h7O_1wrsIKFTeMzYpuPe4wCLcBGAs/h120/antv.png" group-title="LOKAL",ANTV FHD
-http://103.47.132.164/PLTV/88888888/224/3221227215/3.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-QkqGHicv8mM/W492FAqm6XI/AAAAAAAABo8/iyYsYikOsYc281fi-y_BxkaPqGpNa1u1QCLcBGAs/h120/tvone.png" group-title="LOKAL",TVONE 
-http://103.47.132.164/PLTV/88888888/224/3221227213/3.m3u8
+http://210.210.155.35:80/session/f32008ea-f9f9-11ea-98c0-b3d1ab08621e/qwr9ew/s/s105/index.m3u8 
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV 
-http://103.47.132.164/PLTV/88888888/224/3221227197/1.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV FHD
-http://103.47.132.164/PLTV/88888888/224/3221227197/3.m3u8
+http://45.126.83.51:80/session/2fc5615a-f9fa-11ea-abf7-90d69dc550f2/x6bnqe/s/s252/index.m3u8 
+
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV (load awal lama)
 https://m.vidio.com/live/733-trans-tv
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 
-http://103.47.132.164/PLTV/88888888/224/3221227195/1.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 FHD
-http://103.47.132.164/PLTV/88888888/224/3221227195/3.m3u8
+http://210.210.155.35:80/session/5b7840ba-f9fa-11ea-851a-8ad08b0e2034/qwr9ew/s/s101/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hnub-5bCq3Y/W492CuYzbPI/AAAAAAAABo4/tIOB-LyMOEEE77pf2tehKMxNent0Bq8pwCLcBGAs/h120/trans7.png" group-title="LOKAL", TRANS 7 (load awal lama)
 https://m.vidio.com/live/734-trans7
 
@@ -203,19 +193,14 @@ https://www.useetv.com/livetv/idx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",MOLA CHANNEL FREE
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/05.m3u8?app_type=web&userid=0n128n6xf4&tkn=I8PLN5GATXUOR45HOTKC5KGF8QS3UWA1&chname=Mola_Sports_Free_Trial-
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 
-http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 backup
+###fox###
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 
-http://103.47.132.164/PLTV/88888888/224/3221227175/1.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 backup
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
-http://103.47.132.164/PLTV/88888888/224/3221227219/1.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 backup
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="SPORTS",USee Sport HD 1
@@ -387,7 +372,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://103.47.132.165:80/PLTV/88888888/224/3221227147/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png" group-title="MOVIES", FOX 
-http://103.47.132.164/PLTV/88888888/224/3221227137/1.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28777?play_token=JgsGKpQQu2&token=QhVcUhcJRggXVFFSAVUCAAUHUAUCUAFUVQICBFUAV1cIAFdWXVlQUVNGGURBEkJRAFtpWgVEXlFdUwJWSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlRUChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="MOVIES",FOX Action Movies 
@@ -405,6 +390,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227117/1.m3u8
 #https://bit.ly/qingfmovies
 http://103.47.132.164/PLTV/88888888/224/3221227119/1.m3u8
 #http://203.153.218.28:9981/stream/channelid/756717990
+
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png" group-title="MOVIES", FOX Crime 
 http://103.47.132.164/PLTV/88888888/224/3221227165/1.m3u8
@@ -849,6 +835,7 @@ http://220.158.149.28:8180/live/TV00000000000000000077@HHZT?checkedby:iptvcat.co
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TW" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="TAIWAN/HK/CHINA",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE?checkedby:iptvcat.com
+
 
 ###KOREA###
 
