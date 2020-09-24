@@ -1,12 +1,11 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="selalu.KLIK.⟳(LINGKARAN).tiap.mulai.utk.dptk.update.channel",Lihat Cara Refreshnya
 http://qingtv.blogspot.com/2020/02/update-tiviapp-live.html
 
 #EXTINF:-1 group-title="KLIK.OK.REMOTE/ENTER.KEYBOARD.utk.FULLSCREEN",Tutor iflix yg minta update
 https://qingtv.blogspot.com/2020/03/waktunya-update-iflix-dan-jadi-vip.html
 
-#EXTINF:-1 tvg-logo="" group-title="Channel.tiviapp.sdg.perbaikan.pkai.LIVETV/BONE",Qing Store
+#EXTINF:-1 tvg-logo="" group-title="Proses.perbaikan.channel",Qing Store
 https://www.dropbox.com/s/h4y5s5z11ij1yde/YouCut_20200328_152747002.mp4?dl=4
  
 #EXTINF:-1 group-title="******PENGUMUMAN*****",Update LIVETV Ver.14
@@ -335,7 +334,7 @@ https://youtu.be/VJlDIm85O3Y
 #http://210.210.155.35:80/uq2663/h/h07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://macan.live/img/axn.png" group-title="MOVIES",AXN
-http://103.47.132.165:80/PLTV/88888888/224/3221227159/1.m3u8
+http://210.210.155.35:80/session/a44a87fa-fa11-11ea-b6ee-95c59106f4d3/uq2663/h/h141/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042767.png" group-title="MOVIES",CHANNEL REBUILD BANYAK YG KEBLOKIR
 
@@ -376,8 +375,8 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227147/1.m3u8
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28777?play_token=JgsGKpQQu2&token=QhVcUhcJRggXVFFSAVUCAAUHUAUCUAFUVQICBFUAV1cIAFdWXVlQUVNGGURBEkJRAFtpWgVEXlFdUwJWSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlRUChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="MOVIES",FOX Action Movies 
-http://103.47.132.164/PLTV/88888888/224/3221227121/1.m3u8
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="MOVIES",FOX Action Movies 
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28775?play_token=SbExwAMU7W&token=QhVcUhcJRggXVwFUU1RRUQQEUgMEUFABBF0MBV8BWwcMAlUDVlQCAgZGGURBEkJRAFtpWgVEXlFdUwJUSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVQDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #http://203.153.218.28:9981/stream/channelid/1744735983
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png"" group-title="MOVIES", FOX Family Movies 
@@ -389,12 +388,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227117/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14042775.png" group-title="MOVIES", FOX MOVIES PREMIUM 
 #https://bit.ly/qingfmovies
-http://103.47.132.164/PLTV/88888888/224/3221227119/1.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28774?play_token=Zklq8Gr8lr&token=QhVcUhcJRggXXAJSClMEAQUOUFFVVFVXVwJUVQVUWwBfAwQGUlBVVlNGGURBEkJRAFtpWgVEXlFdUwJVSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVlVXCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #http://203.153.218.28:9981/stream/channelid/756717990
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040522.png" group-title="MOVIES", FOX Crime 
-http://103.47.132.164/PLTV/88888888/224/3221227165/1.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28779?play_token=4a9PVeZXno&token=QhVcUhcJRggXVg1RU1JWA1QAAlIEX1JTB1AEVwIAWwAMVAdWXANQAwFGGURBEkJRAFtpWgVEXlFdUwJYSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVldUDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF: -1 tvg-logo="https://macan.live/img/fox_life.png" group-title="MOVIES", FOX Life
 http://103.47.132.164/PLTV/88888888/224/3221227277/1.m3u8
@@ -424,11 +423,11 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040515.png" group-title="MOVIES", FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28782?play_token=uLkMwSGXZA&token=QhVcUhcJRggXXVBQA1ZUBgUEUAJRUlBQV1YNA1VWBFFYA1VVAVhWAQJGGURBEkJRAFtpWgVEXlFdUw1TSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deVltUDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF: -1 tvg-logo="" group-title="MOVIES",CINEMA WORLD 
+http://210.210.155.35:80/session/dc1af548-fa11-11ea-ad0b-96de8e9dc708/uq2663/h/h04/index.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="MOVIES",CINEMA WORLD 
 
 
 #EXTINF: -1 tvg-logo="" group-title="MOVIES",GALAXY
@@ -447,10 +446,10 @@ http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28738?play_token=wPu
 http://103.47.132.165/PLTV/88888888/224/3221227187/2.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040525.png" group-title="MOVIES", HITS
-http://103.47.132.165:80/PLTV/88888888/224/3221227329/1.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040525.png" group-title="MOVIES", HITS Movies
-http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28765?play_token=NSIytlrqNF&token=QhVcUhcJRggXBwBWAlcAAlNVVFJTVV1UBFcBAABQVlcKVldQVgdRCwFGGURBEkJRAFtpWgVEXlFdUwNUSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deV1FTDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF: -1 tvg-logo="https://images.all-free-download.com/images/graphicthumb/online_tv_streaming_logo_6829495.jpg" group-title="MOVIES", MAX PRIME
 
@@ -861,10 +860,13 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-kbsworld_720/playlist.m3
 #EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA/JAPAN",K+
 http://210.210.155.35:80/uq2663/h/h08/02.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="KOREA/JAPAN",Sony ONE HD
 http://45.126.83.51:80/session/b41ceb24-ce64-11ea-a858-b3448a745abc/uq2663/h/h143/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="KOREA/JAPAN",K-Drama
+http://210.210.155.35:80/session/f8372256-fa11-11ea-b52e-993ba782e5b5/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="KOREA/JAPAN",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
