@@ -197,6 +197,7 @@ http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=9ca5d4a6246ad7c88e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="SPORTS",Fox Sport 3 (CODAY) 
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c372de9c52ad3489a20563ceca0ffb48fad6f4e614a212e80c67249a666d2b09
 
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
