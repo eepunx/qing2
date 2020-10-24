@@ -188,24 +188,23 @@ https://www.useetv.com/livetv/idx
 ###Sports##
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",MOLA CHANNEL FREE
-https://cdn-mxs-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=5EY8VJOHII4WH365ZMLCRR1FVDYUD4F3&chname=Mola_Sports_Free_Trial-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",True Premier HD1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
 ###fox###
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="SPORTS",Fox Sport 1 (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4938af744b253b57bcf6f33d3dbf2f38fad6f4e614a212e80c67249a666d2b09 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="SPORTS",Fox Sport 2 (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=9ca5d4a6246ad7c88e8663da026f1cbdfad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="SPORTS",Fox Sport 3 (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c372de9c52ad3489a20563ceca0ffb48fad6f4e614a212e80c67249a666d2b09
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX SPORTS 1 backup
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2 backup
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX SPORTS 2
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX SPORTS 3 
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="SPORTS",USee Sport HD 1
 
@@ -233,7 +232,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="SPORTS",NBA TV 
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="content://media/external/images/media/462626" group-title="SPORTS",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -244,19 +243,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14040580.png" group-title="SPORTS", Fight Sports
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sport 1" tvg-logo="https://sport-tv-guide.live/images/tv-station-premier-sports-95.png" group-title="SPORTS",Premier Sport 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sport 2" tvg-logo="https://sport-tv-guide.live/images/tv-station-premier-sports-2-1442.png" group-title="SPORTS",Premier Sport 2
-
-
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7jSkJbsnjExIfpvj6UIFhHvSwvAHUNUZmasoQ8T_a86ZedDEu" group-title="SPORTS", Olympic Channel
 #http://ott-live.olympicchannel.com:80/out/u/OC1_3.m3u8
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", True Tennis HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",MBC Sports
 
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042834.png" group-title="SPORTS", RED BULL TV
@@ -265,13 +256,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="SPORTS",UFC
 http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:iptvcat.com
 
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", UFC 1
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+ 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Box
 
 
@@ -281,7 +271,7 @@ http://185.238.0.145:1313/c/livedo/wwe.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042821.png" group-title="SPORTS",GOLF Channel
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", Golf Channel HD
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042821.png" group-title="SPORTS", ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby:iptvcat.com
@@ -342,19 +332,10 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://185.238.0.145:1313/c/alt/beinxtra-lq.m3u8
 
 
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="BEIN SPORTS",BeIN Sport 1 esp
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/126.ts
-
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 2 asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 2 esp
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/127.ts
-
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="BEIN SPORTS",BeIN Sport 3
-http://portal.alliptv.tv:8080/live/2164190962/1174590290/128.ts
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="BEIN SPORTS",beIN Sport 1 (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=efd691fcfb139570442e93d2d3af3ce6fad6f4e614a212e80c67249a666d2b09 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="BEIN SPORTS",beIN Sport 2 (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=8492a79c13ef3e4c30f1872d75fd8e81fad6f4e614a212e80c67249a666d2b09
 
 #####MOVIES####
 
@@ -401,7 +382,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/Lifetime_tv_logo.png" group-title="MOVIES",Lifetime
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="MOVIES",Star Movies
-http://103.47.132.165:80/PLTV/88888888/224/3221227147/1.m3u8
+http://62.210.124.97:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/33249?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040516.png" group-title="MOVIES", FOX 
 http://62.210.127.217:8080/E5pJjkb6m6/4Dd27cwfdq/28672?token=QhVcUhcJRggXBgNXB1RWDAUDD1FWVQJRBAIABAcHUQcPDwUHB1NQAABGGURBEkJRAFtpWgVEXlFdUgJTSkAXElxFa1oAQ14QAVUFUQdWEhhDQl9eBEReUlNUB1VXW1RUDRsWQw0FRggXVQRTBUQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeAgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwpSAQFDSw==
@@ -569,48 +550,54 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 ###knowledge##
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Knowledge",HGTV
-http://103.47.132.164/PLTV/88888888/224/3221227035/1.m3u8
 
-#EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic
-http://103.76.148.202:25461/isp/isp12345/74
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Nat Geo People 
+ #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Nat Geo Wild  
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Discovery Channel 
+ #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?id=8" group-title="KNOWLEDGE (USEETV)",[CODAY] Crime Investigation 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Knowledge",HGTV
+
+
+#EXTINF:-1 tvg-id="NatGeo.id" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f91c676cbee8fc9aa708334fcf26d981fad6f4e614a212e80c67249a666d2b09
  
-#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="National Geographic People" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif" group-title="Knowledge",Nat Geo People
-http://103.47.132.165:80/PLTV/88888888/224/3221227127/1.m3u8
+#EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="National Geographic People" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif" group-title="Knowledge",Nat Geo People (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d41f2ddc7d689c014ccbe5a65d05578afad6f4e614a212e80c67249a666d2b09
  
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild Backup" tvg-logo="" group-title="Knowledge",Nat Geo Wild
-http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild Backup" tvg-logo="" group-title="Knowledge",Nat Geo Wild (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=757a717ee2ade661c665276734c83b16fad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",ANIMAL PLANET
-http://103.76.148.202:25461/isp/isp12345/24
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY CHANNEL
-http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY CHANNEL (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4efad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",DISCOVERY ASIA
-http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Knowledge",Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
+
 
 #EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed" tvg-logo="https://pbs.twimg.com/profile_images/712196436495044608/XdMFfe5Q.jpg" group-title="Knowledge",Discovery Shed
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Shed" tvg-logo="" group-title="Knowledge",BBC Lifestyle
-http://103.47.132.165/PLTV/88888888/224/3221227115/1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Shed" tvg-logo="" group-title="Knowledge",Love Nature
-http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
-
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/crime-investigation/logo/large.jpg" group-title="Knowledge",Crime Investigation
 
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY
-http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/crime-investigation/logo/large.jpg" group-title="Knowledge",Crime Investigation (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=11212100ad02e3b620718062ab1a287ffad6f4e614a212e80c67249a666d2b09
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY (CODAY) 
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=3cd15f8f2940aff879df34df4e5c2cd1fad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",HISTORY 2
-
-
-
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",NHK World
@@ -637,9 +624,6 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="Musik",MTV Live
 
@@ -792,7 +776,7 @@ http://163.172.56.85:8080/test-fa8a31/c23f/59297?token=ShUNAEFcElxEDQICCQkABwMDU
 ###TaiwanHK##
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="TAIWAN/HK/CHINA",Star Movies.
-http://103.47.132.165:80/PLTV/88888888/224/3221227147/2.m3u8
+http://62.210.124.97:8080/0B8gcaCVWSKWF7T1/Zmuqs1uhau6bA6rV/33249?token=QhVcUhcJRggXVFZRBQIIAFkHUAoCVQJUAFxRUARXBFkLU1dXVwVVBwRGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlIEVQNWEhhDQl9eBEReUlNUB1RXW1RUDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="TAIWAN/HK/CHINA", Chinese Drama. (load awal lama)
 https://www.useetv.com/livetv/chinesedrama
