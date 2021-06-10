@@ -52,77 +52,46 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 ===============
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="HBO Qing", HBO
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="FOX & HBO backup", HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #https://gratismkctv.net/film/hbo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO Qing",Red By HBO
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="FOX & HBO backup",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="HBO Qing",HBO Hits SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="FOX & HBO backup",HBO Hits SD
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="HBO Qing",HBO Signature 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="FOX & HBO backup",HBO Signature 
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="HBO Qing",HBO Family
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="FOX & HBO backup",HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040527.png" group-title="HBO Qing", Cinemax
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040527.png" group-title="FOX & HBO backup", Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
-#EXTINF: -1 tvg-logo="" group-title="FOX Qing", FOX HD
+#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="FOX Qing", FOX Life
+#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="FOX Qing", FOX Movies
+#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="FOX Qing", FOX Family
+#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Family
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 ==========SPROT===========
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Qingsports", BEIN 1
-http://2.alhawalouh.xyz/live/918454578/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Qingsports", BEIN 2
-http://1.alhawalouh.xyz/live/69854211/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports1.png" group-title="Qingsports", Fox Sport 1 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports1.png" group-title="Qingsports", Fox Sport 1 backup
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports2.png" group-title="Qingsports", Fox Sport 2 (MotoGP) 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports2.png" group-title="Qingsports", Fox Sport 2 backup 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports3.png" group-title="Qingsports", Fox Sport 3
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports3.png" group-title="Qingsports", Fox Sport 3 backup
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="Qingsports", Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="Qingsports", Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYQ8LPp/1.png" group-title="Qingsports",Football 1
-https://95-213-224-179.livesports24.online/uafootballua1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XJNd01q/2.png" group-title="Qingsports",Football 2
-https://95-213-224-179.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1 tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" group-title="Qingsports",BT Sport 1
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" group-title="Qingsports",BT Sport 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Qingsports",Setanta Sports 1 
-http://ott-cdn.ucom.am/s81/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Qingsports",Setanta Sports 2 
-http://92.43.140.200/s82/04.m3u8
-
 
 =====================
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="Singapore",Channel 5
@@ -162,9 +131,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malaysia", OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Qingsports", RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
@@ -189,12 +155,10 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",NBA
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Qingsports",GOLF
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",GOLF 1
+http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",GOLF 2
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Qingsports",Sky F1
-
-#EXTINF:-1 tvg-logo="" group-title="Qingsports",Sky Mix
-
 
 ========
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",AFV
@@ -224,9 +188,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8ca
 
 =========KiDS=======
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Animax
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
@@ -245,20 +206,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d0
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby TV
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel 
-http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8?source:iptvmate.net
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Jr
-
-#EXTINF:-1 tvg-logo="" group-title="Kids",Disney XD
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="" group-title="Kids",DORA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="" group-title="Kids",Tottaly Turtles
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=983&deviceId=5d0c16d686454ead733d08f8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon mix
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="" group-title="Kids",Little Baby Bun
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
