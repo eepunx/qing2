@@ -167,10 +167,15 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",DMAX
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Channel 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",HGTV
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",National geo people
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",National geograpic
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",National geo wild
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",National geo 
+https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 #https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TLC
 #https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
