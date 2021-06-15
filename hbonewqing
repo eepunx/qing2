@@ -372,52 +372,52 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png", Discovery Channel
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/bbc-earth.png", BBC EARTH
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/bbc-earth.png", BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/crime-investigation.png", Crime Investigation
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/crime-investigation.png", Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animal-planet.png", Animal Planet
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animal-planet.png", Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-people.png", Nat Geo People
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-people.png", Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", Nat Geo Wild
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/national-geographic.png", National Geographic
+#EXTINF:-1 group-title="Knowlegde" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/national-geographic.png", National Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo = "https://www.dropbox.com/s/rk3bp0dhbnfv76u/history.png?dl=1", History
+#EXTINF:-1 group-title="Knowlegde" tvg-logo = "https://www.dropbox.com/s/rk3bp0dhbnfv76u/history.png?dl=1", History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo = "https://www.dropbox.com/s/g6ghdrlqbhh7mev/CGTN_Documentary.png?dl=1", CGTN Documentary	
+#EXTINF:-1 group-title="Knowlegde" tvg-logo = "https://www.dropbox.com/s/g6ghdrlqbhh7mev/CGTN_Documentary.png?dl=1", CGTN Documentary	
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KNOWLEDGES backup" tvg-logo = "https://www.dropbox.com/s/s6x0dml891k3r7f/besmart.png?dl=1", Be Smart
+#EXTINF:-1 group-title="Knowlegde" tvg-logo = "https://www.dropbox.com/s/s6x0dml891k3r7f/besmart.png?dl=1", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 ///// NEWS /////
