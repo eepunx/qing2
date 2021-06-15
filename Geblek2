@@ -122,19 +122,20 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 
 ====MALAY====
-#EXTINF:-1 tvg-logo="" group-title="Malaysia", RTM 1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Malaysia", RTM 2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Malaysia", OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
-
-
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Tv1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Tv2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Tv3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Ntv7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Tv8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Malaysia",Tv9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 ==========================
 
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",UFC 1
