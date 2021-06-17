@@ -224,12 +224,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b739567100078
 
 ===China===
 
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Chinese Drama
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",CCTV 1
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",CCTV 2
 http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",CCTV 3
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227295/index.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",CCTV 4
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",CCTV 6
@@ -252,5 +255,3 @@ http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Chinese Drama
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
