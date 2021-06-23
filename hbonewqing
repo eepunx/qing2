@@ -340,7 +340,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="MOVIES2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png", AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
 ///// SPORTS /////
 
