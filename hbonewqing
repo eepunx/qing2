@@ -632,3 +632,113 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.dropbox.com/s/ojr16he7gir5m4o/mediacorp-channel-8-logopedia-fandom-mediacorp-channel-8-png-220_220.png?dl=1" group-title="Singapore",Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+//// RADIO ///
+
+#EXTINF:0 group-title="Radio Indo" ,Andika FM
+#EXTVLCOPT:network-caching=1000 
+http://stream2.andikafm.com:1057/andikafm
+#EXTINF:0 group-title="Radio Indo",Ardan Radio
+#EXTVLCOPT:network-caching=1000
+http://listento.ardanradio.com:1059/;
+#EXTINF:0 group-title="Radio Indo",Attaqwa FM
+#EXTVLCOPT:network-caching=1000
+http://103.28.148.18:8840/;
+#EXTINF:0 group-title="Radio Indo",Cosmopolitan
+#EXTVLCOPT:network-caching=1000
+http://cloudstreaming.mramedia.com:8002/live
+#EXTINF:0 group-title="Radio Indo",FBI FM Bali
+#EXTVLCOPT:network-caching=1000
+http://server.fbifm.com:9180/fbibaliradio
+#EXTINF:0 group-title="Radio Indo",Geronimo Jogja
+#EXTVLCOPT:network-caching=1000
+http://live2.indostreamserver.com:8018/;
+#EXTINF:0 group-title="Radio Indo",Global Radio
+#EXTVLCOPT:network-caching=1000
+http://202.147.199.98/;stream.nsv
+#EXTINF:0 group-title="Radio Indo",iRadio Bandung
+#EXTVLCOPT:network-caching=1000
+http://cloudstreaming.mramedia.com:8005/live
+#EXTINF:0 group-title="Radio Indo",Jak Radio
+#EXTVLCOPT:network-caching=1000
+http://streaming1.sim-indonesia.com:8000/jak
+#EXTINF:0 group-title="Radio Indo",Kalimaya Bhaskara Malang
+#EXTVLCOPT:network-caching=1000
+http://stream.suararadio.com:8000/Malang_KalimayaBhaskara_mono
+#EXTINF:0 group-title="Radio Indo",Kompas Sonora FM
+#EXTVLCOPT:network-caching=1000
+http://103.226.246.245/kompas-sonorajakarta
+#EXTINF:0 group-title="Radio Indo",Malangkucecwara FM
+#EXTVLCOPT:network-caching=1000
+http://202.164.218.22:8222/
+#EXTINF:0 group-title="Radio Indo",Matrix FM Ponorogo
+#EXTVLCOPT:network-caching=1000
+http://live.radiomatrixfm.com:8000/;
+#EXTINF:0 group-title="Radio Indo",MQFM Bandung
+#EXTVLCOPT:network-caching=1000
+http://radio.useetv.com/mqfm-aac
+#EXTINF:0 group-title="Radio Indo",Oz Radio Bandung
+#EXTVLCOPT:network-caching=1000
+http://45.64.97.211:1031/;stream.nsv
+#EXTINF:0 group-title="Radio Indo",Pikiran Rakyat
+#EXTVLCOPT:network-caching=1000
+http://prfm.pikiran-rakyat.com:8000/
+#EXTINF:0 group-title="Radio Indo",Prambors FM
+#EXTVLCOPT:network-caching=1000
+http://masima.rastream.com/masima-pramborsjakarta?
+#EXTINF:0 group-title="Radio Indo",RadioMuslim
+#EXTVLCOPT:network-caching=1000
+http://live.radiomuslim.com/;stream/1/;
+#EXTINF:0 group-title="Radio Indo",RadioQu Cirebon
+#EXTVLCOPT:network-caching=1000
+http://live.radioquonline.com:8199/;
+#EXTINF:0 group-title="Radio Indo",Rama FM Bandung
+#EXTVLCOPT:network-caching=1000
+http://rama-fm.simaya.net.id:8800/;
+#EXTINF:0 group-title="Radio Indo",Rodja Bandung
+#EXTVLCOPT:network-caching=1000
+http://live.radiorodjabandung.com/;stream.nsv
+#EXTINF:0 group-title="Radio Indo",RRI Pro 1 Bandung
+#EXTVLCOPT:network-caching=1000
+http://pvstreaming.rri.co.id:9015/web-rribandungpro1.mp3
+#EXTINF:0 group-title="Radio Indo",RRI Pro 1 Jakarta
+#EXTVLCOPT:network-caching=1000
+http://pvstreaming.rri.co.id:9025/rrijakartapro1.mp3
+#EXTINF:0 group-title="Radio Indo",RRI Pro 1 Samarinda
+#EXTVLCOPT:network-caching=1000
+http://streaming.rri.co.id:9116/rrisamarindapro1.mp3
+#EXTINF:0 group-title="Radio Indo",RRI Pro 2 Bandung
+#EXTVLCOPT:network-caching=1000
+http://pvstreaming.rri.co.id:9015/web-rribandungpro2.mp3
+#EXTINF:0 group-title="Radio Indo",RRI Pro 2 Jakarta
+#EXTVLCOPT:network-caching=1000
+http://pvstreaming.rri.co.id:9025/rrijakartapro2.mp3
+#EXTINF:0 group-title="Radio Indo",RRI Pro 3 Jakarta
+#EXTVLCOPT:network-caching=1000
+http://pvstreaming.rri.co.id:9014/kbrn.mp3
+#EXTINF:0 group-title="Radio Indo",RRI Pro 4 Jakarta
+#EXTVLCOPT:network-caching=1000
+http://pvstreaming.rri.co.id:9025/rrijakartapro4.mp3
+#EXTINF:0 group-title="Radio Indo",Sindo Trijaya FM
+#EXTVLCOPT:network-caching=1000
+http://202.147.199.101:8000/;stream.nsv
+#EXTINF:0 group-title="Radio Indo",Smart FM Balikpapan
+#EXTVLCOPT:network-caching=1000
+http://101.50.0.77:8000/balikpapan.aac
+#EXTINF:0 group-title="Radio Indo",Suara Mahakam Samarinda
+#EXTVLCOPT:network-caching=1000
+http://u.klikhost.com:8000/suara_mahakam
+#EXTINF:0 group-title="Radio Indo",Suara Muslim Surabaya
+#EXTVLCOPT:network-caching=1000
+http://radio.useetv.com:8024/;
+#EXTINF:0 group-title="Radio Indo",Suara Quran
+#EXTVLCOPT:network-caching=1000
+http://suaraquran.com:8030/;audio.mp3
+#EXTINF:0 group-title="Radio Indo",Urban Radio
+#EXTVLCOPT:network-caching=1000
+http://radio.melsa.net.id:8050/urban
+#EXTINF:0 group-title="Radio Indo",Zora Radio
+#EXTVLCOPT:network-caching=1000
+http://stream.arenastreaming.com:8018/zora
+
+
