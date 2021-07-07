@@ -93,11 +93,11 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 ==========SPROT===========
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports1.png" group-title="Qingsports", Fox Sport 1 backup
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8 
+#https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports2.png" group-title="Qingsports", Fox Sport 2 backup 
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8 
+#https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports3.png" group-title="Qingsports", Fox Sport 3 backup
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="Qingsports"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sp 1 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
