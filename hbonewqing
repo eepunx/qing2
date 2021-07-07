@@ -374,6 +374,10 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png", AXN backup
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="MOVIES 2", AXN backup2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+
 ///// SPORTS /////
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="",Nascar/Rally
