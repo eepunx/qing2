@@ -625,6 +625,11 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 
 ///// MUSIK /////
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Music", (DP) Prambors _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+#EXTINF:-1 group-title="Music",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Music" tvg-logo = "https://www.dropbox.com/s/3h3el0l9dg9pq8z/Music_Channel_%282016-.n.v.%29.png?dl=1", MUSIC TV
@@ -720,21 +725,6 @@ http://pvstreaming.rri.co.id:9015/web-rribandungpro1.mp3
 #EXTINF:0 group-title="Radio Indo",RRI Pro 1 Jakarta
 #EXTVLCOPT:network-caching=1000
 http://pvstreaming.rri.co.id:9025/rrijakartapro1.mp3
-#EXTINF:0 group-title="Radio Indo",RRI Pro 1 Samarinda
-#EXTVLCOPT:network-caching=1000
-http://streaming.rri.co.id:9116/rrisamarindapro1.mp3
-#EXTINF:0 group-title="Radio Indo",RRI Pro 2 Bandung
-#EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9015/web-rribandungpro2.mp3
-#EXTINF:0 group-title="Radio Indo",RRI Pro 2 Jakarta
-#EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9025/rrijakartapro2.mp3
-#EXTINF:0 group-title="Radio Indo",RRI Pro 3 Jakarta
-#EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9014/kbrn.mp3
-#EXTINF:0 group-title="Radio Indo",RRI Pro 4 Jakarta
-#EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9025/rrijakartapro4.mp3
 #EXTINF:0 group-title="Radio Indo",Sindo Trijaya FM
 #EXTVLCOPT:network-caching=1000
 http://202.147.199.101:8000/;stream.nsv
