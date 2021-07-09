@@ -155,8 +155,11 @@ http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 ==========================
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="Qingsports", UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",UFC 1
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",UFC 2
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -164,9 +167,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",MMA
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",ESPN
-#https://gma2.blab.email/fs2.m3u8
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",ESPN 2
-#https://gma2.blab.email/espn2.m3u8
+https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",TENNIS
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",RedBull
