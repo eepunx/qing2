@@ -567,7 +567,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.dropbox.com/s/yrvxfxam5180jjn/Jiangsu_TV_logo.png?dl=1", Jiangsu TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.tvchinese.net/uploads/tv/jiangsutv.jpg", Jiangsu TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
