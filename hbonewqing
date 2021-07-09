@@ -559,7 +559,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://www.dropbox.com/s/26lv084z6krmh5s/arirang.png?dl=1", Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",TVB
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CN/HK/Taiwan", Ctiasia
