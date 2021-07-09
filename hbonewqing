@@ -382,11 +382,12 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
 ///// SPORTS /////
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
