@@ -185,12 +185,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",HGTV
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",National geo people
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",National geograpic
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeo&bandwidth=b894100&sync=0
-#EXTINF:-1 tvg-logo="" group-title="Knowledge",National geo wild
-https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
+
 #https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",TLC
 #https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -200,6 +195,16 @@ https://mkctv.my.id/jarwo/cucok.m3u8?id=natgeopeople&bandwidth=b894100&sync=0
 #https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Pursuit Up
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=756&deviceId=5d486bed428fe37d8cadba45&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO WILD USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO PEOPLE USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge", NAT GEO USEE
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+
+
+
 
 =========KiDS=======
 
