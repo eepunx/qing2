@@ -1,53 +1,53 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Indosiar
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",SCTV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",NET
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia",NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF: -1 tvg-logo="" group-title="Indonesia", RCTI
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Indonesia", RCTI
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia", MNCTV
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="Indonesia", MNCTV
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia", GTV
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Indonesia", GTV
 http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia", iNews
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" group-title="Indonesia", iNews
 http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Trans TV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Trans7
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="Indonesia",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",CNN Indo
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Indonesia",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",CNBC Indo
+#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="Indonesia",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Beritasatu
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="Indonesia",Beritasatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",RRInet
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="Indonesia",RRInet
 http://36.89.47.217:11935/rrinet/live/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",JTV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="Indonesia",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",JITV
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="Indonesia",JITV
 http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",RTV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" group-title="Indonesia",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #EXTINF: -1 tvg-logo="" group-title="Indonesia",Hi Indo
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Bali TV
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Indonesia",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",TV Edukasi
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Indonesia",TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Metro TV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="Indonesia",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Kompas TV
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="Indonesia",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Dunia Games
+#EXTINF: -1 tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg" group-title="Indonesia",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",MTA
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="RELIGI",MTA
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Rodja
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="RELIGI",Rodja
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",DAAI
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="Indonesia",DAAI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
 
 ===============
