@@ -386,7 +386,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Qingsports", Astro Arena
 #http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 2  
 #http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
@@ -395,14 +395,18 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 4
 #https://95-213-224-185.livesports24.online/uafootballua1.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="SPORTS",TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="Qingsports", Champions TV 1 USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_big.png" group-title="Qingsports", Champions TV 2 USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c3/74/11OHSgGv_t.jpg" group-title="Qingsports",Champions TV 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
+#http://gpc.my.id/vidio/champion-tv-3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
