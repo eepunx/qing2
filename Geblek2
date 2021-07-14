@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia",Indosiar
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia",NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Indonesia", RCTI
@@ -17,6 +17,10 @@ http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-m
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="Indonesia",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="Indonesia",O Channel 
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Indonesia",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="Indonesia",CNBC Indo
