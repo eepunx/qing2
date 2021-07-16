@@ -423,17 +423,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c3/74/11OHSgGv_t.jpg" group-title="Qingsports",Champions TV 3
 #http://gpc.my.id/vidio/champion-tv-3.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/10/WRC-World-Rally-Championship-logo-785x325.png",Nascar/Rally/F3
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8
-
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -460,6 +454,9 @@ https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://badmintonorg.files.wordpress.com/2020/12/fb3c538c-b003-4ea3-8cda-f8639936e8ff.png", Badminton
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
 
 ///// KNOWLEDGES /////
 
