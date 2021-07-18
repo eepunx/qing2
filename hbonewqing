@@ -39,30 +39,30 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 #http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png", HBO FAMILY
+#EXTINF:-1 group-title="FOX & HBO"tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png", HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.lyngsat.com/logo/tv/hh/hbo_hits.png", HBO HITS
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png", HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO SIGNATURE
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png", Cinemax 
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png", Cinemax 
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 ///// LOKAL /////
@@ -626,32 +626,32 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.tvchinese.net/uploads/tv/jiangsutv.jpg", Jiangsu TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg", Jiangsu TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG", OK TV
+#EXTINF:-1 group-title="Entertaiment" tvg-logo ="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG", OK TV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.dropbox.com/s/xyy05qkl69bw7nx/hunan-tv.png?dl=1", HUNAN TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/xyy05qkl69bw7nx/hunan-tv.png?dl=1", HUNAN TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.dropbox.com/s/2zll7zijt832boc/shanghai-media-group-dragon-television-logo-png-favpng-YsqeNxBFENNsc6tUtEv4G1Eya_t.jpg?dl=1", SHANGHAI DRAGON TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/2zll7zijt832boc/shanghai-media-group-dragon-television-logo-png-favpng-YsqeNxBFENNsc6tUtEv4G1Eya_t.jpg?dl=1", SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.dropbox.com/s/zag0azhcnkwbu9c/xingkongtv.png?dl=1", XINGKONG TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/zag0azhcnkwbu9c/xingkongtv.png?dl=1", XINGKONG TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo = "https://www.dropbox.com/s/fdru2ltt7m7qrh2/Anhui_Television.png?dl=1", ANHUI TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/fdru2ltt7m7qrh2/Anhui_Television.png?dl=1", ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 ///// LIFESTYLE /////
@@ -702,15 +702,15 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Music" tvg-logo = "https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png", MUSIC TV
+#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png", MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Music" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png", CHANNEL V
+#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png", CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
-#EXTINF:-1 group-title="Music" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBN2qiCRq9Oaosw12gwoE1twfGYhOfpPIG4w&usqp=CAU", M2O TV
+#EXTINF:-1 group-title="Music" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBN2qiCRq9Oaosw12gwoE1twfGYhOfpPIG4w&usqp=CAU", M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
 ///// SINGAPURA /////
