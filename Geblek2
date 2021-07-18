@@ -56,23 +56,23 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 ===============
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="FOX & HBO backup", HBO
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="FOX & HBO backup", HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="FOX & HBO backup",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://macan.live/img/hbo_hits.png" group-title="FOX & HBO backup",HBO Hits SD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="FOX & HBO backup",HBO Hits 
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://macan.live/img/hbo_signature.png" group-title="FOX & HBO backup",HBO Signature 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="FOX & HBO backup",HBO Signature 
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="FOX & HBO backup",HBO Family
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="FOX & HBO backup",HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92700/14040527.png" group-title="FOX & HBO backup", Cinemax
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="FOX & HBO backup", Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
