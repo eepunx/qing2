@@ -627,8 +627,8 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=formosa&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa HD
+http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CN/HK/Taiwan", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
