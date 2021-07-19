@@ -710,8 +710,12 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png", CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
-#EXTINF:-1 group-title="Music" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBN2qiCRq9Oaosw12gwoE1twfGYhOfpPIG4w&usqp=CAU", M2O TV
+#EXTINF:-1 group-title="Music" tvg-logo ="", M2O 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Music" tvg-logo ="", MTV Hits
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+
 
 ///// SINGAPURA /////
 
