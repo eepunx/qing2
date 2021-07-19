@@ -515,6 +515,11 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.mncvision.id/userfiles/image/channel/channel_112.png", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="Knowledge",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
 ///// NEWS /////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
