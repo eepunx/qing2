@@ -663,6 +663,11 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/fdru2ltt7m7qrh2/Anhui_Television.png?dl=1", ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Drama
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Zonghe
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+
 ///// LIFESTYLE /////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
