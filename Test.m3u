@@ -1,19 +1,19 @@
 
 #EXTM3U
 #EXTINF:-1   
-#EXTINF:-1, 有线18台
+#EXTINF:-1,有线18台
 rtmp://161.202.204.248/sat/hk042
-#EXTINF:-1,民视,
+#EXTINF:-1,民视
 rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
-#EXTINF:-1,台视,
+#EXTINF:-1,台视
 rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
-#EXTINF:-1,中视,
+#EXTINF:-1,中视
 rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
 #EXTINF:-1,華视,
 rtmp://161.202.204.248:1935/sat/tv111
-#EXTINF:-1,华视,
+#EXTINF:-1,华视
 rtmp://161.202.204.248/sat/tv112
-#EXTINF:-1,TVBS·欢乐台,
+#EXTINF:-1,TVBS·欢乐台
 rtmp://161.202.204.248/sat/tv422#rtmp://161.202.204.248/sat/tv421
 #EXTINF:-1,TVBS·新闻台,
 rtmp://161.202.204.248/sat/tv552
