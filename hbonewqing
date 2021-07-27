@@ -398,7 +398,7 @@ rtmp://58.200.131.2:1935/livetv/starsports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Qingsports",beIN Sport 1 
 #https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
-http://45.155.123.148/00:1A:79:17:06:83/fukssjslsljls/63916?token=GRpcVkdeQANDBw0ICgBTCgELUAACBQEFW1QAA1NUCFQAXQcCBgJRXwJGFRNLTUVXBVQ9X1JBWVcKWFRQSRRERQdKa15QFFgbU1ENAAgJFR5GTQtbU0FZUA9TUlVSBAUFUxQWR11SQANDVQoHAAkVHkZcGkJTEQ0AVT4BAxNfUlNAAlpCWFpOGw4KZlVdVFZcABtYFAZBT0NQEhVEX1hEWg4UFlVdQhBYFQEbCxoIAQJWG04UVQwWD00THERfFGRlQBQWUkxCB1cSDVZfGgMVRhcbThRfEDwTXBIRFABXXFMQGg4VBBROGwwFQW5bVllcAVoWX1kNEEMDQ1RESRRcWQxRQFhGaRJQBUYDEwsPDwRcGx8=
+http://dimapro.cz/00:1A:79:17:06:83/fukssjslsljls/63916
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
