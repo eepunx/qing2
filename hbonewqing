@@ -412,7 +412,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Qingsports", Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 2  
 #http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 3  
