@@ -809,3 +809,26 @@ https://cutt.ly/bQuVpos
 https://cutt.ly/9QuVdEb
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 24
 https://cutt.ly/vQuYj5C
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport1.png" group-title="Qingsports",True Sports HD 1
+#https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport2.png" group-title="Qingsports",True Sports HD 2
+#https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport3.png" group-title="Qingsports",True Sports HD 3
+#https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport4.png" group-title="Qingsports",True Sports HD 4
+#https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport5.png" group-title="Qingsports",True Sports 5
+#https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport6.png" group-title="Qingsports",True Sports 6
+#https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport7.png" group-title="Qingsports",True Sports 7
+#https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
