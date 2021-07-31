@@ -650,7 +650,7 @@ http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg", Jiangsu TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i1.wp.com/sipoftea.net/wp-content/uploads/2021/01/c806-iaqfzyv5108728.jpg", Jiangsu TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -660,22 +660,22 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/xyy05qkl69bw7nx/hunan-tv.png?dl=1", HUNAN TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i1.wp.com/sipoftea.net/wp-content/uploads/2021/01/cn-hunan-tv-9260.jpg", HUNAN TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/2zll7zijt832boc/shanghai-media-group-dragon-television-logo-png-favpng-YsqeNxBFENNsc6tUtEv4G1Eya_t.jpg?dl=1", SHANGHAI DRAGON TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i2.wp.com/sipoftea.net/wp-content/uploads/2021/01/dragontv-live.jpg", SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/zag0azhcnkwbu9c/xingkongtv.png?dl=1", XINGKONG TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.megavision.net.id/storage/channel/logo/20210506150432_xingkong.jpg", XINGKONG TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.dropbox.com/s/fdru2ltt7m7qrh2/Anhui_Television.png?dl=1", ANHUI TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.tvchinese.net/uploads/tv/anhuitv.jpg", ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Drama
