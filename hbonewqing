@@ -846,6 +846,11 @@ http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign
 http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzA6MzMgQU0maGFzaF92YWx1ZT1Ia29XQmpZZEJsTENuU2VWbkFZTnd3PT0mdmFsaWRtaW51dGVzPTIw
 
  
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Qingsports",Sony Ten 2
+http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Qingsports",Sony Ten 3
 
 
 
