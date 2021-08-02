@@ -3,6 +3,8 @@
 #EXTINF:-1   
 #EXTINF:-1,有线18台
 rtmp://161.202.204.248/sat/hk042
+#EXTINF:-1, nbcsn
+http://stream.tvtap.live/live/nbcsn.stream/chunks.m3u8
 #EXTINF:-1,民视
 rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
 #EXTINF:-1,台视
