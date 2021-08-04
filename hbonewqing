@@ -640,13 +640,13 @@ http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa HD
-http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+http://50.7.161.82:8278/streams/d/ftvhd_taiwan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CN/HK/Taiwan", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbkLpZFm/IQIYI.png" group-title="CN/HK/Taiwan",IQIYI
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Qiyi/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
