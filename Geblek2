@@ -250,23 +250,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b739567100078
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CN/HK/Taiwan",CCTV 1
-http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8 
+ 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CN/HK/Taiwan",CCTV 2
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CN/HK/Taiwan",CCTV 3
-http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CN/HK/Taiwan",CCTV 4
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CN/HK/Taiwan",CCTV 5
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CN/HK/Taiwan",CCTV 6
-http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CN/HK/Taiwan",CCTV 7
 http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CN/HK/Taiwan",CCTV 8
-http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CN/HK/Taiwan",CCTV 9
-http://cctvalih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CN/HK/Taiwan",CCTV 10
 http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CN/HK/Taiwan",CCTV 11
@@ -276,7 +276,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CN/HK/Taiwan",CCTV 13
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CN/HK/Taiwan",CCTV 14
-http://cctvalih5ca.v.myalicdn.com/live/cctv14_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CN/HK/Taiwan",CCTV 15
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 
