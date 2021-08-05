@@ -5,17 +5,24 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia",NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Indonesia", RCTI
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Indonesia", RCTI Vidio
 http://gpc.my.id/vidio/rcti.m3u8
-#http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="Indonesia", MNCTV
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Indonesia", RCTI +
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="Indonesia", MNCTV Vidio
 http://gpc.my.id/vidio/mnc.m3u8
-#http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Indonesia", GTV
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="Indonesia", MNCTV +
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Indonesia", GTV Vidio
 http://gpc.my.id/vidio/gtv.m3u8
-#http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Indonesia", GTV +
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" group-title="Indonesia", iNews
-http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=2.0.0.13" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13" group-title="Indonesia",Trans7
