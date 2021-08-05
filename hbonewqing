@@ -399,8 +399,8 @@ rtmp://58.200.131.2:1935/livetv/starsports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Qingsports",beIN Sport 1 
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
-
+#https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
+https://cutt.ly/oQuVyAI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -413,8 +413,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Qingsports", Astro Arena
-http://50.7.161.82/streams/d/arena_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 2  
 #http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtP2YWnY/Piala-Eropa-2020.jpg" group-title="Qingsports", EURO 3  
@@ -432,8 +431,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_big.png" group-title="Qingsports", Champions TV 2 USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c3/74/11OHSgGv_t.jpg" group-title="Qingsports",Champions TV 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
@@ -471,7 +468,6 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE
-http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/48NmRZr/ss.jpg" group-title="Qingsports", Sports TV
@@ -784,9 +780,9 @@ https://cutt.ly/GQuBXyB
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 9
 https://cutt.ly/SQuC8nj
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 10
-https://cutt.ly/kQuVqZb
+#https://cutt.ly/kQuVqZb
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 11
-https://cutt.ly/NQuT5Xz
+#https://cutt.ly/NQuT5Xz
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 12
 https://cutt.ly/fQuBB0f
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 14
@@ -798,19 +794,19 @@ https://cutt.ly/NQuNr9I
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 17
 https://cutt.ly/nQuNo8l
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 18
-https://cutt.ly/TQuYfem
+#https://cutt.ly/TQuYfem
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 19
 https://cutt.ly/dQuVrbc
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 20
-https://cutt.ly/oQuVyAI
+#https://cutt.ly/oQuVyAI
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 21
-https://cutt.ly/ZQuYhok
+#https://cutt.ly/ZQuYhok
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 22
 https://cutt.ly/bQuVpos
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 23
 https://cutt.ly/9QuVdEb
 #EXTINF:-1 tvg-logo="https://www.the-afc.com/img/image/upload/t_l7/v1585056256/crolx0ttn8amgpgo3fmv.jpg" group-title="Qingsports" ,Olimpiade 24
-https://cutt.ly/vQuYj5C
+#https://cutt.ly/vQuYj5C
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport1.png" group-title="Qingsports",True Sports HD 1
