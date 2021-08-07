@@ -399,8 +399,8 @@ rtmp://58.200.131.2:1935/livetv/starsports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Qingsports",beIN Sport 1 
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
-#https://cutt.ly/oQuVyAI
+#https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
+https://cutt.ly/oQuVyAI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -624,9 +624,14 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
-#http://198.16.106.62:8278/streams/d/Xinhe/playlist.m3u8
-rtmp://59.124.75.153:1935/sat/tv551
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#rtmp://59.124.75.153:1935/sat/tv551
 
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",VIU TV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="Qingsports",Viu 6 sports 
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa HD
 http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
