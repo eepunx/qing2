@@ -620,8 +620,8 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #rtmp://59.124.75.153:1935/sat/tv551
 
-#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",VIU TV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Phoenix TV
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy?checkedby:iptvcat.com
 
 #EXTINF:-1   tvg-logo="" group-title="Qingsports",Viu 6 sports 
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
