@@ -235,12 +235,12 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nickleodeon
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickelodeon.png", Nick Jr
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickelodeon.png", Nickelodeon 
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -627,8 +627,11 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Phoenix TV
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="" group-title="Qingsports",Viu 6 sports 
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu TV
+http://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu 6 TV
+http://cdn.hkdtmb.com/hls/96/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa HD
 http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
