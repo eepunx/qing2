@@ -634,7 +634,17 @@ http://cdn.hkdtmb.com/hls/99/index.m3u8
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa HD
-http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Hong Kong Open
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",RTHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",RTHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",RTHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CN/HK/Taiwan", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
@@ -675,7 +685,7 @@ http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Zonghe
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", SET Taiwan
-http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 
 
 ///// LIFESTYLE /////
