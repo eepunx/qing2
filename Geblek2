@@ -31,6 +31,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.epg.best/id/ANTV.id.png" tvg-chno="102" channel-id="102" group-title="Indonesia",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF: -1 tvg-logo="" group-title="Indonesia",TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Indonesia",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
