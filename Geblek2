@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Movies
 #http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Family
 #http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
