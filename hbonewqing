@@ -634,12 +634,23 @@ http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu TV
 http://cdn.hkdtmb.com/hls/99/index.m3u8
-
 #EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu 6 TV
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOGdYB3ecB48dcwnxrAikwlzWSYKJ07Ud5w&usqp=CAU" group-title="CN/HK/Taiwan", Formosa HD
-#http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視台灣台
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視旅游台 
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Hong Kong Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
