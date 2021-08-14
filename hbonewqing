@@ -655,16 +655,8 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Hong Kong Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",RTHK31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",RTHK32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",RTHK33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CN/HK/Taiwan", Ctiasia
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
