@@ -398,7 +398,9 @@ http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 #https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
 #https://cutt.ly/oQuVyAI
 #http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11016?checkedby:iptvcat.com
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+https://wacth.tv/tv-player/bein-sports-1.html
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
