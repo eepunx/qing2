@@ -636,17 +636,7 @@ http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 group-title="Entertaiment" tvg-logo = "http://www.isv.net/logos/arirangtv.png", Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#rtmp://59.124.75.153:1935/sat/tv551
-
-#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Phoenix TV
-http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
-
-#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu TV
-http://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu 6 TV
-http://cdn.hkdtmb.com/hls/96/index.m3u8
+//// China /////
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視 usee
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=formosa&bandwidth=default&sync=0
@@ -662,6 +652,19 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視影劇台
 http://seb.sason.top/ptv/ftv.php?id=yj
+
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#rtmp://59.124.75.153:1935/sat/tv551
+
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Phoenix TV
+http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu TV
+http://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Viu 6 TV
+http://cdn.hkdtmb.com/hls/96/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Hong Kong Open
