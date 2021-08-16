@@ -1,5 +1,14 @@
 
 #EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="daaitv" tvg-logo="https://i.postimg.cc/761GcFrH/daai-tv.png" group-title="VISION+",DAAI TV
+https://liveanevia.mncnow.id/live/eds/Foxsports1/sa_dash_vmx/Foxsports1.mpd
+
+
+
+
 #EXTINF:-1, laliga 
 http://5.255.90.184:2001/play/a04b
 #EXTINF:-1,有线18台
