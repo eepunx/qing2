@@ -780,6 +780,9 @@ http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo ="", MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Music" tvg-logo ="", 9XM india
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 ///// SINGAPURA /////
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
