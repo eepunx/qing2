@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo ="", 9XM india
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
+
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="INDIA",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="INDIA",& PRIVE HD
