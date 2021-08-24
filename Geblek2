@@ -125,6 +125,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="Qingsports"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sp 3 _USEE
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/motorvision.png" group-title="Qingsports", Motor Vision
+https://mediasv.online/tvchannel_x2/motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjUyOjE3IEFNJmhhc2hfdmFsdWU9QjJHT0JVQ1BucWtkdVo5eWdMZWh2QT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNCZpZD1jaF83NjE5Ng==
 
 
 =====================
