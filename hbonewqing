@@ -440,6 +440,10 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/10/WRC-World-Rally-Championship-logo-785x325.png",Nascar/Rally/F3
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports Chanel
+http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.dropbox.com/s/7x7gnuy3mm4lprs/874fc272383102ec71e5723c000d2e7b.png?dl=1", FOX SPORT 1
