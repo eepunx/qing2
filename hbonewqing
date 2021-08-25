@@ -397,10 +397,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1
 #https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2
 #https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -476,7 +476,7 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://badmintonorg.files.wordpress.com/2020/12/fb3c538c-b003-4ea3-8cda-f8639936e8ff.png", Badminton/Billiard
-http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+#http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE
 
@@ -804,15 +804,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.dropbox.com/s/ojr16he7gir5m4o/mediacorp-channel-8-logopedia-fandom-mediacorp-channel-8-png-220_220.png?dl=1" group-title="Singapore",Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/114-1143213_espn-word-mark-png-logo-espn-logo-transparent.png" group-title="Qingsports", ESPN 1
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/114-1143213_espn-word-mark-png-logo-espn-logo-transparent.png" group-title="Qingsports",ESPN 1
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/114-1143213_espn-word-mark-png-logo-espn-logo-transparent.png" group-title="Qingsports",ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/chunks.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn4ffN3T/Sky-Sport-1.png" group-title="Qingsports",Sky Sport 1
