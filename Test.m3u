@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Meo",NBA TV HD
+http://188.37.210.26:8000/play/a0ax
+#EXTINF:-1 group-title="Meo",NBA TV HD
+http://188.37.210.26:8000/play/a07e
+
 //CLUB TV
 #EXTINF:-1 tvg-logo="https://www.sportcartagena.es/media/sportcartagena/images/2017/06/03/2017060300262490946.jpg" group-title="CLUB TV",BARCA TV
 http://91.126.138.141:1935/live/barza/playlist.m3u8
