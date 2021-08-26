@@ -424,7 +424,7 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Qingsports",TVRI Sports
-http://210.210.155.35:80/session/8161a31e-2edb-11eb-901e-b82a72d63267/qwr9ew/s/s107/01.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="Qingsports", Champions TV 1 USEE
