@@ -112,13 +112,16 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="Qingsports"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sp 1 _USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="Qingsports"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sp 2 _USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="Qingsports"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sp 3 _USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/motorvision.png" group-title="Qingsports", Motor Vision
 https://mediasv.online/tvchannel_x2/motorvision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIxIDExOjUyOjE3IEFNJmhhc2hfdmFsdWU9QjJHT0JVQ1BucWtkdVo5eWdMZWh2QT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNCZpZD1jaF83NjE5Ng==
