@@ -193,11 +193,11 @@ http://91.126.39.101:1935/live/realmadridnntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.portada-online.com/wp-content/uploads/2017/02/mutv.jpeg" group-title="Qingsports",MU TV
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/fontlot.com/wp-content/uploads/2021/06/3-3.jpg" group-title="Qingsports",Tennis 
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1348471.png" group-title="Qingsports",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/fontlot.com/wp-content/uploads/2021/06/3-3.jpg" group-title="Qingsports", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Qingsports",GOLF
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
