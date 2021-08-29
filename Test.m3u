@@ -1,5 +1,8 @@
 ##### Lokal #######
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="sport",NBA
+http://topwin-tv.my.id/2/master.m3u8?id=nba
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Lokal",Trans 7
 http://topwin-tv.my.id/2/master.m3u8?id=trans7
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Lokal",Trans TV
