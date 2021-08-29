@@ -1,230 +1,462 @@
-##### Lokal #######
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="sport",NBA
-http://topwin-tv.my.id/2/master.m3u8?id=nba
+#EXTM3U
+#EXTINF:-1,13 Ulica HD
+http://91.218.211.8:8080/play/39
+#EXTINF:-1,4FUN Dance
+http://91.218.211.8:8080/play/170
+#EXTINF:-1,4FUN KIDS
+http://91.218.211.8:8080/play/169
+#EXTINF:-1,4FUN.TV
+http://91.218.211.8:8080/play/168
+#EXTINF:-1,AMC HD
+http://91.218.211.8:8080/play/31
+#EXTINF:-1,AXN Black
+http://91.218.211.8:8080/play/36
+#EXTINF:-1,AXN HD
+http://91.218.211.8:8080/play/34
+#EXTINF:-1,AXN Spin HD
+http://91.218.211.8:8080/play/33
+#EXTINF:-1,AXN White
+http://91.218.211.8:8080/play/35
+#EXTINF:-1,Active Family HD
+http://91.218.211.8:8080/play/119
+#EXTINF:-1,Adventure HD
+http://91.218.211.8:8080/play/88
+#EXTINF:-1,Ale kino+ HD
+http://91.218.211.8:8080/play/818
+#EXTINF:-1,Animal Planet HD
+http://91.218.211.8:8080/play/97
+#EXTINF:-1,Antena HD
+http://91.218.211.8:8080/play/1007
+#EXTINF:-1,BBC Brit HD
+http://91.218.211.8:8080/play/74
+#EXTINF:-1,BBC CBeebies
+http://91.218.211.8:8080/play/154
+#EXTINF:-1,BBC Earth HD
+http://91.218.211.8:8080/play/75
+#EXTINF:-1,BBC First
+http://91.218.211.8:8080/play/73
+#EXTINF:-1,BBC Lifestyle HD
+http://91.218.211.8:8080/play/76
+#EXTINF:-1,Baby TV
+http://91.218.211.8:8080/play/155
+#EXTINF:-1,Belsat TV
+http://91.218.211.8:8080/play/184
+#EXTINF:-1,Blue Hustler
+http://91.218.211.8:8080/play/100l
+#EXTINF:-1,Boomerang HD
+http://91.218.211.8:8080/play/100a
+#EXTINF:-1,Brazzers TV Europe HD
+http://91.218.211.8:8080/play/1001
+#EXTINF:-1,CANAL+ DOKUMENT HD
+http://91.218.211.8:8080/play/80
+#EXTINF:-1,CANAL+ DOMO HD
+http://91.218.211.8:8080/play/110
+#EXTINF:-1,CANAL+ Family HD
+http://91.218.211.8:8080/play/27
+#EXTINF:-1,CANAL+ Film HD
+http://91.218.211.8:8080/play/26
+#EXTINF:-1,CANAL+ KUCHNIA HD
+http://91.218.211.8:8080/play/115
+#EXTINF:-1,CANAL+ PREMIUM HD
+http://91.218.211.8:8080/play/24
+#EXTINF:-1,CANAL+ Seriale HD
+http://91.218.211.8:8080/play/63
+#EXTINF:-1,CANAL+ Sport 2 HD
+http://91.218.211.8:8080/play/133
+#EXTINF:-1,CANAL+ Sport 3 HD
+http://91.218.211.8:8080/play/193
+#EXTINF:-1,CANAL+ Sport 4 HD
+http://91.218.211.8:8080/play/194
+#EXTINF:-1,CANAL+ Sport HD
+http://91.218.211.8:8080/play/132
+#EXTINF:-1,CANAL+1 HD
+http://91.218.211.8:8080/play/25
+#EXTINF:-1,CBS Europa HD
+http://91.218.211.8:8080/play/56
+#EXTINF:-1,CBS Reality
+http://91.218.211.8:8080/play/95
+#EXTINF:-1,CI POLSAT HD
+http://91.218.211.8:8080/play/187
+#EXTINF:-1,Cartoon Network HD
+http://91.218.211.8:8080/play/144
+#EXTINF:-1,Cinemax HD
+http://91.218.211.8:8080/play/58
+#EXTINF:-1,Cinemax2 HD
+http://91.218.211.8:8080/play/59
+#EXTINF:-1,Club MTV
+http://91.218.211.8:8080/play/223
+#EXTINF:-1,Comedy Central HD
+http://91.218.211.8:8080/play/67
+#EXTINF:-1,DTX HD
+http://91.218.211.8:8080/play/82
+#EXTINF:-1,DW
+http://91.218.211.8:8080/play/395
+#EXTINF:-1,DW - DE
+http://91.218.211.8:8080/play/392
+#EXTINF:-1,Da Vinci
+http://91.218.211.8:8080/play/94
+#EXTINF:-1,Disco Polo Music
+http://91.218.211.8:8080/play/173
+#EXTINF:-1,Discovery Channel HD
+http://91.218.211.8:8080/play/81
+#EXTINF:-1,Discovery Historia
+http://91.218.211.8:8080/play/85
+#EXTINF:-1,Discovery Life HD
+http://91.218.211.8:8080/play/98
+#EXTINF:-1,Discovery Science HD
+http://91.218.211.8:8080/play/83
+#EXTINF:-1,Disney Channel HD
+http://91.218.211.8:8080/play/147
+#EXTINF:-1,Disney Junior
+http://91.218.211.8:8080/play/149
+#EXTINF:-1,Disney 😆
+http://91.218.211.8:8080/play/148
+#EXTINF:-1,Dorcel TV HD
+http://91.218.211.8:8080/play/3051
+#EXTINF:-1,E! Entertainment HD
+http://91.218.211.8:8080/play/103
+#EXTINF:-1,Echo 24
+http://91.218.211.8:8080/play/100f
+#EXTINF:-1,Eleven Sports 1 4K
+http://91.218.211.8:8080/play/100o
+#EXTINF:-1,Eleven Sports 1 HD
+http://91.218.211.8:8080/play/128
+#EXTINF:-1,Eleven Sports 2 HD
+http://91.218.211.8:8080/play/129
+#EXTINF:-1,Eleven Sports 3 HD
+http://91.218.211.8:8080/play/130
+#EXTINF:-1,Eleven Sports 4 HD
+http://91.218.211.8:8080/play/398
+#EXTINF:-1,Epic Drama HD
+http://91.218.211.8:8080/play/412
+#EXTINF:-1,Erox HD
+http://91.218.211.8:8080/play/100q
+#EXTINF:-1,Eroxxx HD
+http://91.218.211.8:8080/play/100p
+#EXTINF:-1,Eska Rock TV
+http://91.218.211.8:8080/play/172
+#EXTINF:-1,Eska TV Extra HD
+http://91.218.211.8:8080/play/205
+#EXTINF:-1,Eska TV HD
+http://91.218.211.8:8080/play/161
+#EXTINF:-1,Eurosport 1 HD
+http://91.218.211.8:8080/play/125
+#EXTINF:-1,Eurosport 2 HD
+http://91.218.211.8:8080/play/126
+#EXTINF:-1,Extasy 4K
+http://91.218.211.8:8080/play/a004
+#EXTINF:-1,Extreme Sports HD
+http://91.218.211.8:8080/play/142
+#EXTINF:-1,FOX Comedy HD
+http://91.218.211.8:8080/play/66
+#EXTINF:-1,FOX HD
+http://91.218.211.8:8080/play/65
+#EXTINF:-1,FightBox HD
+http://91.218.211.8:8080/play/139
+#EXTINF:-1,Fightklub HD
+http://91.218.211.8:8080/play/140
+#EXTINF:-1,Filmbox Action
+http://91.218.211.8:8080/play/1043
+#EXTINF:-1,Filmbox Arthouse
+http://91.218.211.8:8080/play/100b
+#EXTINF:-1,Filmbox Extra HD
+http://91.218.211.8:8080/play/41
+#EXTINF:-1,Filmbox Family
+http://91.218.211.8:8080/play/46
+#EXTINF:-1,Filmbox Premium HD
+http://91.218.211.8:8080/play/1042
+#EXTINF:-1,Fokus TV HD
+http://91.218.211.8:8080/play/90
+#EXTINF:-1,Food Network HD
+http://91.218.211.8:8080/play/114
+#EXTINF:-1,France 24 HD
+http://91.218.211.8:8080/play/176
+#EXTINF:-1,France 24 HD - EN
+http://91.218.211.8:8080/play/177
+#EXTINF:-1,GOLD TV HD
+http://91.218.211.8:8080/play/174
+#EXTINF:-1,Gametoon HD
+http://91.218.211.8:8080/play/447
+#EXTINF:-1,God TV
+http://91.218.211.8:8080/play/100c
+#EXTINF:-1,H2 HD
+http://91.218.211.8:8080/play/87
+#EXTINF:-1,HBO HD
+http://91.218.211.8:8080/play/406
+#EXTINF:-1,HBO2 HD
+http://91.218.211.8:8080/play/407
+#EXTINF:-1,HBO3 HD
+http://91.218.211.8:8080/play/408
+#EXTINF:-1,HGTV HD
+http://91.218.211.8:8080/play/122
+#EXTINF:-1,HISTORY HD
+http://91.218.211.8:8080/play/86
+#EXTINF:-1,HOME 4K
+http://91.218.211.8:8080/play/100h
+#EXTINF:-1,HOME TV HD
+http://91.218.211.8:8080/play/a003
+#EXTINF:-1,Hustler HD
+http://91.218.211.8:8080/play/3053
+#EXTINF:-1,ID HD
+http://91.218.211.8:8080/play/84
+#EXTINF:-1,JAZZ HD
+http://91.218.211.8:8080/play/416
+#EXTINF:-1,Kazakh TV HD
+http://91.218.211.8:8080/play/404
+#EXTINF:-1,Kino Polska HD
+http://91.218.211.8:8080/play/60
+#EXTINF:-1,Kino Polska Muzyka
+http://91.218.211.8:8080/play/166
+#EXTINF:-1,Kino TV HD
+http://91.218.211.8:8080/play/42
+#EXTINF:-1,Lifetime HD
+http://91.218.211.8:8080/play/101
+#EXTINF:-1,METRO HD
+http://91.218.211.8:8080/play/105
+#EXTINF:-1,MIXTAPE
+http://91.218.211.8:8080/play/1115
+#EXTINF:-1,MTV 00s
+http://91.218.211.8:8080/play/160
+#EXTINF:-1,MTV 80s
+http://91.218.211.8:8080/play/1655
+#EXTINF:-1,MTV 90s
+http://91.218.211.8:8080/play/157
+#EXTINF:-1,MTV Hits
+http://91.218.211.8:8080/play/159
+#EXTINF:-1,MTV Live HD
+http://91.218.211.8:8080/play/156
+#EXTINF:-1,MTV Polska HD
+http://91.218.211.8:8080/play/158
+#EXTINF:-1,MiniMini+ HD
+http://91.218.211.8:8080/play/145
+#EXTINF:-1,Motowizja TV HD
+http://91.218.211.8:8080/play/111
+#EXTINF:-1,Music Box HD
+http://91.218.211.8:8080/play/181
+#EXTINF:-1,NASA TV
+http://91.218.211.8:8080/play/100i
+#EXTINF:-1,NASA TV UHD
+http://91.218.211.8:8080/play/100d
+#EXTINF:-1,Nat Geo People HD
+http://91.218.211.8:8080/play/79
+#EXTINF:-1,National Geographic HD
+http://91.218.211.8:8080/play/77
+#EXTINF:-1,National Geographic Wild HD
+http://91.218.211.8:8080/play/78
+#EXTINF:-1,Nick Jr. HD
+http://91.218.211.8:8080/play/1530
+#EXTINF:-1,NickMusic
+http://91.218.211.8:8080/play/403
+#EXTINF:-1,Nickelodeon
+http://91.218.211.8:8080/play/151
+#EXTINF:-1,Nicktoons HD
+http://91.218.211.8:8080/play/152
+#EXTINF:-1,Novela tv HD
+http://91.218.211.8:8080/play/72
+#EXTINF:-1,Nowa TV HD
+http://91.218.211.8:8080/play/14
+#EXTINF:-1,Nuta.TV HD
+http://91.218.211.8:8080/play/171
+#EXTINF:-1,POLSAT 2 HD
+http://91.218.211.8:8080/play/9
+#EXTINF:-1,POLSAT Café HD
+http://91.218.211.8:8080/play/50
+#EXTINF:-1,POLSAT Comedy Central Extra HD
+http://91.218.211.8:8080/play/68
+#EXTINF:-1,POLSAT Doku HD
+http://91.218.211.8:8080/play/113
+#EXTINF:-1,POLSAT Film HD
+http://91.218.211.8:8080/play/61
+#EXTINF:-1,POLSAT Games HD
+http://91.218.211.8:8080/play/1008
+#EXTINF:-1,POLSAT HD
+http://91.218.211.8:8080/play/3
+#EXTINF:-1,POLSAT JimJam
+http://91.218.211.8:8080/play/150
+#EXTINF:-1,POLSAT Music HD
+http://91.218.211.8:8080/play/165
+#EXTINF:-1,POLSAT News 2
+http://91.218.211.8:8080/play/1
+#EXTINF:-1,POLSAT News HD
+http://91.218.211.8:8080/play/17
+#EXTINF:-1,POLSAT Play HD
+http://91.218.211.8:8080/play/112
+#EXTINF:-1,POLSAT Rodzina HD
+http://91.218.211.8:8080/play/1009
+#EXTINF:-1,POLSAT Seriale HD
+http://91.218.211.8:8080/play/70
+#EXTINF:-1,POLSAT Sport Extra HD
+http://91.218.211.8:8080/play/138
+#EXTINF:-1,POLSAT Sport Fight HD
+http://91.218.211.8:8080/play/137
+#EXTINF:-1,POLSAT Sport HD
+http://91.218.211.8:8080/play/135
+#EXTINF:-1,POLSAT Sport News HD
+http://91.218.211.8:8080/play/136
+#EXTINF:-1,POLSAT Sport Premium 1
+http://91.218.211.8:8080/play/422
+#EXTINF:-1,POLSAT Sport Premium 2
+http://91.218.211.8:8080/play/424
+#EXTINF:-1,POLSAT Viasat Explore HD
+http://91.218.211.8:8080/play/91
+#EXTINF:-1,POLSAT Viasat History HD
+http://91.218.211.8:8080/play/92
+#EXTINF:-1,POLSAT Viasat Nature HD
+http://91.218.211.8:8080/play/93
+#EXTINF:-1,PULS 2 HD
+http://91.218.211.8:8080/play/13
+#EXTINF:-1,Paramount Channel HD
+http://91.218.211.8:8080/play/47
+#EXTINF:-1,Planete+ HD
+http://91.218.211.8:8080/play/96
+#EXTINF:-1,Playboy TV
+http://91.218.211.8:8080/play/100g
+#EXTINF:-1,Polo TV
+http://91.218.211.8:8080/play/175
+#EXTINF:-1,Polonia 1
+http://91.218.211.8:8080/play/116
+#EXTINF:-1,Power TV HD
+http://91.218.211.8:8080/play/164
+#EXTINF:-1,Private TV HD
+http://91.218.211.8:8080/play/3054
+#EXTINF:-1,RT Documentary HD
+http://91.218.211.8:8080/play/182
+#EXTINF:-1,Red Carpet TV HD
+http://91.218.211.8:8080/play/189
+#EXTINF:-1,Red Top TV 4K
+http://91.218.211.8:8080/play/100e
+#EXTINF:-1,Redlight HD
+http://91.218.211.8:8080/play/100k
+#EXTINF:-1,Romance TV HD
+http://91.218.211.8:8080/play/71
+#EXTINF:-1,Russia Today HD
+http://91.218.211.8:8080/play/183
+#EXTINF:-1,SBN
+http://91.218.211.8:8080/play/434
+#EXTINF:-1,SCI FI HD
+http://91.218.211.8:8080/play/38
+#EXTINF:-1,STARS.TV HD
+http://91.218.211.8:8080/play/167
+#EXTINF:-1,STOPKLATKA HD
+http://91.218.211.8:8080/play/30
+#EXTINF:-1,Sportklub HD
+http://91.218.211.8:8080/play/141
+#EXTINF:-1,Sundance TV HD
+http://91.218.211.8:8080/play/62
+#EXTINF:-1,Super Polsat HD
+http://91.218.211.8:8080/play/117
+#EXTINF:-1,Super TV
+http://91.218.211.8:8080/play/1120
+#EXTINF:-1,Superstacja HD
+http://91.218.211.8:8080/play/22
+#EXTINF:-1,TBN Polska
+http://91.218.211.8:8080/play/123
+#EXTINF:-1,TLC HD
+http://91.218.211.8:8080/play/100
+#EXTINF:-1,TNT HD
+http://91.218.211.8:8080/play/40
+#EXTINF:-1,TTV HD
+http://91.218.211.8:8080/play/107
+#EXTINF:-1,TV 4 HD
+http://91.218.211.8:8080/play/10
+#EXTINF:-1,TV 6 HD
+http://91.218.211.8:8080/play/11
+#EXTINF:-1,TV Okazje
+http://91.218.211.8:8080/play/384
+#EXTINF:-1,TV Puls HD
+http://91.218.211.8:8080/play/12
+#EXTINF:-1,TV Republika HD
+http://91.218.211.8:8080/play/21
+#EXTINF:-1,TV Trwam
+http://91.218.211.8:8080/play/178
+#EXTINF:-1,TVC HD
+http://91.218.211.8:8080/play/109
+#EXTINF:-1,TVN 24 HD
+http://91.218.211.8:8080/play/16
+#EXTINF:-1,TVN 7 HD
+http://91.218.211.8:8080/play/6
+#EXTINF:-1,TVN Fabuła HD
+http://91.218.211.8:8080/play/29
+#EXTINF:-1,TVN HD
+http://91.218.211.8:8080/play/5
+#EXTINF:-1,TVN Style HD
+http://91.218.211.8:8080/play/8
+#EXTINF:-1,TVN Turbo HD
+http://91.218.211.8:8080/play/7
+#EXTINF:-1,TVN24 BiS HD
+http://91.218.211.8:8080/play/121
+#EXTINF:-1,TVP 1 HD
+http://91.218.211.8:8080/play/2
+#EXTINF:-1,TVP 2 HD
+http://91.218.211.8:8080/play/4
+#EXTINF:-1,TVP 3 Kielce
+http://91.218.211.8:8080/play/20
+#EXTINF:-1,TVP 3 Kraków
+http://91.218.211.8:8080/play/19
+#EXTINF:-1,TVP 4K
+http://91.218.211.8:8080/play/a002
+#EXTINF:-1,TVP ABC
+http://91.218.211.8:8080/play/143
+#EXTINF:-1,TVP Dokument HD
+http://91.218.211.8:8080/play/120
+#EXTINF:-1,TVP HD
+http://91.218.211.8:8080/play/23
+#EXTINF:-1,TVP Historia
+http://91.218.211.8:8080/play/89
+#EXTINF:-1,TVP Info HD
+http://91.218.211.8:8080/play/18
+#EXTINF:-1,TVP Kobieta HD
+http://91.218.211.8:8080/play/1234
+#EXTINF:-1,TVP Kultura HD
+http://91.218.211.8:8080/play/180
+#EXTINF:-1,TVP Polonia HD
+http://91.218.211.8:8080/play/188
+#EXTINF:-1,TVP Rozrywka
+http://91.218.211.8:8080/play/69
+#EXTINF:-1,TVP Seriale
+http://91.218.211.8:8080/play/64
+#EXTINF:-1,TVP Sport HD
+http://91.218.211.8:8080/play/131
+#EXTINF:-1,TVS HD
+http://91.218.211.8:8080/play/108
+#EXTINF:-1,TVT
+http://91.218.211.8:8080/play/439
+#EXTINF:-1,Tele 5 HD
+http://91.218.211.8:8080/play/15
+#EXTINF:-1,Top Kids HD
+http://91.218.211.8:8080/play/186
+#EXTINF:-1,Top Kids Jr HD
+http://91.218.211.8:8080/play/1157
+#EXTINF:-1,Travel Channel HD
+http://91.218.211.8:8080/play/102
+#EXTINF:-1,Twoja.TV
+http://91.218.211.8:8080/play/389
+#EXTINF:-1,UATV
+http://91.218.211.8:8080/play/396
+#EXTINF:-1,ULTRA TV 4K
+http://91.218.211.8:8080/play/1185
+#EXTINF:-1,Ukraina 24 HD
+http://91.218.211.8:8080/play/1230
+#EXTINF:-1,VOX Music TV
+http://91.218.211.8:8080/play/162
+#EXTINF:-1,Vivid RED HD
+http://91.218.211.8:8080/play/100j
+#EXTINF:-1,Vivid Touch
+http://91.218.211.8:8080/play/100n
+#EXTINF:-1,WP HD
+http://91.218.211.8:8080/play/104
+#EXTINF:-1,Water Planet HD
+http://91.218.211.8:8080/play/99
+#EXTINF:-1,XXL
+http://91.218.211.8:8080/play/100m
+#EXTINF:-1,ZOOM TV HD
+http://91.218.211.8:8080/play/106
+#EXTINF:-1,nSport+ HD
+http://91.218.211.8:8080/play/134
+#EXTINF:-1,teleTOON+ HD
+http://91.218.211.8:8080/play/146
+#EXTINF:-1,wPolsce.pl UHD
+http://91.218.211.8:8080/play/388
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Lokal",Trans 7
-http://topwin-tv.my.id/2/master.m3u8?id=trans7
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7mx6hnebxjm5m33/kisspng-trans-tv-television-show-15-december-trans7-5b406936b49963.6943317815309478947397.png?dl=1" group-title="Lokal",Trans TV
-http://dituduhmaling.xyz/US33T4/transtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fisi53yqz8gk8m9/kisspng-indosiar-television-channel-logo-sctv-ramadhan-logo-5b1079250d6918.1042019615278062450549.png?dl=1" group-title="Lokal",Indosiar
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
-http://topwin-tv.my.id/2/master.m3u8?id=indosiar
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eey7rh310vgrjnz/kisspng-sctv-television-logo-camera-operator-televisi-indonesia-5b2fceed6934b7.4078267115298598214309.png?dl=1" group-title="Lokal",SCTV
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=sctv
-http://topwin-tv.my.id/2/master.m3u8?id=transtv
-
-#EXTINF:0 tvg-id="Metro.pl" group-title="Lokal",Metro TV
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=metro
-
-#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal",NET TV
-http://dituduhmaling.xyz/US33T4/net.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=nettv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal",Rajawali TV
-http://dituduhmaling.xyz/US33T4/rtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=rtv
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",Kompas tv
-http://dituduhmaling.xyz/US33T4/kompastv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=kompastv
-#EXTINF:0 tvg-id="ext" group-title="Lokal",JITV
-http://dituduhmaling.xyz/US33T4/jitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jitv
-#EXTINF:0 tvg-id="ext" group-title="Lokal",Insert
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
-http://topwin-tv.my.id/2/master.m3u8?id=insert
-#EXTINF:0 tvg-id="ext" group-title="Lokal",ANTARA TV
-http://dituduhmaling.xyz/US33T4/antara.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=antara
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal",Usee Photo
-http://dituduhmaling.xyz/US33T4/useephoto.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useephoto
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Lokal",Usee Prime
-http://dituduhmaling.xyz/US33T4/useeprime.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=useeprime
-#EXTINF:0 tvg-id="ext" group-title="Lokal",BALI TV
-http://dituduhmaling.xyz/US33T4/balitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=balitv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal",JAK TV
-http://dituduhmaling.xyz/US33T4/jaktv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jaktv
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal",JTV
-http://dituduhmaling.xyz/US33T4/jtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=jtv
-
-#EXTINF:0 tvg-id="ext" group-title="Lokal",TVRI
-http://dituduhmaling.xyz/US33T4/tvri.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=tvri
-#EXTINF:0 tvg-id="ext" group-title="Lokal",DAAI TV
-http://dituduhmaling.xyz/US33T4/daaitv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=daaitv
-
-
-#EXTINF:0 tvg-id="ext" group-title="Lokal",MNC Shop
-http://dituduhmaling.xyz/US33T4/mncshop.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=mncshop
-#EXTINF:0 tvg-id="ext" group-title="Lokal",My TV
-http://dituduhmaling.xyz/US33T4/mytv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=mytv
-#EXTINF:0 tvg-id="ext" group-title="Lokal",ID Ku
-http://dituduhmaling.xyz/US33T4/idku.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=idku
-
-
-######## Sport #######
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="Sports (Usee & Vidio)",Champions TV 1
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions2.png" group-title="Sports (Usee & Vidio)",Champions TV 2
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
-http://topwin-tv.my.id/2/master.m3u8?id=champion3
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports (Usee & Vidio)",Bein Sport 1
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="Sports (Usee & Vidio)",Bein Sport 2
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports (Usee & Vidio)" tvg-id="FOXSports1.my" tvg-name"Fox Sport 1 ",fox sport 1
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="Sports (Usee & Vidio)",fox sport 2
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="Sports (Usee & Vidio)",fox sport 3
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sports (Usee & Vidio)",UseeSports 1
-http://topwin-tv.my.id/2/master.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sports (Usee & Vidio)",UseeSports 2
-http://topwin-tv.my.id/2/master.m3u8?id=useesports2
-#EXTINF:0 tvg-id="Golf.es" group-title="Sports (Usee & Vidio)",Golf
-http://topwin-tv.my.id/2/master.m3u8?id=golfplus
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports (Usee & Vidio)",NBA
-http://topwin-tv.my.id/2/master.m3u8?id=nba
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Sports (Usee & Vidio)",eGG TV
-http://topwin-tv.my.id/2/master.m3u8?id=egg
-
-
-######## Movie ########
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/bioskopindo.png" group-title="Movies",Bioskop Indonesia
-http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/zeebioskop.png" group-title="Movies",ZBioskop
-http://topwin-tv.my.id/2/master.m3u8?id=zbioskop
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvn.png" group-title="Movies",TVN
-http://topwin-tv.my.id/2/master.m3u8?id=tvn
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="Movies",TVN MOVIES
-http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/thrill.png" group-title="Movies",Thrill
-http://topwin-tv.my.id/2/master.m3u8?id=thrill-1
-http://topwin-tv.my.id/2/master.m3u8?id=thrill
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cm.png" group-title="Movies",Celestial Movie
-http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cinemaworld.png" group-title="Movies",Cinema World
-http://topwin-tv.my.id/2/master.m3u8?id=cinemaworld
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/flik.png" group-title="Movies",Flik
-http://topwin-tv.my.id/2/master.m3u8?id=flik
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="Movies",Galaxy
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="Movies",Galaxy Premium
-http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="Movies",IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
-
-######## Enterntainment ########
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Dunia Lain
-http://topwin-tv.my.id/2/master.m3u8?id=dunialain
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Citra Drama
-http://topwin-tv.my.id/2/master.m3u8?id=cdrama
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/warner.png" group-title="Entertainment",Warner
-http://topwin-tv.my.id/2/master.m3u8?id=warner
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Entertainment",Blue ant entertainmet
-http://topwin-tv.my.id/2/master.m3u8?id=blueant
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/blueant.png" group-title="Entertainment",Blue ant extreme
-http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/axn.png" group-title="Entertainment",AXN
-http://topwin-tv.my.id/2/master.m3u8?id=axn
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/chinesedrama.png" group-title="Entertainment",Chinese Drama
-http://topwin-tv.my.id/2/master.m3u8?id=chinesedrama
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/kix.png" group-title="Entertainment",KiX
-http://topwin-tv.my.id/2/master.m3u8?id=kix
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/wakuwaku.png" group-title="Entertainment",Waku Waku Japan
-http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/kplus.png" group-title="Entertainment",K+
-http://topwin-tv.my.id/2/master.m3u8?id=kplus
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/gem.png" group-title="Entertainment",Sony GEM TV
-http://topwin-tv.my.id/2/master.m3u8?id=sgem
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/sonyone.png" group-title="Entertainment",Sony One
-http://topwin-tv.my.id/2/master.m3u8?id=sone
-#EXTINF:0 tvg-id="outdoor" group-title="Entertainment",Outdoor CHANNEL
-http://topwin-tv.my.id/2/master.m3u8?id=outdoor
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/kbsworld.png" group-title="Entertainment",KBS World
-http://topwin-tv.my.id/2/master.m3u8?id=kbsworld
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/abcaustralia.png" group-title="Entertainment",ABC Australia
-http://topwin-tv.my.id/2/master.m3u8?id=abcaustralia
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/lifetime.png" group-title="Entertainment",Lifetime
-http://topwin-tv.my.id/2/master.m3u8?id=lifetime
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Entertainment",Entertainment: History
-http://topwin-tv.my.id/2/master.m3u8?id=history
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Ctiasia
-http://topwin-tv.my.id/2/master.m3u8?id=ctiasia
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",NHK World Japan
-http://topwin-tv.my.id/2/master.m3u8?id=nhkworld
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/arirang.png" group-title="Entertainment",Arirang
-http://topwin-tv.my.id/2/master.m3u8?id=arirang
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/tv5monde.png" group-title="Entertainment",TV5Monde
-http://topwin-tv.my.id/2/master.m3u8?id=tv5monde
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png"  group-title="Entertainment", Entertainment: NHK Premium
-http://topwin-tv.my.id/2/master.m3u8?id=nhkpremium
-#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Bloomberg
-http://topwin-tv.my.id/2/master.m3u8?id=bloomberg
-#EXTINF:-1 tvg-logo="https://bit.ly/3jtbSci" group-title="Entertainment",Formosa
-http://topwin-tv.my.id/2/master.m3u8?id=formosa
-
-####### Entertainment ########
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/ngc.png" group-title="Knowledge",National Geographic
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeopeople.png" group-title="Knowledge",Nat Geo People
-http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/natgeowild.png" group-title="Knowledge",Nat Geo Wild
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/discoverychannel.png" group-title="Knowledge",Discovery Channel
-http://topwin-tv.my.id/2/master.m3u8?id=disco
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cgtndoc.png" group-title="Knowledge",CGTN Documentary
-http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/crime.png" group-title="Knowledge",Crime Investigation
-http://dituduhmaling.xyz/US33T4/crimeinvestigation.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/history.png" group-title="Knowledge",History
-http://topwin-tv.my.id/2/master.m3u8?id=history
-http://topwin-tv.my.id/2/master.m3u8?id=history2
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/hgtv.png" group-title="Knowledge",HGTV
-http://dituduhmaling.xyz/US33T4/hgtv.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=hgtv
-######## Kids ##########
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="Kids",Animax
-http://topwin-tv.my.id/2/master.m3u8?id=animax
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="Kids",Aniplus
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="Kids",My Kidz
-http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/babyfirst.png" group-title="Kids",Baby First
-http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/horee.png" group-title="Kids",Horee
-http://topwin-tv.my.id/2/master.m3u8?id=horee
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/boomerang.png" group-title="Kids",Boomerang
-http://topwin-tv.my.id/2/master.m3u8?id=boomerang
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
-http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/duniaanak.png" group-title="Kids",Dunia Anak
-http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickjr.png" group-title="Kids", Nick Junior
-http://topwin-tv.my.id/2/master.m3u8?id=nickjr
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/nickelodeon.png" group-title="Kids",Nickelodeon
-http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/davincilearning.png" group-title="Kids",Da Vinci Learning
-http://topwin-tv.my.id/2/master.m3u8?id=davinci
-#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/dreamworks.png" group-title="Kids",Dreamworks
-http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
+.
