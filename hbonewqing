@@ -721,8 +721,7 @@ http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Zonghe
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", SET Taiwan
-#http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
-
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
 
 ///// LIFESTYLE /////
 
