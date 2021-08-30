@@ -2,7 +2,11 @@
 #EXTM3U
 
 #EXTINF:-1,ponix
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+http://stream.guihet.com/t/ifeng2.php?id=1
+#EXTINF:-1,ponix
+http://stream.guihet.com/t/ifeng2.php?id=2
+#EXTINF:-1,ponix
+http://stream.guihet.com/t/ifeng2.php?id=3
 #EXTINF:-1,babybfirst
 http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
 
