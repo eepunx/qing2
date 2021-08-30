@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1,set taiwan
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
+
 #EXTINF:-1,ponix
 http://stream.guihet.com/t/ifeng2.php?id=1
 #EXTINF:-1,ponix
