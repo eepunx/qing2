@@ -436,11 +436,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="Qingsports", Champions TV 1 USEE
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
+https://gpc.my.id/vidio/champion-tv-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_big.png" group-title="Qingsports", Champions TV 2 USEE
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
+https://gpc.my.id/vidio/champion-tv-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
