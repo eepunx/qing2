@@ -3,8 +3,8 @@
 
 #EXTINF:-1,sbk
 https://cdn1motogpcom.akamaized.net/hls/sbkipf/index.m3u8?token=st=1630828805~exp=1630853897~acl=/hls/sbkipf/*~hmac=9502612de0a332d4272ab2ba906cdb813e62856b80d6ab8815b90ddb7662eca9&amp;start=1630824906&amp;
-#EXTINF:-1,Fox Sports 2
-http://200.113.4.75:7210/play/a03a
+#EXTINF:-1,sbk 2
+https://cdn1motogpcom.akamaized.net/hls/sbkipf/3.m3u8?token=st=1630828805~exp=1630853897~acl=/hls/sbkipf/*~hmac=9502612de0a332d4272ab2ba906cdb813e62856b80d6ab8815b90ddb7662eca9&amp;start=1630824906&amp;
 #EXTINF:-1,Fox Sports 3
 http://200.113.4.75:7210/play/a03b
 #EXTINF:-1,Fox Sports Premium
