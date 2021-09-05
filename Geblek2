@@ -118,6 +118,9 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Crime
 #http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 ==========SPROT===========
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",Superbike (live) 
+https://cdn1motogpcom.akamaized.net/hls/sbkipf/3.m3u8?token=st=1630828805~exp=1630853897~acl=/hls/sbkipf/*~hmac=9502612de0a332d4272ab2ba906cdb813e62856b80d6ab8815b90ddb7662eca9&amp;start=1630824906&amp;
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",SKY SPORT F1
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
