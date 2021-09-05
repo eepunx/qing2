@@ -655,7 +655,7 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 //// China /////
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視 usee
-http://topwin-tv.my.id/2/master.m3u8?id=formosa
+#http://topwin-tv.my.id/2/master.m3u8?id=formosa
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", FTV 民視台灣台
@@ -685,9 +685,6 @@ http://cdn.hkdtmb.com/hls/96/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Hong Kong Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="CN/HK/Taiwan", Ctiasia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -720,7 +717,7 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Drama
-http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Zonghe
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", SET Taiwan
