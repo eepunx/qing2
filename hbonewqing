@@ -436,6 +436,12 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="LIGA 1 BRI INDONESIA",UseeSport 1 USEETV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="LIGA 1 BRI INDONESIA", UseeSport 2 USEETV
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
+
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="Qingsports", Champions TV 1
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 https://gpc.my.id/vidio/champion-tv-1.m3u8
