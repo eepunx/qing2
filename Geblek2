@@ -210,7 +210,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 =========KiDS=======
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby First ENG
-
+http://dituduhmaling.xyz/US33T4/MPD/master.php?id=babyfirst
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang ENG
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",EBS Kids KOR
@@ -225,7 +225,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d0
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="" group-title="Kids",Baby TV 
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick Jr Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
