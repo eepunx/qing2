@@ -210,10 +210,9 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 =========KiDS=======
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby First ENG
-#https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang ENG
-http://topwin-tv.my.id/2/master.m3u8?id=boomerang
+
 #EXTINF:-1 tvg-logo="" group-title="Kids",EBS Kids KOR
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Pluto Kids 
