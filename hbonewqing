@@ -34,12 +34,12 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/antv.png", ANTV
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/antv.png", ANTV ID
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVOne
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -75,7 +75,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png", Trans7 🏁(MotoGP) 
@@ -84,7 +84,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png", Trans7
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png", Trans 7
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -128,7 +128,7 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg", FOX ACTION MOVIES
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg", FOX Action Movies
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
@@ -172,13 +172,13 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO SIGNATURE
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png", Cinemax 
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png", CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
@@ -228,10 +228,10 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Jr
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Jr IND
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Junior ID
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -271,10 +271,10 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS"  tvg-logo="https://www.dropbox.com/s/h7byrkysh14uikt/MIAOMI.jpg?dl=1", MIAOMI
+#EXTINF:-1 group-title="KIDS"  tvg-logo="https://www.dropbox.com/s/h7byrkysh14uikt/MIAOMI.jpg?dl=1", Miao Mi ID
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 group-title="KIDS"  tvg-logo="", My Kids
+#EXTINF:-1 group-title="KIDS"  tvg-logo="", Mkidz
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -375,7 +375,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png", ANIMAX USEE
-http://topwin-tv.my.id/2/master.m3u8?id=animax
+#http://topwin-tv.my.id/2/master.m3u8?id=animax
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Kids", Aniplus 
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
@@ -416,14 +416,14 @@ https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sport 1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sports 1 
 #https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd 
 https://mediasv.online/tvchannel_x1/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1MzoyMCBBTSZoYXNoX3ZhbHVlPVdZaG9DNWppTDY4bzVYOUtKbXd2V2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTgmaWQ9Y2hfODg3OTk=
 #http://topwin-tv.my.id/2/master.m3u8?id=bein1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Qingsports",beIN Sport 2 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Qingsports",beIN Sports 2 
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 
@@ -521,7 +521,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", Nat Geo Wild
+#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", NatGeo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -638,12 +638,12 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://en.m.wikipedia.org/wiki/One_(Southeast_Asian_TV_channel)#/media/File%3AOne_TV_Asia_logo_(2020).png", Sony One
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://en.m.wikipedia.org/wiki/One_(Southeast_Asian_TV_channel)#/media/File%3AOne_TV_Asia_logo_(2020).png", Sony One USEE
+#EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://en.m.wikipedia.org/wiki/One_(Southeast_Asian_TV_channel)#/media/File%3AOne_TV_Asia_logo_(2020).png", Sony One ID
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertaiment", Sony GEM USEE
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0 
-#http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertaiment", Sony GEM
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0 
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertaiment", K plus
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
@@ -760,13 +760,13 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/c9l00jrb7qc7h48/MNCLifestyleFashion.png?dl=1", LIFESTYLE FASHION TEST
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/c9l00jrb7qc7h48/MNCLifestyleFashion.png?dl=1", Lifestyle and Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 
 ///// MUSIK /////
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Music", (DP) Prambors _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Music", Prambors ID
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png"  group-title="Music",MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
@@ -778,7 +778,7 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png", CHANNEL V
+#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/300px-Channel_V_Logo.svg.png", Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo ="", M2O 
