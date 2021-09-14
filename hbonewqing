@@ -274,7 +274,7 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://www.dropbox.com/s/h7byrkysh14uikt/MIAOMI.jpg?dl=1", Miao Mi ID
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 group-title="KIDS"  tvg-logo="", Mkidz
+#EXTINF:-1 group-title="KIDS"  tvg-logo="",MKidz
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
