@@ -31,7 +31,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png", Trans7
 
-
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.epg.best/id/ANTV.id.png" tvg-chno="102" channel-id="102" group-title="Indonesia 🇮🇩 (server 2)",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)",TVONE
@@ -73,7 +72,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="Indonesia 🇮🇩 (server 2)",DAAI
 
 
-===============
+======HBO backup======
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO backup", HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
@@ -184,7 +183,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 #EXTINF:-1 tvg-logo="http://www.fusionfighting.co.uk/wp-content/uploads/2019/05/mmatv_logo.png" group-title="Qingsports",MMA TV
 
-
 #EXTINF:-1 tvg-logo="https://www.sportcartagena.es/media/sportcartagena/images/2017/06/03/2017060300262490946.jpg" group-title="Qingsports",BARCA TV
 http://91.126.138.141:1935/live/barza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Qingsports",REAL MADRID TV
@@ -192,7 +190,6 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-111620-main_images-client-liverpoolfc--default--440.jpg" group-title="Qingsports",LFC YNWA
 
 #EXTINF:-1 tvg-logo="https://www.portada-online.com/wp-content/uploads/2017/02/mutv.jpeg" group-title="Qingsports",MU TV
-
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1348471.png" group-title="Qingsports",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -229,13 +226,11 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
-
 =====KIDS======
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby First
 http://dituduhmaling.xyz/US33T4/MPD/master.php?id=babyfirst
 #EXTINF:-1 tvg-logo="" group-title="Kids",EBS Kids KOR
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
 
 ===China===
 
