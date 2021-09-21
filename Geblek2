@@ -236,6 +236,21 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人亞太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人美東台
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人加西台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人舊金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CN/HK/Taiwan",CCTV 1
  
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CN/HK/Taiwan",CCTV 2
