@@ -62,7 +62,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg" group-title="Qingsports",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-#EXTINF: -1 tvg-logo="" group-title="Qingsports",EGG Network
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/E/egg-network-logo-6B5185A3CF-seeklogo.com.png" group-title="Qingsports",EGG Network
 http://dituduhmaling.xyz/US33T4/MPD/master.php?id=egg
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="RELIGI",MTA
