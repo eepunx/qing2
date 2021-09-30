@@ -1,33 +1,205 @@
 
 #EXTM3U
-
-#EXTINF:-1,sbk
-https://cdn1motogpcom.akamaized.net/hls/sbkipf/index.m3u8?token=st=1630828805~exp=1630853897~acl=/hls/sbkipf/*~hmac=9502612de0a332d4272ab2ba906cdb813e62856b80d6ab8815b90ddb7662eca9&amp;start=1630824906&amp;
-#EXTINF:-1,sbk 2
-https://cdn1motogpcom.akamaized.net/hls/sbkipf/3.m3u8?token=st=1630828805~exp=1630853897~acl=/hls/sbkipf/*~hmac=9502612de0a332d4272ab2ba906cdb813e62856b80d6ab8815b90ddb7662eca9&amp;start=1630824906&amp;
-#EXTINF:-1,Fox Sports 3
-http://200.113.4.75:7210/play/a03b
-#EXTINF:-1,Fox Sports Premium
-http://200.113.4.75:7210/play/a00d
-
-
-#EXTINF:-1,set taiwan
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
-
-#EXTINF:-1,ponix
-http://stream.guihet.com/t/ifeng2.php?id=1
-#EXTINF:-1,ponix
-http://stream.guihet.com/t/ifeng2.php?id=2
-#EXTINF:-1,ponix
-http://stream.guihet.com/t/ifeng2.php?id=3
-#EXTINF:-1,babybfirst
-http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
-
-#EXTINF:-1,nick
-http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
-
-#EXTINF:-1,nick2
-http://topwin-tv.my.id/2/master.m3u8?id=nick
-
-#EXTINF:-1,nickjr
-http://topwin-tv.my.id/2/master.m3u8?id=nickjr
+#EXTM3U
+#EXTINF:-1 group-title="ALL" ,AIT
+http://93.152.174.144:4000/play/ait/index.m3u8
+#EXTINF:-1,ARIHANT HINDI
+http://93.152.174.144:4000/play/arihant/index.m3u8
+#EXTINF:-1,African Entertainment NG
+http://93.152.174.144:4000/play/african/index.m3u8
+#EXTINF:-1,Antena 3 HD SP
+http://93.152.174.144:4000/play/antena3sp/index.m3u8
+#EXTINF:-1,BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1,BEIN SPORT 1 AR - RT
+http://93.152.174.144:4000/play/bein1rt/index.m3u8
+#EXTINF:-1,BEINSPORTAR
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+#EXTINF:-1,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1,BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1,BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1,Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1,Bein Sport 1 AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1,Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1,Bein Sport 2 AR
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+#EXTINF:-1,Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1,Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1,Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1,Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1,Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1,Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1,CH 13 IL
+http://93.152.174.144:4000/play/ch13/index.m3u8
+#EXTINF:-1,CH. 12 - IL
+http://93.152.174.144:4000/play/ch12/index.m3u8
+#EXTINF:-1,CMTV PT
+http://93.152.174.144:4000/play/cmtv/index.m3u8
+#EXTINF:-1,Cartoon Network PT
+http://93.152.174.144:4000/play/cartnetworkpt/index.m3u8
+#EXTINF:-1,Channels 24 NG
+http://93.152.174.144:4000/play/ch24ng/index.m3u8
+#EXTINF:-1,Channels Television NG
+http://93.152.174.144:4000/play/chtelevision/index.m3u8
+#EXTINF:-1,Colors HINDI
+http://93.152.174.144:4000/play/colorsh/index.m3u8
+#EXTINF:-1,Comedy Channel NG
+http://93.152.174.144:4000/play/comedych/index.m3u8
+#EXTINF:-1,Cuatro HD SP
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+#EXTINF:-1,DD BHARTI HINDI
+http://93.152.174.144:4000/play/bharti/index.m3u8
+#EXTINF:-1,DD BIHAR HINDI
+http://93.152.174.144:4000/play/bihar/index.m3u8
+#EXTINF:-1,Disney Channel PT
+http://93.152.174.144:4000/play/disneypt/index.m3u8
+#EXTINF:-1,Energy SP
+http://93.152.174.144:4000/play/energysp/index.m3u8
+#EXTINF:-1,Eurosport 1 HD SP
+http://93.152.174.144:4000/play/eurosport1sp/index.m3u8
+#EXTINF:-1,FDF SP
+http://93.152.174.144:4000/play/fdfsp/index.m3u8
+#EXTINF:-1,FOX HD PT
+http://93.152.174.144:4000/play/foxpt/index.m3u8
+#EXTINF:-1,FOX LIFE PT
+http://93.152.174.144:4000/play/foxlifept/index.m3u8
+#EXTINF:-1,FOX MOVIES PT
+http://93.152.174.144:4000/play/foxmoviespt/index.m3u8
+#EXTINF:-1,Film4
+http://93.152.174.144:4000/play/film4/index.m3u8
+#EXTINF:-1,HOT SPORT 1 IL
+http://93.152.174.144:4000/play/hotsport1/index.m3u8
+#EXTINF:-1,HOT SPORT 2 IL
+http://93.152.174.144:4000/play/hotsport2/index.m3u8
+#EXTINF:-1,HOT SPORT 3 IL
+http://93.152.174.144:4000/play/hotsport3/index.m3u8
+#EXTINF:-1,HOT SPORT 4 IL
+http://93.152.174.144:4000/play/hotsport4/index.m3u8
+#EXTINF:-1,HOT SPORT 5 IL
+http://93.152.174.144:4000/play/hotsport5/index.m3u8
+#EXTINF:-1,Hollywood HD PT
+http://93.152.174.144:4000/play/hollywoodpt/index.m3u8
+#EXTINF:-1,Hope Channel Africa NG
+http://93.152.174.144:4000/play/hopechannel/index.m3u8
+#EXTINF:-1,IL Sport 5 PLUS
+http://93.152.174.144:4000/play/s5plus/index.m3u8
+#EXTINF:-1,ITV1 - REAL TV
+http://93.152.174.144:4000/play/itv1real/index.m3u8
+#EXTINF:-1,ITV_1
+http://93.152.174.144:4000/play/itv1/index.m3u8
+#EXTINF:-1,ITV_2
+http://93.152.174.144:4000/play/itv2/index.m3u8
+#EXTINF:-1,India TV
+http://93.152.174.144:4000/play/indiatv/index.m3u8
+#EXTINF:-1,KAN 11 - IL
+http://93.152.174.144:4000/play/kan11/index.m3u8
+#EXTINF:-1,KINGS WORD INFO NG
+http://93.152.174.144:4000/play/kingsword/index.m3u8
+#EXTINF:-1,La 1 HD SP
+http://93.152.174.144:4000/play/la1sp/index.m3u8
+#EXTINF:-1,La 2 HD SP
+http://93.152.174.144:4000/play/la2sp/index.m3u8
+#EXTINF:-1,La Sexta SP
+http://93.152.174.144:4000/play/lasexta/index.m3u8
+#EXTINF:-1,Lagos TV NG
+http://93.152.174.144:4000/play/lagostv/index.m3u8
+#EXTINF:-1,NOVA SP
+http://93.152.174.144:4000/play/novasp/index.m3u8
+#EXTINF:-1,NTA NEWS NG
+http://93.152.174.144:4000/play/ntanews/index.m3u8
+#EXTINF:-1,NTV TR
+http://93.152.174.144:4000/play/ntv/index.m3u8
+#EXTINF:-1,Penthouse Gold
+http://93.152.174.144:4000/play/Penthouse/index.m3u8
+#EXTINF:-1,RTP 1 HD PT
+http://93.152.174.144:4000/play/rtp1/index.m3u8
+#EXTINF:-1,RTP 2 HD Pt
+http://93.152.174.144:4000/play/rtp2pt/index.m3u8
+#EXTINF:-1,RTP 3 pt
+http://93.152.174.144:4000/play/rtp3/index.m3u8
+#EXTINF:-1,Redlight
+http://93.152.174.144:4000/play/Redlight/index.m3u8
+#EXTINF:-1,SAHARA BIHAR HINDI
+http://93.152.174.144:4000/play/sahara/index.m3u8
+#EXTINF:-1,SIC Notiacias PT
+http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
+#EXTINF:-1,SIC PT
+http://93.152.174.144:4000/play/sic/index.m3u8
+#EXTINF:-1,SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:-1,STAR GOLD HD HINDI
+http://93.152.174.144:4000/play/stargold/index.m3u8
+#EXTINF:-1,STAR PLUS HD HINDI
+http://93.152.174.144:4000/play/plushd/index.m3u8
+#EXTINF:-1,STAR UTSAV HINDI
+http://93.152.174.144:4000/play/utsav/index.m3u8
+#EXTINF:-1,STAR UTSAV MOVIES
+http://93.152.174.144:4000/play/utsavmovies/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:-1,Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1,Sony Pal HINDI
+http://93.152.174.144:4000/play/sonypal/index.m3u8
+#EXTINF:-1,Star Sports 1 IN
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+#EXTINF:-1,Star Sports 2 IN
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+#EXTINF:-1,Star Sports 3 IN
+http://93.152.174.144:4000/play/ss3in/index.m3u8
+#EXTINF:-1,Starlife OK IN
+http://93.152.174.144:4000/play/starlife/index.m3u8
+#EXTINF:-1,Sundance TV
+http://93.152.174.144:4000/play/a001/index.m3u8
+#EXTINF:-1,TV Continental NG
+http://93.152.174.144:4000/play/tvcontinental/index.m3u8
+#EXTINF:-1,TV GLOBO PT
+http://93.152.174.144:4000/play/globo/index.m3u8
+#EXTINF:-1,TVC NEWS NG
+http://93.152.174.144:4000/play/tvc/index.m3u8
+#EXTINF:-1,TVI 24 PT
+http://93.152.174.144:4000/play/tvi24/index.m3u8
+#EXTINF:-1,TVI PT
+http://93.152.174.144:4000/play/tvi/index.m3u8
+#EXTINF:-1,Telecinco HD SP
+http://93.152.174.144:4000/play/telecincosp/index.m3u8
+#EXTINF:-1,Ten Cricket IN
+http://93.152.174.144:4000/play/tencricket/index.m3u8
+#EXTINF:-1,Ten Golf IN HD
+http://93.152.174.144:4000/play/tengolf/index.m3u8
+#EXTINF:-1,WAP TV NG
+http://93.152.174.144:4000/play/wap/index.m3u8
+#EXTINF:-1,WWE NETWORK
+http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:-1,ZEE Anmol HINDI
+http://93.152.174.144:4000/play/zeeanmol/index.m3u8
+#EXTINF:-1,ZEE IN
+http://93.152.174.144:4000/play/zee/index.m3u8
+#EXTINF:-1,Zee Action IN
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+#EXTINF:-1,Zee Cinema HINDI
+http://93.152.174.144:4000/play/zeecinema/index.m3u8
