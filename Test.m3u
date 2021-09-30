@@ -1,6 +1,9 @@
 
 #EXTM3U
-#EXTM3U
+
+#EXTINF:-1 group-title="ALL" , fox mbuh
+http://84.22.55.220:8002/play/a00w
+
 #EXTINF:-1 group-title="ALL" ,AIT
 http://93.152.174.144:4000/play/ait/index.m3u8
 #EXTINF:-1,ARIHANT HINDI
