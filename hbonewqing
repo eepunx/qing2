@@ -116,37 +116,37 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png", FOX MOVIES
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png", FOX MOVIES good bye
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 #http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png", FOX CRIME
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png", FOX CRIME good bye
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 #http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg", FOX Action Movies
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg", FOX Action Movies good bye
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg", FOX FAMILY MOVIES
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://thumbs2.imgbox.com/fb/d2/lMYAXC1e_t.jpg", FOX FAMILY MOVIES good bye
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png", FOX
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png", FOX good bye
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 #http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png", FOX life
+#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png", FOX life good bye
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 #http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
@@ -309,7 +309,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/star-chinese-movies.png", Star Chinese Movies ID
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/star-chinese-movies.png", SCM good bye
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -464,7 +464,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Qingsports",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Qingsports",Fox Sports 1 good bye
 #https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
@@ -476,13 +476,13 @@ https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 good bye
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 #http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3 good bye
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
