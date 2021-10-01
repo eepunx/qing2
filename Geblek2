@@ -123,8 +123,8 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/bt-sports-1432804958.jpg" group-title="Qingsports", BT SPORT 1
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",MMA/UFC
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
 =====================
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="Singapore",Channel 5
