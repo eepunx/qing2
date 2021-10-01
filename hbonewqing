@@ -376,6 +376,9 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5
 http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 FHD
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Qingsports",beIN Sports 7
 http://93.152.174.144:4000/play/bein7/index.m3u8
 
