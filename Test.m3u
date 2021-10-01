@@ -1,10 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="ALL" , fox mbuh
-http://84.22.55.220:8002/play/a00w
+#EXTINF:-1 , fox coba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&bui
 
-#EXTINF:-1 group-title="ALL" ,AIT
+#EXTINF:-1 ,AIT
 http://93.152.174.144:4000/play/ait/index.m3u8
 #EXTINF:-1,ARIHANT HINDI
 http://93.152.174.144:4000/play/arihant/index.m3u8
