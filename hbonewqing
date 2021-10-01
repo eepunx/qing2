@@ -196,6 +196,8 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 http://stream.tvtap.live:8081/live/disneyjr.stream/chunks.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney USA
 #http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="",PBS Kids  
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -239,6 +241,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.php?id=dunialain
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/babytv.png" group-title="Kids",Baby TV 
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+
 
 ///// MOVIES /////
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="MOVIES 2", Dunia Lain
