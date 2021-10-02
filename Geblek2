@@ -74,23 +74,23 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 
 ======HBO backup======
 
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO backup", HBO
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO", HBO backup
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO backup",Red By HBO
 #https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="HBO backup",HBO Hits 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="HBO",HBO Hits backup
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="HBO backup",HBO Signature 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="HBO",HBO Signature backup
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="HBO backup",HBO Family
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="HBO",HBO Family backup
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="HBO backup", Cinemax
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="HBO", Cinemax backup
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
@@ -99,19 +99,6 @@ http://93.152.174.144:4000/play/foxpt/index.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="FOX EROPA", FOX Life
 http://93.152.174.144:4000/play/foxlifept/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Movies
-#http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Family
-#http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="" group-title="FOX & HBO backup", FOX Crime
-#http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-
 
 
 ==========SPROT===========
@@ -290,6 +277,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 ///Pon papua/////
+
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 1
 https://output3.ponpapua.my.id/edge2/smil:Channel1_source.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 2
