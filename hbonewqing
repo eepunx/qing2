@@ -194,11 +194,14 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Jr USA
 http://stream.tvtap.live:8081/live/disneyjr.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney USA
-#http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="",PBS Kids  
+http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://w7.pngwing.com/pngs/757/383/png-transparent-pbs-kids-children-s-television-series-klru-green-kids-logo-television-child-leave-the-material.png",PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="",Toon Google
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nextanimationstudio.com/wp-content/uploads/2017/12/toon-goggles-logo-768x272.jpg",Toon Goggle
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
