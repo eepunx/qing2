@@ -581,15 +581,12 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://en.m.wikipedia.org/wiki/One_(Southeast_Asian_TV_channel)#/media/File%3AOne_TV_Asia_logo_(2020).png", Sony One
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://en.m.wikipedia.org/wiki/One_(Southeast_Asian_TV_channel)#/media/File%3AOne_TV_Asia_logo_(2020).png", Sony One ID
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=sone&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertaiment", Sony GEM
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0 
-http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Entertaiment", K plus
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
