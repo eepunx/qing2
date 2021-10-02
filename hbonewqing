@@ -552,7 +552,7 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/wfdsqkc0a879sqy/nhk.png?dl=1", NHK PREMIUM
+#EXTINF:-1 group-title="Entertaiment" tvg-logo = "https://www.dropbox.com/s/wfdsqkc0a879sqy/nhk.png?dl=1", NHK PREMIUM
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
