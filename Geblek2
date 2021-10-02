@@ -208,8 +208,8 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 =====KIDS======
 #EXTINF:-1 tvg-logo="" group-title="Kids",Baby First
-http://dituduhmaling.xyz/US33T4/MPD/master.php?id=babyfirst
-#EXTINF:-1 tvg-logo="" group-title="Kids",EBS Kids KOR
+
+#EXTINF:-1 tvg-logo="https://img1.yna.co.kr/etc/inner/KR/2012/06/28/AKR20120628019000005_01_i_P2.jpg" group-title="Kids",EBS Kids KOR
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 ===China===
