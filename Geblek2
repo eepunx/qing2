@@ -288,3 +288,17 @@ http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertaiment", Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+///Pon papua/////
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 1
+https://output3.ponpapua.my.id/edge2/smil:Channel1_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 2
+https://output1.ponpapua.my.id/edge1/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 3
+https://output1.ponpapua.my.id/edge1/smil:Channel3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 4
+https://output1.ponpapua.my.id/edge1/smil:Channel4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 5
+https://output1.ponpapua.my.id/edge1/smil:Channel5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/08/22/1816840449.jpeg" group-title="PON Papua 🥇",Channel 6
+https://output1.ponpapua.my.id/edge1/smil:Channel6.smil/playlist.m3u8
