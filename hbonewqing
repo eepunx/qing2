@@ -455,6 +455,11 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.dropbox.com/s/rk3bp0dhbnfv76u/history.png?dl=1", History V+
+https://akamai.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", NatGeo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
@@ -465,17 +470,16 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.tvchinese.net/uploads/tv/cgtnnews.jpg", CGTN Documentary	
-https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.mncvision.id/userfiles/image/channel/channel_112.png", Be Smart
+#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.gayagaul.com/wp-content/uploads/2018/04/BeSmart-1-768x634.jpg", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/5e/bf/3f5ebf2e0705d15e32bade0baa5caebe.jpg" group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.tvchinese.net/uploads/tv/cgtnnews.jpg", CGTN Documentary	
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 ///// NEWS /////
 
@@ -654,7 +658,7 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=50522914
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/wakuwaku-japan.png", WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
