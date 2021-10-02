@@ -416,7 +416,8 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="",BT sports ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Astro Arena
+http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110251?play_token=6P6MZfOEQs&amp;token=GRdRWUpbQV9BBQ9fUAVUUAFVDwcGUgNVBlQGBAIHCAMEDQAOCgQAUgURFEQQFxAGVQxnD1YVCVACU1YHAU8aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwEBVwYNFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports Chanel
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
