@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 , bein 6
+http://5.39.189.34:7500/play/BEIN6
+
 #EXTINF:-1 , fox 1
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31156
 #EXTINF:-1 , fox 2
