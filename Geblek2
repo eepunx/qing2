@@ -95,7 +95,8 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
 #EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX HD
-http://93.152.174.144:4000/play/foxpt/index.m3u8
+#http://93.152.174.144:4000/play/foxpt/index.m3u8
+http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX Life
 http://93.152.174.144:4000/play/foxlifept/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX Crime
