@@ -1,8 +1,29 @@
 
 #EXTM3U
 
-#EXTINF:-1 , fox life
-http://91.185.3.218:4000/play/417
+#EXTINF:-1 , fox 1
+http://58.65.171.202:8000/play/3110/index.m3u8
+#EXTINF:-1 , fox 2
+http://58.65.171.202:8000/play/3111/index.m3u8
+#EXTINF:-1 , fox 3
+http://58.65.171.202:8000/play/3112/index.m3u8
+#EXTINF:-1 , fox 4
+http://58.65.171.202:8000/play/3113/index.m3u8
+#EXTINF:-1 , fox 5
+http://58.65.171.202:8000/play/3114/index.m3u8
+#EXTINF:-1 , fox 6
+http://58.65.171.202:8000/play/3115/index.m3u8
+#EXTINF:-1 , fox 7
+http://58.65.171.202:8000/play/3116/index.m3u8
+#EXTINF:-1 , fox 8
+http://58.65.171.202:8000/play/3117/index.m3u8
+#EXTINF:-1 , fox 9
+http://58.65.171.202:8000/play/3118/index.m3u8
+#EXTINF:-1 , fox 10
+http://58.65.171.202:8000/play/3119/index.m3u8
+#EXTINF:-1 , fox 11
+http://58.65.171.202:8000/play/3120/index.m3u8
+
 
 #EXTINF:-1 , fox 1
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31156
