@@ -6,6 +6,17 @@ http://67.73.246.186:8000/play/a01e
 
 #EXTINF:-1 , disney
 http://67.73.246.186:8000/play/a00v
+#EXTINF:-1 , espn
+http://67.73.246.186:8000/play/a012
+#EXTINF:-1 , espn 2
+http://67.73.246.186:8000/play/a00u
+
+#EXTINF:-1,Fox Sports 1
+http://67.73.246.186:8000/play/a01e
+#EXTINF:-1,Fox Sports 2
+http://67.73.246.186:8000/play/a016
+#EXTINF:-1,Fox Sports 3
+http://67.73.246.186:8000/play/a017
 
 #EXTINF:-1 ,AIT
 http://93.152.174.144:4000/play/ait/index.m3u8
