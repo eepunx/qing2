@@ -94,16 +94,23 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
-#EXTINF: -1 tvg-logo="" group-title="FOX Eropa/Latin", FOX HD
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX HD
 http://93.152.174.144:4000/play/foxpt/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="FOX Eropa/Latin", FOX Life
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX Life
 http://93.152.174.144:4000/play/foxlifept/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="FOX Eropa/Latin", FOX Crime
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX Crime
 http://185.236.229.21:9981/play/a066
-#EXTINF: -1 tvg-logo="" group-title="FOX Eropa/Latin", FOX Movies
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", FOX Movies
 http://185.236.229.21:9981/play/a039
-#EXTINF: -1 tvg-logo="" group-title="FOX Eropa/Latin", HBO Extreme 
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin", HBO Extreme 
 http://67.73.246.186:8000/play/a00r
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin",HBO 2
+http://67.73.246.186:8000/play/a00p
+#EXTINF: -1 tvg-logo="" group-title="FOX/HBO Eropa/Latin",HBO Plus
+http://67.73.246.186:8000/play/a00q
+
+
+
 
 ==========SPROT===========
 
