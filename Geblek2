@@ -96,11 +96,10 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 ==========FoX===========
 #EXTINF: -1 tvg-logo="" group-title="FOX EROPA", FOX HD
 http://93.152.174.144:4000/play/foxpt/index.m3u8
-
 #EXTINF: -1 tvg-logo="" group-title="FOX EROPA", FOX Life
 http://93.152.174.144:4000/play/foxlifept/index.m3u8
-
-
+#EXTINF: -1 tvg-logo="" group-title="FOX EROPA", FOX Crime
+http://185.236.229.21:9981/play/a066
 ==========SPROT===========
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",SKY SPORT F1
