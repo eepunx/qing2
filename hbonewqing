@@ -402,7 +402,8 @@ http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Qingsports",beIN Sports 7
-http://93.152.174.144:4000/play/bein7/index.m3u8
+#http://93.152.174.144:4000/play/bein7/index.m3u8
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
