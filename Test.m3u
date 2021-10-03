@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 , foxlh
-http://67.73.246.186:8000/play/a01e
+#EXTINF:-1 , dsny
+http://94.61.44.29:7500/play/a04a/index.m3u8
 
 #EXTINF:-1 , disney
 http://67.73.246.186:8000/play/a00v
