@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 , fox coba
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&bui
+#EXTINF:-1 , foxlh
+http://67.73.246.186:8000/play/a01e
 
 #EXTINF:-1 ,AIT
 http://93.152.174.144:4000/play/ait/index.m3u8
