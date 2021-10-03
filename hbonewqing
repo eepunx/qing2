@@ -740,7 +740,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN 2 USA
-#http://stream.tvtap.live:8081/live/espn2hd.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/espn2hd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPN U 
 #http://stream.tvtap.live:8081/live/espnu.stream/chunks.m3u8
@@ -749,7 +749,7 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 1 Latin
-http://45.179.140.242:8000/play/a0ie
+#http://45.179.140.242:8000/play/a0ie
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN 2 Latin 
 http://45.179.140.242:8000/play/a0id
 
