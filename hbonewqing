@@ -751,9 +751,9 @@ http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/1052
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_da/da0790e0b0e835c0bd0f0ce1eef69466.png" group-title="Qingsports",NFL
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 1 Latin
-http://45.179.140.242:8000/play/a0ie
+#http://45.179.140.242:8000/play/a0ie
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN 2 Latin 
-http://45.179.140.242:8000/play/a0id
+#http://45.179.140.242:8000/play/a0id
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
 
