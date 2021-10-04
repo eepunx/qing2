@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,espn int
-http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:-1 ,espn HD
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:-1 ,espn 2
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:-1 ,espn extra
+http://201.182.242.135:8002/play/a09t/index.m3u8
+#EXTINF:-1 ,espn hd
+http://201.182.242.135:8002/play/a09j/index.m3u8
+#EXTINF:-1 ,fx spo
+http://201.182.242.135:8002/play/a09e/index.m3u8
+
 #EXTINF:-1 ,atp
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 ,2
