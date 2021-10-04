@@ -90,24 +90,31 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="FOX/HBO/Movies English dub", Flix
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies English dub",MOVIES 1
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub", FOX HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies English dub",MOVIES 2
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfwJ92zT/bflix.png" group-title="Movies English dub",Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX HD
 #http://93.152.174.144:4000/play/foxpt/index.m3u8
 http://58.65.171.202:8000/play/3111/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub", FOX Life
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Life
 #http://93.152.174.144:4000/play/foxlifept/index.m3u8
 http://91.185.3.218:4000/play/417
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub", FOX Crime
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Crime
 http://185.236.229.21:9981/play/a066
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub", FOX Movies
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Movies
 http://185.236.229.21:9981/play/a039
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub", HBO Extreme 
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub", HBO Extreme 
 http://67.73.246.186:8000/play/a00r
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub",HBO 2
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub",HBO 2
 http://67.73.246.186:8000/play/a00p
-#EXTINF: -1 tvg-logo="" group-title="FOX/HBO/Movies English dub",HBO Plus
+#EXTINF: -1 tvg-logo="" group-title="Movies English dub",HBO+
 http://67.73.246.186:8000/play/a00q
 
 =====================
