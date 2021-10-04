@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+http://188.26.31.149:8000/play/a09b
 #EXTINF:-1 ,atp
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 ,2
