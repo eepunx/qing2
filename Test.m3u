@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,bnp
+http://91.92.108.254:8080/udp/239.10.10.80:5000
 #EXTINF:-1 ,2
 https://cloudserver.server-cdn-streaming.com/live-player/02/live.m3u8
 #EXTINF:-1 ,3
