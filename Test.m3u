@@ -1,314 +1,41 @@
 #EXTM3U
-#EXTINF:-1,extreme
+#EXTINF:-1,13 Street HD
+http://58.65.171.202:8000/play/15910/index.m3u8
+#EXTINF:-1,BBC Brit HD
+http://58.65.171.202:8000/play/2016/index.m3u8
+#EXTINF:-1,BBC Cbeebies
+http://58.65.171.202:8000/play/2009/index.m3u8
+#EXTINF:-1,DTX
+http://58.65.171.202:8000/play/15004/index.m3u8
+#EXTINF:-1,Discovery Science
+http://58.65.171.202:8000/play/10509/index.m3u8
+#EXTINF:-1,Disney Channel
+http://58.65.171.202:8000/play/7350/index.m3u8
+#EXTINF:-1,Disney Junior
+http://58.65.171.202:8000/play/10552/index.m3u8
+#EXTINF:-1,Extreme Sports
 http://58.65.171.202:8000/play/10506/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://67.73.246.186:8000/play/a016
-#EXTINF:-1,Fox Sports 3
-http://67.73.246.186:8000/play/a017
-
-
-#EXTINF:-1,FOX SPORTS HD
-http://189.91.128.146:4444/udp/227.10.20.116:1234
-#EXTINF:-1,FOX Sports 2
-http://189.91.128.146:4444/udp/227.10.20.132:1234
-
-
-
-
-#EXTINF:-1 ,atp
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 ,2
-https://cloudserver.server-cdn-streaming.com/live-player/02/live.m3u8
-#EXTINF:-1 ,3
-https://cloudserver.server-cdn-streaming.com/live-player/03/live.m3u8
-#EXTINF:-1 ,4
-https://cloudserver.server-cdn-streaming.com/live-player/04/live.m3u8
-#EXTINF:-1 ,5
-https://cloudserver.server-cdn-streaming.com/live-player/05/live.m3u8
-#EXTINF:-1 ,6
-https://cloudserver.server-cdn-streaming.com/live-player/06/live.m3u8
-#EXTINF:-1 ,7
-https://cloudserver.server-cdn-streaming.com/live-player/07/live.m3u8
-#EXTINF:-1 ,8
-https://cloudserver.server-cdn-streaming.com/live-player/08/live.m3u8
-#EXTINF:-1 ,9
-https://cloudserver.server-cdn-streaming.com/live-player/09/live.m3u8
-#EXTINF:-1 ,10
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
-#EXTINF:-1 ,11
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 ,12
-https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
-#EXTINF:-1 ,13
-https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
-#EXTINF:-1 ,14
-https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-#EXTINF:-1 ,15
-https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
-#EXTINF:-1 ,16
-https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-#EXTINF:-1 ,17
-https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-#EXTINF:-1 ,18
-https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
-#EXTINF:-1 ,19
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-#EXTINF:-1 ,20
-https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-#EXTINF:-1 ,21
-https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1 ,22
-https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-#EXTINF:-1 ,23
-https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
-#EXTINF:-1 ,24
-https://cloudserver.server-cdn-streaming.com/live-player/24/live.m3u8
-#EXTINF:-1 ,25
-https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
-#EXTINF:-1 ,26
-https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
-#EXTINF:-1 ,27
-https://cloudserver.server-cdn-streaming.com/live-player/27/live.m3u8
-#EXTINF:-1 ,28
-https://cloudserver.server-cdn-streaming.com/live-player/28/live.m3u8
-#EXTINF:-1 ,29
-https://cloudserver.server-cdn-streaming.com/live-player/29/live.m3u8
-#EXTINF:-1 ,30
-https://cloudserver.server-cdn-streaming.com/live-player/30/live.m3u8
-#EXTINF:-1 ,31
-https://cloudserver.server-cdn-streaming.com/live-player/31/live.m3u8
-#EXTINF:-1 ,32
-https://cloudserver.server-cdn-streaming.com/live-player/32/live.m3u8
-#EXTINF:-1 ,33
-https://cloudserver.server-cdn-streaming.com/live-player/33/live.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 , fox 1
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31156
-#EXTINF:-1 , dsny opo iki
-http://62.210.180.142/287994000027/287994000027/31156?checkedby:iptvcat.com&token=QhUMAhZZR1gbUFYEAlMOBgICAVBbBVdWBAYCAVpRB1MOBFNRUQEBBF9GTRJEFkpSVQxqX10RC1YGVQAEFBBEQVxFOwoBE19AClRTAANAFBVACFhTGwkAUwRXBwcBBwAAFRUUCgETX0AKXFEGFU4aUkwVUERXUl06UwFDW1tXEwhXQggPSRMKDGYABF1WDFwVDkMFFBURWBZHRg9cTV5dHhtVDRcXUBEHG15DAQ9RChUYQ1ZZTF1FF05GDxBxdhMeG1IcFwBfFgtWCkMKFRZLFRhDXEVmQVQWQxZQU1VXQxADFVRBSRMIA0E7Al9ZDF1UQAhaWEoRC0cCVBceGl9eXFBDCxE6QQwGG15DAQZRCg4WHA==
-#EXTINF:-1 , dsny
-http://94.61.44.29:7500/play/a04a/index.m3u8
-
-#EXTINF:-1 , disney
-http://67.73.246.186:8000/play/a00v
-#EXTINF:-1 , espn
-http://67.73.246.186:8000/play/a012
-#EXTINF:-1 , espn 2
-http://67.73.246.186:8000/play/a00u
-
-#EXTINF:-1,Fox Sports 1
-http://67.73.246.186:8000/play/a01e
-#EXTINF:-1,Fox Sports 2
-http://67.73.246.186:8000/play/a016
-#EXTINF:-1,Fox Sports 3
-http://67.73.246.186:8000/play/a017
-
-#EXTINF:-1 ,AIT
-http://93.152.174.144:4000/play/ait/index.m3u8
-#EXTINF:-1,ARIHANT HINDI
-http://93.152.174.144:4000/play/arihant/index.m3u8
-#EXTINF:-1,African Entertainment NG
-http://93.152.174.144:4000/play/african/index.m3u8
-#EXTINF:-1,Antena 3 HD SP
-http://93.152.174.144:4000/play/antena3sp/index.m3u8
-#EXTINF:-1,BBC2
-http://93.152.174.144:4000/play/bbc2/index.m3u8
-#EXTINF:-1,BEIN SPORT 1 AR - RT
-http://93.152.174.144:4000/play/bein1rt/index.m3u8
-#EXTINF:-1,BEINSPORTAR
-http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-#EXTINF:-1,BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,BTSPORT3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1,Bein LaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1,Bein Sport 1 AR
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1,Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,Bein Sport 2 AR
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1,Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1,Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1,Bein Sports 7 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1,CH 13 IL
-http://93.152.174.144:4000/play/ch13/index.m3u8
-#EXTINF:-1,CH. 12 - IL
-http://93.152.174.144:4000/play/ch12/index.m3u8
-#EXTINF:-1,CMTV PT
-http://93.152.174.144:4000/play/cmtv/index.m3u8
-#EXTINF:-1,Cartoon Network PT
-http://93.152.174.144:4000/play/cartnetworkpt/index.m3u8
-#EXTINF:-1,Channels 24 NG
-http://93.152.174.144:4000/play/ch24ng/index.m3u8
-#EXTINF:-1,Channels Television NG
-http://93.152.174.144:4000/play/chtelevision/index.m3u8
-#EXTINF:-1,Colors HINDI
-http://93.152.174.144:4000/play/colorsh/index.m3u8
-#EXTINF:-1,Comedy Channel NG
-http://93.152.174.144:4000/play/comedych/index.m3u8
-#EXTINF:-1,Cuatro HD SP
-http://93.152.174.144:4000/play/cuatrosp/index.m3u8
-#EXTINF:-1,DD BHARTI HINDI
-http://93.152.174.144:4000/play/bharti/index.m3u8
-#EXTINF:-1,DD BIHAR HINDI
-http://93.152.174.144:4000/play/bihar/index.m3u8
-#EXTINF:-1,Disney Channel PT
-http://93.152.174.144:4000/play/disneypt/index.m3u8
-#EXTINF:-1,Energy SP
-http://93.152.174.144:4000/play/energysp/index.m3u8
-#EXTINF:-1,Eurosport 1 HD SP
-http://93.152.174.144:4000/play/eurosport1sp/index.m3u8
-#EXTINF:-1,FDF SP
-http://93.152.174.144:4000/play/fdfsp/index.m3u8
-#EXTINF:-1,FOX HD PT
-http://93.152.174.144:4000/play/foxpt/index.m3u8
-#EXTINF:-1,FOX LIFE PT
-http://93.152.174.144:4000/play/foxlifept/index.m3u8
-#EXTINF:-1,FOX MOVIES PT
-http://93.152.174.144:4000/play/foxmoviespt/index.m3u8
-#EXTINF:-1,Film4
-http://93.152.174.144:4000/play/film4/index.m3u8
-#EXTINF:-1,HOT SPORT 1 IL
-http://93.152.174.144:4000/play/hotsport1/index.m3u8
-#EXTINF:-1,HOT SPORT 2 IL
-http://93.152.174.144:4000/play/hotsport2/index.m3u8
-#EXTINF:-1,HOT SPORT 3 IL
-http://93.152.174.144:4000/play/hotsport3/index.m3u8
-#EXTINF:-1,HOT SPORT 4 IL
-http://93.152.174.144:4000/play/hotsport4/index.m3u8
-#EXTINF:-1,HOT SPORT 5 IL
-http://93.152.174.144:4000/play/hotsport5/index.m3u8
-#EXTINF:-1,Hollywood HD PT
-http://93.152.174.144:4000/play/hollywoodpt/index.m3u8
-#EXTINF:-1,Hope Channel Africa NG
-http://93.152.174.144:4000/play/hopechannel/index.m3u8
-#EXTINF:-1,IL Sport 5 PLUS
-http://93.152.174.144:4000/play/s5plus/index.m3u8
-#EXTINF:-1,ITV1 - REAL TV
-http://93.152.174.144:4000/play/itv1real/index.m3u8
-#EXTINF:-1,ITV_1
-http://93.152.174.144:4000/play/itv1/index.m3u8
-#EXTINF:-1,ITV_2
-http://93.152.174.144:4000/play/itv2/index.m3u8
-#EXTINF:-1,India TV
-http://93.152.174.144:4000/play/indiatv/index.m3u8
-#EXTINF:-1,KAN 11 - IL
-http://93.152.174.144:4000/play/kan11/index.m3u8
-#EXTINF:-1,KINGS WORD INFO NG
-http://93.152.174.144:4000/play/kingsword/index.m3u8
-#EXTINF:-1,La 1 HD SP
-http://93.152.174.144:4000/play/la1sp/index.m3u8
-#EXTINF:-1,La 2 HD SP
-http://93.152.174.144:4000/play/la2sp/index.m3u8
-#EXTINF:-1,La Sexta SP
-http://93.152.174.144:4000/play/lasexta/index.m3u8
-#EXTINF:-1,Lagos TV NG
-http://93.152.174.144:4000/play/lagostv/index.m3u8
-#EXTINF:-1,NOVA SP
-http://93.152.174.144:4000/play/novasp/index.m3u8
-#EXTINF:-1,NTA NEWS NG
-http://93.152.174.144:4000/play/ntanews/index.m3u8
-#EXTINF:-1,NTV TR
-http://93.152.174.144:4000/play/ntv/index.m3u8
-#EXTINF:-1,Penthouse Gold
-http://93.152.174.144:4000/play/Penthouse/index.m3u8
-#EXTINF:-1,RTP 1 HD PT
-http://93.152.174.144:4000/play/rtp1/index.m3u8
-#EXTINF:-1,RTP 2 HD Pt
-http://93.152.174.144:4000/play/rtp2pt/index.m3u8
-#EXTINF:-1,RTP 3 pt
-http://93.152.174.144:4000/play/rtp3/index.m3u8
-#EXTINF:-1,Redlight
-http://93.152.174.144:4000/play/Redlight/index.m3u8
-#EXTINF:-1,SAHARA BIHAR HINDI
-http://93.152.174.144:4000/play/sahara/index.m3u8
-#EXTINF:-1,SIC Notiacias PT
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
-#EXTINF:-1,SIC PT
-http://93.152.174.144:4000/play/sic/index.m3u8
-#EXTINF:-1,SPORT TV 1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1,STAR GOLD HD HINDI
-http://93.152.174.144:4000/play/stargold/index.m3u8
-#EXTINF:-1,STAR PLUS HD HINDI
-http://93.152.174.144:4000/play/plushd/index.m3u8
-#EXTINF:-1,STAR UTSAV HINDI
-http://93.152.174.144:4000/play/utsav/index.m3u8
-#EXTINF:-1,STAR UTSAV MOVIES
-http://93.152.174.144:4000/play/utsavmovies/index.m3u8
-#EXTINF:-1,Sky Sports 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:-1,Sky Sports 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,Sky Sports 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1,Sky Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1,Sky Sports f1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1,Sony Pal HINDI
-http://93.152.174.144:4000/play/sonypal/index.m3u8
-#EXTINF:-1,Star Sports 1 IN
-http://93.152.174.144:4000/play/ss1in/index.m3u8
-#EXTINF:-1,Star Sports 2 IN
-http://93.152.174.144:4000/play/ss2in/index.m3u8
-#EXTINF:-1,Star Sports 3 IN
-http://93.152.174.144:4000/play/ss3in/index.m3u8
-#EXTINF:-1,Starlife OK IN
-http://93.152.174.144:4000/play/starlife/index.m3u8
-#EXTINF:-1,Sundance TV
-http://93.152.174.144:4000/play/a001/index.m3u8
-#EXTINF:-1,TV Continental NG
-http://93.152.174.144:4000/play/tvcontinental/index.m3u8
-#EXTINF:-1,TV GLOBO PT
-http://93.152.174.144:4000/play/globo/index.m3u8
-#EXTINF:-1,TVC NEWS NG
-http://93.152.174.144:4000/play/tvc/index.m3u8
-#EXTINF:-1,TVI 24 PT
-http://93.152.174.144:4000/play/tvi24/index.m3u8
-#EXTINF:-1,TVI PT
-http://93.152.174.144:4000/play/tvi/index.m3u8
-#EXTINF:-1,Telecinco HD SP
-http://93.152.174.144:4000/play/telecincosp/index.m3u8
-#EXTINF:-1,Ten Cricket IN
-http://93.152.174.144:4000/play/tencricket/index.m3u8
-#EXTINF:-1,Ten Golf IN HD
-http://93.152.174.144:4000/play/tengolf/index.m3u8
-#EXTINF:-1,WAP TV NG
-http://93.152.174.144:4000/play/wap/index.m3u8
-#EXTINF:-1,WWE NETWORK
-http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1,ZEE Anmol HINDI
-http://93.152.174.144:4000/play/zeeanmol/index.m3u8
-#EXTINF:-1,ZEE IN
-http://93.152.174.144:4000/play/zee/index.m3u8
-#EXTINF:-1,Zee Action IN
-http://93.152.174.144:4000/play/zeeaction/index.m3u8
-#EXTINF:-1,Zee Cinema HINDI
-http://93.152.174.144:4000/play/zeecinema/index.m3u8
+#EXTINF:-1,Fox HD
+http://58.65.171.202:8000/play/3111/index.m3u8
+#EXTINF:-1,Golf Channel
+http://58.65.171.202:8000/play/15907/index.m3u8
+#EXTINF:-1,HGTV
+http://58.65.171.202:8000/play/4334/index.m3u8
+#EXTINF:-1,History
+http://58.65.171.202:8000/play/3119/index.m3u8
+#EXTINF:-1,Jim Jam
+http://58.65.171.202:8000/play/7351/index.m3u8
+#EXTINF:-1,Love Nature
+http://58.65.171.202:8000/play/1103/index.m3u8
+#EXTINF:-1,MTV Live
+http://58.65.171.202:8000/play/1/index.m3u8
+#EXTINF:-1,Motor Trend
+http://58.65.171.202:8000/play/4321/index.m3u8
+#EXTINF:-1,My Zen 4K
+http://58.65.171.202:8000/play/1104/index.m3u8
+#EXTINF:-1,Nat Geo People
+http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1,Nick Jr
+http://58.65.171.202:8000/play/3/index.m3u8
+#EXTINF:-1,Travel
+http://58.65.171.202:8000/play/15832/index.m3u8
