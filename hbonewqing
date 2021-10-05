@@ -492,13 +492,16 @@ https://akamai.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", NatGeo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/national-geographic.png", National Geographic
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/national-geographic.png", National Geographic
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", NatGeo Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-people.png", NatGeo People
+http://58.65.171.202:8000/play/10503/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
