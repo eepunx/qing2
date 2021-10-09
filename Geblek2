@@ -224,11 +224,11 @@ https://live.ntdimg.com/sflive990/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CN/HK/Taiwan",CCTV 1
- 
+http://223.110.245.139/PLTV/4/224/3221225852/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CN/HK/Taiwan",CCTV 2
-
+http://223.110.245.139/PLTV/4/224/3221227412/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CN/HK/Taiwan",CCTV 3
-
+http://223.110.245.139/PLTV/4/2243221227206/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CN/HK/Taiwan",CCTV 4
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CN/HK/Taiwan",CCTV 5
