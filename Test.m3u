@@ -1,4 +1,267 @@
 #EXTM3U
+#EXTINF:-1,nba
+http://185.236.229.21:9981/play/a06c
+#EXTINF:-1,NBA TV
+http://82.114.87.150:8881/play/a0au/index.m3u8
+#EXTINF:-1,WWE NETWORK
+http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:-1 tvg-id="5e9ea649e54273786456d2cb2d80796a",ESPN 2 HD
+http://168.197.196.98:8000/play/a02b
+#EXTINF:-1 tvg-id="57ef787f9ea34287dff11bfd5f3f813e",ESPN 3 HD
+http://168.197.196.98:8000/play/a02c
+#EXTINF:-1 tvg-id="f9691756b8cb186a67514b5d661b47e2",ESPN Extra HD
+http://168.197.196.98:8000/play/a02d
+#EXTINF:-1 tvg-id="313cd60a7141fbbb46353ab67e8743a4",ESPN HD
+http://168.197.196.98:8000/play/a02e
+
+
+
+
+
+#EXTINF:-1 tvg-id="79f56f1aee5a5cf3d6f14e0446d35cc1",El Canal de las Estrellas
+http://168.197.196.98:8000/play/a026
+#EXTINF:-1 tvg-id="91f42a00c1b320c9c06b10697b2744f8",El Gourmet
+http://168.197.196.98:8000/play/a027
+#EXTINF:-1 tvg-id="c20a20041b1e2a7c63567247b5b4ddd6",Encuentro
+http://168.197.196.98:8000/play/a02a
+#EXTINF:-1 tvg-id="bef1919f403b72563557192b96aeceaf",FX HD
+http://168.197.196.98:8000/play/a02k
+#EXTINF:-1 tvg-id="28decc0a65e359c66051e681ea3b01dc",FX Movies HD
+http://168.197.196.98:8000/play/a02l
+#EXTINF:-1 tvg-id="be9a4913c9f4df43d789b4716366d223",Film & Arts HD
+http://168.197.196.98:8000/play/a02f
+#EXTINF:-1 tvg-id="b82f71cb463bc067217a0e5e965b921c",Fox Sports 2 HD
+http://168.197.196.98:8000/play/a02g
+#EXTINF:-1 tvg-id="779f0524fed0ea20e79b196b4780a394",Fox Sports 3 HD
+http://168.197.196.98:8000/play/a02h
+#EXTINF:-1 tvg-id="3ca73c856e236f02927e0975b6120382",Fox Sports HD
+http://168.197.196.98:8000/play/a02i
+#EXTINF:-1 tvg-id="185bb466bf58e92f29e31216ef8ffc29",Fox Sports Premium HD
+http://168.197.196.98:8000/play/a02j
+#EXTINF:-1 tvg-id="03fd30760957d315947c41d1ffd0106b",Galicia TV
+http://168.197.196.98:8000/play/a02m
+#EXTINF:-1 tvg-id="afed2b3c0d111d2d4b810a35a2ce3b58",Glitz
+http://168.197.196.98:8000/play/a02n
+#EXTINF:-1 tvg-id="5f46eb91d5b30ef20449a64e5fc2b132",HBO
+http://168.197.196.98:8000/play/a02o
+#EXTINF:-1 tvg-id="f6a4ed914f90b4ec5885923caca4e4c5",HBO 2
+http://168.197.196.98:8000/play/a02p
+#EXTINF:-1 tvg-id="1e2282281f0306fad9889cf86e5c04e6",HBO Family
+http://168.197.196.98:8000/play/a02q
+#EXTINF:-1 tvg-id="c6396a0e57ad2d09195e2e65bb81337f",HBO Plus
+http://168.197.196.98:8000/play/a02r
+#EXTINF:-1 tvg-id="02b221544abbeb06a4344b7bd4a16bf5",HGTV
+http://168.197.196.98:8000/play/a02s
+#EXTINF:-1 tvg-id="e91e8d83c3b0ac567ddcd2dd64ca44b9",HTV
+http://168.197.196.98:8000/play/a02v
+#EXTINF:-1 tvg-id="6cae86f11e16c2f7abb8a87fe96fd62d",History 2
+http://168.197.196.98:8000/play/a02t
+#EXTINF:-1 tvg-id="b2d2c8edf7ffb732301a2d2bcf995347",History Channel
+http://168.197.196.98:8000/play/a02u
+#EXTINF:-1 tvg-id="86e612d41ee06fe2a52058f1cf6151d8",I-Sat
+http://168.197.196.98:8000/play/a02w
+#EXTINF:-1 tvg-id="db4bff406393d85cc8ddcb1ab27829b9",La Nacion TV
+http://168.197.196.98:8000/play/a02x
+#EXTINF:-1 tvg-id="c1c344e947dfd8ab2d8e52020167e784",MTV
+http://168.197.196.98:8000/play/a02y
+#EXTINF:-1 tvg-id="af9075f507a039fbe23768ae304f2d17",Nat Geo HD
+http://168.197.196.98:8000/play/a02z
+#EXTINF:-1 tvg-id="64c14637f5ecbd457016a85d3b559435",Nat Geo Kids
+http://168.197.196.98:8000/play/a030
+#EXTINF:-1 tvg-id="04475da6483d1b7edfb7116722dfd493",Natgeo Wild HD
+http://168.197.196.98:8000/play/a031
+#EXTINF:-1 tvg-id="3003c418717878b307ce8c01d193ad7b",Nickelodeon
+http://168.197.196.98:8000/play/a032
+#EXTINF:-1 tvg-id="f9a6c38e7549646dd3b63354ac5843ce",Pakapaka
+http://168.197.196.98:8000/play/a033
+#EXTINF:-1 tvg-id="1e64781bb3ecb1c30ceea18373de3a28",Quiero Musica
+http://168.197.196.98:8000/play/a034
+#EXTINF:-1 tvg-id="516fe0776b87e85b1022ac0fea9cd2e2",Rural
+http://168.197.196.98:8000/play/a035
+#EXTINF:-1 tvg-id="644e334eaf37b23724b2836fa358b16a",Somos
+http://168.197.196.98:8000/play/a036
+#EXTINF:-1 tvg-id="e95d0be1c4f5a0a09933be947284f837",Sony HD
+http://168.197.196.98:8000/play/a037
+#EXTINF:-1 tvg-id="b77bf54a08387dc2a7fb474ac4815c29",Space HD
+http://168.197.196.98:8000/play/a038
+#EXTINF:-1 tvg-id="b25dd4272d4df7e4799f479ada9ceeee",Star Action HD
+http://168.197.196.98:8000/play/a039
+#EXTINF:-1 tvg-id="c2dd16b05ef114f732b24a1ead129112",Star Channel HD
+http://168.197.196.98:8000/play/a03a
+#EXTINF:-1 tvg-id="82ce2467037fc2b05f45b5631119fad2",Star Classics
+http://168.197.196.98:8000/play/a03b
+#EXTINF:-1 tvg-id="69f11557cb16c79dceac755237a9e5b6",Star Fun
+http://168.197.196.98:8000/play/a03c
+#EXTINF:-1 tvg-id="a8e4613012b11c779481ff20a98a7fa7",Star Hits
+http://168.197.196.98:8000/play/a03d
+#EXTINF:-1 tvg-id="3df82234ca1dfafe2085e1ddba7df93f",Star Life
+http://168.197.196.98:8000/play/a03e
+#EXTINF:-1 tvg-id="541f17f77f38efe2cd9f726fce98cdf9",Star Series
+http://168.197.196.98:8000/play/a03f
+#EXTINF:-1 tvg-id="ed5bb10e6286ddf0a8edf0dedf812a0e",Studio Universal
+http://168.197.196.98:8000/play/a03g
+#EXTINF:-1 tvg-id="98f99f8f7a5dd7d9d00d6dcadf22e207",SyFy
+http://168.197.196.98:8000/play/a03h
+#EXTINF:-1 tvg-id="65dd65cb8d61399b84765c3781fa93f8",TBS
+http://168.197.196.98:8000/play/a03i
+#EXTINF:-1 tvg-id="716037ab01d34d9e2e2179247330aebb",TCM
+http://168.197.196.98:8000/play/a03j
+#EXTINF:-1 tvg-id="c17e2d5f0028b683dc88a124fab00aaa",TN HD
+http://168.197.196.98:8000/play/a03l
+#EXTINF:-1 tvg-id="8b1a944c2c2cdb8d70ceaa06840a770d",TNT HD
+http://168.197.196.98:8000/play/a03m
+#EXTINF:-1 tvg-id="22247267916a329c1fe149bb0019bf22",TNT Series HD
+http://168.197.196.98:8000/play/a03n
+#EXTINF:-1 tvg-id="0c93f8c60c4205e5cd9617d138210e40",TNT Sports HD
+http://168.197.196.98:8000/play/a03o
+#EXTINF:-1 tvg-id="8a9d1ea7532cd485fc07a3bf21aef640",TV Publica HD
+http://168.197.196.98:8000/play/a03q
+#EXTINF:-1 tvg-id="3e03213831ef331b871e557db364c0b0",TVE
+http://168.197.196.98:8000/play/a03r
+#EXTINF:-1 tvg-id="cdb3b4d27ab16975a04d6298a1f278a4",Telefe HD
+http://168.197.196.98:8000/play/a03k
+#EXTINF:-1 tvg-id="7cd96439853548fd1810e48a7985e368",TruTV HD
+http://168.197.196.98:8000/play/a03p
+#EXTINF:-1 tvg-id="9910cd8b4253e7b881ff95c8bfac3cc6",TyC Sports HD
+http://168.197.196.98:8000/play/a03s
+#EXTINF:-1 tvg-id="20e58ffe06a561c9c2e0b51966de1bcc",Universal HD
+http://168.197.196.98:8000/play/a03t
+#EXTINF:-1 tvg-id="1ef94f2992ce99c6caf8222b1f098e54",Volver
+http://168.197.196.98:8000/play/a03u
+#EXTINF:-1 tvg-id="ad04236ded5fc839b51c1871cfb4570d",Warner Channel HD
+http://168.197.196.98:8000/play/a03w
+#EXTINF:-1 tvg-id="3f2a174d506a77f763ae6df9595f6435",ciudad magazine
+http://168.197.196.98:8000/play/a01r
+#EXTINF:-1 tvg-id="68ab227dc1996d8d94c523737828b2b3",el nueve HD
+http://168.197.196.98:8000/play/a028
+#EXTINF:-1 tvg-id="10988869f644cd5241eeda29bee8f91a",el trece HD
+http://168.197.196.98:8000/play/a029
+1	1	
+Arnoldas Kontrimas
+4 Okt. pukul 15:40  
+Nuostabus San Paulo TV Rinkinukas !!!!!
+
+#EXTM3U url-tvg="http://epg.greatiptv.cc/iptv.xml.gz"
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://189.91.128.146:4444/udp/227.10.20.80:1234
+Lihat lagi
+9		
+Playlist Finder
+2 Okt. pukul 18:04  
+#EXTM3U
+#EXTINF:-1,AE Mundo
+http://67.73.246.186:8000/play/a013
+#EXTINF:-1,AXN
+http://67.73.246.186:8000/play/a01s
+Lihat lagi
+20	2	
+Playlist Finder
+2 Okt. pukul 13:44  
+#EXTM3U
+#EXTINF:-1,AMC HD
+http://201.182.242.135:8002/play/a09s/index.m3u8
+#EXTINF:-1,America TV HD
+http://201.182.242.135:8002/play/a0af/index.m3u8
+Lihat lagi
+12		
+Playlist Finder
+1 Okt. pukul 22:29  
+#EXTM3U
+#EXTINF:-1,24 HORAS
+http://190.151.12.26:8000/play/a00m
+#EXTINF:-1,A&E HD
+http://190.151.12.26:8000/play/a02w
+Lihat lagi
+12		
+Playlist Finder
+1 Okt. pukul 22:08  
+#EXTM3U
+#EXTINF:-1,13-HD
+http://181.163.81.97:8000/play/a029/index.m3u8
+#EXTINF:-1,24 Horas
+http://181.163.81.97:8000/play/a03l/index.m3u8
+Lihat lagi
+8	1	
+Playlist Finder
+1 Okt. pukul 22:06  
+#EXTM3U
+#EXTINF:-1,13-HD
+http://181.163.81.40:8000/play/a029/index.m3u8
+#EXTINF:-1,24 Horas
+http://181.163.81.40:8000/play/a03l/index.m3u8
+Lihat lagi
+6		
+Playlist Finder
+1 Okt. pukul 22:04  
+#EXTM3U
+#EXTINF:-1,Animal Planet HD
+http://179.174.6.159:4000/play/a059/index.m3u8
+#EXTINF:-1,CNN Brasil HD
+http://179.174.6.159:4000/play/a07d/index.m3u8
+Lihat lagi
+8		
+Allied Moreno
+26 Sep. pukul 16:44  
+🇲🇽 MEXICO CHANNEL
+#EXTM3U
+#EXTINF:-1,HBO +
+http://201.168.205.12:8000/play/a0cv/index.m3u8
+#EXTINF:-1,HBO 2
+Lihat lagi
+11	3	
+Arnoldas Kontrimas
+26 Sep. pukul 9:59  
+Truputėlis vidutinės kokybės sporto iš Amerikos )
+#EXTM3U
+#EXTINF:0,ESPN
+http://201.168.205.12:8000/play/a092
+#EXTINF:0,ESPN 2
+Lihat lagi
+6	1	
+Playlist Finder
+24 Sep. pukul 22:32  
+#EXTM3U
+#EXTINF:-1,Canal 5 HD
+http://190.92.72.90:8005/play/a0ji/index.m3u8
+#EXTINF:-1,EBENEZER
+http://190.92.72.90:8005/play/a0kh/index.m3u8
+Lihat lagi
+11	6	
+Playlist Finder
+24 Sep. pukul 21:53  
+#EXTM3U
+#EXTINF:-1,A&E
+http://181.115.72.65:8099/play/a029/index.m3u8
+#EXTINF:-1,AMC
+http://181.115.72.65:8099/play/a01g/index.m3u8
+Lihat lagi
+12		
+Playlist Finder
+24 Sep. pukul 21:46  
+#EXTM3U
+#EXTINF:-1,A&E
+http://170.82.16.234:9981/play/a0be
+#EXTINF:-1,AMC
+http://170.82.16.234:9981/play/a094
+Lihat lagi
+5	2	
+Playlist Finder
+18 Sep. pukul 16:03  
+#EXTM3U
+#EXTINF:-1 group-title="ALL" ,AIT
+http://93.152.174.144:4000/play/ait/index.m3u8
+#EXTINF:-1,ARIHANT HINDI
+http://93.152.174.144:4000/play/arihant/index.m3u8
+Lihat lagi
+10	2	
+Tampilkan berikutnya
+
+Periksa konten menarik
+
+
+
+
+
 #EXTINF:-1,13 Street HD
 http://58.65.171.202:8000/play/15910/index.m3u8
 #EXTINF:-1,BBC Brit HD
