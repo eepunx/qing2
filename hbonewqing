@@ -300,6 +300,16 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/kix.png", KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="MOVIES 2",Astro Ria
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="MOVIES 2",Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxJ9W4ZSIG9nY8BiB8IlCyYYvokYhzhmqEGbQjkrcTQeoZOXw0sV1xCm486gZAcczuw&usqp=CAU" tvg-url="" group-title="MOVIES 2",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo = "", Sony One
@@ -414,6 +424,9 @@ http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Qingsports",beIN Sports 7
 #http://93.152.174.144:4000/play/bein7/index.m3u8
 
+#EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis 
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -441,6 +454,10 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="Qingsports",RTM Sports
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+A
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports 
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
