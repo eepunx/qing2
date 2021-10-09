@@ -215,13 +215,6 @@ http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人美東台
 https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人美西台
-https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人加西台
-https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人舊金山台
-https://live.ntdimg.com/sflive990/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CN/HK/Taiwan",CCTV 1
 http://223.110.245.139/PLTV/4/224/3221225852/index.m3u8
@@ -244,7 +237,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CN/HK/Taiwan",CCTV 8
 http://223.110.245.139/PLTV/4/224/3221227304/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CN/HK/Taiwan",CCTV 9
-
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CN/HK/Taiwan",CCTV 10
 http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CN/HK/Taiwan",CCTV 11
