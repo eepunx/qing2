@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,nba
-http://185.236.229.21:9981/play/a06c
+#EXTINF:-1,cctv1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,NBA TV
 http://82.114.87.150:8881/play/a0au/index.m3u8
 #EXTINF:-1,WWE NETWORK
