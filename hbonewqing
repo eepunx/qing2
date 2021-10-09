@@ -628,9 +628,33 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.easyatm.com.tw/img/c/3d0/nBnauM3XwATO3czN2YTN0YDOwMTM3kzM5MTOwADMwAzMxAzL2UzL0gzLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg" group-title="CN/HK/Taiwan", Macau TV
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", SET Taiwan
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
+
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#rtmp://59.124.75.153:1935/sat/tv551
+
+
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="CN/HK/Taiwan",TVB 
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://pbs.twimg.com/profile_images/767623619094523904/bFUdlYb__400x400.jpg" group-title="CN/HK/Taiwan",TVB Pearl
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="CN/HK/Taiwan",TVB XING HE
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="33.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1024px-RTHK_TV_33.svg.png" group-title="CN/HK/Taiwan",港台電視33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="CN/HK/Taiwan",星空衛視
+http://hdtv.haust.edu.cn/hls/startv.m3u8
+
+
+
+
+
 
 #EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Phoenix TV
 http://stream.guihet.com/t/ifeng2.php?id=2
@@ -646,35 +670,37 @@ https://cdn.hkdtmb.com/hls/77/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i1.wp.com/sipoftea.net/wp-content/uploads/2021/01/c806-iaqfzyv5108728.jpg", Jiangsu TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i1.wp.com/sipoftea.net/wp-content/uploads/2021/01/cn-hunan-tv-9260.jpg", HUNAN TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://i2.wp.com/sipoftea.net/wp-content/uploads/2021/01/dragontv-live.jpg", SHANGHAI DRAGON TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.megavision.net.id/storage/channel/logo/20210506150432_xingkong.jpg", XINGKONG TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", XINGKONG TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.tvchinese.net/uploads/tv/anhuitv.jpg", ANHUI TV
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
+#EXTINF:-1 tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/BTV.PNG" group-title="CN/HK/Taiwan",北京BEIJING
+http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
+
+
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Drama
-#http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Zonghe
-http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", SET Taiwan
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
+
 
 ///// LIFESTYLE /////
 
