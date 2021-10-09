@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1,cctv1
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,NBA TV
-http://82.114.87.150:8881/play/a0au/index.m3u8
-#EXTINF:-1,WWE NETWORK
-http://93.152.174.144:4000/play/WWE/index.m3u8
+
+#EXTINF:-1,ccccctttvvv1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="5e9ea649e54273786456d2cb2d80796a",ESPN 2 HD
 http://168.197.196.98:8000/play/a02b
 #EXTINF:-1 tvg-id="57ef787f9ea34287dff11bfd5f3f813e",ESPN 3 HD
