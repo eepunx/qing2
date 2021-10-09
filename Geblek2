@@ -123,10 +123,9 @@ http://67.73.246.186:8000/play/a00q
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Mediacorp_Suria_2015.jpg/revision/latest/scale-to-width-down/400?cb=20161026043330" group-title="Singapore",Suria
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-#https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 #EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Singapore",Vasantham
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
-#https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
+http://198.16.106.62/streams/d/Vasantham/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/MediaCorp_Channel_8_logo.jpg/revision/latest/scale-to-width-down/300?cb=20101105105951" group-title="Singapore",Channel 8
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
