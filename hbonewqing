@@ -653,7 +653,7 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.easyatm.com.tw/img/c/3d0/nBnauM3XwATO3czN2YTN0YDOwMTM3kzM5MTOwADMwAzMxAzL2UzL0gzLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg" group-title="CN/HK/Taiwan", Macau TV
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", SET Taiwan
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.tvchinese.net/uploads/tv/settaiwan.jpg", SET Taiwan
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
