@@ -211,8 +211,8 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://w7.pngwing.com/pngs/757/383/png-transparent-pbs-kids-children-s-television-series-klru-green-kids-logo-television-child-leave-the-material.png",PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nextanimationstudio.com/wp-content/uploads/2017/12/toon-goggles-logo-768x272.jpg",Toon Goggle
-https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nextanimationstudio.com/wp-content/uploads/2017/12/toon-goggles-logo-768x272.jpg",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
