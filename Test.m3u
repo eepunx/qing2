@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:-1,501
-http://110.93.240.198:8000/play/a08b
+#EXTINF:-1,NBA
+http://dimapro.cz:8080/00:1A:79:17:06:83/fukssjslsljls/63912
 #EXTINF:-1,cctv22
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=10&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
