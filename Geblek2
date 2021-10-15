@@ -170,7 +170,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",KOK
 #https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fusionfighting.co.uk/wp-content/uploads/2019/05/mmatv_logo.png" group-title="Qingsports",MMA TV
+#EXTINF:-1 tvg-logo="http://www.fusionfighting.co.uk/wp-content/uploads/2019/05/mmatv_logo.png" group-title="Qingsports",MMA
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportcartagena.es/media/sportcartagena/images/2017/06/03/2017060300262490946.jpg" group-title="Qingsports",BARCA TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Qingsports",REAL MADRID TV
