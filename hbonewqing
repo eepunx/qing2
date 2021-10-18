@@ -624,7 +624,7 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" tvg-url="" group-title="CN/HK/Taiwan",Astro 华丽台 (TVB Jade)
 
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" tvg-url="" group-title="CN/HK/Taiwan",Astro 小太阳 (Astro Xiao Tai Yang)
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="CN/HK/Taiwan",欢喜台 (Hua Hee Dai)
 
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" tvg-url="" group-title="CN/HK/Taiwan",Astro AEC
@@ -650,7 +650,7 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.easyatm.com.tw/img/c/3d0/nBnauM3XwATO3czN2YTN0YDOwMTM3kzM5MTOwADMwAzMxAzL2UzL0gzLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg" group-title="CN/HK/Taiwan", Macau TV
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
-#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="https://www.tvchinese.net/uploads/tv/settaiwan.jpg", SET Taiwan
+#EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg", SET Taiwan
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
@@ -714,10 +714,6 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#EXTINF:-1 tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/BTV.PNG" group-title="CN/HK/Taiwan",北京BEIJING
-http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
-
 
 #EXTINF:-1 group-title="CN/HK/Taiwan" tvg-logo ="", ELTA Drama
 #
