@@ -283,32 +283,19 @@ http://wms.klikhost.com/bayutv/live/playlist.m3u8
 http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYiZew0.png" group-title="Lokal/Digital",BeTV
-http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/chunklist_w1794621549.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="Lokal/Digital",BMS TV
-http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/305Uxpi.png" group-title="Lokal/Digital",Cahaya Banten TV
 http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/305Uxpi.png" group-title="Lokal/Digital",Cahaya Banten TV
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJBWVBVD/CITRA-TV.png" group-title="Lokal/Digital",Citra TV
-http://122.248.43.138:1935/ch28/myStream/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png" group-title="Lokal/Digital",DESA TV
 http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQsDnNN/DUTA-TV.png" group-title="Lokal/Digital",DUTA TV
-http://thepwfamily.com/stream/dutatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rSJNNsg/FAJAR-TV.png" group-title="Lokal/Digital",Fajar tv
 http://122.248.43.138:1935/ch27/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QmBgimx.png" group-title="Lokal/Digital",Gemilang TV
-https://5d63d49f772ce.streamlock.net/gemilangtv/rtmp.stream_360p/playlist.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="Lokal/Digital",JAMBI TV
 http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 
@@ -319,14 +306,8 @@ http://122.248.43.138:1935/ch6/myStream/live.m3u8
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png" group-title="Lokal/Digital",Lombok TV
-http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png" group-title="Lokal/Digital",PADANG TV
-http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRXw8KJK/PAL-TV.png" group-title="Lokal/Digital",PAL TV
-https://5d63d49f772ce.streamlock.net/paltv/rtmp.stream_360p/chunklist_w1008809263.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrsTJH9G/PKTV-BONTANG.png" group-title="Lokal/Digital",PKTV Bontang
 rtmp://wowza60.indostreamserver.com:1935/pktv/live
 
@@ -334,8 +315,6 @@ rtmp://wowza60.indostreamserver.com:1935/pktv/live
 http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6JQLKZC/RB-TV.png" group-title="Lokal/Digital",RB TV
-https://5d63d49f772ce.streamlock.net/rbtv/rtmp.stream_360p/chunklist_w738345439.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="Lokal/Digital",Riau TV
 http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 
