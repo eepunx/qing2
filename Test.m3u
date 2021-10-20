@@ -1,85 +1,42 @@
 
 #EXTM3U
-#EXTINF:-1,dreamwork 
-http://188.26.31.149:8000/play/a098
-#EXTINF:-1,(CH-02) Sky Sports Golf HD
-http://203.101.170.220:8000/play/a002
-
-#EXTINF:-1,(CH-12) Sky Sports Cricket HD (01-188)
-http://110.93.240.198:8000/play/a06g
-#EXTINF:-1,(CH-01) SuperSports Laliga HD (01-154)
-http://110.93.240.198:8000/play/a04f
-#EXTINF:-1,(CH-02) SuperSports Premiere League HD (01-157)
-http://110.93.240.198:8000/play/a072
-#EXTINF:-1,(CH-03) SuperSports Cricket HD (01-150)
-http://110.93.240.198:8000/play/a04g
-#EXTINF:-1,(CH-04) SuperSports Grandstand HD (01-153)
-http://110.93.240.198:8000/play/a04h
-#EXTINF:-1,(CH-05) SuperSports Action HD (01-148)
-http://110.93.240.198:8000/play/a07n
-#EXTINF:-1,(CH-06) UFC HD (01-13)
-http://110.93.240.198:8000/play/a07p
-#EXTINF:-1,(CH-07) Outside tv HD (01-14)
-http://110.93.240.198:8000/play/a06o
-#EXTINF:-1,(CH-08) Outdoor HD (01-15)
-http://110.93.240.198:8000/play/a04n
-#EXTINF:-1,(CH-09) HGTV HD (01-16)
-http://110.93.240.198:8000/play/a07z
-#EXTINF:-1,(CH-10) Sky Sports F1 HD (01-190)
-http://110.93.240.198:8000/play/a04v
-#EXTINF:-1,(CH-11) Sky Sports Golf HD (189)
-http://110.93.240.198:8000/play/a05q
-#EXTINF:-1,(CH-13) Viasat Film Hits HD (01-544)
-http://110.93.240.198:8000/play/a094
-#EXTINF:-1,(CH-14) Viasat Film Action HD (01-20)
-http://110.93.240.198:8000/play/a06w
-#EXTINF:-1,(CH-15) Viasat Film Premiere HD (01-21)
-http://110.93.240.198:8000/play/a06x
-#EXTINF:-1,(CH-16) Sky Cinema Hits HD (01-199) (Paramount)
-http://110.93.240.198:8000/play/a06i
-#EXTINF:-1,(CH-17) Sky Cinema Premiere HD (01-196) (M-Movies)
-http://110.93.240.198:8000/play/a06j
-#EXTINF:-1,(CH-18) Sky Cinema Thriller HD (01-204) (Movies First)
-http://110.93.240.198:8000/play/a07v
-#EXTINF:-1,(CH-19) World Fishing HD (01-25)
-http://110.93.240.198:8000/play/a07i
-#EXTINF:-1,(CH-20) MotorTrend HD (01-26)
-http://110.93.240.198:8000/play/a06f
-#EXTINF:-1,(CH-21) History HD (01-27)
-http://110.93.240.198:8000/play/a07u
-#EXTINF:-1,(CH-23) Travel HD (01-30)
-http://110.93.240.198:8000/play/a06h
-#EXTINF:-1,(CH-24) Food Network HD (01-31)
-http://110.93.240.198:8000/play/a07y
-#EXTINF:-1,(CH-25) Discovery Family HD (01-32)
-http://110.93.240.198:8000/play/a07w
-#EXTINF:-1,(CH-26) Hallmark Channel HD (01-33) (X-Action)
-http://110.93.240.198:8000/play/a07x
-#EXTINF:-1,(CH-27) Fight Network HD (01-35) (02-487)
-http://110.93.240.198:8000/play/a061
-#EXTINF:-1,(CH-28) TLC HD (01-38)
-http://110.93.240.198:8000/play/a073
-#EXTINF:-1,(CH-29) FOX News HD (01-36)
-http://110.93.240.198:8000/play/a07t
-#EXTINF:-1,(CH-30) OSN Movies First HD (01-40)
-http://110.93.240.198:8000/play/a074
-#EXTINF:-1,(CH-31) Sportsman Channel HD (01-542)
-http://110.93.240.198:8000/play/a08z
-#EXTINF:-1,(CH-32) FOX Comedy (01-417)
-http://110.93.240.198:8000/play/a08k
-#EXTINF:-1,(CH-33) Comedy Central HD (01-60)
-http://110.93.240.198:8000/play/a08m
-#EXTINF:-1,(CH-34) HBO HD
-http://110.93.240.198:8000/play/a08x
-#EXTINF:-1,(CH-35) AXN Movies HD (01-473)
-http://110.93.240.198:8000/play/a08t
-#EXTINF:-1,(CH-36) AXN White HD (01-474)
-http://110.93.240.198:8000/play/a08u
-#EXTINF:-1,(CH-37) OSN Living HD (01-50)
-http://110.93.240.198:8000/play/a08a
-#EXTINF:-1,(CH-37) TNT HD
-http://110.93.240.198:8000/play/a089
-#EXTINF:-1,(CH-38) NBC Golf HD (01-470)
-http://110.93.240.198:8000/play/a08c
-#EXTINF:-1,(CH-39) FOX Sports 501 HD
-http://110.93.240.198:8000/play/a08b
+#EXTINF:-1,13 Street HD
+http://58.65.171.202:8000/play/15910/index.m3u8
+#EXTINF:-1,BBC Brit HD
+http://58.65.171.202:8000/play/2016/index.m3u8
+#EXTINF:-1,BBC Cbeebies
+http://58.65.171.202:8000/play/2009/index.m3u8
+#EXTINF:-1,DTX
+http://58.65.171.202:8000/play/15004/index.m3u8
+#EXTINF:-1,Discovery Science
+http://58.65.171.202:8000/play/10509/index.m3u8
+#EXTINF:-1,Disney Channel
+http://58.65.171.202:8000/play/7350/index.m3u8
+#EXTINF:-1,Disney Junior
+http://58.65.171.202:8000/play/10552/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://58.65.171.202:8000/play/10506/index.m3u8
+#EXTINF:-1,Fox HD
+http://58.65.171.202:8000/play/3111/index.m3u8
+#EXTINF:-1,Golf Channel
+http://58.65.171.202:8000/play/15907/index.m3u8
+#EXTINF:-1,HGTV
+http://58.65.171.202:8000/play/4334/index.m3u8
+#EXTINF:-1,History
+http://58.65.171.202:8000/play/3119/index.m3u8
+#EXTINF:-1,Jim Jam
+http://58.65.171.202:8000/play/7351/index.m3u8
+#EXTINF:-1,Love Nature
+http://58.65.171.202:8000/play/1103/index.m3u8
+#EXTINF:-1,MTV Live
+http://58.65.171.202:8000/play/1/index.m3u8
+#EXTINF:-1,Motor Trend
+http://58.65.171.202:8000/play/4321/index.m3u8
+#EXTINF:-1,My Zen 4K
+http://58.65.171.202:8000/play/1104/index.m3u8
+#EXTINF:-1,Nat Geo People
+http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1,Nick Jr
+http://58.65.171.202:8000/play/3/index.m3u8
+#EXTINF:-1,Travel
+http://58.65.171.202:8000/play/15832/index.m3u8
