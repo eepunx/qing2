@@ -1,5 +1,14 @@
 
 #EXTM3U
+
+#EXTINF:-1,Eurosport 1
+http://161.230.155.157:8000/play/a02j
+#EXTINF:-1,Eurosport 1 HD
+http://161.230.155.157:8000/play/a02p
+#EXTINF:-1,Eurosport 2
+http://161.230.155.157:8000/play/a01t
+
+
 #EXTINF:-1,13 Street HD
 http://58.65.171.202:8000/play/15910/index.m3u8
 #EXTINF:-1,BBC Brit HD
