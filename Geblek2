@@ -199,6 +199,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 =====KIDS======
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon 
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
+
 #EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2018/11/Polsat_JimJam.png" group-title="Kids",Jim Jam
 http://58.65.171.202:8000/play/7351/index.m3u8
 
