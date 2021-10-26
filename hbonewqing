@@ -482,6 +482,9 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
+#EXTINF:-1   group-title="Knowledge" tvg-logo="https://i.imgur.com/6uHly3s.png" ,Discovery Turbo
+https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/bbc-earth.png", BBC EARTH
