@@ -263,6 +263,31 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="Music",CCTV 15
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 
+#EXTINF:-1 group-title="MUSIC",MALEO TV
+#http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",AmoyHouseRelax
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png",MolaHitsTV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="MUSIC",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/2nibdiv5u2yknr5/mtv.png?dl=1", MTV
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/8pg88ft35titc45/cmc.png?dl=1", CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/ckxdfn7jpz5gmal/reload.jpg?dl=1", Reload Radio MUSIK Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/yzylq3toxh3thiv/9xm.jpg?dl=1", 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/e5986bm04j1hgxh/karaoke.jpg?dl=1", KARAOKE
+https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.dropbox.com/s/abjyad8c144hvb4/POP%20MUSIK.png?dl=1", POP MUSIK
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/JhwBz7Cw/images-15.png", Vevo HipHop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+
+
 
 
 /////knowlegde////
