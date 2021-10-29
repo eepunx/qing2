@@ -461,11 +461,13 @@ http://58.65.171.202:8000/play/10506/index.m3u8
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Qingsports",Fox Sports Latin
-http://45.232.178.10:8000/play/a02k
+http://186.10.123.146:1080/play/a02k
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 Latin
-http://45.232.178.10:8000/play/a035
+http://186.10.123.146:1080/play/a033
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3 Latin
-http://45.232.178.10:8000/play/a036
+http://186.10.123.146:1080/play/a034
+#EXTINF:-1 group-title="Qingsports" tvg-logo="", Fox Sports Premium Latin
+http://186.10.123.146:1080/play/a00c
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE UK
 http://93.152.174.144:4000/play/WWE/index.m3u8
