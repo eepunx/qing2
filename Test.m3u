@@ -1,5 +1,10 @@
 
 #EXTM3U
+#EXTINF:-1,FOX SPORTS
+http://201.159.95.38:8000/play/a00k/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://201.159.95.38:8000/play/a00j/index.m3u8
+
 
 #EXTINF:-1,Eurosport 1
 http://161.230.155.157:8000/play/a02j
