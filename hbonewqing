@@ -386,9 +386,9 @@ https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sports 1 test
-https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-#http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sports 1 Fr
+#https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png", beIN Sports 1
 https://cloudserver.server-cdn-streaming.com/live-player/05/live.m3u8
@@ -404,19 +404,12 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Qingsports",beIN Sports 4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5
-#qhttp://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-http://s1.urhdiptv.net:8080/mma2/45212156/80099
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6
-#http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-#ahttp://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6
-http://s1.urhdiptv.net:8080/mma2/45212156/80098
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Qingsports",beIN Sports 7
-http://s1.urhdiptv.net:8080/mma2/45212156/80097
 
 #EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis 
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -437,9 +430,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA
-#http://flussonicusa.bdcabletv.com/bdcuserdiy/Fn7nAkLJlw/197 
-http://s1.urhdiptv.net:8080/mma2/45212156/80090
-
+ 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
@@ -447,13 +438,12 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="Qingsports",RTM Sports
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-A
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports 
 http://213.151.233.20:8000/dna-6071-tv-pc/hls/4005v110.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports FHD
-http://58.65.171.202:8000/play/10506/index.m3u8
+#http://58.65.171.202:8000/play/10506/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -470,8 +460,8 @@ http://186.10.123.146:1080/play/a034
 http://186.10.123.146:1080/play/a00c
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE UK
-http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="Qingsports",WWE US
+#http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="Qingsports",WWE 
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Qingsports", UFC
@@ -815,14 +805,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 1
-http://186.10.123.146:1080/play/a02l
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN 2
-http://186.10.123.146:1080/play/a02m
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPN U 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_da/da0790e0b0e835c0bd0f0ce1eef69466.png" group-title="Qingsports",NFL
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 1 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN 2
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Qingsports",Sony Ten 2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Qingsports",Sony Ten 3
