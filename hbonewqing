@@ -198,12 +198,13 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 ///// KIDS /////
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Jr USA
-#http://stream.tvtap.live:8081/live/disneyjr.stream/chunks.m3u8
-http://58.65.171.202:8000/play/10552/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney 
-#http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
-http://58.65.171.202:8000/play/7350/index.m3u8
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
+#http://58.65.171.202:8000/play/7350/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Jr 
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#http://58.65.171.202:8000/play/10552/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS", ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
