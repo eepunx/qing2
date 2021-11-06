@@ -404,8 +404,8 @@ https://www.dropbox.com/s/8ms7e91p7apoa95/champion3.m3u8?dl=1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png", beIN Sports 1
-https://cloudserver.server-cdn-streaming.com/live-player/05/live.m3u8
-
+#https://cloudserver.server-cdn-streaming.com/live-player/05/live.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/14066007/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -469,7 +469,7 @@ http://186.10.123.146:1080/play/a02k
 http://186.10.123.146:1080/play/a033
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3 Latin
 http://186.10.123.146:1080/play/a034
-#EXTINF:-1 group-title="Qingsports" tvg-logo="", Fox Sports Premium Latin
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13", Fox Sports Premium Latin
 http://186.10.123.146:1080/play/a00c
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE UK
