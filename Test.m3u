@@ -1,4 +1,9 @@
 
+#EXTINF:-1,Disney Channel
+http://190.14.233.53:8000/play/a00t
+#EXTINF:-1,Disney Jr
+http://190.14.233.53:8000/play/a00r
+
 #EXTINF:-1,Sport TV NBA
 http://161.230.155.157:8000/play/a02s
 #EXTINF:-1,NBA TV HD
