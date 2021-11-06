@@ -376,9 +376,9 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 ///// SPORTS /////
 
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="Qingsports",SPOTV 
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1 tvg-logo="https://kortb.net/uploads/tv_image/spotv2.png" group-title="Qingsports",SPOTV 2
-https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport HD
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
@@ -815,5 +815,11 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_da/da0790e0b0e835c0bd0f0ce1eef69466.png" group-title="Qingsports",NFL
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Qingsports",Sony Ten 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Qingsports",Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-six.png" group-title="Qingsports",Sony Ten 3
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
