@@ -1,3 +1,19 @@
+#EXTINF:-1,ftv ms
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1,ftv dy
+http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
+#EXTINF:-1,ftv msxw
+http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
+#EXTINF:-1,ftv tw
+http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
+#EXTINF:-1,ftv zy
+http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
+#EXTINF:-1,ftv yj
+http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
+#EXTINF:-1,ftv ly
+http://seb.sason.top/ptv/ftv.php?id=ly
+
+
 
 #EXTINF:-1,Disney Channel
 http://190.14.233.53:8000/play/a00t
