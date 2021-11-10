@@ -1,5 +1,29 @@
-#EXTINF:-1,ftv ms
+#EXTINF:-1,ftv 51
 rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1,ftv 2
+rtmp://59.124.75.157/sat/tv052
+#EXTINF:-1,ftv 3
+rtmp://59.124.75.157/sat/tv053
+#EXTINF:-1,ftv 4
+rtmp://59.124.75.157/sat/tv054
+#EXTINF:-1,ftv 5
+rtmp://59.124.75.157/sat/tv055
+#EXTINF:-1,ftv 6
+rtmp://59.124.75.157/sat/tv056
+#EXTINF:-1,ftv 7
+rtmp://59.124.75.157/sat/tv057
+#EXTINF:-1,ftv 8
+rtmp://59.124.75.157/sat/tv058
+#EXTINF:-1,ftv 9
+rtmp://59.124.75.157/sat/tv059
+#EXTINF:-1,ftv 10
+rtmp://59.124.75.157/sat/tv060
+
+
+
+
+
+
 #EXTINF:-1,ftv dy
 http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
 #EXTINF:-1,ftv msxw
