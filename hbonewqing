@@ -663,16 +663,16 @@ http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="CN/HK/Taiwan", FTV HD 民視
 rtmp://59.124.75.157/sat/tv051
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="CN/HK/Taiwan", (test) FTV TW 民視台灣台
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="CN/HK/Taiwan", FTV TW 民視台灣台
 http://seb.sason.top/ptv/ftv.php?id=tw#http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
 #EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5151R6070-L.jpg" group-title="CN/HK/Taiwan", FTV Travel 民視旅游台 
-#http://seb.sason.top/ptv/ftv.php?id=ly
+http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 tvg-logo="https://img.itver.cc/tv/FMTV.jpg" group-title="CN/HK/Taiwan", FTV One 民視第一台
-#http://seb.sason.top/ptv/ftv.php?id=dy
+http://seb.sason.top/ptv/ftv.php?id=dy#http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBWc1kRi22al_QfSk_sSBZa8qZATTvg_nIxUT-u6MV4r4bYMDz_LdcYLR4rz_Evq780A&usqp=CAU" group-title="CN/HK/Taiwan", FTV Shows 民視綜藝台
-#http://seb.sason.top/ptv/ftv.php?id=zy
+http://seb.sason.top/ptv/ftv.php?id=zy#http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAWfaY8oGPhKToVcCMi3xwxdyvO6HvD6SGFM0h0yBmKPKdTP3ghvPBTqKN7OYPDaTIw&usqp=CAU" group-title="CN/HK/Taiwan", FTV Movies 民視影劇台
-#http://seb.sason.top/ptv/ftv.php?id=yj
+http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
 #EXTINF:-1 tvg-logo="https://sme.moeasmea.gov.tw/startup/thumbnail.php?src=upload/rmap/201907/01629_0711prBnL8.png&w=351&zc=1" group-title="CN/HK/Taiwan", FTV News
 #http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.easyatm.com.tw/img/c/3d0/nBnauM3XwATO3czN2YTN0YDOwMTM3kzM5MTOwADMwAzMxAzL2UzL0gzLt92YucmbvRWdo5Cd0FmLxE2LvoDc0RHa.jpg" group-title="CN/HK/Taiwan", Macau TV
@@ -683,8 +683,6 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=50522914
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-
-
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="CN/HK/Taiwan",TVB 
 https://cdn.hkdtmb.com/hls/81/index.m3u8
