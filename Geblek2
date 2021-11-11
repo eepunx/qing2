@@ -164,6 +164,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",Sky Sports F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.doyleracing.com.au/assets/images/doyle/links/9.png",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://images2-corsedimoto.gazzettaobjects.it/wp-content/uploads/2019/01/09/17/00/djbly_pv4aaffh9-e1532603976148-375x289.jpg" group-title="Qingsports",Sky Sports Motogpqa
 #EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",Sky Sports Cricket
