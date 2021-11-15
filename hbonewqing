@@ -199,12 +199,10 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 ///// KIDS /////
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney 
-http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
-#http://58.65.171.202:8000/play/7350/index.m3u8
+http://58.65.171.202:8000/play/7350/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Jr 
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
-#http://58.65.171.202:8000/play/10552/index.m3u8
+http://58.65.171.202:8000/play/10552/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS", ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -500,10 +498,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/6uHly3s.png" ,Discovery Turbo
-https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,Discovery Science
-https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
