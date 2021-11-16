@@ -71,23 +71,23 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 ======HBO backup======
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO", HBO backup
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO backup",Red By HBO
 #https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="HBO",HBO Hits backup
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="HBO",HBO Signature backup
-https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
+#https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="HBO",HBO Family backup
-https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="HBO", Cinemax backup
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 ==========FoX===========
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies English dub",MOVIES CN
@@ -99,13 +99,13 @@ http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 
 #EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX HD
 #http://93.152.174.144:4000/play/foxpt/index.m3u8
-http://58.65.171.202:8000/play/3111/index.m3u8
+#http://58.65.171.202:8000/play/3111/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Life
-http://93.152.174.144:4000/play/foxlifept/index.m3u8
+#http://93.152.174.144:4000/play/foxlifept/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Crime
 
 #EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Movies
-http://185.236.229.21:9981/play/a039
+
 #EXTINF: -1 tvg-logo="" group-title="Movies English dub", HBO Extreme 
 
 #EXTINF: -1 tvg-logo="" group-title="Movies English dub",HBO 2
