@@ -637,8 +637,10 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 ///// ENTERTAINMENT /////
 
 
-#EXTINF:-1 tvg-logo="" group-title="Entertaiment & Lifestyle", Sony GEM
-#EXTINF:-1 tvg-logo="" group-title="Entertaiment & Lifestyle", K plus
+#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony GEM
+https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142713
+#EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png" group-title="Entertaiment & Lifestyle", K plus
+https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142711
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
