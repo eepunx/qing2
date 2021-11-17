@@ -148,7 +148,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 ==========================
 
 ==========SPROT===========
-#EXTINF:-1 tvg-logo="" group-title="Qingsports", FREE Sports 
+#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Qingsports", FREE Sports 
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1070.png" group-title="Qingsports",True Sp 1
