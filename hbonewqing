@@ -419,8 +419,8 @@ http://88.barouhn.xyz.global.prod.fastly.net/live/14066007/index.m3u8
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Qingsports",beIN Sports 3
-#http://93.152.174.144:4000/play/bein3fr/index.m3u8
-http://c10.anfalrou.xyz/live/62464521/index.m3u8
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Qingsports",beIN Sports 4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5
@@ -656,15 +656,10 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="CN/HK/Taiwan",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="CN/HK/Taiwan",Astro Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroWahLaiToi.my" tvg-name="Astro Wah Lai Toi" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" tvg-url="" group-title="CN/HK/Taiwan",Astro 华丽台 (TVB Jade)
-
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" tvg-url="" group-title="CN/HK/Taiwan",Astro 小太阳 (Astro Xiao Tai Yang)
-
 #EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="CN/HK/Taiwan",欢喜台 (Hua Hee Dai)
-
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" tvg-url="" group-title="CN/HK/Taiwan",Astro AEC
-http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iQIYI 爱奇艺" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" tvg-url="" group-title="CN/HK/Taiwan",iQIYI 爱奇艺
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 
