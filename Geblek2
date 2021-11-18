@@ -314,6 +314,8 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png" group-title="Knowledge", Outdoor Channel
 https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png" group-title="Knowledge", Outdoor Channel FHD
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Entertaiment & Lifestyle",Roku New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
