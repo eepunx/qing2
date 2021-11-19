@@ -1,25 +1,16 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/MNCSports_(2020).png/200px-MNCSports_(2020).png" group-title="Qingsports",hboooo
-https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/MNCSports_(2020).png/200px-MNCSports_(2020).png" group-title="Qingsports",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports3.mpd
+#EXTINF:-1, aniplus
+http://nontonbola.my.id/hustv/aniplus.m3u8?punyanya=tvkimobile
+#EXTINF:-1, champion1 
+http://nontonbola.my.id/nonton/asda2sd6asd2asdasd56as5d.m3u8
+#EXTINF:-1, champion2
+http://nontonbola.my.id/nonton/dsgfghfjhg6j526ghj6g5gj6.m3u8
+#EXTINF:-1, champion3
+http://nontonbola.my.id/nonton/3iyu4892sjknglfsui5ry32o.m3u8
+#EXTINF:-1, NBA tv
+https://nontonbola.my.id/hustv/nba.m3u8?punyanya=tvkimobile
+#EXTINF:-1,ANIPLUS 
+http://nontonbola.my.id/hustv/aniplus.m3u8?punyanya=tvkimobile
 
 
-#EXTINF:-1,12428 FOX ACTION
-http://170.239.150.222:8000/play/a098/index.m3u8
-#EXTINF:-1,12428 FOX CINEMA
-http://170.239.150.222:8000/play/a099/index.m3u8
-#EXTINF:-1,12428 FOX LIFE
-http://170.239.150.222:8000/play/a08y/index.m3u8
-#EXTINF:-1,12428 FOX MOVIES
-http://170.239.150.222:8000/play/a097/index.m3u8
-#EXTINF:-1,12428 FOX SPORT
-http://170.239.150.222:8000/play/a08z/index.m3u8
-#EXTINF:-1,12428 FOX SPORT 2
-http://170.239.150.222:8000/play/a090/index.m3u8
-#EXTINF:-1,12428 HBO XTREME
-http://170.239.150.222:8000/play/a096/index.m3u8
+
