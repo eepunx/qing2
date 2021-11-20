@@ -3,8 +3,8 @@
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225845/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,beijing 北京卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225833/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1, champion2
-http://nontonbola.my.id/nonton/dsgfghfjhg6j526ghj6g5gj6.m3u8
+#EXTINF:-1, Hainan TV 海南卫视 8M1080
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1, champion3
 http://nontonbola.my.id/nonton/3iyu4892sjknglfsui5ry32o.m3u8
 #EXTINF:-1, NBA tv
