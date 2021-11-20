@@ -223,8 +223,10 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CN/HK/Taiwan", Shejiang TV 浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225845/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/beijingtv.jpg" group-title="CN/HK/Taiwan", Beijing TV 北京卫视 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/beijingv.jpg" group-title="CN/HK/Taiwan", Beijing TV 北京卫视 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225833/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CN/HK/Taiwan", Hainan TV 海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="33.HK" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_75rthk_31.jpg" group-title="CN/HK/Taiwan",RTHK31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
