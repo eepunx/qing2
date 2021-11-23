@@ -645,12 +645,13 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony GEM
 https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142713
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony Gem usee
-http://iptvid.my.id/ch/sgem.m3u8?by=iptv_id
+#http://iptvid.my.id/ch/sgem.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png" group-title="Entertaiment & Lifestyle", K+
 https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142711
-#EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png" group-title="Entertaiment & Lifestyle", K+ usee
-http://iptvid.my.id/ch/kplus.m3u8?by=iptv_id
+#EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png" group-title="Entertaiment & Lifestyle", K+ dens
+#http://iptvid.my.id/ch/kplus.m3u8?by=iptv_id
+http://210.210.155.35/session/f71619a8-9658-11ea-934d-b82a72d63267/uq2663/h/h08/02.m3u8<
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
