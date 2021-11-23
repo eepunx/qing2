@@ -1,16 +1,8 @@
 
-#EXTINF:-1,shejiang 浙江卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225845/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,beijing 北京卫视 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225833/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1, Hainan TV 海南卫视 8M1080
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1, champion3
-http://nontonbola.my.id/nonton/3iyu4892sjknglfsui5ry32o.m3u8
-#EXTINF:-1, NBA tv
-https://nontonbola.my.id/hustv/nba.m3u8?punyanya=tvkimobile
-#EXTINF:-1,ANIPLUS 
-http://nontonbola.my.id/hustv/aniplus.m3u8?punyanya=tvkimobile
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
+#https://liveanevia.mncnow.id/live/eds/HBO3/sa_dash_vmx/HBO3.mpd
 
-
-
+#EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO (maintenance) 
+http://50.7.161.82:8278/streams/d/Hbo2/playlist.m3u8
