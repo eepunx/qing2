@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
-#https://liveanevia.mncnow.id/live/eds/HBO3/sa_dash_vmx/HBO3.mpd
+https://liveanevia.mncnow.id/live/eds/HBO3/sa_dash_vmx/HBO3.mpd
 
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO (maintenance) 
 http://50.7.161.82:8278/streams/d/Hbo2/playlist.m3u8
