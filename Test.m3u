@@ -1,24 +1,35 @@
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO zoom
-https://raw.githubusercontent.com/eepunx/qing2/master/hboqing.m3u8
+#EXTINF:-1,Fox Sports
+http://45.225.95.170:8001/play/a05a
+#EXTINF:-1,Fox Sports 1
+http://45.225.95.170:8001/play/a04t
+#EXTINF:-1,Fox Sports 2
+http://45.225.95.170:8001/play/a05o
+#EXTINF:-1,Fox Sports 3
+http://45.225.95.170:8001/play/a05p
+
+#EXTINF:-1,FOX Sports HD
+http://livetv2021.site:8080/9897876765/6576567/98
+#EXTINF:-1,FOX Sports 2 HD
+http://livetv2021.site:8080/9897876765/6576567/100
+
+#EXTINF:-1,Eurosport 1 Deutschland
+http://213.30.29.171:8000/play/a06g
+
+#EXTINF:-1,Eurosport 1 HD
+http://85.241.119.59:8080/play/a00a/index.m3u8
+#EXTINF:-1,FOX Crime
+http://85.241.119.59:8080/play/a024/index.m3u8
+#EXTINF:-1,FOX HD
+http://85.241.119.59:8080/play/a00e/index.m3u8
+#EXTINF:-1,FOX Life
+http://85.241.119.59:8080/play/a023/index.m3u8
+#EXTINF:-1,FOX Movies HD
+http://85.241.119.59:8080/play/a022/index.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
-https://liveanevia.mncnow.id/live/eds/HBO3/sa_dash_vmx/HBO3.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO0
-https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO1
-https://liveanevia.mncnow.id/live/eds/HBO1/sa_dash_vmx/HBO1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO2
-https://liveanevia.mncnow.id/live/eds/hbo2/sa_dash_vmx/hbo2.mpd
+
+
