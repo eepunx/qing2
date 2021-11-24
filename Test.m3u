@@ -12,8 +12,8 @@ http://livetv2021.site:8080/9897876765/6576567/98
 #EXTINF:-1,FOX Sports 2 HD
 http://livetv2021.site:8080/9897876765/6576567/100
 
-#EXTINF:-1,Eurosport 1 Deutschland
-http://213.30.29.171:8000/play/a06g
+#EXTINF:-1,Eurosport hf
+http://195.206.253.157:9301/eurosport
 
 #EXTINF:-1,Eurosport 1 HD
 http://85.241.119.59:8080/play/a00a/index.m3u8
