@@ -324,6 +324,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/kix.png", KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+
+#EXTINF:-1 tvg-logo="http://dmtn.tv:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="MOVIES 2",FX CHANNEL HD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241109.ts
+
+
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="MOVIES 2",Astro Ria
 #http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
