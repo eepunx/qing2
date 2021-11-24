@@ -134,9 +134,14 @@ https://dik.si/SEhbo?shareext.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO EU
-http://45.236.175.21:8000/play/a02d
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250960.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO 2 HD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250961.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO Max
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250962.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO PLUS FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250963.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
