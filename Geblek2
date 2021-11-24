@@ -228,12 +228,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8#http://
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhen.jpg" group-title="CN/HK/Taiwan", Shenzhen TV
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225843/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", Shandong TV
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8#http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227185/index.m3u8#http://183.207.249.104/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8#http://hdtv.haust.edu.cn/hls/hls68a52.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", Guangdong TV
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil#http://hdtv.haust.edu.cn/hls/hls70a19.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan", Liaoning TV
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225843/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 #EXTINF:-1 tvg-id="33.HK" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_75rthk_31.jpg" group-title="CN/HK/Taiwan",RTHK31
