@@ -396,7 +396,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport HD
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+http://195.206.253.157:9301/eurosport
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1
 #https://95-213-224-179.livesports24.online/eurosport1ru.m3u8
 http://213.30.29.171:8000/play/a06g
@@ -460,8 +461,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
 http://91.236.251.50:8090/play/a00o
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA usee
-http://iptvid.my.id/ch/nba.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
@@ -494,9 +493,9 @@ http://45.225.95.170:8001/play/a05o
 http://45.225.95.170:8001/play/a05p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE UK
-#http://93.152.174.144:4000/play/WWE/index.m3u8
+http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="Qingsports",WWE 
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Qingsports", UFC
 
