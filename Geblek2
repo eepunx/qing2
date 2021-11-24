@@ -167,7 +167,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.doyleracing.com.au/assets/images/doyle/links/9.png",RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2-corsedimoto.gazzettaobjects.it/wp-content/uploads/2019/01/09/17/00/djbly_pv4aaffh9-e1532603976148-375x289.jpg" group-title="Qingsports",Sky Sports Motogpqa
 #EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
@@ -205,7 +204,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/E/egg-network-logo-6B5185A3CF-seeklogo.com.png" group-title="Qingsports",EGG Network
 #http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-http://iptvid.my.id/ch/egg.m3u8?by=iptv_id
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241080.ts
 =====KIDS======
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon 
