@@ -134,16 +134,6 @@ https://dik.si/SEhbo?shareext.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250960.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO 2 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250961.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO Max
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250962.ts
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HBO",HBO PLUS FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/250963.ts
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO"tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png", HBO FAMILY
@@ -226,7 +216,6 @@ http://58.65.171.202:8000/play/7350/index.m3u8
 http://58.65.171.202:8000/play/10552/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS", ASTRO CERIA
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241058.ts
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://w7.pngwing.com/pngs/757/383/png-transparent-pbs-kids-children-s-television-series-klru-green-kids-logo-television-child-leave-the-material.png",PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -246,7 +235,6 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr
 #https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241064.ts
 
 #EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV Nick Jr. (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -323,11 +311,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/kix.png", KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
-
-#EXTINF:-1 tvg-logo="http://dmtn.tv:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="MOVIES 2",FX CHANNEL HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241109.ts
-
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="MOVIES 2",Astro Ria
 #http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
@@ -411,7 +394,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport HD
 #https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-http://195.206.253.157:9301/eurosport#http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240977.ts
+http://195.206.253.157:9301/eurosport
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1
 https://95-213-224-179.livesports24.online/eurosport1ru.m3u8#http://213.30.29.171:8000/play/a06g#http://185.129.1.242:80/eurosport1/mpegts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2
@@ -435,10 +418,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN Sports
 #https://cloudserver.server-cdn-streaming.com/live-player/05/live.m3u8
 #http://88.barouhn.xyz.global.prod.fastly.net/live/14066007/index.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240975.ts
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN SPORTS 1 
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/1882.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -484,7 +465,7 @@ http://91.236.251.50:8090/play/a00o
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240967.ts
+
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="Qingsports",RTM Sports
 #http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
@@ -511,7 +492,7 @@ http://45.225.95.170:8001/play/a05o
 http://45.225.95.170:8001/play/a05p
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Qingsports", WWE UK
-http://93.152.174.144:4000/play/WWE/index.m3u8#http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240978.ts
+http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="Qingsports",WWE 
 
 
@@ -694,7 +675,7 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" tvg-url="" group-title="CN/HK/Taiwan",欢喜台 (Hua Hee Dai)
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" tvg-url="" group-title="CN/HK/Taiwan",Astro AEC
 #EXTINF:-1 tvg-id="" tvg-name="iQIYI 爱奇艺" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" tvg-url="" group-title="CN/HK/Taiwan",iQIYI 爱奇艺
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241007.ts
+
 #http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 
 
@@ -867,13 +848,13 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
 #https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153768.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Qingsports",Sony Ten 2
 #https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153770.ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Qingsports",Sony Ten 3
 #https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153772.ts
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Qingsports",Sony Six
 #https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
