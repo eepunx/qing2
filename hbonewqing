@@ -391,6 +391,11 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///// SPORTS /////
 
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",usee sp 1 (test) 
+http://51.79.147.95:8080/live/atuk/atuk/360.m3u8?token=SRdZUUFeRwtAAVBbWQ4BA1RWAVNQXldSVwRfBwJWAlILAggCU1NWBFcQHhoSTUVTA15sDwZECwBVVhUWRRJVRm1cVRIIFFYCUwQQFENNXlsHEQlWTkRBWgdEAxYCVwEFEBkTVUpCAEMMU15nBVxBXwFWEVwME11fT0RWWm8FVVlTW1USCBRVE04QW0sRGw1YF19fSkAEWEcRB01RElsSBgcDBBIeFAZeF1xGShgbDRQrdxFKQANJRwYISl1fDxIOEFgCRQoUSRMLQW1KBEpDRAdSXgMQRAsRU0QVFl0ASGtRWl9eV1URWA1cQRpbGwYUThFeCQwPRVwROUldVEMKFgAGBAkQSw==
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",usee sp 2 (test) 
+http://51.79.147.95:8080/live/atuk/atuk/361.m3u8?token=SRdZUUFeRwtAVAsNUFsCBFYAAlFXXlQCBVEKDQVWUlAFDFQAUVVTU1YQHhoSTUVTA15sDwZECwBVVxUWRRJVRm1cVRIIFFYCUwQQFENNXlsHEQlWTkRBWgdEAxYCVwEHEBkTVUpCAEMMU15nBVxBXwFWEVwME11fT0RWWm8FVVlTW1USCBRVE04QW0sRGw1YF19fSkAEWEcRB01RElsSBgoABxIeFAZeF1xGShgbDRQrdxFKQANJRwYISl1fDxIOEFgCRQoUSRMLQW1KBEpDRAdSXgMQRAsRU0QVFl0ASGtRWl9eV1URWA1cQRpbGwYUThFeCQwPRVwROUldVEMKFgAGBgIQSw==
+
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="Qingsports",SPOTV 
 #https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1 tvg-logo="https://kortb.net/uploads/tv_image/spotv2.png" group-title="Qingsports",SPOTV 2
