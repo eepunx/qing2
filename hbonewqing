@@ -724,17 +724,11 @@ http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="CN/HK/Taiwan",TVB
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-
+http://sytv.xtvants.fun/mytv.php?id=tvbsjc&token=free&user=free
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/7/73/TVB_Logo.png/revision/latest?cb=20191220185029" tvg-name="" group-title="CN/HK/Taiwan",TVB 
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://pbs.twimg.com/profile_images/767623619094523904/bFUdlYb__400x400.jpg" group-title="CN/HK/Taiwan",TVB Pearl
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" group-title="CN/HK/Taiwan",TVB XING HE
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-
 
 #EXTINF:-1   tvg-logo="" group-title="CN/HK/Taiwan",Phoenix TV
 http://stream.guihet.com/t/ifeng2.php?id=2
