@@ -448,7 +448,7 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/35.ts
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/78385.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Qingsports",beIN Sports 7
 
 #EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis 
