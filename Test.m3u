@@ -1,55 +1,18 @@
-#EXTINF:-1,apalagi ini
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-#EXTINF:-1,Nick Jr via mac
-http://195.181.169.66:99/Nickjr_west_kids/index.m3u8?token=0228518d549ff3de9734c9974a67aaba
-
-#EXTINF:-1,Nick jr 2
-http://45.225.95.170:8001/play/a079
-#EXTINF:-1,Nick jr 3
-http://38.131.11.250:1080/play/a026
-#EXTINF:-1,Nick jr 4
-http://201.111.178.167:8000/play/a06i/index.m3u8
-#EXTINF:-1,Nick jr 5
-
-
-
-
-
-
-
-
-#EXTINF:-1,Fox Sports
-http://45.225.95.170:8001/play/a05a
-#EXTINF:-1,Fox Sports 1
-http://45.225.95.170:8001/play/a04t
-#EXTINF:-1,Fox Sports 2
-http://45.225.95.170:8001/play/a05o
-#EXTINF:-1,Fox Sports 3
-http://45.225.95.170:8001/play/a05p
-
-#EXTINF:-1,FOX Sports HD
-http://livetv2021.site:8080/9897876765/6576567/98
+EXTINF:-1,ESPN 3 HD
+http://45.225.95.170:8000/play/a038
+#EXTINF:-1,ESPN EXTRA HD
+http://45.225.95.170:8000/play/a00u
+#EXTINF:-1,ESPN HD
+http://45.225.95.170:8000/play/a00g
+#EXTINF:-1,El Gourmet HD
+http://45.225.95.170:8000/play/a03i
 #EXTINF:-1,FOX Sports 2 HD
-http://livetv2021.site:8080/9897876765/6576567/100
-
-#EXTINF:-1,Eurosport hf
-http://195.206.253.157:9301/eurosport
-
-#EXTINF:-1,Eurosport 1 HD
-http://85.241.119.59:8080/play/a00a/index.m3u8
-#EXTINF:-1,FOX Crime
-http://85.241.119.59:8080/play/a024/index.m3u8
-#EXTINF:-1,FOX HD
-http://85.241.119.59:8080/play/a00e/index.m3u8
-#EXTINF:-1,FOX Life
-http://85.241.119.59:8080/play/a023/index.m3u8
-#EXTINF:-1,FOX Movies HD
-http://85.241.119.59:8080/play/a022/index.m3u8
-
-
-
-
-
-
-
-
+http://45.225.95.170:8000/play/a00a
+#EXTINF:-1,FX HD
+http://45.225.95.170:8000/play/a00f
+#EXTINF:-1,FX Movies HD
+http://45.225.95.170:8000/play/a017
+#EXTINF:-1,Food Network HD
+http://45.225.95.170:8000/play/a027
+#EXTINF:-1,Fox Sports 1 HD
+http://45.225.95.170:8000/play/a01n
