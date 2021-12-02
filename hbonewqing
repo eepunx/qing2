@@ -156,6 +156,10 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png", CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
+
+
+
+
 ///Backup///
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO", HBO backup
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO backup",Red By HBO
@@ -279,6 +283,115 @@ http://dituduhmaling.xyz/US33T4/MPD/master.php?id=dunialain
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 
+/////DVBT2/////
+
+
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   RCTI DIGITAL
+http://lnk.ec/RCTIT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   INDOSIAR DIGITAL
+http://lnk.ec/INDOSIART2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   ANTV DIGITAL
+http://lnk.ec/ANTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   GTV DIGITAL
+http://lnk.ec/GTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   MNCTV DIGITAL
+http://lnk.ec/MNCTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   INEWS DIGITAL
+http://lnk.ec/INEWST2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   TVONE DIGITAL
+http://lnk.ec/TVONET2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   SCTV DIGITAL
+http://lnk.ec/SCTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   KOMPAS TV FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=9pKfnVuvLbw
+http://lnk.ec/KOMPAST2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   METROTV FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=ylzbp6FusfY
+http://lnk.ec/METROT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   METROTV News FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=6prCG7s964s
+http://lnk.ec/METROHDT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   TRANSTV HD DIGITAL
+http://lnk.ec/TRANSTVHDT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   TRANS7 HD DIGITAL
+http://lnk.ec/TRANS7HDT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   BANDARTV DIGITAL
+http://lnk.ec/BADARTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   BBS JKT DIGITAL
+http://lnk.ec/BBSJKTT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   BNTV DIGITAL
+http://lnk.ec/BNTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   CNBC DIGITAL
+http://lnk.ec/CNBCT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   DAAITV DIGITAL
+http://lnk.ec/DAAITVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   ELSHINTA DIGITAL
+http://lnk.ec/ELSHINTAT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   GRAMEDIATV DIGITAL
+http://lnk.ec/GRAMEDIATVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   INSPIRASITV DIGITAL
+http://lnk.ec/INSPIRASITVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   JAKTV DIGITAL
+http://lnk.ec/JAKTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   JPMTV DIGITAL
+http://lnk.ec/JPMTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   KTV DIGITAL
+http://lnk.ec/KTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   MAGNA CH DIGITAL
+http://lnk.ec/MAGNACHT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   MYTV DIGITAL
+http://lnk.ec/MYTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", NET FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=JYhn33UbxbE
+http://lnk.ec/NET.T2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   NUSANTARATV DIGITAL
+http://lnk.ec/NTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   MENTARITV DIGITAL
+http://lnk.ec/MENTARIT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   0 CHANNEL DIGITAL
+http://lnk.ec/OCHANELT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   RTV DIGITAL
+http://lnk.ec/RTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   RTV2 DIGITAL
+http://lnk.ec/RTV2T2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   SPORTONE DIGITAL
+http://lnk.ec/SPORT1T2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   SMILETV DIGITAL
+http://lnk.ec/SMILETVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   INDOSIAR DIGITAL
+http://lnk.ec/INDOSIART2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   ANTV DIGITAL
+http://lnk.ec/ANTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   GTV DIGITAL
+http://lnk.ec/GTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   MNCTV DIGITAL
+http://lnk.ec/MNCTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   INEWS DIGITAL
+http://lnk.ec/INEWST2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   TVONE DIGITAL
+http://lnk.ec/TVONET2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA",   SCTV DIGITAL
+http://lnk.ec/SCTVT2?syarman.m3u8
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", TVRI FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=6-Q6xY6Q_lY
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", NASA 1 FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=nA9UZF-SZoQ
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", NASA 2 FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=21X5lGlDOfg
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", MEKKAH FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=LCp4yyY5O6o
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", Madinah FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=gUC3TjCrwRw
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", TATBIYAH SUNNAH FHD DIGITAL
+https://api.mbed.cc/ytlive.m3u8?id=g8O2VnIi0aQ
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", SUNNAH TV FHD DIGITAL
+https://api.mbed.cc/ytlive.m3u8?id=31bABOFB_ZE
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", MEDS TV FHD DIGITAL
+https://api.mbed.cc/ytlive.m3u8?id=czqL5NzekX4
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", GAZWAH FHD DIGITAL
+https://api.mbed.cc/ytlive.m3u8?id=R9ZtykoBzoU
+#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="DVB-T2 INDONESIA", BOLLYWOOD MUSIC FHD DIGITAL
+https://api.mbed.cc/youtube/live.m3u8?id=-qrgKOkboBo
 
 ///// MOVIES /////
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="MOVIES 2", Dunia Lain
