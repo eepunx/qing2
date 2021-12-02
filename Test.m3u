@@ -1,16 +1,8 @@
-#EXTINF:-1,FOX Sports 2 HD
-http://45.225.95.170:8000/play/a00a
-#EXTINF:-1,FX HD
-http://45.225.95.170:8000/play/a00f
-#EXTINF:-1,FX Movies HD
-http://45.225.95.170:8000/play/a017
-#EXTINF:-1,Food Network HD
-http://45.225.95.170:8000/play/a027
-#EXTINF:-1,Fox Sports 1 HD
-http://45.225.95.170:8000/play/a01n
-#EXTINF:-1,Fox Sports 3 HD
-http://45.225.95.170:8000/play/a039
-#EXTINF:-1,Golden HD
-http://45.225.95.170:8000/play/a01z
-#EXTINF:-1,HBO HD
-http://45.225.95.170:8000/play/a00w
+#EXTINF:-1,Fox Sports
+http://45.181.122.17:8000/play/a00o
+#EXTINF:-1,Fox Sports 1
+http://45.181.122.17:8000/play/a01c
+#EXTINF:-1,Fox Sports 2
+http://45.181.122.17:8000/play/a00z
+#EXTINF:-1,Fox Sports 3
+http://45.181.122.17:8000/play/a010
