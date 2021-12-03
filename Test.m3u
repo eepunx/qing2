@@ -8,3 +8,10 @@ http://181.78.22.214:8000/play/a00j
 http://181.78.22.214:8000/play/a01v
 #EXTINF:-1,Fox Sports 3
 http://181.78.22.214:8000/play/a01w
+
+#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
+http://167.249.31.57:8000/play/a0at
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
+http://167.249.31.57:8000/play/a07k
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
+http://167.249.31.57:8000/play/foxsports3hd
