@@ -1,17 +1,6 @@
 #EXTINF:-1,Fox Sports
-http://181.78.22.214:8000/play/a00y
-#EXTINF:-1,Fox Sports 1
-http://181.78.22.214:8000/play/a016
-#EXTINF:-1,Fox Sports 1
-http://181.78.22.214:8000/play/a00j
-#EXTINF:-1,Fox Sports 2
-http://181.78.22.214:8000/play/a01v
-#EXTINF:-1,Fox Sports 3
-http://181.78.22.214:8000/play/a01w
-
-#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
-http://167.249.31.57:8000/play/a0at
-#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
-http://167.249.31.57:8000/play/a07k
-#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
-http://167.249.31.57:8000/play/foxsports3hd
+http://190.4.0.200:3333/play/a03j/index.m3u8
+#EXTINF:-1,FOX Sports 2
+http://190.4.0.200:3333/play/a02d/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://190.4.0.200:3333/play/a01p/index.m3u8
