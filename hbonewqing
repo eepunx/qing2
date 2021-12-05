@@ -238,6 +238,10 @@ https://api.mbed.cc/youtube/live.m3u8?id=-qrgKOkboBo
 #http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://dik.si/SEhbo?shareext.m3u8
 
+#EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO IDN 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7067
+
+
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
@@ -346,9 +350,9 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr (test) 
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr IDN
 #https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-http://starshare.live:8080/live/O9TlZ9s8tf/gTiWkAtUnP/206.ts?play_token=W9GugSCeY7
+http://iptv.tvmalaysia.cc:80/174726/174726/6813
 
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids
 https://c.mjh.nz/101002210222/
