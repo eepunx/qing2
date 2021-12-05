@@ -121,109 +121,20 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_shareExt_b3884000_sle
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
+//RCTI+
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="RCTI+",RCTI
+https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
-/////DVBT2/////
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="RCTI+",MNC TV
+https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="RCTI+",GTV
+https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   RCTI DIGITAL
-http://lnk.ec/RCTIT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   MNCTV DIGITAL
-http://lnk.ec/MNCTVT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   GTV DIGITAL
-http://lnk.ec/GTVT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   INEWS DIGITAL
-http://lnk.ec/INEWST2?qing.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   INDOSIAR DIGITAL
-http://lnk.ec/INDOSIART2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   SCTV DIGITAL
-http://lnk.ec/SCTVT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   TRANSTV HD DIGITAL
-http://lnk.ec/TRANSTVHDT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   TRANS7 HD DIGITAL
-http://lnk.ec/TRANS7HDT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", NET FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=JYhn33UbxbE
-http://lnk.ec/NET.T2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   ANTV DIGITAL
-http://lnk.ec/ANTVT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   RTV DIGITAL
-http://lnk.ec/RTVT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   RTV2 DIGITAL
-http://lnk.ec/RTV2T2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   0 CHANNEL DIGITAL
-http://lnk.ec/OCHANELT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", TVRI FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=6-Q6xY6Q_lY
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   SPORTONE DIGITAL
-http://lnk.ec/SPORT1T2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="Qingsports",   SPORTONE DIGITAL
-http://lnk.ec/SPORT1T2?syarman.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   TVONE DIGITAL
-http://lnk.ec/TVONET2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   KOMPAS TV FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=9pKfnVuvLbw
-http://lnk.ec/KOMPAST2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   METROTV FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=ylzbp6FusfY
-http://lnk.ec/METROT2?qing.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   METROTV News FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=6prCG7s964s
-http://lnk.ec/METROHDT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   CNBC DIGITAL
-http://lnk.ec/CNBCT2?qing.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   BANDARTV DIGITAL
-http://lnk.ec/BADARTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   BBS JKT DIGITAL
-http://lnk.ec/BBSJKTT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   BNTV DIGITAL
-http://lnk.ec/BNTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   DAAITV DIGITAL
-http://lnk.ec/DAAITVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   ELSHINTA DIGITAL
-http://lnk.ec/ELSHINTAT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   GRAMEDIATV DIGITAL
-http://lnk.ec/GRAMEDIATVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   INSPIRASITV DIGITAL
-http://lnk.ec/INSPIRASITVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   JAKTV DIGITAL
-http://lnk.ec/JAKTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   JPMTV DIGITAL
-http://lnk.ec/JPMTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   KTV DIGITAL
-http://lnk.ec/KTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   MAGNA CH DIGITAL
-http://lnk.ec/MAGNACHT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   MYTV DIGITAL
-http://lnk.ec/MYTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   NUSANTARATV DIGITAL
-http://lnk.ec/NTVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   MENTARITV DIGITAL
-http://lnk.ec/MENTARIT2?syarman.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩",   SMILETV DIGITAL
-http://lnk.ec/SMILETVT2?syarman.m3u8
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", NASA 1 FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=nA9UZF-SZoQ
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", NASA 2 FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=21X5lGlDOfg
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", MEKKAH FHD DIGITAL
-https://api.mbed.cc/ytlive.m3u8?id=UFnul0LFdOw
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", Madinah FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=gUC3TjCrwRw
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", TATBIYAH SUNNAH FHD DIGITAL
-https://api.mbed.cc/ytlive.m3u8?id=g8O2VnIi0aQ
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", SUNNAH TV FHD DIGITAL
-https://api.mbed.cc/ytlive.m3u8?id=31bABOFB_ZE
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", MEDS TV FHD DIGITAL
-https://api.mbed.cc/ytlive.m3u8?id=czqL5NzekX4
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", GAZWAH FHD DIGITAL
-https://api.mbed.cc/ytlive.m3u8?id=R9ZtykoBzoU
-#EXTINF:-1 tvg-logo="https://www.displaydaily.com/images/Logos/D-F/DVBT2.jpeg" group-title="jalur DVB-T2/TV Digital🇮🇩", BOLLYWOOD MUSIC FHD DIGITAL
-https://api.mbed.cc/youtube/live.m3u8?id=-qrgKOkboBo
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="RCTI+",iNEWS (AFF) 
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Qingsports",iNEWS (AFF) 
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 
 
