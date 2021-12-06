@@ -1,8 +1,5 @@
-#EXTINF:-1,Fox Sports
-http://190.4.0.200:3333/play/a03j/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://190.4.0.200:3333/play/a02d/index.m3u8
-#EXTINF:-1,Fox Sport 3
-http://190.4.0.200:3333/play/a01p/index.m3u8
-#EXTINF:-1,nick
-https://raw.githubusercontent.com/eepunx/qing2/master/Nickjr.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr IDN test
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
