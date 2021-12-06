@@ -142,16 +142,12 @@ https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO
-#https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+#EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO test
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO IDN 
 #http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://dik.si/SEhbo?shareext.m3u8
-
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO IDN 2
-http://iptv.tvmalaysia.cc:80/174726/174726/7067
-
 
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -261,8 +257,10 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr IDN test
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nick Jr US
-#https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16281.ts
 
 #EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Pluto TV Nick Jr. (720p)
@@ -447,9 +445,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sports 1 test
+https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sports 1
-#https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-#http://93.152.174.144:4000/play/bein1fr/index.m3u8
 https://apac-live-ovt.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=ip=114.10.7.252~st=1586822400~exp=1635832135~acl=/*~id=VID_uH3ZHF6qMOyu736WzRj5GYCXl7g=~hmac=60b57efe4a42062f3fa7211784619d8758dae0ff8d9799711e55e381b833e0f7 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", beIN Sports
