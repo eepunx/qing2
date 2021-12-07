@@ -98,6 +98,13 @@ https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.imgur.com/b7DOpCH.png", TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
+#EXTINF:-1 tvg-logo="https://majalahponsel.net/wp-content/uploads/2018/08/Frekuensi-O-Channel-Terbaru-Di-Satelit-Palapa-D.png" group-title="Indonesia 🇮🇩",  O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://cdn-2.tstatic.net/tribunnews/foto/bank/images/logo-bri-liga-1-2021.jpg" group-title="Qingsports",  O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo = "https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png", JAKTV
@@ -125,6 +132,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_shareExt_b3884000_sle
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo ="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1584089619_logo_Logo%20OK%20TV.PNG", OK TV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+
 
 
 //RCTI+
