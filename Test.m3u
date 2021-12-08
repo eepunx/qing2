@@ -1,26 +1,15 @@
-http://84.84.196.164:9999/play/a085
-#EXTINF:-1,Eurosport 1 HD
-http://84.84.196.164:9999/play/a02v
-#EXTINF:-1,Eurosport 2 HD
-http://84.84.196.164:9999/play/a039
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", afc-HD
+https://liveanevia.mncnow.id/live/eds/AFC-HD/sa_dash_vmx/AFC-HD.mpd
 
-#EXTINF:-1,Food Network
-http://45.148.147.13:8012/play/a1196
-#EXTINF:-1,Food Network HD
-http://45.148.147.13:8012/play/a1209
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", afc kecil
+https://liveanevia.mncnow.id/live/eds/afc/sa_dash_vmx/afc.mpd
 
-#EXTINF:-1,EuroSport 1
-http://45.148.147.13:8012/play/a1308
-#EXTINF:-1,EuroSport 1 FHD
-http://45.148.147.13:8012/play/a1306
-#EXTINF:-1,EuroSport 1 HD
-http://45.148.147.13:8012/play/a1307
-#EXTINF:-1,EuroSport 2
-http://45.148.147.13:8012/play/a1311
-#EXTINF:-1,EuroSport 2 FHD
-http://45.148.147.13:8012/play/a1309
-#EXTINF:-1,EuroSport 2 HD
-http://45.148.147.13:8012/play/a1310
 
-#EXTINF:-1,Sky Sport F1 HD
-http://185.236.229.111:8005/play/a00p
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", afc kecil hdd
+https://liveanevia.mncnow.id/live/eds/afc-HDD/sa_dash_vmx/afc-HDD.mpd
