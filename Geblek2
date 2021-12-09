@@ -162,7 +162,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="MALAYSIA 🇲🇾" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+#EXTINF:-1 group-title="Singapore" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="OLAHRAGA",SUKAN rtm
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -171,8 +171,6 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="MALAYSIA 🇲🇾",Awesome TV
-http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_alhijrah.png" group-title="ISLAMI",TV-Alhijrah
 #http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA 🇲🇾",TV Ikim
