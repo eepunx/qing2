@@ -442,16 +442,18 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports",usee sp 2 (test) 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena (test) 
 
-#EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="Qingsports",SPOTV 
-#https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 tvg-logo="https://kortb.net/uploads/tv_image/spotv2.png" group-title="Qingsports",SPOTV 2
-#https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="Qingsports",SPOTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://on-load.mncnow.id/live/eds/MNCSports-HD-Clean/sa_dash_vmx/MNCSports-HD-Clean.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1 HD
-http://45.148.147.13:8012/play/a1307
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport.m3u8
+#http://45.148.147.13:8012/play/a1307
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2 HD
-http://45.148.147.13:8012/play/a1310
+http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2.m3u8
+#http://45.148.147.13:8012/play/a1310
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Qingsports", Champions TV 1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Qingsports", Champions TV 2 
