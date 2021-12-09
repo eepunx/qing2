@@ -148,9 +148,6 @@ https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="RCTI+",iNEWS
 https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="Qingsports",iNEWS
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-
 
 
  /// FOX & HBO /////
@@ -515,8 +512,13 @@ http://91.236.251.50:8090/play/a00o
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="Qingsports",SUKAN rtm
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="Qingsports",RTM Sports
-http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports 
 http://31.173.178.110:8004/play/a05f/index.m3u8
