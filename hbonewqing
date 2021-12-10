@@ -446,11 +446,9 @@ https://on-load.mncnow.id/live/eds/MNCSports-HD-Clean/sa_dash_vmx/MNCSports-HD-C
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1 HD
-http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport.m3u8
-#http://45.148.147.13:8012/play/a1307
+http://45.148.147.13:8012/play/a1307
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2 HD
-http://46.34.209.243:80/btv/SWM/Eurosport2/Eurosport2.m3u8
-#http://45.148.147.13:8012/play/a1310
+http://45.148.147.13:8012/play/a1310
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Qingsports", Champions TV 1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Qingsports", Champions TV 2 
@@ -466,7 +464,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qingsports",beIN Sports 1 Asia 
-https://apac-live-ovt.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=ip=114.10.7.252~st=1586822400~exp=1635832135~acl=/*~id=VID_uH3ZHF6qMOyu736WzRj5GYCXl7g=~hmac=60b57efe4a42062f3fa7211784619d8758dae0ff8d9799711e55e381b833e0f7 
+#https://apac-live-ovt.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=ip=114.10.7.252~st=1586822400~exp=1635832135~acl=/*~id=VID_uH3ZHF6qMOyu736WzRj5GYCXl7g=~hmac=60b57efe4a42062f3fa7211784619d8758dae0ff8d9799711e55e381b833e0f7 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
