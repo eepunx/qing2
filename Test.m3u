@@ -1,14 +1,6 @@
-#EXTINF:-1,FOX SPORTS 2 4K
-http://p2xsmart.xyz:2082/jean2022/jean2022/32735
-#EXTINF:-1,FOX SPORTS 4K
-http://p2xsmart.xyz:2082/jean2022/jean2022/32737
-
-
 #EXTINF:-1,Fox Sports 1
-http://45.176.70.91:8000/play/a00u
+http://189.129.31.59:8000/play/a01t/index.m3u8
 #EXTINF:-1,Fox Sports 2
-http://45.176.70.91:8000/play/a015
-#EXTINF:-1,Fox Sports 3
-http://45.176.70.91:8000/play/a016
-
-
+http://189.129.31.59:8000/play/a01u/index.m3u8
+#EXTINF:-1,Fox Sports 3 Latin America
+http://189.129.31.59:8000/play/a03n/index.m3u8
