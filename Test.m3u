@@ -1,6 +1,11 @@
-#EXTINF:-1,Fox Sports 1
-http://189.129.31.59:8000/play/a01t/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://189.129.31.59:8000/play/a01u/index.m3u8
-#EXTINF:-1,Fox Sports 3 Latin America
-http://189.129.31.59:8000/play/a03n/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="wakuwaku" tvg-logo="https://i.postimg.cc/cJd73kkL/logo-wakuwaku-big.png" group-title="KOREA",WAKU WAKU JAPAN [VSN+]
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan-HD/sa_dash_vmx/WakuWakuJapan-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1tvg-id="HBO" tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO And FOX",HBO [VSN+]
+https://liveanevia.mncnow.id/live/eds/HBO-HDD/sa_dash_vmx/HBO-HDD.mpd
