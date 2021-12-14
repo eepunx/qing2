@@ -725,7 +725,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy#http://sytv.xtvants.fun/mytv.php?id=mszy&
 http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
 #EXTINF:-1 tvg-logo="https://sme.moeasmea.gov.tw/startup/thumbnail.php?src=upload/rmap/201907/01629_0711prBnL8.png&w=351&zc=1" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 #http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
+#EXTINF:-1 tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 http://seb.sason.top/sc/msxw_fhd.m3u8
 
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg", SET Taiwan (tunggu loading) 
