@@ -64,54 +64,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="Indonesia 🇮🇩 (server 2)",DAAI
 
 
-======HBO backup======
-
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO", HBO backup
-#https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-#https://gratismkctv.net/film/hbo.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO backup",Red By HBO
-#https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="HBO",HBO Hits backup
-#https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="HBO",HBO Signature backup
-#https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="HBO",HBO Family backup
-#https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
-
-#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="HBO", Cinemax backup
-#https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-
 ==========FoX===========
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES CN
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES ENG
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 
 
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX HD
-#http://93.152.174.144:4000/play/foxpt/index.m3u8
-#http://58.65.171.202:8000/play/3111/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Life
-#http://93.152.174.144:4000/play/foxlifept/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Crime
-
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub", FOX Movies
-
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub", HBO Extreme 
-
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub",HBO 2
-
-#EXTINF: -1 tvg-logo="" group-title="Movies English dub",HBO+
-
-
-=====================
 ///// SINGAPURA /////
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://www.dropbox.com/s/ss1rfo93qsxtvy9/Mediacorp_Channel_5_2015.png?dl=1" group-title="Singapore 🇸🇬",Channel 5
@@ -134,9 +94,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-
 #EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Mediacorp_Suria_2015.jpg/revision/latest/scale-to-width-down/400?cb=20161026043330" group-title="Singapore 🇸🇬",Suria
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png/revision/latest/scale-to-width-down/618?cb=20190812175307" group-title="Singapore 🇸🇬",Vasantham
 #http://198.16.106.62/streams/d/Vasantham/playlist.m3u8
@@ -238,13 +197,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",KOK
 #https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fusionfighting.co.uk/wp-content/uploads/2019/05/mmatv_logo.png" group-title="Qingsports",MMA
-
-#EXTINF:-1 tvg-logo="https://www.sportcartagena.es/media/sportcartagena/images/2017/06/03/2017060300262490946.jpg" group-title="Qingsports",BARCA TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Qingsports",REAL MADRID TV
-#EXTINF:-1 tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-111620-main_images-client-liverpoolfc--default--440.jpg" group-title="Qingsports",LFC YNWA
-#EXTINF:-1 tvg-logo="https://www.portada-online.com/wp-content/uploads/2017/02/mutv.jpeg" group-title="Qingsports",MU TV
-
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1348471.png" group-title="Qingsports",RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/fontlot.com/wp-content/uploads/2021/06/3-3.jpg" group-title="Qingsports", Tennis Channel
@@ -264,22 +216,18 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 =====KIDS======
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2018/11/Polsat_JimJam.png" group-title="Kids",Jim Jam
 http://58.65.171.202:8000/play/7351/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Baby First
-
 #EXTINF:-1 tvg-logo="https://img1.yna.co.kr/etc/inner/KR/2012/06/28/AKR20120628019000005_01_i_P2.jpg" group-title="Kids",EBS Kids KOR
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
+
+
 ===China===
-
-
-
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CN/HK/Taiwan", Zhejiang TV 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225845/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/beijingv.jpg" group-title="CN/HK/Taiwan", Beijing TV 
@@ -301,7 +249,6 @@ http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人美東台
 https://live.ntdimg.com/live400/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CN/HK/Taiwan",CCTV 1
 https://cdn.hkdtmb.com/hls/33/index.m3u8
