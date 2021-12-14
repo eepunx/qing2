@@ -711,6 +711,8 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 //// China /////
 #EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV HD 民視
 rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV 民視
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV TW 
 http://seb.sason.top/ptv/ftv.php?id=tw#http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
 #EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5151R6070-L.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV Travel 
