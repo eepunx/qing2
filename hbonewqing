@@ -689,11 +689,12 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 ///// ENTERTAINMENT /////
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony GEM
 https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142713
-#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony Gem usee
-#http://iptvid.my.id/ch/sgem.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png" group-title="Entertaiment & Lifestyle", K+
 https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142711
+
+#EXTINF:-1 tvg-logo = "http://img.tvb.com/corporate/_fck_/image/Pearl_E_logo_L.jpg" group-title="Entertaiment & Lifestyle",TVB Pearl 
+https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -741,8 +742,12 @@ http://stream.guihet.com/t/ifeng2.php?id=2
 
 #EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="CN/HK/Taiwan",Viu TV
 http://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="Entertaiment & Lifestyle",Viu 6 TV
+http://cdn.hkdtmb.com/hls/96/index.m3u8
+
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="CN/HK/Taiwan",Viu 6 TV
 http://cdn.hkdtmb.com/hls/96/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Hong Kong Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
