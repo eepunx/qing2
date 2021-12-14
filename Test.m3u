@@ -1,79 +1,79 @@
-EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",Hunan TV 
+#EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",Hunan TV 
 http://39.130.202.114:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8 
-#EXTINF:-1,Zhejiang  
+#EXTINF:-1 group-title="China 🇨🇳",Zhejiang  
 http://39.130.202.114:6610/gitv_live/ZJWS-HD/ZJWS-HD.m3u8 
-#EXTINF:-1,Jiangsu  
+#EXTINF:-1 group-title="China 🇨🇳",Jiangsu  
 http://39.130.202.114:6610/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8 
-#EXTINF:-1,Dragon  
+#EXTINF:-1 group-title="China 🇨🇳",Dragon  
 http://39.130.202.114:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8 
-#EXTINF:-1,Beijing  
+#EXTINF:-1 group-title="China 🇨🇳",Beijing  
 http://39.130.202.114:6610/gitv_live/BTV-1/BTV-1.m3u8 
-#EXTINF:-1,Tianjin  http://39.130.202.114:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
-#EXTINF:-1,Anhui  
+#EXTINF:-1 group-title="China 🇨🇳",Tianjin  http://39.130.202.114:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
+#EXTINF:-1 group-title="China 🇨🇳",Anhui  
 http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8 
-#EXTINF:-1,Shandong  
+#EXTINF:-1 group-title="China 🇨🇳",Shandong  
 http://39.130.202.114:6610/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8 
-#EXTINF:-1,Jiangxi  
+#EXTINF:-1 group-title="China 🇨🇳",Jiangxi  
 http://39.130.202.114:6610/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8 
-#EXTINF:-1,Guangdong  
+#EXTINF:-1 group-title="China 🇨🇳",Guangdong  
 http://39.130.202.114:6610/gitv_live/GDWS-HD/GDWS-HD.m3u8 
-#EXTINF:-1,Shenzhen  
+#EXTINF:-1 group-title="China 🇨🇳",Shenzhen  
 http://39.130.202.114:6610/gitv_live/SZWS-HD/SZWS-HD.m3u8 
-#EXTINF:-1,Hubei 
+#EXTINF:-1 group-title="China 🇨🇳",Hubei 
 http://39.130.202.114:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8 
-#EXTINF:-1,Heilongjiang  
+#EXTINF:-1 group-title="China 🇨🇳",Heilongjiang  
 http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8 
-#EXTINF:-1,Liaoning  
+#EXTINF:-1 group-title="China 🇨🇳",Liaoning  
 http://39.130.202.114:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8 
-#EXTINF:-1,Dongnan  
+#EXTINF:-1 group-title="China 🇨🇳",Dongnan  
 http://39.130.202.114:6610/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8 
 
-#EXTINF:-1,Sichuan  
+#EXTINF:-1 group-title="China 🇨🇳",Sichuan  
 http://39.130.202.114:6610/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8 
-#EXTINF:-1,Guizhou 
+#EXTINF:-1 group-title="China 🇨🇳",Guizhou 
 http://39.130.202.114:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8 
-#EXTINF:-1,Chongqing  
+#EXTINF:-1 group-title="China 🇨🇳",Chongqing  
 http://39.130.202.114:6610/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8 
-#EXTINF:-1,Yunnan  
+#EXTINF:-1 group-title="China 🇨🇳",Yunnan  
 http://39.130.202.114:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8 
-#EXTINF:-1,Yunnan Entertainment 
+#EXTINF:-1 group-title="China 🇨🇳",Yunnan Entertainment 
 http://39.130.202.114:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8 
-#EXTINF:-1,Yunnan Life  
+#EXTINF:-1 group-title="China 🇨🇳",Yunnan Life  
 http://39.130.202.114:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8 
-#EXTINF:-1,Yunnan Movies 
+#EXTINF:-1 group-title="China 🇨🇳",Yunnan Movies 
 http://39.130.202.114:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8 
-#EXTINF:-1,Yunnan Public 
+#EXTINF:-1 group-title="China 🇨🇳",Yunnan Public 
 http://39.130.202.114:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8 
-#EXTINF:-1,Jinying 
+#EXTINF:-1 group-title="China 🇨🇳",Jinying 
 http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
-#EXTINF:-1,Shanghai 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai 
 http://39.130.202.114:6610/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8 
-#EXTINF:-1,Beijing 
+#EXTINF:-1 group-title="China 🇨🇳",Beijing 
 http://39.130.202.114:6610/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
-#EXTINF:-1,CETV-1 HD 
+#EXTINF:-1 group-title="China 🇨🇳",CETV-1 HD 
 http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8 
-#EXTINF:-1,ICS Shanghai 
+#EXTINF:-1 group-title="China 🇨🇳",ICS Shanghai 
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8 
-#EXTINF:-1,Shanghai Oriental Film 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai Oriental Film 
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8 
-#EXTINF:-1,Shanghai 5 stars sports 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai 5 stars sports 
 http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8 
-#EXTINF:-1,Shanghai First Finance 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai First Finance 
 http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8 
-#EXTINF:-1, Shanghai News 
+#EXTINF:-1 group-title="China 🇨🇳", Shanghai News 
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8 
-#EXTINF:-1,Shanghai Documentary 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai Documentary 
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8 
-#EXTINF:-1,Shanghai Xuang Dong 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai Xuang Dong 
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8 
-#EXTINF:-1,Shanghai Metropolis 
+#EXTINF:-1 group-title="China 🇨🇳",Shanghai Metropolis 
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 
-#EXTINF:-1,CHC Movies 
+#EXTINF:-1 group-title="China 🇨🇳",CHC Movies 
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8 
-#EXTINF:-1, CHC Home Theater 
+#EXTINF:-1 group-title="China 🇨🇳", CHC Home Theater 
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8 
-#EXTINF:-1, CHC Action Movies 
+#EXTINF:-1 group-title="China 🇨🇳", CHC Action Movies 
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8 
 
 #EXTINF:-1,now直播台
