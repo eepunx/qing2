@@ -228,36 +228,13 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 
-
-
-
-
-
-
 ===China===
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CN/HK/Taiwan", Zhejiang TV 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225845/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/beijingv.jpg" group-title="CN/HK/Taiwan", Beijing TV 
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225833/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CN/HK/Taiwan", Hainan TV
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhen.jpg" group-title="CN/HK/Taiwan", Shenzhen TV
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8#http://39.134.24.88/PLTV/88888888/224/3221225843/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="33.HK" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_75rthk_31.jpg" group-title="CN/HK/Taiwan",RTHK31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="33.HK" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_76rthk_32.jpg" group-title="CN/HK/Taiwan",RTHK32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",Chinese Drama
+#EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人大陸台
-http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人亞太台
-https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CN/HK/Taiwan",NTD 新唐人美東台
-https://live.ntdimg.com/live400/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="China 🇨🇳", Hainan TV
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",Hunan TV 
 http://39.130.202.114:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8 
 #EXTINF:-1 group-title="China 🇨🇳",Zhejiang  
@@ -337,6 +314,12 @@ http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u
 #EXTINF:-1 group-title="China 🇨🇳", CHC Action Movies 
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8 
 
+#EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",NTD 新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",NTD 新唐人亞太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",NTD 新唐人美東台
+https://live.ntdimg.com/live400/playlist.m3u8
 
 ///CCTV/////
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="China 🇨🇳",CCTV 1
