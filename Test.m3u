@@ -8,7 +8,8 @@ http://39.130.202.114:6610/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 http://39.130.202.114:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8 
 #EXTINF:-1 group-title="China 🇨🇳",Beijing  
 http://39.130.202.114:6610/gitv_live/BTV-1/BTV-1.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Tianjin  http://39.130.202.114:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
+#EXTINF:-1 group-title="China 🇨🇳",Tianjin  
+http://39.130.202.114:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
 #EXTINF:-1 group-title="China 🇨🇳",Anhui  
 http://39.130.202.114:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8 
 #EXTINF:-1 group-title="China 🇨🇳",Shandong  
