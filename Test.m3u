@@ -77,36 +77,36 @@ http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u
 #EXTINF:-1 group-title="China 🇨🇳", CHC Action Movies 
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8 
 
-#EXTINF:-1,now直播台
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Zhibo
 http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1,now新聞台
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Xinwen
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1,HongKong开电视
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Kai Dianshi
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1,TVB
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB
 http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1,J2
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",J2
 http://livetv.dnsfor.me:80/channel.19.m3u8
 
-#EXTINF:-1,TVB翡翠台
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Jade
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1,TVB J2
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1,TVB 新闻
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB News
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1,明珠台
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Pearl 
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1,财经资讯台
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Caijing Zixun
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1,港台31
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",港台31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1,港台32
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",港台32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1,港台33
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",港台33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1,open hd
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1,HKIB hd
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 
