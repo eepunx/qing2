@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-logo="" group-title="HBO test",Hunan TV 
+https://raw.githubusercontent.com/eepunx/qing2/master/hboqing2.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="China 🇨🇳",Hunan TV 
 http://39.130.202.114:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8 
 #EXTINF:-1 group-title="China 🇨🇳",Zhejiang  
