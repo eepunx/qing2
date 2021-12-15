@@ -1,6 +1,14 @@
-#EXTINF:-1 tvg-logo="" group-title="HBO test",Hunan TV 
-https://raw.githubusercontent.com/eepunx/qing2/master/hboqing2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="usee",usee sp 1
+http://aptv.my.id:8080/@Valee46/@Valee46/139
 
+#EXTINF:-1 tvg-logo="" group-title="usee",140
+http://aptv.my.id:8080/@Valee46/@Valee46/140
+
+#EXTINF:-1 tvg-logo="" group-title="usee",141
+http://aptv.my.id:8080/@Valee46/@Valee46/141
+
+#EXTINF:-1 tvg-logo="" group-title="usee",139
+http://aptv.my.id:8080/@Valee46/@Valee46/139
 
 
 
