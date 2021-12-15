@@ -151,7 +151,7 @@ https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO test
 #https://liveanevia.mncnow.id/live/eds/HBO2-HDD/sa_dash_vmx/HBO2-HDD.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO IDN 
+#EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO ID (maintenance) 
 http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/7
 
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
