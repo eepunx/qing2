@@ -1,3 +1,19 @@
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13", Fox Sports 0 
+http://167.249.31.57:8000/play/foxsportshd
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13", Fox Sports 1 HD 
+http://167.249.31.57:8000/play/foxsports1hd
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 HD
+http://167.249.31.57:8000/play/foxsports2hd
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3 HD
+http://167.249.31.57:8000/play/foxsports3hd
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="usee",usee sp 1
 http://aptv.my.id:8080/@Valee46/@Valee46/139
 #EXTINF:-1 tvg-logo="" group-title="usee",140
