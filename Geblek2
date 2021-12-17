@@ -4,7 +4,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia 🇮🇩 (server 2)",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia 🇮🇩 (server 2)",NET
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+http://103.226.232.199:8002/play/a04l/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Indonesia 🇮🇩 (server 2)", RCTI
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="Indonesia 🇮🇩 (server 2)", MNCTV (vision+) 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Indonesia 🇮🇩 (server 2)", GTV (Vidio) 
