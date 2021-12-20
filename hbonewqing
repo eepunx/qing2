@@ -32,6 +32,9 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg", INEWS HD
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="Qingsports",iNEWS SD
+https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sctv.png", SCTV test
@@ -433,14 +436,6 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="Qingsports",SUKAN rtm
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
-
-#EXTINF:-1 group-title="Qingsports",UNIFI Sports 1
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd 
-#EXTINF:-1 group-title="Qingsports",UNIFI Sports 2 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports",usee sp 1 (test) 
 http://103.226.232.199:8004/play/a04l/index.m3u8
