@@ -1,3 +1,16 @@
+#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
+http://45.4.0.46:8000/play/foxsports2hd
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
+http://45.4.0.46:8000/play/foxsports1hd
+#EXTINF:-1 group-title="Deportes",Fox Sports HD
+http://45.4.0.46:8000/play/foxsportshd
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
+http://45.4.0.46:8000/play/foxsports3hd
+
+
+
+
+
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Dimas Kay Channel 
 https://archive.org/download/MurotalMR/055.mp3 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://imgur.com/gallery/ceU4rq0",Dukung Kami Dengan Subscribe 
