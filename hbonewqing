@@ -486,7 +486,11 @@ http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Qingsports",beIN Sports 7
 
-#EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis 
+
+#EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="Qingsports",True Tennis
+https://www.wopep.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
