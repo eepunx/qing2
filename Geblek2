@@ -169,13 +169,13 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1070.png" group-title="Qingsports",True Sp 1
-#https://cloudserver.server-cdn-streaming.com/live-player/07/live.m3u8
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="Qingsports",True Sp 2
-#https://cloudserver.server-cdn-streaming.com/live-player/08/live.m3u8
+https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="Qingsports",True Sp 3
-#https://cloudserver.server-cdn-streaming.com/live-player/09/live.m3u8
+https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="Qingsports",True Sp 4
-#https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://1.bp.blogspot.com/-yrGZVwQ-iTM/T-D22t0EiKI/AAAAAAAAHVI/eOIQG5x5bd0/s280/NBC+Sports+Network+logo+horizontal3D.jpg",NBC sports 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
