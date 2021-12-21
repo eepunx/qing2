@@ -30,11 +30,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF: -1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)",TVRI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF: -1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)",NTV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/600px-Logo_ntv.png" group-title="Indonesia 🇮🇩 (server 2)",NTV
 https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="Indonesia 🇮🇩 (server 2)",CNN Indo
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-oosV39Fczxs/XDAlx0XLyQI/AAAAAAAARQU/Q2YyyMAjRhkUfbB59t5bPbZ9CrFv1fJTQCLcBGAs/s320/CNN%2BIndonesia.png" group-title="Indonesia 🇮🇩 (server 2)",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="Indonesia 🇮🇩 (server 2)",CNBC Indo
+#EXTINF: -1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5c011df3c2ccf77215035715/1566399845212/ead620f2038e34b45ee57064775cb57c.png" group-title="Indonesia 🇮🇩 (server 2)",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title="Indonesia 🇮🇩 (server 2)",Beritasatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
