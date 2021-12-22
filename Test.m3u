@@ -1,6 +1,61 @@
-#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="Qingsports",SUKAN rtm
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm3
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm4
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm5
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm7
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm9
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive09tv.secureswiftcontent.com/rtmchannel/09-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm10
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive10tv.secureswiftcontent.com/rtmchannel/10-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm11
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive11tv.secureswiftcontent.com/rtmchannel/11-manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="rtm",rtm12
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive12tv.secureswiftcontent.com/rtmchannel/12-manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena 1 
 http://iptv.tvmalaysia.cc:80/kl570/kl570/6707 
