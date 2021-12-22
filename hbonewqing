@@ -152,7 +152,7 @@ https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo ="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png", HBO test
 #https://liveanevia.mncnow.id/live/eds/HBO2-HDD/sa_dash_vmx/HBO2-HDD.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO ID 
+#EXTINF:-1 group-title="HBO" tvg-logo ="", HBO
 http://www.goldentv.tech:25461/Perfecto/170721/24990
 #https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1639554880~hmac=cc5553462221f0be74b4e897ce64eaf95dad2dc89d3b3d6290fbbfdf239862f3
 
@@ -161,24 +161,24 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO"tvg-logo ="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO FAMILY
+#EXTINF:-1 group-title="HBO"tvg-logo ="", HBO Family 
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO HITS
+#EXTINF:-1 group-title="HBO" tvg-logo ="", HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png", HBO Signature
+#EXTINF:-1 group-title="HBO" tvg-logo ="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO" tvg-logo ="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png", CINEMAX
+#EXTINF:-1 group-title="HBO" tvg-logo ="",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
