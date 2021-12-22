@@ -340,7 +340,7 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg" group-title="MOVIES 2", BOO (Horror) 
-#http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+https://lnk.ec/BOO?shareext.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -436,7 +436,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="Qingsports",Astro Arena
-http://mudy02.cularu.com:8880/SLD12M2N53106/tMpDD9KRfM/71102
+https://lnk.ec/AstroArena?shareext.m3u8
+#http://mudy02.cularu.com:8880/SLD12M2N53106/tMpDD9KRfM/71102
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports", UseeSports
 http://103.226.232.199:8004/play/a04l/index.m3u8
