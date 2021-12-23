@@ -187,12 +187,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",Sky Sports F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6_JFGdGtEbw/YcQsWTugSII/AAAAAAAABoE/do7uecOs2s0Nm_Ir-G-Xob_43tMNyef0QCNcBGAsYHQ/w945-h600-p-k-no-nu/1640246358711028-0.png" group-title="Qingsports",S Motosports
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170846
+
+
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.doyleracing.com.au/assets/images/doyle/links/9.png",RACING.COM
 
 #EXTINF:-1 tvg-logo="https://images2-corsedimoto.gazzettaobjects.it/wp-content/uploads/2019/01/09/17/00/djbly_pv4aaffh9-e1532603976148-375x289.jpg" group-title="Qingsports",Sky Sports Motogpqa
 #EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
 #EXTINF:-1 tvg-logo="" group-title="Qingsports",Sky Sports Cricket
-Q
+
 #EXTINF:-1 tvg-logo="https://highschoolfootballamerica.com/wp-content/uploads/2019/08/stadium-logo-640.jpg" group-title="Qingsports",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
