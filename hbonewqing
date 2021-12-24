@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://aptv.my.id:8080/xmltv.php?username=@Valee46&password=@Valee46,https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="http://bit.ly/stavolid" refresh="1440" max-conn="1" refresh="24"
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
