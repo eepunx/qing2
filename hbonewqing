@@ -19,6 +19,8 @@ http://103.226.232.199:8005/play/a060/index.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Malay Astro
 https://lnk.ec/AstroArena?shareext.m3u8
+#EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Malay Astro2
+https://iptv.nullpress.xyz:8443/live/paijemdev/paijemdev/54701.ts
 
 //////////
 
