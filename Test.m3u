@@ -1,8 +1,11 @@
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png", INEWS hdd coba
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
+#EXTINF:-1,DAZN 1
+http://185.236.229.101:8005/play/a03z
+#EXTINF:-1,DAZN 2
+http://185.236.229.101:8005/play/a043
+#EXTINF:-1,DAZN 3
+http://185.236.229.101:8005/play/a040
+#EXTINF:-1,DAZN 4
+http://185.236.229.101:8005/play/a041
 
 
 
