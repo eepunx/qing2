@@ -188,7 +188,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-axhmZymIEhQ/YcQvpwkTPSI/AAAAAAAABoM/-YYugZm9kI8KeSn2Ieh0jYaL0BzrItF_gCNcBGAsYHQ/s1600/1640247204417731-0.png" group-title="Qingsports",DAZN F1
-http://odenfull.co:2086/live/Latiniiptvcamb/0xhgl5HdWD/147718.m3u8
+http://185.236.229.101:8005/play/a03y
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6_JFGdGtEbw/YcQsWTugSII/AAAAAAAABoE/do7uecOs2s0Nm_Ir-G-Xob_43tMNyef0QCNcBGAsYHQ/w945-h600-p-k-no-nu/1640246358711028-0.png" group-title="Qingsports",S Motorsport
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170846
