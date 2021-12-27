@@ -640,7 +640,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 ///// NEWS /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/7cdb6pzttmazt7p/1200px-ABC_Australia_logo.svg.png?dl=1", ABC AUSTRALIA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/7cdb6pzttmazt7p/1200px-ABC_Australia_logo.svg.png", ABC AUSTRALIA
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -655,27 +655,27 @@ https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.logolynx.com/images/logolynx/s_97/97f121192e641251b80f61ab6a4b4349.jpeg", NHK World Japan
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.logolynx.com/images/logolynx/s_97/97f121192e641251b80f61ab6a4b4349.jpeg", NHK World Japan
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo ="https://www.dropbox.com/s/7hju1jc4vhbt1rd/cna.png?dl=1", Channel News Asia
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/7hju1jc4vhbt1rd/cna.png?dl=1", Channel News Asia
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/7oj0h2ezjt801cm/aljazeera.png?dl=1", Aljazeera
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/7oj0h2ezjt801cm/aljazeera.png?dl=1", Aljazeera
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS"tvg-logo = "https://www.dropbox.com/s/1dvzpz043gofc90/bbc%20news.png?dl=1", BBC World News
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 group-title="NEWS"tvg-logo ="https://www.dropbox.com/s/1dvzpz043gofc90/bbc%20news.png?dl=1", BBC World News
+https://liveanevia.mncnow.id/live/edsBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/clar8k3cfbs4h7k/cnn.png?dl=1", CNN International
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/clar8k3cfbs4h7k/cnn.png?dl=1", CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -690,27 +690,27 @@ https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/odn5vpd8tzg7hpy/cnbc.png?dl=1", CNBC 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/odn5vpd8tzg7hpy/cnbc.png?dl=1", CNBC 
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/cbsyo8mcn8mm2fy/bloomberg.png?dl=1", Bloomberg
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/cbsyo8mcn8mm2fy/bloomberg.png?dl=1", Bloomberg
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/bnqpwc1t1tjpdaa/france%2024.png?dl=1", FRANCE 24
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/bnqpwc1t1tjpdaa/france%2024.png?dl=1", FRANCE 24
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/h0vc329rgb3nhws/dw.png?dl=1", DW 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/h0vc329rgb3nhws/dw.png?dl=1", DW 
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/g6ghdrlqbhh7mev/CGTN_Documentary.png?dl=1", CGTN
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/g6ghdrlqbhh7mev/CGTN_Documentary.png?dl=1", CGTN
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 
@@ -721,22 +721,22 @@ https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142713
 #EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/k-plus-001.png" group-title="Entertaiment & Lifestyle", K+
 https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142711
 
-#EXTINF:-1 tvg-logo = "http://img.tvb.com/corporate/_fck_/image/Pearl_E_logo_L.jpg" group-title="Entertaiment & Lifestyle",TVB Pearl 
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Pearl_E_logo_L.jpg" group-title="Entertaiment & Lifestyle",TVB Pearl 
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo = "https://www.logolynx.com/images/logolynx/s_97/97f121192e641251b80f61ab6a4b4349.jpeg", NHK World Japan
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://www.logolynx.com/images/logolynx/s_97/97f121192e641251b80f61ab6a4b4349.jpeg", NHK World Japan
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo = "https://www.logolynx.com/images/logolynx/s_97/97f121192e641251b80f61ab6a4b4349.jpeg", NHK PREMIUM
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://www.singtel.com/content/dam/singtel/business/sb/Product%20&%20Services/TV/catalog/ProductCatalog-AlaCarte-NHK-logo.jpg", NHK PREMIUM
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo ="https://www.logolynx.com/images/logolynx/s_d2/d2e3e1556bd6dfe6462bff0dcfa0c575.jpeg", Arirang
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://www.logolynx.com/images/logolynx/s_d2/d2e3e1556bd6dfe6462bff0dcfa0c575.jpeg", Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
