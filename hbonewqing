@@ -177,7 +177,7 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="HBO"tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family 
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family 
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -269,7 +269,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheOfficialLEGOChannel.us" tvg-name="The Official LEGO Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",The Official LEGO Channel
 https://legochannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="", Toon Goggles
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png", Toon Goggles
 https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Pluto TV Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -388,7 +388,7 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo = "https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", Sony One
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", Sony One
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -625,7 +625,7 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://www.gayagaul.com/wp-content/uploads/2018/04/BeSmart-1-768x634.jpg", Be Smart
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.gayagaul.com/wp-content/uploads/2018/04/BeSmart-1-768x634.jpg", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/5e/bf/3f5ebf2e0705d15e32bade0baa5caebe.jpg" group-title="Knowledge",NASA TV
@@ -633,7 +633,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo = "https://dailyiflix.club/uploads/tv_image/cgtn-documentary.png", CGTN Documentary	
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dailyiflix.club/uploads/tv_image/cgtn-documentary.png", CGTN Documentary	
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
