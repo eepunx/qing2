@@ -27,7 +27,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF: -1 tvg-logo="https://i.ibb.co/K9YfqG0/useeprime-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Usee Prime
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF: -1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)",TVRI
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9VCf1tS/image-28.png" group-title="Indonesia 🇮🇩 (server 2)",TVRI
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/600px-Logo_ntv.png" group-title="Indonesia 🇮🇩 (server 2)",NTV
@@ -433,8 +433,6 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" group-title="Knowledge", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png" group-title="Knowledge", Outdoor Channel
-https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png" group-title="Knowledge", Outdoor Channel FHD
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Entertaiment & Lifestyle",New K-ID
@@ -442,9 +440,9 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 ///Lifestyle /////
-#EXTINF:-1 tvg-logo="" group-title="Entertaiment & Lifestyle",Wipeout
+#EXTINF:-1 tvg-logo="https://www.mudrunguide.com/wp-content/uploads/2021/03/wipeout-logo.png" group-title="Entertaiment & Lifestyle",Wipeout
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertaiment & Lifestyle",AFV
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/0/609063.png" group-title="Entertaiment & Lifestyle",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/891-8910473_aol-logo-png-failarmy.png" group-title="Entertaiment & Lifestyle", Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
