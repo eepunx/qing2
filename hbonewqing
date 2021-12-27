@@ -22,10 +22,9 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Malay Astro
-http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gZlLadQP96kEn9623aUGbcQ
-#EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Malay Astro2
 https://iptv.nullpress.xyz:8443/live/paijemdev/paijemdev/54701.ts
-
+#EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Malay Astro2
+http://jlwmedia.xyz:80/play/SyP_xHPBCiN8Bs15ttY8gZlLadQP96kEn9623aUGbcQ
 //////////
 
 
