@@ -559,7 +559,9 @@ http://167.249.31.57:8000/play/a07k
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 Low
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 HD
-http://167.249.31.57:8000/play/a0at
+#http://167.249.31.57:8000/play/a0at
+http://190.107.20.94:8000/play/a02l
+
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3 Low
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sports 3 HD
