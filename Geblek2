@@ -169,8 +169,12 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 
 
 ==========SPROT===========
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="Qingsports",CCTV 5
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="Qingsports",CCTV 5+
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Qingsports", FREE Sports 
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1070.png" group-title="Qingsports",True Sp 1
 https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
@@ -188,7 +192,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-axhmZymIEhQ/YcQvpwkTPSI/AAAAAAAABoM/-YYugZm9kI8KeSn2Ieh0jYaL0BzrItF_gCNcBGAsYHQ/s1600/1640247204417731-0.png" group-title="Qingsports",DAZN F1
-http://185.236.229.101:8005/play/a03y
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6_JFGdGtEbw/YcQsWTugSII/AAAAAAAABoE/do7uecOs2s0Nm_Ir-G-Xob_43tMNyef0QCNcBGAsYHQ/w945-h600-p-k-no-nu/1640246358711028-0.png" group-title="Qingsports",S Motorsport
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170846
@@ -224,7 +227,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF: -1 tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg" group-title="Qingsports",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/E/egg-network-logo-6B5185A3CF-seeklogo.com.png" group-title="Qingsports",EGG Network
-http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+
 
 =====KIDS======
 #EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon 
@@ -372,8 +375,6 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="China 🇨🇳",CCTV 5
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="China 🇨🇳",CCTV 5+
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="Qingsports",CCTV 5+
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="China 🇨🇳",CCTV 6
 http://cctvalih5ca.v.myalicdn.com/live/cctv6_1/index.m3u8
