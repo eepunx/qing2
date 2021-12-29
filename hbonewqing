@@ -551,7 +551,7 @@ http://58.65.171.202:8000/play/10506/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Qingsports" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/fight-sports.png", FIGHT SPORTS
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.pngitem.com/pimgs/m/440-4405466_fight-sports-logo-hd-png-download.png", FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Qingsports", Fight
