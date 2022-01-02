@@ -1,32 +1,5 @@
 #EXTM3U url-tvg="http://bit.ly/stavolid" 
 
-////AFF///
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="AFF 2020" tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg",server indo V+
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="AFF 2020",server RCTI+
-https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="AFF 2020",server RCTI+ 2
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-
-#EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Thailand
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="AFF 2020",server Vidio refesh berkala
-
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="AFF 2020",server Malay RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="AFF 2020",server Malay RTM2
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1  tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" tvg-url="" group-title="AFF 2020",server Malay Astro
-https://iptv.nullpress.xyz:8443/live/paijemdev/paijemdev/54701.ts
-
-
 
 //////////
 
