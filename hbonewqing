@@ -657,7 +657,8 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="NEWS"tvg-logo ="https://www.dropbox.com/s/1dvzpz043gofc90/bbc%20news.png?dl=1", BBC World News
-https://liveanevia.mncnow.id/live/edsBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#https://liveanevia.mncnow.id/live/edsBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
