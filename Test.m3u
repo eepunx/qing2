@@ -1,25 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDiBak8r6XZPEgoClmTeoN3gg7wmvEDv5eGtwfzs1K83/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="News",BBC World News
-http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="News",BBC World News
-http://78.83.191.18:8000/play/a07a?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://linea.cc:8000/test123/test123/51665.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLuFj1W-AZUhoqkLzyibxRI4OY8yKiJCb3mdFxLsiOSd/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Bbc World News
-http://dontuse.fluxz.cc:80/asNeYk5x/g4s5FeWg/106455?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://iptv.csserv.co:8000/live/clientr725/631739/4757.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC World News
-http://190.115.29.22:8080/carter/GUV1bMq2VK/26106?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News(英国)
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC World News
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/75857.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC World News
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR48Nij39PDsr3zYPPaUk9-c?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",BBC World News
-http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/950?checkedby:iptvcat.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", AFN1 
+https://liveanevia.mncnow.id/live/eds/AFC-DD/sa_dash_vmx/AFC-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", AFN2
+https://liveanevia.mncnow.id/live/eds/afc/sa_dash_vmx/afc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", AFN3
+https://liveanevia.mncnow.id/live/eds/AsianFoodNation/sa_dash_vmx/AsianFoodNation.mpd
