@@ -1,14 +1,14 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", rcti 
-https://liveanevia.mncnow.id/live/eds/rcti/sa_dash_vmx/rcti.mpd
+#EXTINF:-1 group-title="bbc" tvg-logo="", bbc
+http://62.65.140.154:80/session/e54c9620-ee1e-11e5-b7a6-005056bc06d1/nvnv5a/2/4003/index.m3u8?token=681fc00ac4b66dc2cbfeaaca3985b610_1458511616_1458511616&p=127|X-Forwarded-For=85.195.192.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", rcti hdd
-https://liveanevia.mncnow.id/live/eds/rcti-HDD/sa_dash_vmx/rcti-HDD.mpd
+#EXTINF:-1 group-title="bbc" tvg-logo="", bbc2
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews-HD/sa_dash_vmx/BBCWorldNews-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI HDD
-https://liveanevia.mncnow.id/live/eds/RCTI-HDD/sa_dash_vmx/RCTI-HDD.mpd
+#EXTINF:-1 group-title="bbc" tvg-logo="", bbc2
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews-DD/sa_dash_vmx/BBCWorldNews-DD.mpd
