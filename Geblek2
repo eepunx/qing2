@@ -233,10 +233,10 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF: -1 tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg" group-title="Qingsports",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/E/egg-network-logo-6B5185A3CF-seeklogo.com.png" group-title="Qingsports",EGG Network
-
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
 =====KIDS======
-#EXTINF:-1 tvg-logo="" group-title="Kids",Spacetoon 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png" group-title="Kids",Spacetoon 
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
 #EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2018/11/Polsat_JimJam.png" group-title="Kids",Jim Jam
