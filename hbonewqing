@@ -410,7 +410,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HITS
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/Fn3XTXn/hits-lean-paps.png", HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -573,7 +573,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png", Discovery Channel
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/FK9tNHY/disco-lean-paps.png", Discovery Channel
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/6uHly3s.png" ,Discovery Turbo
@@ -582,35 +582,35 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/bbc-earth.png", BBC EARTH
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/K9xFqFc/bbcearth-lean-paps.png", BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/crime-investigation.png", Crime Investigation
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/hKj0w8B/crimeinves-lean-paps.png", Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animal-planet.png", Animal Planet
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/hM0f7Wq/animalpl-lean-paps.png", Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/history.png" group-title="Knowledge",History 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/gS83cSC/history-lean-paps.png" group-title="Knowledge",History 
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/national-geographic.png", National Geographic
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/9rq9jp4/natgeo-lean-paps.png", National Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", NatGeo Wild
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/8c8PJDy/natgeowilrd-lean-paps.png", NatGeo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-people.png", NatGeo People
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/5MTbkmh/nategeopeo-lean-paps.png", NatGeo People
 http://58.65.171.202:8000/play/10503/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -618,19 +618,19 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.gayagaul.com/wp-content/uploads/2018/04/BeSmart-1-768x634.jpg", Be Smart
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/5e/bf/3f5ebf2e0705d15e32bade0baa5caebe.jpg" group-title="Knowledge",NASA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dailyiflix.club/uploads/tv_image/cgtn-documentary.png", CGTN Documentary	
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/hYTZwf0/cgtndocu-lean-paps.png", CGTN Documentary	
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
 ///// NEWS /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/7cdb6pzttmazt7p/1200px-ABC_Australia_logo.svg.png", ABC AUSTRALIA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.kindpng.com/picc/m/719-7192331_channel-abc-australia-logo-hd-png-download.png", ABC AUSTRALIA
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -660,7 +660,7 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS"tvg-logo ="https://www.dropbox.com/s/1dvzpz043gofc90/bbc%20news.png?dl=1", BBC World News
+#EXTINF:-1 group-title="NEWS"tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/400px-BBC_World_News_2019.svg.png", BBC World News
 #https://liveanevia.mncnow.id/live/edsBBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
 
@@ -814,13 +814,13 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/wakuwaku-japan.png", WakuWaku Japan
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.ibb.co/qWrWQpb/wakuwaku-lean-paps.png", WakuWaku Japan
 #https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142709
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tlc.png", TLC
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.ibb.co/Wtbc8Ch/tlc-lean-paps.png", TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 
@@ -832,12 +832,12 @@ http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/72
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/lifetime.png", Lifetime
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png", Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hgtv.png", HGTV
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.ibb.co/y031jKL/hgtv-lean-paps.png", HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
