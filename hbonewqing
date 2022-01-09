@@ -441,7 +441,7 @@ https://lnk.ec/AstroArena?shareext.m3u8
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="Qingsports",SPOTV backup 
-https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
+#https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.doofreemovie.com/uploads/png/08d3a78ee0de6cce7a0665b836093ae0.png" group-title="Qingsports",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
@@ -469,11 +469,11 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Qingsports",beIN Sports 2 ID
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Qingsports",beIN Sports 3 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Qingsports",beIN Sports 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Qingsports",beIN Sports 4
 
@@ -531,7 +531,7 @@ http://58.65.171.202:8000/play/10506/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.pngitem.com/pimgs/m/440-4405466_fight-sports-logo-hd-png-download.png", FIGHT SPORTS
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg", FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Qingsports", Fight
