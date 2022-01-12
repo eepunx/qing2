@@ -469,12 +469,39 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1 FHD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2 FHD
 
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Qingsports", Champions TV1
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+#http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
+http://golive.cf/vidio/live-champion1.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
+http://golive.cf/stream/champion1.m3u8
+https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+http://dituduhmaling.xyz/V11710/championstv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Qingsports", Champions TV2
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+#http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
+http://golive.cf/vidio/live-champion2.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
+http://golive.cf/stream/champion2.m3u8
+https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+http://dituduhmaling.xyz/V11710/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="Qingsports",Champions TV3 
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+#http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
+http://golive.cf/vidio/live-champion3.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
+http://golive.cf/stream/champion3.m3u8
+https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+http://dituduhmaling.xyz/V11710/championstv3.m3u8
+
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra n
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
