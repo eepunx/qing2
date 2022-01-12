@@ -452,6 +452,19 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.doofreemovie.com/uploads/png/08d3a78ee0de6cce7a0665b836093ae0.png" group-title="Qingsports",SPOTV2
 https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.visionplus.id/images/channel/d740c649/a327.png" group-title="Qingsports",Soccer Channel 
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/MNCSports_(2020).png/200px-MNCSports_(2020).png" group-title="Qingsports",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Qingsports",TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport HD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1 FHD
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2 FHD
@@ -502,20 +515,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ua-football.com/img/upload/20/2817b5.png" group-title="Qingsports",Sport1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.visionplus.id/images/channel/d740c649/a327.png" group-title="Qingsports",Soccer Channel 
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/MNCSports_(2020).png/200px-MNCSports_(2020).png" group-title="Qingsports",MNC Sports
-#https://liveanevia.mncnow.id/live/eds/MNCSports-HDD/sa_dash_vmx/MNCSports-HDD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Qingsports",TVRI Sports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports",UseeSport 1 
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
