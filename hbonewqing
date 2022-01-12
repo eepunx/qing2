@@ -1,7 +1,14 @@
 #EXTM3U url-tvg="http://bit.ly/stavolid" 
 
+////donasi/////
 
-//////////
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/0/609063.png" group-title="Mau Bantu Rawat Server ini ketik http://bit.ly/rawattv di browser thanks",AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/891-8910473_aol-logo-png-failarmy.png" group-title="Mau Bantu Rawat Server ini ketik http://bit.ly/rawattv di browser thanks", Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+
+/////////////
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
