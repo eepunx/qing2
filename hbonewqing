@@ -101,7 +101,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcGMYsV/ochannel-lean-paps.png" group-title="Indonesia 🇮🇩",  O channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/eN8_S_H3FfOvz7Dbdyh8KarxHNQ=/394x155:968x538/750x500/data/photo/2021/09/26/615067189cbff.png" group-title="Qingsports",Indosiar
+#EXTINF:-1 tvg-logo="https://imgcdn.rri.co.id/__srct/cfb3228334b52d754373c1e819e9a6cc/1148834/f14c26675251f69bbd9dfb3f28989092.jpg" group-title="Qingsports",Indosiar
 http://tvnasional.mobie.in/M3U8/205.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
