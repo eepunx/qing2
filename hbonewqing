@@ -15,8 +15,14 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
+#EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bflix-movies-logo.jpg",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
 #EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://image.winudf.com/v2/image1/YXBwLmF1cm9yYWxpdmUudHZfc2NyZWVuXzBfMTYxNTY1MTI3N18wOTA/screen-0.jpg?h=355&fakeurl=1&type=.jpg",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+
+
 
 /////////////////! 
 
