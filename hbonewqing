@@ -258,8 +258,8 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 ///// KIDS /////
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://macan.network/img/babyfirst.jpg", Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://macan.network/img/babyfirst.jpg", Baby First Asia
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg", Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nicepng.com/png/detail/142-1427257_disney-channel-disney-channel-red-logo.png", Disney Channel 
 http://58.65.171.202:8000/play/7350/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png", Disney Jr 
@@ -786,7 +786,14 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://www.tvchinese.net/uploads/tv/settaiwan.jpg", SET Taiwan (tunggu loading) 
 #https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://125.227.210.55:15714/VideoInput/play.ts
+
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="" ,三立财经新闻台
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",三立Live新聞
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",三立新闻台
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
+
 
 
 #EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
