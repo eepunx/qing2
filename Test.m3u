@@ -1,17 +1,14 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Bantu Rawat Server ketik 𝗵𝘁𝘁𝗽://𝗯𝗶𝘁.𝗹𝘆/𝗿𝗮𝘄𝗮𝘁𝘁𝘃",SCTV 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/SCTV-HD/sa_dash_vmx/SCTV-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Bantu Rawat Server ketik 𝗵𝘁𝘁𝗽://𝗯𝗶𝘁.𝗹𝘆/𝗿𝗮𝘄𝗮𝘁𝘁𝘃",SCTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/SCTV-DD/sa_dash_vmx/SCTV-DD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Bantu Rawat Server ketik 𝗵𝘁𝘁𝗽://𝗯𝗶𝘁.𝗹𝘆/𝗿𝗮𝘄𝗮𝘁𝘁𝘃",SCTV 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/sctv/sa_dash_vmx/sctv.mpd
-
-
-
+#EXTINF:-1, 三立综合台
+http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
+#EXTINF:-1,三立财经新闻台
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1,三立Live新聞
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+#EXTINF:-1,三立新闻台
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
+#EXTINF:-1,三立戏剧
+http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
+#EXTINF:-1,三立台湾台
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://125.227.210.55:15714/VideoInput/play.ts
+#EXTINF:-1,三立都会台
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
