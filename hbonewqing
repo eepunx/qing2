@@ -10,10 +10,10 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 ///////REQUEST //////
 
 
-#EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV (test signal) 
+#EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV
 http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089.m3u8
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV (test signal) 
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV 
 http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089.m3u8
 
 #EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
