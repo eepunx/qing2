@@ -11,7 +11,7 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 
 #EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV (test signal) 
-https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/chunklist_w1765334579.m3u8
+http://stream1.ninmedia.tv:1935/salingsapa/rtmp.stream_360p/chunklist_w281699089.m3u8
 
 #EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
