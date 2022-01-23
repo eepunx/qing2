@@ -1,3 +1,11 @@
+#EXTINF:-1, group-title="[WEBTV] NINMEDIA" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-salingsapa-TV-02-150x85px.png",SALINGSAPA TV
+rtmp://live.salingsapa.com/live/salingsapatv
+#EXTINF:-1, group-title="[WEBTV] INDONESIA",FATTV HD
+rtmp://live4.netdesignhost.com/fat93live/fat93live
+
+
+
+
 #EXTINF:-1, 三立综合台
 http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
 #EXTINF:-1,三立财经新闻台
