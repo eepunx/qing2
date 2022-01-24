@@ -337,22 +337,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=
 #http://39.130.202.114:6610/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
 #EXTINF:-1 group-title="China 🇨🇳",CETV-1 HD 
 #http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",ICS Shanghai 
-http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Shanghai Oriental Film 
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Shanghai 5 stars sports 
-http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Shanghai First Finance 
-http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳", Shanghai News 
-http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Shanghai Documentary 
-http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Shanghai Xuang Dong 
-http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Shanghai Metropolis 
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+
 
 #EXTINF:-1 group-title="China 🇨🇳",CHC Movies 
 #http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8 
