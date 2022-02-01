@@ -1,22 +1,11 @@
-#EXTINF:-1, group-title="[WEBTV] NINMEDIA" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-salingsapa-TV-02-150x85px.png",SALINGSAPA TV
-rtmp://live.salingsapa.com/live/salingsapatv
-#EXTINF:-1, group-title="[WEBTV] INDONESIA",FATTV HD
-rtmp://live4.netdesignhost.com/fat93live/fat93live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
 
 
 
+http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
 
-#EXTINF:-1, 三立综合台
-http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
-#EXTINF:-1,三立财经新闻台
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1,三立Live新聞
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
-#EXTINF:-1,三立新闻台
-http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
-#EXTINF:-1,三立戏剧
-http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
-#EXTINF:-1,三立台湾台
-https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://125.227.210.55:15714/VideoInput/play.ts
-#EXTINF:-1,三立都会台
-https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+
+https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
+
+https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
+
