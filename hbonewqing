@@ -829,12 +829,9 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",港台33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/info/images/opentv_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Hong Kong Open
-#https://cdn.hkdtmb.com/hls/77/index.m3u8
-
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
+#EXTINF:-1 tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 ///// LIFESTYLE /////
