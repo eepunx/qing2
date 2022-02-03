@@ -767,8 +767,7 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
 //// China /////
-#EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV HD 民視
-rtmp://59.124.75.157/sat/tv051
+
 #EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV 民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV TW 
@@ -782,15 +781,15 @@ http://seb.sason.top/ptv/ftv.php?id=zy#http://sytv.xtvants.fun/mytv.php?id=mszy&
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAWfaY8oGPhKToVcCMi3xwxdyvO6HvD6SGFM0h0yBmKPKdTP3ghvPBTqKN7OYPDaTIw&usqp=CAU" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV Movies 
 http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
 #EXTINF:-1 tvg-logo="https://sme.moeasmea.gov.tw/startup/thumbnail.php?src=upload/rmap/201907/01629_0711prBnL8.png&w=351&zc=1" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
-#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
-http://seb.sason.top/sc/msxw_fhd.m3u8
 
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="" ,三立财经新闻台
+#EXTINF:-1 tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
+
+
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="http://www.tvyan.com/uploads/dianshi/setinews.jpg" ,三立财经新闻台
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",三立Live新聞
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://pbs.twimg.com/profile_images/1172478940960583684/fQGpkYHN_200x200.jpg",三立Live新聞
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",三立新闻台
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png",三立新闻台
 http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
 
 
@@ -802,20 +801,22 @@ http://cdn.hkdtmb.com/hls/96/index.m3u8
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Zhibo
-http://livetv.dnsfor.me:80/channel.3.m3u8
+#http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Xinwen
-http://livetv.dnsfor.me:80/channel.4.m3u8
+#http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Kai Dianshi
-http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB
+#http://livetv.dnsfor.me:80/channel.9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jade.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Jade
 http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",J2
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/tvb-j2-1432636011.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",J2
 http://livetv.dnsfor.me:80/channel.19.m3u8
 
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Jade
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+#https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+#https://cdn.hkdtmb.com/hls/82/index.m3u8
+
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB News
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Pearl 
