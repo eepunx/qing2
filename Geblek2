@@ -174,9 +174,9 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 
 ==========SPROT===========
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="Qingsports",CCTV 5
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="Qingsports",CCTV 5+
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Qingsports", FREE Sports 
 
@@ -354,9 +354,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8#http
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="China 🇨🇳",CCTV 4
 http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="China 🇨🇳",CCTV 5
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="China 🇨🇳",CCTV 5+
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="China 🇨🇳",CCTV 6
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="China 🇨🇳",CCTV 7
@@ -380,7 +380,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="Music",CCTV 15
 http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg" group-title="China 🇨🇳",CCTV 16
-http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="China 🇨🇳",CCTV 17
 http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 
