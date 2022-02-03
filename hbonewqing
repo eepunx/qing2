@@ -30,7 +30,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 
 
 
-
 /////////////////! 
 
 
@@ -132,7 +131,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://imgcdn.rri.co.id/__srct/cfb3228334b52d754373c1e819e9a6cc/1148834/f14c26675251f69bbd9dfb3f28989092.jpg" group-title="Qingsports",Indosiar
-http://tvnasional.mobie.in/M3U8/205.m3u8
+#http://tvnasional.mobie.in/M3U8/205.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -470,13 +469,13 @@ https://lnk.ec/AstroArena?shareext.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena (test) 
 
-#EXTINF:-1 group-title="Qingsports"tvg-logo="", Champion TV 1
+#EXTINF:-1 group-title="Qingsports"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png", Champion TV 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
 
-#EXTINF:-1 group-title="Qingsports"tvg-logo="", Champion TV 2
+#EXTINF:-1 group-title="Qingsports"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png", Champion TV 2
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Qingsports", Champion TV 3
+#EXTINF:-1 tvg-logo="https://jurnalapps.co.id/assets/img/content/1609169144_tv3-28-1.jpg" group-title="Qingsports", Champion TV 3
 https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 
