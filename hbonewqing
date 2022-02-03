@@ -817,17 +817,17 @@ http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB J2
 #https://cdn.hkdtmb.com/hls/82/index.m3u8
 
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",TVB News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB News
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Pearl 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Pearl 
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Caijing Zixun
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Caijing Zixun
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",港台31
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1024px-RTHK_TV_31.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",港台31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",港台32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",港台32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",港台33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",港台33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
 https://cdn.hkdtmb.com/hls/77/index.m3u8
