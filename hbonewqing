@@ -2,9 +2,9 @@
 
 ////donasi/////
 
-#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/0/609063.png" group-title="Mau Rawat/Request channel di Server ini ketik http://bit.ly/rawattv di browser thanks ❤️",AFV
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/0/609063.png" group-title="Mau Bantu Rawat/Request channel di Server ini ketik http://bit.ly/rawattv di browser thanks ❤️",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/891-8910473_aol-logo-png-failarmy.png" group-title="Mau Rawat/Request channel di Server ini ketik http://bit.ly/rawattv di browser thanks ❤️", Fail Army
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/891-8910473_aol-logo-png-failarmy.png" group-title="Mau Bantu Rawat/Request channel di Server ini ketik http://bit.ly/rawattv di browser thanks ❤️", Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 ///////REQUEST //////
@@ -470,13 +470,13 @@ https://lnk.ec/AstroArena?shareext.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena (test) 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+http://tvnid.wapgem.com/vidio/7.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+http://tvnid.wapgem.com/vidio/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
-https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+http://tvnid.wapgem.com/vidio/9.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
