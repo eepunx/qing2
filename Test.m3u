@@ -33,3 +33,11 @@ http://tvnid.wapgem.com/vidio/master-14.m3u8
 http://tvnid.wapgem.com/vidio/master-15.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="usi", plist
+http://tvnid.wapgem.com/useetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="usi", 1
+http://tvnid.wapgem.com/useetv/playlist-1.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="usi", 2
+http://tvnid.wapgem.com/useetv/playlist-2.m3u8
+
+
