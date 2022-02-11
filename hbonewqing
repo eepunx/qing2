@@ -268,9 +268,9 @@ https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg", Duck TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.nicepng.com/png/detail/142-1427257_disney-channel-disney-channel-red-logo.png", Disney Channel 
-http://58.65.171.202:8000/play/7350/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png", Disney Jr 
-http://58.65.171.202:8000/play/10552/index.m3u8
+http://37.19.203.217:8085/udp/239.100.10.38:5000
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.clipartkey.com/mpngs/m/137-1375697_disney-junior-logo-3d.png", Disney Jr 
+http://37.19.203.217:8085/udp/239.100.10.192:5000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="KIDS", ASTRO CERIA
 
