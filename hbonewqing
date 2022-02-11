@@ -798,6 +798,8 @@ http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Kai Dianshi
 #http://livetv.dnsfor.me:80/channel.9.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI Tw 
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbjingdian.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
