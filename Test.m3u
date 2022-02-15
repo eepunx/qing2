@@ -1,3 +1,9 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg", Nick Jr IDN 
+https://liveanevia.mncnow.id:443/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+
+
 #EXTINF:-1 group-title="SPORTS",Golf Network 
 http://203.162.235.41:16924/
 
