@@ -8,6 +8,13 @@ https://bit.ly/camp2qing
 #EXTINF:-1 group-title="SPORTS",cmp3
 https://bit.ly/camp3qing
 
+#EXTINF:-1 group-title="SPORTS",cmp1 5
+http://tvnid.wapgem.com/vidio/master-5.m3u8
+#EXTINF:-1 group-title="SPORTS",cmp2 5
+http://tvnid.wapgem.com/vidio/master-6.m3u8
+#EXTINF:-1 group-title="SPORTS",cmp3 5
+http://tvnid.wapgem.com/vidio/master-7.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
