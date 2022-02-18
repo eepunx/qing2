@@ -456,7 +456,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="Qingsports",Astro Arena
 http://foctv.xyz:25510/Imrany/BB1732/147
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg",Unifi Sport 2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg" group-title="Qingsports",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
