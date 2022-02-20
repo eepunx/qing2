@@ -351,6 +351,8 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES 2",my Cinema
 #http://www.goldentv.tech:25461/Perfecto/170721/38077
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="MOVIES 2",Paramount
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
