@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png",Unifi Sport 2
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="",food n
+http://91.92.108.254:8080/udp/239.10.10.4:5000
+
+
 
 #EXTINF:-1 group-title="SPORTS",cmp1
 https://bit.ly/camp1qing
