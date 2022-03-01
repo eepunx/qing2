@@ -461,7 +461,7 @@ http://foctv.xyz:25510/Imrany/BB1732/147
 #https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://img.sporekrani.com/tr_c_limit,h_488,w_780/blogs/85afa989b018d7dfc31f1eaf94bbd681.png" group-title="Qingsports", Idman TV
-http://109.205.166.68/server124/idman_az/index.m3u8
+#http://109.205.166.68/server124/idman_az/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports", UseeSports
