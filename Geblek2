@@ -185,9 +185,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://1.bp.blogspot.com/-yrGZVwQ-iTM/T-D22t0EiKI/AAAAAAAAHVI/eOIQG5x5bd0/s280/NBC+Sports+Network+logo+horizontal3D.jpg",NBC sports 
 #https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",Sky Sports F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-axhmZymIEhQ/YcQvpwkTPSI/AAAAAAAABoM/-YYugZm9kI8KeSn2Ieh0jYaL0BzrItF_gCNcBGAsYHQ/s1600/1640247204417731-0.png" group-title="Qingsports",DAZN F1
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6_JFGdGtEbw/YcQsWTugSII/AAAAAAAABoE/do7uecOs2s0Nm_Ir-G-Xob_43tMNyef0QCNcBGAsYHQ/w945-h600-p-k-no-nu/1640246358711028-0.png" group-title="Qingsports",S Motorsport
