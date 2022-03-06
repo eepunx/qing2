@@ -264,6 +264,12 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 
 ///// KIDS /////
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png", Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png", Happy Kids Jr
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://macan.network/img/babyfirst.jpg", Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg", Duck TV
