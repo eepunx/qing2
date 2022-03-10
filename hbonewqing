@@ -905,6 +905,7 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Music", Prambors ID
 https://cdn10jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=WT96szHJVbZdqe_W7OhaGQ&uid=&expp=1646159087
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png"  group-title="Music",MALEO TV
+https://bravo.kugo.id/maleo/udp.stream_360p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
