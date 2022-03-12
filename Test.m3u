@@ -3,8 +3,15 @@ http://91.92.108.254:8080/udp/239.10.10.4:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/MNCSports_(2020).png/200px-MNCSports_(2020).png" group-title="Qingsports",MNC Sports2
-https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxj_tdHMPVqbVreYZyaKAIACLliL4EOP9Ow&usqp=CAU" group-title="Movies",Galaxy Premium
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Sports", Usee Sports
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524284
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Sports", Usee Sports 2
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524288
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -53,44 +60,4 @@ https://raw.githubusercontent.com/eepunx/qing2/master/test1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="anyar", hbo
 https://raw.githubusercontent.com/eepunx/qing2/master/hbi.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="anyar", 1
-http://tvnid.wapgem.com/vidio/master-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 2
-http://tvnid.wapgem.com/vidio/master-2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 3
-http://tvnid.wapgem.com/vidio/master-3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 4
-http://tvnid.wapgem.com/vidio/master-4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 5
-http://tvnid.wapgem.com/vidio/master-5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 6
-http://tvnid.wapgem.com/vidio/master-6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 7
-http://tvnid.wapgem.com/vidio/master-7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 8
-http://tvnid.wapgem.com/vidio/master-8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 9
-http://tvnid.wapgem.com/vidio/master-9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 10
-http://tvnid.wapgem.com/vidio/master-10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 11
-http://tvnid.wapgem.com/vidio/master-11.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 12
-http://tvnid.wapgem.com/vidio/master-12.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 13
-http://tvnid.wapgem.com/vidio/master-13.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 14
-http://tvnid.wapgem.com/vidio/master-14.m3u8
-#EXTINF:-1 tvg-logo="" group-title="anyar", 15
-http://tvnid.wapgem.com/vidio/master-15.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="usi", plist
-http://tvnid.wapgem.com/useetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="usi", 1
-http://tvnid.wapgem.com/useetv/playlist-1.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="usi", 2
-http://tvnid.wapgem.com/useetv/playlist-2.m3u8
-
 
