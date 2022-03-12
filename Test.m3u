@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="",food n
-http://91.92.108.254:8080/udp/239.10.10.4:5000
+#EXTINF:-1 tvg-logo="",f1
+http://146.19.16.205:8002/play/a025
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
