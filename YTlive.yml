@@ -11,7 +11,7 @@ jobs:
       run: |
         sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
         sudo chmod a+rx /usr/local/bin/youtube-dl
-    - name: Get aljazeera.m3u8
+    - name: Get sifa.m3u8
       run: |
         touch ./sifa.m3u8
         sudo cat >./sifa.m3u8 <<EOL
