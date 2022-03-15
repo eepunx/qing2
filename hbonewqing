@@ -484,10 +484,12 @@ http://w.nasvpn.xyz:8080/saya/saya/4130
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg" group-title="Qingsports",Unifi Sport 2
 #https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports", UseeSports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Qingsports", Usee Sports
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524284
-#EXTINF:-1 tvg-logo="" group-title="Qingsports",UseeSports 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Qingsports", Usee Sports 2
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524288
+
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena (test) 
 
