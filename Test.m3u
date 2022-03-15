@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="",coba
-https://youtu.be/C_qzmNlTNWI
+#EXTINF:-1 tvg-logo="",sifa m3u
+https://raw.githubusercontent.com/eepunx/qing2/master/sifa.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
