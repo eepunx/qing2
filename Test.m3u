@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="",f1 pass
-http://41.224.0.27:4501/stream/channelid/21045182?profile=pass
+#EXTINF:-1 tvg-logo="",coba
+https://youtu.be/C_qzmNlTNWI
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
