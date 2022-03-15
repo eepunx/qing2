@@ -470,7 +470,16 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="Qingsports",SUKAN rtm
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="Qingsports",Astro Arena
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
+http://iptv12k.com:35461/8022011502/123456/688
+http://w.nasvpn.xyz:8080/saya/saya/167
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
+http://iptv12k.com:35461/8022011502/123456/965
+http://w.nasvpn.xyz:8080/saya/saya/4130
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg" group-title="Qingsports",Unifi Sport 2
 #https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
