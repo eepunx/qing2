@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="",sifa m3u
+#EXTINF:-1 tvg-logo="",sifa new
 https://raw.githubusercontent.com/eepunx/qing2/master/sifa.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
