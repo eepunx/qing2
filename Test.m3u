@@ -4,15 +4,32 @@ https://raw.githubusercontent.com/eepunx/qing2/master/sifa.m3u8
 #EXTINF:-1 tvg-logo="",rai
 http://45.238.54.70:8000/play/a024
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxj_tdHMPVqbVreYZyaKAIACLliL4EOP9Ow&usqp=CAU" group-title="Movies",Galaxy Premium
-https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-logo="",2
+http://livetv.dnsfor.me:80/channel.02.m3u8
+#EXTINF:-1 tvg-logo="",3
+http://livetv.dnsfor.me:80/channel.03.m3u8
+#EXTINF:-1 tvg-logo="",4
+http://livetv.dnsfor.me:80/channel.04.m3u8
+#EXTINF:-1 tvg-logo="",5
+http://livetv.dnsfor.me:80/channel.05.m3u8
+#EXTINF:-1 tvg-logo="",6
+http://livetv.dnsfor.me:80/channel.06.m3u8
+#EXTINF:-1 tvg-logo="",7
+http://livetv.dnsfor.me:80/channel.07.m3u8
+#EXTINF:-1 tvg-logo="",8
+http://livetv.dnsfor.me:80/channel.08.m3u8
+#EXTINF:-1 tvg-logo="",9
+http://livetv.dnsfor.me:80/channel.09.m3u8
+#EXTINF:-1 tvg-logo="",10
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-logo="",11
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-logo="",12
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 tvg-logo="",13
+http://livetv.dnsfor.me:80/channel.13.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Sports", Usee Sports
-https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524284
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Sports", Usee Sports 2
-https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524288
+
 
 
