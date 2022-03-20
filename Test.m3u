@@ -3,6 +3,8 @@ https://raw.githubusercontent.com/eepunx/qing2/master/sifa.m3u8
 
 #EXTINF:-1 tvg-logo="",rai
 http://45.238.54.70:8000/play/a024
+#EXTINF:-1 tvg-logo="",fox sp 3
+http://45.238.54.70:8000/play/a04c
 
 #EXTINF:-1 tvg-logo="",2
 http://livetv.dnsfor.me:80/channel.02.m3u8
