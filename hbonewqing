@@ -823,15 +823,12 @@ https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://pbs.twimg.com/profile_images/1172478940960583684/fQGpkYHN_200x200.jpg",三立Live新聞
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png",三立新闻台
-http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
-
+#http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
 
 #EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
 #http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="Entertaiment & Lifestyle",Viu 6 TV
-http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu 6 TV
-http://cdn.hkdtmb.com/hls/96/index.m3u8
 
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Zhibo
 #http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -844,13 +841,13 @@ http://cdn.hkdtmb.com/hls/96/index.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbjingdian.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB经典台
-http://iptv.tvfix.org/hls/tvbjd.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.newton.com.tw/img/2/9bb/cGcq5SO1YzNzIDOwQTN5QzMxEzYkBzYhV2MmJDOhRzMwYzY1EzMjJWNygTOv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB功夫台
-http://iptv.tvfix.org/hls/tvbkf.m3u8
+
 
 
 
@@ -859,7 +856,7 @@ http://iptv.tvfix.org/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/300px-RTHK_TV_33.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",港台33
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/info/images/opentv_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
-
+http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
 #https://cdn.hkdtmb.com/hls/76/index.m3u8
 
