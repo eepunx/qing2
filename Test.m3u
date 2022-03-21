@@ -8,35 +8,17 @@ https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",fox sp 3 
 http://45.238.54.70:8000/play/a04c
 
-#EXTINF:-1 tvg-logo="",2
-http://livetv.dnsfor.me:80/channel.02.m3u8
-#EXTINF:-1 tvg-logo="",3
-http://livetv.dnsfor.me:80/channel.03.m3u8
-#EXTINF:-1 tvg-logo="",4
-http://livetv.dnsfor.me:80/channel.04.m3u8
-#EXTINF:-1 tvg-logo="",5
-http://livetv.dnsfor.me:80/channel.05.m3u8
-#EXTINF:-1 tvg-logo="",6
-http://livetv.dnsfor.me:80/channel.06.m3u8
-#EXTINF:-1 tvg-logo="",7
-http://livetv.dnsfor.me:80/channel.07.m3u8
-#EXTINF:-1 tvg-logo="",8
-http://livetv.dnsfor.me:80/channel.08.m3u8
-#EXTINF:-1 tvg-logo="",9
-http://livetv.dnsfor.me:80/channel.09.m3u8
-#EXTINF:-1 tvg-logo="",10
-http://livetv.dnsfor.me:80/channel.10.m3u8
-
-#EXTINF:-1 tvg-logo="",10 pjg
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1647761526~exp=1647847926~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=7cb52e443a0892e562bedf9263c20487007cb66ab5dd9a3560ec43e294cf6a7a&p=3324
-#EXTINF:-1 tvg-logo="",11
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-logo="",12
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-logo="",13
-http://livetv.dnsfor.me:80/channel.13.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="",set 1
+三立综合台,p5p://45.92.126.18:19706/60441aa3000729ad001af109e515adad.ts
+#EXTINF:-1 tvg-logo="",set 2
+三立新闻台,P2p://860969650:9906/3fc8adf766954da4bc9908ecb81184bc#http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="",set 3
+三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+#EXTINF:-1 tvg-logo="",set 4
+三立财经新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8#P2p://860969650:9906/49035f1ad8b84fa7822c0ff660d89f09
+#EXTINF:-1 tvg-logo="",set 5
+三立戏剧,P2p://860969650:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
+#EXTINF:-1 tvg-logo="",set 6
+三立台湾台,P2p://860969650:9906/ba70eb94fd0e4b2aae6fb9ece2203391#http://125.227.210.55:15714/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="",set 7
+三立都会台,P2p://860969650:9906/24f879b52a0d45d886005e8acdd9a8ab
