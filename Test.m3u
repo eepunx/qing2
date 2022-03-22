@@ -11,7 +11,7 @@ http://45.238.54.70:8000/play/a04c
 #EXTINF:-1 tvg-logo="",set 1
 https://45.92.126.18:19706/60441aa3000729ad001af109e515adad.ts
 #EXTINF:-1 tvg-logo="",set 2
-https://860969650:9906/3fc8adf766954da4bc9908ecb81184bc#http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
+http://125.227.210.55:15589/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="",set 3
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
 #EXTINF:-1 tvg-logo="",set 4
@@ -19,6 +19,6 @@ https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb
 #EXTINF:-1 tvg-logo="",set 5
 https://860969650:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
 #EXTINF:-1 tvg-logo="",set 6
-https://860969650:9906/ba70eb94fd0e4b2aae6fb9ece2203391#http://125.227.210.55:15714/VideoInput/play.ts
+http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="",set 7
-https://860969650:9906/24f879b52a0d45d886005e8acdd9a8ab
+
