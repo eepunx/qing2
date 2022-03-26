@@ -183,7 +183,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO FHD
-https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1644417810~hmac=2c14cfa7947364e463ef6fc76f2585c8ec58f6f3bf74958b8f1e8205d6f44a00
+#https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1644417810~hmac=2c14cfa7947364e463ef6fc76f2585c8ec58f6f3bf74958b8f1e8205d6f44a00
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
