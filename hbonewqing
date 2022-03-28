@@ -475,7 +475,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg" group-title="Qingsports",Unifi Sport
+#EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi Sport
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Qingsports", Usee Sports
@@ -488,13 +488,13 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524288
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena (test) 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-#http://tvnid.wapgem.com/vidio/master-7.m3u8
+#http://tvn.x10.bz/xchannel/master-6.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-#http://tvnid.wapgem.com/vidio/master-8.m3u8
+#http://tvn.x10.bz/xchannel/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
-#http://tvnid.wapgem.com/vidio/master-9.m3u8
+#http://tvn.x10.bz/xchannel/master-8.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
