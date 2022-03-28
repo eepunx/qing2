@@ -475,8 +475,8 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg" group-title="Qingsports",Unifi Sport 2
-#https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/beijing-2022-winter-olympics7290.jpg" group-title="Qingsports",Unifi Sport
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Qingsports", Usee Sports
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524284
