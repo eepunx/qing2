@@ -167,13 +167,13 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 //RCTI+
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",RCTI 
-#https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+https://bit.ly/cctiplus
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",MNCTV 
-#https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+https://bit.ly/36UoZRi
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",GTV 
-#https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+https://bit.ly/3IRRDAc
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",iNEWS
-#https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+https://bit.ly/35fSxZi
 
 
 /// HBO /////
