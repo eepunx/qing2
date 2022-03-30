@@ -160,13 +160,13 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 //RCTI+
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",RCTI 
-https://bit.ly/cctiplus
+#https://bit.ly/cctiplus
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",MNCTV 
-https://bit.ly/36UoZRi
+#https://bit.ly/36UoZRi
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",GTV 
-https://bit.ly/3IRRDAc
+#https://bit.ly/3IRRDAc
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo.b9f35229.png" group-title="Indonesia 🇮🇩 (server 2)",iNEWS
-https://bit.ly/35fSxZi
+#https://bit.ly/35fSxZi
 
 
 /// HBO /////
@@ -872,8 +872,8 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", AFN 
-https://liveanevia.mncnow.id/live/eds/AFC-2/sa_dash_vmx/AFC-2.mpd
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://dusktill.masuk.web.id/img/afn.png", AFN 
+https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
