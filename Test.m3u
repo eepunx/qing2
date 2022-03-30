@@ -1,7 +1,12 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", AFN hd
-https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png",Indosiar Hd
+https://liveanevia.mncnow.id/live/eds/Indosiar-HD/sa_dash_vmx/Indosiar-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png",Indosiar 2
+https://liveanevia.mncnow.id/live/eds/Indosiar-2/sa_dash_vmx/Indosiar-2.mpd
 
 
 
