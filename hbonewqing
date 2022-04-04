@@ -502,7 +502,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13", Fox Sports 1 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sp 3 Spain
-http://45.238.54.70:8000/play/a028
+
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sp 3 Latin
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
@@ -586,7 +586,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-http://flussonicusa.bdcabletv.com:80/bdcuserdiy/Fn7nAkLJlw/197
+http://stariptv.org:8080/hakim2021/123456/150160
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
