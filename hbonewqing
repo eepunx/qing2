@@ -801,12 +801,20 @@ http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&
 #EXTINF:-1 tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 
 
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="http://www.tvyan.com/uploads/dianshi/setinews.jpg" ,三立财经新闻台
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://pbs.twimg.com/profile_images/1172478940960583684/fQGpkYHN_200x200.jpg",三立Live新聞
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png",三立新闻台
-#http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8#http://125.227.210.55:15589/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立綜合台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 tvg-id="6072" tvg-logo="http://www.tvyan.com/uploads/dianshi/setxinwen.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立新聞
+http://59.125.101.187:8590/playlist.m3u8
+#EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/setlivenews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立台灣台
+http://59.125.101.187:8519/playlist.m3u8
+#EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立都會台
+http://59.125.101.187:8522/playlist.m3u8
+
+
 
 #EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
 #http://cdn.hkdtmb.com/hls/99/index.m3u8
