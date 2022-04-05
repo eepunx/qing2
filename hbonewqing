@@ -598,7 +598,7 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png" group-title="Qingsports", Extreme Sports 
-http://88.159.237.95:9996/play/a01q/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -853,10 +853,10 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/290px-Rock_Entertainment.png" ,Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/800px-Rock_Extreme.png" ,Rock Extreme
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
