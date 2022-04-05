@@ -464,7 +464,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
-
+http://shareext@urtv.cc:80/live/114048/114048/6707.ts?shareext.ts
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi Sport
