@@ -1,13 +1,7 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png",Indosiar Hd
-https://liveanevia.mncnow.id/live/eds/Indosiar-HD/sa_dash_vmx/Indosiar-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png",Indosiar 2
-https://liveanevia.mncnow.id/live/eds/Indosiar-2/sa_dash_vmx/Indosiar-2.mpd
-
+#EXTINF:-1 group-title="体育",ufc 2[512*288]
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="体育",ufc 3[1280*720]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
 #EXTINF:-1 tvg-logo="",sifa new
