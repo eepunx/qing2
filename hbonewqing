@@ -557,7 +557,8 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Qingsports",beIN Sports 4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 HD
-http://tv.romanija.xyz:8080/22maky/test111/172
+#http://tv.romanija.xyz:8080/22maky/test111/172
+http://195.154.200.168:8000/play/a00m/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 4K
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
