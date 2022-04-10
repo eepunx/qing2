@@ -495,14 +495,14 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sp 3 Spain
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sp 3 Latin
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", F1 F3 FE rally nascar
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://ih1.redbubble.net/image.2401040379.8562/flat,128x,075,f-pad,128x128,f8f8f8.jpg",Dazn F1
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",Sky Sp F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8 
+#http://93.152.174.144:4000/play/ssportsf1/index.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
