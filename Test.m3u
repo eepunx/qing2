@@ -3,28 +3,9 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="体育",ufc 3[1280*720]
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-
-#EXTINF:-1 tvg-logo="",sifa new
-https://raw.githubusercontent.com/eepunx/qing2/master/sifa.m3u8
-
-#EXTINF:-1 tvg-logo="",fox sp 3 baru
-http://201.108.240.110:8001/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="",fox sp 3 mpd
+#EXTINF:-1 group-title="",1
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-logo="",fox sp 3 
-http://45.238.54.70:8000/play/a04c
-
-#EXTINF:-1 tvg-logo="",set 1
-https://45.92.126.18:19706/60441aa3000729ad001af109e515adad.ts
-#EXTINF:-1 tvg-logo="",set 2
-http://125.227.210.55:15589/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="",set 3
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
-#EXTINF:-1 tvg-logo="",set 4
-https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8#http://seb.sason.top/sc/slinews_fhd.m3u8#P2p://860969650:9906/49035f1ad8b84fa7822c0ff660d89f09
-#EXTINF:-1 tvg-logo="",set 5
-https://860969650:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
-#EXTINF:-1 tvg-logo="",set 6
-http://125.227.210.55:15714/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="",set 7
-
+#EXTINF:-1 group-title="",2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 group-title="",3
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8 
