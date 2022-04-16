@@ -1,12 +1,14 @@
 
-#EXTINF:-1 group-title="unifi",13
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
-#EXTINF:-1 group-title="unifi",14
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
-#EXTINF:-1 group-title="unifi",15
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
-#EXTINF:-1 group-title="unifi",16
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live16.mpd
+#EXTINF:-1 group-title="set",251
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+#EXTINF:-1 group-title="set",107
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+#EXTINF:-1 group-title="set",204
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+#EXTINF:-1 group-title="set",169
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 group-title="set",202
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
 
 #EXTINF:-1 group-title="unifi",11
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
