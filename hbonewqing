@@ -797,11 +797,14 @@ http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&
 
 #EXTINF:-1 tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 
-#EXTINF:-1 tvg-id="6067" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="HK/Taiwan 🇭🇰🇹🇼", NEXT壹新聞
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="HK/Taiwan 🇭🇰🇹🇼", NEXT壹新聞
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
-#EXTINF:-1 tvg-id="7201" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
 http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ctitv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", cti Show
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 
 #EXTINF:-1 tvg-id="6239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立綜合台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
