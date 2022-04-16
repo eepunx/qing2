@@ -1,3 +1,34 @@
+
+#EXTINF:-1 group-title="unifi",1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live1.mpd
+#EXTINF:-1 group-title="unifi",2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live2.mpd
+#EXTINF:-1 group-title="unifi",3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live3.mpd
+#EXTINF:-1 group-title="unifi",4
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live4.mpd
+#EXTINF:-1 group-title="unifi",5
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live5.mpd
+#EXTINF:-1 group-title="unifi",6
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live6.mpd
+#EXTINF:-1 group-title="unifi",7
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live7.mpd
+#EXTINF:-1 group-title="unifi",8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live8.mpd
+#EXTINF:-1 group-title="unifi",9
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live9.mpd
+#EXTINF:-1 group-title="unifi",10
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+#EXTINF:-1 group-title="unifi",11
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="unifi",12
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+
+
+
+
+
 #EXTINF:-1 group-title="体育",ufc 2[512*288]
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="体育",ufc 3[1280*720]
