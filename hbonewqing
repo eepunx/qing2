@@ -558,7 +558,8 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 HD
 #http://tv.romanija.xyz:8080/22maky/test111/172
-http://195.154.200.168:8000/play/a00m/index.m3u8
+#http://vt.vttpi.com:8000/live/P-957977/P-740465/23.ts
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/78389.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 4K
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
@@ -582,7 +583,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-http://195.154.200.168:8000/play/a013/index.m3u8
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306062.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
