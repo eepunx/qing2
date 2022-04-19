@@ -175,10 +175,11 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO FHD
-#https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1644417810~hmac=2c14cfa7947364e463ef6fc76f2585c8ec58f6f3bf74958b8f1e8205d6f44a00
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO Malaysia
+#https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTVNJQS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjUwMzYwOTgxfX19XX0_&Signature=mU2b9~bYn5YDpH4Gg-5Oy7h1E5Ng1GMWD11pIJ5N6cTb7lYOqOCFJGbb8dTCfy1B-HgvSJww0i2MmC1cAHt2lmsgKkfqIYHv7BLqBo4Ni816DSKb40iK0FCEeaO17CN2Y1hoKbDj6fHL7ZjRZ9ZN-Faw5ljA4kR9OC6oIcrM4KALH4hujLbaB8aEpIc6J0NkMh~JAeI~Rxcmabod~YH3HnJJhzjLvFFwqK0GIHdPDsemZZtsHlXupI0CZ77WmHpwH87imQDslwA5cIKoJuak3bU9gKcmzErl~Ebxnndnox~zNqxmShTSWlnZJ-S~16vbMDSB1SbgsDC~BZ4-udUY6Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://live.astradamy.com/hbogo/hbo/index.m3u88f6f3bf74958b8f1e8205d6f44a00
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thai
+#EXTINF:-1 group-title="HBO" tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png", HBO Thailand
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
