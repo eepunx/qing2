@@ -221,9 +221,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Qingsports",GOLF
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15162
 
-#EXTINF:-1 tvg-logo="https://images2-corsedimoto.gazzettaobjects.it/wp-content/uploads/2019/01/09/17/00/djbly_pv4aaffh9-e1532603976148-375x289.jpg" group-title="Qingsports",Sky Sports Motogpqa
-#EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://images2-corsedimoto.gazzettaobjects.it/wp-content/uploads/2019/01/09/17/00/djbly_pv4aaffh9-e1532603976148-375x289.jpg" group-title="Qingsports",Sky Sports Motogpq
 
+#EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
+http://new-pro.tv:8080/Fernando/123321/116093
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Qingsports", PGA TOUR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
