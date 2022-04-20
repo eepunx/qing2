@@ -275,6 +275,8 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png", Mentari TV
 
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png", Happy Kids
 https://happykids-roku.amagi.tv/playlist.m3u8
