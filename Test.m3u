@@ -3,8 +3,8 @@
 https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
 #EXTINF:-1 group-title="",sony ten 1
 http://208.86.19.13:81/726.stream/index.m3u8
-#EXTINF:-1 group-title="set",204
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+#EXTINF:-1 group-title="",FOX sp 1
+http://187.200.112.92:4444/play/a08z/index.m3u8
 #EXTINF:-1 group-title="set",169
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 #EXTINF:-1 group-title="set",202
