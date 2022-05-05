@@ -132,8 +132,6 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcGMYsV/ochannel-lean-paps.png" group-title="Indonesia 🇮🇩",  O channel
 http://akudandia.xyz/locs/akudandia-206.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgcdn.rri.co.id/__srct/cfb3228334b52d754373c1e819e9a6cc/1148834/f14c26675251f69bbd9dfb3f28989092.jpg" group-title="Qingsports",Indosiar
-#http://tvnid.wapgem.com/vidio/master-1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -526,6 +524,9 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",Sky Sp F1
 #http://93.152.174.144:4000/play/ssportsf1/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="Qingsports",Sports TV 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
