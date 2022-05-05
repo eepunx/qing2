@@ -18,9 +18,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)",TVONE
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/1RTjJ55/ruangtrampil-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Ruang Trampil
-
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/zXb9cGt/useephoto-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Usee Photo
-
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/K9YfqG0/useeprime-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
@@ -39,7 +39,7 @@ http://36.89.47.217:11935/rrinet/live/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="Indonesia 🇮🇩 (server 2)",JITV
-http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
+#http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #EXTINF: -1 tvg-logo="" group-title="Indonesia",Hi Indo
@@ -47,7 +47,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",TV Edukasi
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
