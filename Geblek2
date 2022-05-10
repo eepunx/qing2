@@ -1,4 +1,7 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://www.transvision.co.id/img/channel/rcti.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia 🇮🇩 (server 2) ",Indosiar usee
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia 🇮🇩 (server 2)",SCTV usee
