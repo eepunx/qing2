@@ -251,7 +251,11 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 ===China===
 
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman
+
+#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png",Chongqing
+http://203.77.246.50:5000/udp/239.1.3.40:5000
+
+#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman Kids
 http://203.77.246.50:5000/udp/239.1.3.50:5000
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="China 🇨🇳",Chinese Drama
