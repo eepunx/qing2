@@ -7,6 +7,8 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 ///////REQUEST //////
 
+#EXTINF:-1 group-title="VOD Request 📋" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/16/3333866451.jpg",KKN Cam (tks Johan) 
+https://www.dropbox.com/s/9i5621glhdcm7tz/4_6046311558940723918.mp4?dl=1
 
 #EXTINF:-1 group-title="Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV (onair) 
 https://bit.ly/slspqing
