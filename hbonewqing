@@ -946,12 +946,18 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 https://cdngb196.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=hs4kmPkkc8cvjaRdPghCpQ&uid=&expp=1651832669
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png"  group-title="Music",MALEO TV
-https://bit.ly/mleotqing
+https://bit.ly/mleot2
+
+#EXTINF:-1 tvg-logo="https://mikaylabinar.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-18-at-00.56.35-9a43fdde.jpeg"  group-title="Music",Dangdut TV
+https://bit.ly/dgduttv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Music" tvg-logo ="https://www.lyngsat.com/logo/tv/mm/music-tv-id.png", MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/440px-Channel_V_Logo.svg.png", V channel
+
 
 #EXTINF:-1 group-title="Music" tvg-logo ="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/story/2019/08/01/9xm.jpg", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
