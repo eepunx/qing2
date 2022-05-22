@@ -258,93 +258,93 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 ===China===
 
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qinghai_tv_cn.png",Qinghai
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qinghai_tv_cn.png",Qinghai
 http://203.77.246.50:5000/udp/239.1.2.190:5000
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png",Chongqing
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png",Chongqing
 http://203.77.246.50:5000/udp/239.1.3.40:5000
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/hebeitv.jpg",Hebei
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/hebeitv.jpg",Hebei
 http://203.77.246.50:5000/udp/239.1.3.42:5000
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg",Guizhou
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg",Guizhou
 http://203.77.246.50:5000/udp/239.1.3.44:5000
 
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman Kids
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman Kids
 http://203.77.246.50:5000/udp/239.1.3.50:5000
 
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="China 🇨🇳",Chinese Drama
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="China Provinsi 🇨🇳",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", SHANGHAI DRAGON TV
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", SHANGHAI DRAGON TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", XINGKONG TV
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", XINGKONG TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="China 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="China 🇨🇳", Macau TV
 http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="China 🇨🇳", Hainan TV
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="China Provinsi 🇨🇳", Hainan TV
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="China 🇨🇳",Zhejiang  
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="China Provinsi 🇨🇳",Zhejiang  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/800px-Beijing_Television_Logo_2009.png" group-title="China 🇨🇳",Beijing  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/800px-Beijing_Television_Logo_2009.png" group-title="China Provinsi 🇨🇳",Beijing  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="China 🇨🇳",Tianjin  
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="China Provinsi 🇨🇳",Tianjin  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxitv.jpg" group-title="China 🇨🇳",Jiangxi  
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxitv.jpg" group-title="China Provinsi 🇨🇳",Jiangxi  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sdgg.jpg" group-title="China 🇨🇳",Shandong  
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sdgg.jpg" group-title="China Provinsi 🇨🇳",Shandong  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg" group-title="China 🇨🇳",Guangdong  
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg" group-title="China Provinsi 🇨🇳",Guangdong  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9d/Doc_Channel.jpg/220px-Doc_Channel.jpg" group-title="China 🇨🇳",Shanghai doc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9d/Doc_Channel.jpg/220px-Doc_Channel.jpg" group-title="China Provinsi 🇨🇳",Shanghai doc
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title="China 🇨🇳",Shenzhen  
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title="China Provinsi 🇨🇳",Shenzhen  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 
-#EXTINF:-1 group-title="China 🇨🇳",Hubei 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Hubei 
 #http://39.130.202.114:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Heilongjiang  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Heilongjiang  
 #http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Liaoning  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Liaoning  
 #http://39.130.202.114:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Dongnan  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Dongnan  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="China 🇨🇳",Sichuan  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Sichuan  
 #http://39.130.202.114:6610/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Guizhou 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Guizhou 
 #http://39.130.202.114:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Chongqing  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Chongqing  
 #http://39.130.202.114:6610/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Yunnan  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Yunnan  
 #http://39.130.202.114:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Yunnan Entertainment 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Yunnan Entertainment 
 #http://39.130.202.114:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Yunnan Life  
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Yunnan Life  
 #http://39.130.202.114:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Yunnan Movies 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Yunnan Movies 
 #http://39.130.202.114:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Yunnan Public 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Yunnan Public 
 #http://39.130.202.114:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",Jinying 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",Jinying 
 #http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳",CETV-1 HD 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",CETV-1 HD 
 #http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8 
 
 
