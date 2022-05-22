@@ -324,7 +324,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 #http://39.130.202.114:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8 
 #EXTINF:-1 group-title="China Provinsi 🇨🇳",Liaoning  
 #http://39.130.202.114:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8 
-#EXTINF:-1 group-title="China Provinsi 🇨🇳",Dongnan  
+#EXTINF:-1 tvg-logo="https://pic2.ntimg.cn/pic/20210228/26753533_211822317256_4.jpg" group-title="China Provinsi 🇨🇳",Dongnan  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="China Provinsi 🇨🇳",Sichuan  
 #http://39.130.202.114:6610/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8 
