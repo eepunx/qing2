@@ -348,18 +348,18 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 #http://39.130.202.114:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8 
 
 
-#EXTINF:-1 group-title="China 🇨🇳",CHC Movies 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳",CHC Movies 
 #http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳", CHC Home Theater 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳", CHC Home Theater 
 #http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8 
-#EXTINF:-1 group-title="China 🇨🇳", CHC Action Movies 
+#EXTINF:-1 group-title="China Provinsi 🇨🇳", CHC Action Movies 
 #http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China 🇨🇳",NTD 新唐人大陸台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China Provinsi 🇨🇳",NTD 新唐人大陸台
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China 🇨🇳",NTD 新唐人亞太台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China Provinsi 🇨🇳",NTD 新唐人亞太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China 🇨🇳",NTD 新唐人美東台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China Provinsi 🇨🇳",NTD 新唐人美東台
 https://live.ntdimg.com/live400/playlist.m3u8
 
 ///CCTV/////
