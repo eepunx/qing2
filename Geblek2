@@ -430,6 +430,9 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CCTV China 🇨🇳",CCTV 17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CCTV China 🇨🇳",CCTV+
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/774124/CCTV_Logo.jpg" group-title="CCTV China 🇨🇳",CCTV世界地理
 http://117.148.179.147/PLTV/88888888/224/3221231537/index.m3u8
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/774124/CCTV_Logo.jpg" group-title="CCTV China 🇨🇳",CCTV-怀旧剧场
