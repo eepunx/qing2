@@ -24,6 +24,12 @@ http://203.77.246.50:5000/udp/239.1.3.78:5000
 
 #EXTINF: -1,
 
+#EXTINF:-1, Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
+#EXTINF:-1, Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+
+
 
 #EXTINF: -1, AXN
 http://203.77.246.50:5000/udp/239.1.2.142:5000
