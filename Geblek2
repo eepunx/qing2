@@ -4,6 +4,18 @@ http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF: -1 tvg-logo="https://www.transvision.co.id/img/channel/mnc.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
 http://203.77.246.50:5000/udp/239.1.3.78:5000
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="Indonesia 🇮🇩 (server 2) ",RCTI+
+#https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="Indonesia 🇮🇩 (server 2) ",MNCTV+
+#https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="Indonesia 🇮🇩 (server 2) ",GTV+
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="Indonesia 🇮🇩 (server 2) ",INEWS+
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
+
+
+
+
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia 🇮🇩 (server 2) ",Indosiar 
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia 🇮🇩 (server 2)",SCTV 
