@@ -242,12 +242,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Qingsports",GOLF
-http://shareext@urtv.cc:80/live/104595/104595/6796.ts?shareext.ts
+http://new-pro.tv:8080/mazen1/123456/116093
 
 #EXTINF:-1 tvg-logo="https://images2-corsedimoto.gazzettaobjects.it/wp-content/uploads/2019/01/09/17/00/djbly_pv4aaffh9-e1532603976148-375x289.jpg" group-title="Qingsports",Sky Sports Motogpq
 
 #EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
-http://new-pro.tv:8080/mazen1/123456/116093
+
 
 #EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/3q3luzsn/golf-7.png" group-title="Qingsports",Supersports Golf
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/290633
