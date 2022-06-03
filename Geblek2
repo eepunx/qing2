@@ -143,7 +143,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA 🇲🇾",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #http://50.7.161.82:8277/streams/d/TV3/playlist.m3u8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA 🇲🇾",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
