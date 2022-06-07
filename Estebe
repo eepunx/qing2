@@ -7,6 +7,8 @@ http://203.77.246.50:5000/udp/239.1.3.74:5000
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF: -1, HBO Family
 http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF: -1, Cinemax
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
 
 #EXTINF: -1, SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
@@ -18,9 +20,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF: -1, TVRI
 http://203.77.246.50:5000/udp/239.1.2.66:5000
-#EXTINF: -1, TVRI Sports 
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF: -1, TVone
+#EXTINF: -1, TVONE
 http://203.77.246.50:5000/udp/239.1.2.68:5000
 #EXTINF: -1, RCTI
 http://203.77.246.50:5000/udp/239.1.3.80:5000
@@ -38,16 +38,34 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1, Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+#EXTINF: -1, Sinema Indonesia
+http://203.77.246.50:5000/udp/239.1.1.74:5000
+
 #EXTINF:-1, Bali TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1, JTV sby
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 #EXTINF:-1, RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8a
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8a
 #EXTINF:-1, Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 
+#EXTINF: -1, Animal Planet
+http://203.77.246.50:5000/udp/239.1.2.136:5000
+#EXTINF: -1, Discovery Channel
+http://203.77.246.50:5000/udp/239.1.2.134:5000
+#EXTINF: -1, Discovery Wild
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142773.m3u8
+#EXTINF: -1, HGTV
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142775.m3u8
+#EXTINF: -1, History
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142757.m3u8
+#EXTINF: -1, TLC
+http://203.77.246.50:5000/udp/239.1.2.140:5000
+
+#EXTINF: -1, Boomerang
+http://203.77.246.50:5000/udp/239.1.2.158:5000
 
 #EXTINF: -1, AXN
 http://203.77.246.50:5000/udp/239.1.2.142:5000
@@ -57,22 +75,20 @@ http://203.77.246.50:5000/udp/239.1.2.228:5000
 http://203.77.246.50:5000/udp/239.1.2.144:5000
 #EXTINF: -1, Sony Gem
 http://203.77.246.50:5000/udp/239.1.2.238:5000
-#EXTINF: -1, TLC
-http://203.77.246.50:5000/udp/239.1.2.140:5000
+#EXTINF: -1, K+
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
+#EXTINF: -1, TVN
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142687.m3u8
+#EXTINF: -1, TVN Movies
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142686.m3u8
+
+
 #EXTINF: -1, WB TV
 http://203.77.246.50:5000/udp/239.1.2.156:5000
-#EXTINF: -1, Animal Planet
-http://203.77.246.50:5000/udp/239.1.2.136:5000
-#EXTINF: -1, Discovery Channel
-http://203.77.246.50:5000/udp/239.1.2.134:5000
 #EXTINF: -1, Rock Extreme
 http://203.77.246.50:5000/udp/239.1.2.132:5000
 #EXTINF: -1, Rock Entertainment
 http://203.77.246.50:5000/udp/239.1.2.130:5000
-#EXTINF: -1, Sinema Indonesia
-http://203.77.246.50:5000/udp/239.1.1.74:5000
-#EXTINF: -1, Boomerang
-http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF: -1, Thrill
 http://203.77.246.50:5000/udp/239.1.2.216:5000
 #EXTINF: -1, Hits 
@@ -81,10 +97,10 @@ http://203.77.246.50:5000/udp/239.1.2.240:5000
 http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF: -1, Celestial Movies
 http://203.77.246.50:5000/udp/239.1.2.162:5000
-
-
-
-
+#EXTINF: -1, Cinema World
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142748.m3u8
+#EXTINF: -1, KIX
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142786.m3u8
 
 
 
