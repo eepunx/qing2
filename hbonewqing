@@ -244,18 +244,6 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
 
 
-#EXTINF: -1, HBO
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-#EXTINF: -1, HBO Signature
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-#EXTINF: -1, HBO Hits
-http://203.77.246.50:5000/udp/239.1.3.82:5000
-#EXTINF: -1, HBO Family
-http://203.77.246.50:5000/udp/239.1.3.76:5000
-
-
-
-
 ///Backup HBO///
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="HBO", HBO backup
 #EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO backup",Red By HBO
