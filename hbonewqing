@@ -34,8 +34,7 @@ https://bit.ly/slspqing
 
 
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
@@ -94,7 +93,7 @@ http://203.77.246.50:5000/udp/239.1.1.108:5000
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 🅱️
-http://tvnid.wapgem.com/vidio/indosiar.m3u8
+https://tvn10.xyz/vidio/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -213,8 +212,6 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO🔻
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 🅰️
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 🅱️
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
@@ -223,8 +220,6 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family🔻
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family 🅰️
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family 🅱️
 http://203.77.246.50:5000/udp/239.1.3.76:5000
 
@@ -233,8 +228,6 @@ http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits🔻
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits 🅰️
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits 🅱️
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
@@ -243,8 +236,6 @@ http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Signature🔻
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Sig 🅰️
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Sig 🅱️
 http://203.77.246.50:5000/udp/239.1.3.74:5000
 
@@ -252,10 +243,6 @@ http://203.77.246.50:5000/udp/239.1.3.74:5000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png",CINEMAX🔻
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png",CINEMAX 🅰️
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750.m3u8
-
 
 
 ///// RELIGI /////
@@ -511,9 +498,9 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi(UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -523,9 +510,11 @@ http://iptv.lancartech.co.id/live/eustinn3/12123456/69.m3u8
 http://iptv.lancartech.co.id/live/eustinn3/12123456/70.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
+https://tvn10.xyz/vidio/ch1.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
+https://tvn10.xyz/vidio/ch2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
-
+https://tvn10.xyz/vidio/ch3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-4-id.png" group-title="Qingsports", Champion TV 4
 
 
