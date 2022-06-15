@@ -23,27 +23,18 @@ https://bit.ly/batjRdD
 #https://bit.ly/knnqing
 
 
-
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/REN_TV_logo_2015.svg/1024px-REN_TV_logo_2015.svg.png", рен тв (Ren TV)
-http://91.185.3.218:8000/play/623
-
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="http://vod-logo.net/photos/3f57527eed0ef12af2eb44df49551932.png", Fox Movies
+http://new-pro.tv:8080/mazen1/123456/28015
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="http://vod-logo.net/photos/7f850de4b9b0989fedec07d413652998.png", Fox Action Movies
+http://new-pro.tv:8080/mazen1/123456/28013
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (tks duds) 
 https://bit.ly/slspqing
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa TV 
-
-
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bflix-movies-logo.jpg",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://image.winudf.com/v2/image1/YXBwLmF1cm9yYWxpdmUudHZfc2NyZWVuXzBfMTYxNTY1MTI3N18wOTA/screen-0.jpg?h=355&fakeurl=1&type=.jpg",Aurora Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 
 
 
