@@ -24,11 +24,10 @@ https://bit.ly/batjRdD
 #EXTINF:-1 group-title="🔴VOD Request 📋" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/16/3333866451.jpg",KKN Cam (tks Johan) 
 #https://bit.ly/knnqing
 
-
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="http://vod-logo.net/photos/3f57527eed0ef12af2eb44df49551932.png", Fox Movies
-http://new-pro.tv:8080/mazen1/123456/28015
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="http://vod-logo.net/photos/7f850de4b9b0989fedec07d413652998.png", Fox Action Movies
-http://new-pro.tv:8080/mazen1/123456/28013
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://static.", Fox Movies
+http://iptv12k.com:35461/80201051217/424567/1753
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Fox_Action_Movies_Logo_in_white.png/revision/latest/scale-to-width-down/144?cb=20200818023447a", Fox Action Movies
+http://iptv12k.com:35461/80201051217/424567/612
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (tks duds) 
 https://bit.ly/slspqing
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
