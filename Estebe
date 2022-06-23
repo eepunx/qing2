@@ -47,7 +47,7 @@ http://203.77.246.50:5000/udp/239.1.1.74:5000
 #EXTINF:-1, Bali TV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 #EXTINF:-1, JTV sby
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+http://203.77.246.50:5000/udp/239.1.1.68:5000
 #EXTINF:-1, RTV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8a
 #EXTINF:-1, Berita Satu
@@ -65,6 +65,8 @@ http://203.77.246.50:5000/udp/239.1.2.140:5000
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF: -1, Baby First-Kids
 http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+#EXTINF: -1, Cartoon network 
+http://203.77.246.50:5000/udp/239.1.2.154:5000
 
 
 #EXTINF: -1, AXN
@@ -91,12 +93,12 @@ http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF: -1, Celestial Movies
 http://203.77.246.50:5000/udp/239.1.2.162:5000
 
-
-
-
-
-
-
+#EXTINF: -1, Makkah 
+http://203.77.246.50:5000/udp/239.1.2.200:5000
+#EXTINF: -1, Madinah 
+http://203.77.246.50:5000/udp/239.1.2.204:5000
+#EXTINF: -1, Rodja TV 
+http://203.77.246.50:5000/udp/239.1.2.70:5000
 
 
 
