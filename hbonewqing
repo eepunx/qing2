@@ -529,11 +529,12 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2🔻
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", Fox Sp 3 Spain
-
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", F1 F3 FE rally🔻
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", FOX Sports 3 ARG
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2 🇦🇷
+http://45.71.185.142:8500/play/a01n
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", FOX Sports 3 🇦🇷
 http://45.71.185.142:8500/play/a01o
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://ih1.redbubble.net/image.2401040379.8562/flat,128x,075,f-pad,128x128,f8f8f8.jpg",Dazn F1
@@ -999,15 +1000,14 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3
 // sports//
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 1
+http://45.71.185.142:8500/play/a01e
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN 2
+http://45.71.185.142:8500/play/a015
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPN U 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_da/da0790e0b0e835c0bd0f0ce1eef69466.png" group-title="Qingsports",NFL
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
-http://iptv12k.com:35461/8032022060101/452381/5870
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Qingsports",Sony Ten 2 
-http://iptv12k.com:35461/8032022060101/452381/5869
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Qingsports",Sony Ten 3
-http://iptv12k.com:35461/8032022060101/452381/5871
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Qingsports",Sony Six
 
