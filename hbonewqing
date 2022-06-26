@@ -868,6 +868,23 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS 欢乐台
 rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TV Taiwan HD 
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/440px-China_TV_logo_since_19971030.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTV 中视 
+rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/CTS_LOGO_3.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTS 华视 
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQJQW95.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",緯來日本HD 
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/18/1-1PF50951294C.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",纬来体育HD 
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426210540646.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",纬来育乐HD 
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebccj.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",CBC 东森财经新闻 
+rtmp://59.124.75.138:1935/sat/tv571
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-191119193A80-L.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",MoMo综合台 
+rtmp://59.124.75.138/sat/tv761
+
 
 #EXTINF:-1 tvg-id="6239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立綜合台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
