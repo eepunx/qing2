@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,有线18台
-rtmp://59.124.75.138/sat/hk042
+#EXTINF:-1,F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1,民视
 rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1,台视
