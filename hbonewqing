@@ -611,11 +611,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Qingsports",beIN Sports 4
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 HD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 
 #http://vt.vttpi.com:8000/live/P-957977/P-740465/23.ts
-http://stariptv.org:8080/nour2020/123456/15556
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 4K
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6
 
