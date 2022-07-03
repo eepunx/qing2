@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Fmbuh
-http://212.18.115.193:3549/play/a05h/index.m3u8
+#EXTINF:-1,Fopoiki
+http://212.18.115.193:3549/play/a009/index.m3u8
 #EXTINF:-1,民视
 rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1,台视
