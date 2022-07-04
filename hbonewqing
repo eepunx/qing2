@@ -490,6 +490,9 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///// SPORTS /////
 
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",AFF U19 
+https://raw.githubusercontent.com/eepunx/qing2/master/Aepep.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RTL_Televizija_Logo.svg/1599px-RTL_Televizija_Logo.svg.png" group-title="Qingsports",RTL 
 http://212.18.115.193:3549/play/a009/index.m3u8
 
