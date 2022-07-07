@@ -583,7 +583,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="Qingsports",Eurosport 1
-http://81.196.140.234:8000/play/a09o
+http://103.161.34.64:8003/play/a02o
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="Qingsports",Eurosport 2
 http://103.161.34.64:8003/play/a02t
 
