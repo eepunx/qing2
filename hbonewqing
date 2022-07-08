@@ -859,7 +859,12 @@ http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&
 #EXTINF:-1 tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="HK/Taiwan 🇭🇰🇹🇼", NEXT壹新聞
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
+#EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Dali大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Titv原住民频道
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/460px-HakkaTV.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Hakka TV
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
