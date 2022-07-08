@@ -513,11 +513,11 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-7.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-7.m3u8|User-Agent=aing=maung=Bandung109
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-8.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-8.m3u8|User-Agent=aing=maung=Bandung109
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-9.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-9.m3u8|User-Agent=aing=maung=Bandung109
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-4-id.png" group-title="Qingsports", Champion TV 4
 
 
