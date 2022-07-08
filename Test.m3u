@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Fopoiki
-http://212.18.115.193:3549/play/a009/index.m3u8
+http://88.151.248.36:9999/udp/224.0.224.2:1234
 #EXTINF:-1,民视
 rtmp://59.124.75.138/sat/tv051
 #EXTINF:-1,台视
