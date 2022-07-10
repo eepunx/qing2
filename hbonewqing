@@ -488,10 +488,15 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #http://203.77.246.50:5000/udp/239.1.2.150:5000
 
 ///// SPORTS /////
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/AFF_U19_Championship_2022.png/250px-AFF_U19_Championship_2022.png" group-title="Qingsports",AFF U19 (live only)
-https://raw.githubusercontent.com/tvbolaonline98/clamp/main/Afefe2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/AFF_U19_Championship_2022.png/250px-AFF_U19_Championship_2022.png" group-title="Qingsports",AFF U19 1 (live only)
+https://raw.githubusercontent.com/tvbolaonline98/clamp/main/Afefe1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/AFF_U19_Championship_2022.png/250px-AFF_U19_Championship_2022.png" group-title="Qingsports",AFF U19 2 (live only)
+https://raw.githubusercontent.com/tvbolaonline98/clamp/main/Afefe2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/AFF_U19_Championship_2022.png/250px-AFF_U19_Championship_2022.png" group-title="Qingsports",AFF U19 3 (live only)
 https://golive.yn.lt/live/aff/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/AFF_U19_Championship_2022.png/250px-AFF_U19_Championship_2022.png" group-title="Qingsports",AFF U19 4 (ulangan)
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Afuse1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a2/Logo_Piala_Presiden_2022.png/150px-Logo_Piala_Presiden_2022.png" group-title="Qingsports",Piala Presiden (live only)
 #https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8|User-Agent=aing=maung=Bandung109
