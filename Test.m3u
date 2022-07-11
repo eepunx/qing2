@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASTRO SUPERSPORT
 #http://linears-playback.astro.com.my/vsg/41bZfaMz8f1mCpP-1YOeXl9BEHTDf1gPTuqQFi5KKyghk=sEpG/dash-wv/jitp-linearwm/601/default_primary.mpd
 
-
-
+#EXTINF:-1, beriga1
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
 #EXTINF:-1, dontol afuse1
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Afuse1.m3u8
 #EXTINF:-1, dontol afuse2
