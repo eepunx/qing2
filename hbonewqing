@@ -899,6 +899,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ctitv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", cti Show
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 
+#EXTINF:-1 tvg-logo="http://s3-us-west-2.amazonaws.com/encoretvb-editorial/wp-content/uploads/2017/08/15183801/TVBUSA_272x90.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB J1台
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS 欢乐台
 rtmp://59.124.75.138/sat/tv421
