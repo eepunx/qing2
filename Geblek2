@@ -17,7 +17,7 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia 🇮🇩 (server 2) ",Indosiar 
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8
+
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia 🇮🇩 (server 2)",SCTV 
 http://203.77.246.50:5000/udp/239.1.1.108:5000
 
@@ -284,7 +284,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142718.m3u8
 
 =====KIDS======
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png" group-title="Kids",Spacetoon 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png" group-title="Kids",Spacetoon ID
+https://bit.ly/spaceqing
 #EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2018/11/Polsat_JimJam.png" group-title="Kids",Jim Jam
 
 #EXTINF:-1 tvg-logo="https://img1.yna.co.kr/etc/inner/KR/2012/06/28/AKR20120628019000005_01_i_P2.jpg" group-title="Kids",EBS Kids KOR
