@@ -577,6 +577,8 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="Qingsports",Sky Sp F1
 #http://93.152.174.144:4000/play/ssportsf1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.http://logok.org/wp-content/uploads/2014/06/Formula-1-logo-2017-logotype-1024x768.png" group-title="Qingsports", Formula 1
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/265
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="Qingsports",Sports TV 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
