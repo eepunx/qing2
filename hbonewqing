@@ -516,9 +516,9 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/Ligapres1080.m3u8
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710.m3u8
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi (UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -527,19 +527,14 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Qingsports", Usee Sports 2
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
-#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Qingsports", ASTRO SUPERSPORT 5
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
 
 
 
