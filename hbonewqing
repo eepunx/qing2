@@ -508,25 +508,26 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/Ligapres1080.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
-
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi (UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Qingsports", Usee Sports
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Qingsports", Usee Sports 2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/146068
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157556
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157557
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157558
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Qingsports", ASTRO SUPERSPORT 5
 
 
@@ -537,8 +538,9 @@ https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-7.m3u8|User-Agent=aing
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-8.m3u8|User-Agent=aing=maung=Bandung109
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-9.m3u8|User-Agent=aing=maung=Bandung109
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-4-id.png" group-title="Qingsports", Champion TV 4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Qingsports", Usee Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Qingsports", Usee Sports 2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
