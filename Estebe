@@ -22,19 +22,19 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF: -1, TVRI Sports 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1, Bein Sports 1
+#EXTINF: -1, Bein Sports 1
 http://185.152.66.132/BEINSPORT1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Bein Sports 2
+#EXTINF: -1, Bein Sports 2
 http://185.152.66.132/BEINSPORT2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Bein Sports 3
+#EXTINF: -1, Bein Sports 3
 http://185.152.66.132/BEINSPORT3/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Bein Sports 4
+#EXTINF: -1, Bein Sports 4
 http://185.152.66.132/BEINSPORT4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Bein Sports 5
+#EXTINF: -1, Bein Sports 5
 http://185.152.66.132/BEINSPORT5/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Bein Sports 6
+#EXTINF: -1, Bein Sports 6
 http://185.152.66.132/BEINSPORT6/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Bein Sports 7
+#EXTINF: -1, Bein Sports 7
 http://185.152.66.132/BEINSPORT7/tracks-v1a1/playlist.m3u8
 
 
