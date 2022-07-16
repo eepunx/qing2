@@ -1,4 +1,22 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 1ᴴᴰ
+http://185.152.66.132/BEINSPORT1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 2ᴴᴰ
+http://185.152.66.132/BEINSPORT2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 3ᴴᴰ
+http://185.152.66.132/BEINSPORT3/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 4ᴴᴰ
+http://185.152.66.132/BEINSPORT4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 5ᴴᴰ
+http://185.152.66.132/BEINSPORT5/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 6ᴴᴰ
+http://185.152.66.132/BEINSPORT6/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ Bein Sports 7ᴴᴰ
+http://185.152.66.132/BEINSPORT7/tracks-v1a1/playlist.m3u8
+
+
 #EXTINF:-1, arena 2 web
 https://online.astradamy.com/stream/sooka/arena2/
 #EXTINF:-1, arena 1 web
