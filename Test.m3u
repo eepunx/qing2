@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, arena 2 web
+https://online.astradamy.com/stream/sooka/arena2/
+#EXTINF:-1, arena 1 web
+https://online.astradamy.com/stream/sooka/arena/
+
 #EXTINF:-1, coba buffer gak
 https://raw.githubusercontent.com/krismrp123/live1/main/F1.m3u8
 #EXTINF:-1, channel 3
