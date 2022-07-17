@@ -737,7 +737,7 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/750px-Crime_%2B_Investigation_Logo_10.2019.svg.png", Crime Investigation🔻
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://advanced-television.com/wp-content/uploads/2022/02/crime-investigation.jpg", Crime Investigation🔻
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -782,7 +782,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 ///// NEWS /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png", ABC AUSTRALIA🔻
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mediahubaustralia.com.au/wp-content/uploads/2018/09/ABC_Australia_International.jpg", ABC AUSTRALIA🔻
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -807,12 +807,12 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.kindpng.com/picc/m/34-348847_al-jazeera-english-logo-hd-png-download.png", Aljazeera🔻
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31TqBcQUlcL.png", Aljazeera🔻
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS"tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/400px-BBC_World_News_2019.svg.png", BBC World News
+#EXTINF:-1 group-title="NEWS"tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/340px-BBC_World_News_2022_%28Boxed%29.svg.png", BBC World News
 http://203.77.246.50:5000/udp/239.1.2.152:5000
 #http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
 
@@ -1003,10 +1003,10 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/290px-Rock_Entertainment.png" ,Rock Entertainment
+#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096632_thumb-rock-entertainment.png" ,Rock Entertainment
 http://203.77.246.50:5000/udp/239.1.2.130:5000
 
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/800px-Rock_Extreme.png" ,Rock Extreme
+#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096639_thumb-rock-extreme.png" ,Rock Extreme
 http://203.77.246.50:5000/udp/239.1.2.132:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1023,12 +1023,12 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="http://dusktill.masuk.web.id/img/afn.png", AFN🔻
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/400px-Asian_Food_Network.svg.png", AFN🔻
 https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png", Lifetime🔻
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png", Lifetime🔻
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
