@@ -584,15 +584,15 @@ http://45.71.185.142:8500/play/a01n
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", FOX Sports 3 🇦🇷
 http://45.71.185.142:8500/play/a01o
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png", ELEVEN 1  
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png", ELEVEN 2  
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png", ELEVEN 3 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png", ELEVEN 4 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png", ELEVEN 5 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 
