@@ -110,7 +110,7 @@ https://h1.intechmedia.net/intech/ch19.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/media-sunnah-aceh-id.png", group-title="TV Islam", MEDIA SUNNAH ACEH TV
 https://h1.intechmedia.net/intech/ch23.m3u8
 
-$EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-furqon-tv-id.png", group-title="TV Islam", AL FURQON TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-furqon-tv-id.png", group-title="TV Islam", AL FURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ufa-24-id.png", group-title="TV Islam", UFA TV
