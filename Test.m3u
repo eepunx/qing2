@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 , sprbike
-https://raw.githubusercontent.com/krismrp123/live1/main/wsbk2.m3u8
+#EXTINF:-1 , dazn f1 cek
+http://84.112.18.204:8001/1:0:1:74A4:41C:1:C00000:0:0:0
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210530/original/pngtree-al-aqsa-mosque-png-image_6351856.jpg" group-title="TV Islam",AQSHA TV
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
