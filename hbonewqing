@@ -530,16 +530,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/AFF_U19_Championship_2022.png/250px-AFF_U19_Championship_2022.png" group-title="Qingsports",AFF U19 1 (live only)
 #https://raw.githubusercontent.com/tvbolaonline98/clamp/main/Afefe1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a2/Logo_Piala_Presiden_2022.png/150px-Logo_Piala_Presiden_2022.png" group-title="Qingsports",Piala Presiden 1 (live only)
-#https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8|User-Agent=aing=maung=Bandung109
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/live1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a2/Logo_Piala_Presiden_2022.png/150px-Logo_Piala_Presiden_2022.png" group-title="Qingsports",Piala Presiden 2 (live only)
-https://golive.yn.lt/live/bola/08.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a2/Logo_Piala_Presiden_2022.png/150px-Logo_Piala_Presiden_2022.png" group-title="Qingsports",Piala Presiden 3 (live only)
-https://golive.yn.lt/live/bola/07.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a2/Logo_Piala_Presiden_2022.png/150px-Logo_Piala_Presiden_2022.png" group-title="Qingsports",Piala Presiden 4 1080P (live only)
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/Ligapres1080.m3u8
+#https://raw.githubusercontent.com/krismrp123/liveliga1/main/Ligapres1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/UuLfJwV33y8xuzLmv1c8WfBTf2Y=/0x0:696x464/375x240/data/photo/2021/11/24/619d7ef70a6bb.jpg" group-title="Qingsports",Superbike (Live only)
 https://bit.ly/S3Kqing
