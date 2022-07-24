@@ -532,6 +532,12 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/UuLfJwV33y8xuzLmv1c8WfBTf2Y=/0x0:696x464/375x240/data/photo/2021/11/24/619d7ef70a6bb.jpg" group-title="Qingsports",Superbike (Live only)
 #https://bit.ly/S3Kqing
 
+#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 1 (Random)
+https://raw.githubusercontent.com/krismrp123/live1/main/Channel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 2 (Random)
+https://raw.githubusercontent.com/krismrp123/live1/main/Channel2.m3u8
+
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 🅰️ (Live only) 
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-1080.m3u8
 
