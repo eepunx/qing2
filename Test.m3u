@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, F1
-https://raw.githubusercontent.com/krismrp123/live1/main/F1.m3u8
+#EXTINF:-1, live1
+https://raw.githubusercontent.com/krismrp123/live1/main/Live1.m3u8
+
+#EXTINF:-1, live2
+https://raw.githubusercontent.com/krismrp123/live1/main/Live2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1 tvn del
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champ1etdahluapainnih.m3u8
 
