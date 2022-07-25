@@ -538,11 +538,17 @@ https://raw.githubusercontent.com/krismrp123/live1/main/Channel1.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 2 (Random)
 https://raw.githubusercontent.com/krismrp123/live1/main/Channel2.m3u8
 
+#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 3 (Random)
+https://raw.githubusercontent.com/krismrp123/live1/main/Channel3.m3u8
+
+#EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 4 (Random)
+https://raw.githubusercontent.com/krismrp123/live1/main/Channel4.m3u8
+
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 1️⃣ (Live only) 
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-1080.m3u8
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 2️⃣ (Live only) 
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-1080.m3u8
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 3️⃣ (Live only) 
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
