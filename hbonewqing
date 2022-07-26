@@ -31,15 +31,15 @@ https://bit.ly/batjRdD
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/400px-REN_TV_logo_2017.svg.png", Рен ТВ
 http://185.6.124.8:65000/udp/224.1.1.108:1234
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eab8f822017729.5630b43dde9e3.jpg", RU TV
-http://185.6.124.8:65000/udp/224.1.1.48:1234
+#http://185.6.124.8:65000/udp/224.1.1.48:1234
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (tks duds) 
 https://bit.ly/slspqing
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bflix-movies-logo.jpg",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 
 
