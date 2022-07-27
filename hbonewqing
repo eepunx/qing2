@@ -626,7 +626,7 @@ http://45.71.185.142:8500/play/a01o
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFHs1.jpg",Dubai Sports 2 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFHs1.jpg",Db Sp 2 (ATP live 🥎)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAI48t.jpg",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
@@ -644,7 +644,7 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png", AD Sports 2 (ATP live)
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png", ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png", ABU DHABI SPORTS 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
