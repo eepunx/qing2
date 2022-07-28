@@ -533,25 +533,30 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #https://bit.ly/S3Kqing
 
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 1 (Random)
-https://raw.githubusercontent.com/krismrp123/live1/main/Channel1.m3u8
-
+#https://raw.githubusercontent.com/krismrp123/live1/main/Channel1.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 2 (Random)
-https://raw.githubusercontent.com/krismrp123/live1/main/Channel2.m3u8
-
+#https://raw.githubusercontent.com/krismrp123/live1/main/Channel2.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 3 (Random)
-https://raw.githubusercontent.com/krismrp123/live1/main/Channel3.m3u8
-
+#https://raw.githubusercontent.com/krismrp123/live1/main/Channel3.m3u8
 #EXTINF:-1 tvg-logo="https://ia903006.us.archive.org/8/items/livesports_20190823/Live%20Sports.png" group-title="Qingsports",Live Sports 4 (Random)
-https://raw.githubusercontent.com/krismrp123/live1/main/Channel6.m3u8
+#https://raw.githubusercontent.com/krismrp123/live1/main/Channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 1️⃣ (Live only) 
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 1️⃣ (Live only) 
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 2️⃣ (Live only) 
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga2.m3u8
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 3️⃣ (Live only) 
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga3.m3u8
 
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 2️⃣ (Live only) 
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 480P 🅰️(Live only) 
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-480.m3u8
-
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga 1 3️⃣ (Live only) 
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 480P 🅱️(Live only) 
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-480.m3u8
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 720P 🅰️(Live only) 
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
+#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 720P 🅱️(Live only) 
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1
 http://84.112.18.204:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
