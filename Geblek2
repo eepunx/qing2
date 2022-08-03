@@ -138,39 +138,44 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="1001" tvg-chno="1001" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham HD
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://www.dropbox.com/s/qrj77n00p2vt8or/cna2.png?dl=1" group-title="Singapore 🇸🇬",CNA
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #https://tglmp03.akamaized.net/out/v1/33cf7ad32e5a47938996f4873f5cd737/manifest.mpd
 
+
 ====MALAY====
 #EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA 🇲🇾",TV1 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA 🇲🇾",TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA 🇲🇾",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-#http://iptv12k.com:35461/8032022060101/452381/740
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA 🇲🇾",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA 🇲🇾",NTV 7
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA 🇲🇾",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA 🇲🇾",TV9
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA 🇲🇾",TV OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
@@ -178,11 +183,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA 🇲🇾" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 #http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_alhijrah.png" group-title="ISLAMI",TV-Alhijrah
 #http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA 🇲🇾",TV Ikim
 #http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA 🇲🇾",Astro Awani 
 #https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA 🇲🇾",Astro Prima 
@@ -199,11 +207,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria" group-title="MALAYSIA 🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria 
 #http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="Suria" group-title="MALAYSIA 🇲🇾" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
 
 
 
