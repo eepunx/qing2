@@ -1147,8 +1147,9 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS03/master.m3
 https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn1.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN2 🇺🇲
 https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn2.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPNU 🇺🇲  
+https://raw.githubusercontent.com/eepunx/qing2/master/Eesspnu.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPN U 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_da/da0790e0b0e835c0bd0f0ce1eef69466.png" group-title="Qingsports",NFL
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
