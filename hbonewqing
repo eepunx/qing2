@@ -590,7 +590,9 @@ https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b
 https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/champ3etdahluapainnih.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Qingsports", Usee Sports
+http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Qingsports", Usee Sports 2
+http://iptvid.my.id/hmm/useetl2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
