@@ -88,7 +88,7 @@ http://203.77.246.50:5000/udp/239.1.1.108:5000
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 🅱️
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8
+#https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -166,10 +166,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://203.77.246.50:5000/udp/239.1.2.66:5000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcGMYsV/ochannel-lean-paps.png" group-title="Indonesia 🇮🇩",  O channel
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/issuewireassets/primg/71287/thumb_the-indonesia-channel-logo534566050.jpeg" group-title="Indonesia 🇮🇩",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -185,7 +184,7 @@ http://203.77.246.50:5000/udp/239.1.1.68:5000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://www.dropbox.com/s/qzy3y7ryms6k4ac/BaliTV.png?dl=1", Bali TV🔻
-https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
