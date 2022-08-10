@@ -59,7 +59,8 @@ http://203.77.246.50:5000/udp/239.1.1.68:5000
 #EXTINF:-1, Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-
+#EXTINF: -1, TV5 Monde
+http://203.77.246.50:5000/udp/239.1.1.168:5000
 #EXTINF: -1, Animal Planet
 http://203.77.246.50:5000/udp/239.1.2.136:5000
 #EXTINF: -1, Discovery Channel
