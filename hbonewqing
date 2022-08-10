@@ -855,6 +855,9 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
 ///// NEWS /////
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://gdb.voanews.com/F3C2790B-71C0-40CB-A5E4-D898F800BB46_cx0_cy8_cw0_w408_r1_s.jpg", TV5 Monde 
+http://203.77.246.50:5000/udp/239.1.1.168:5000
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mediahubaustralia.com.au/wp-content/uploads/2018/09/ABC_Australia_International.jpg", ABC AUSTRALIA🔻
