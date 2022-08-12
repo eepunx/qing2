@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-logo="",46
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 tvg-logo="",toystoery
-https://drive.google.com/file/d/1eaoV7-AFtYty0XdD-e5SKUb8BhzWXfdf/view?usp=drivesdk
+#EXTINF:-1 tvg-logo="",cem 1
+https://raw.githubusercontent.com/eepunx/qing2/master/Cem1
 
 #EXTINF:-1 tvg-logo="",espn2
 https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn2.m3u8
