@@ -553,9 +553,14 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 720P 🅱️(Live only) 
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1
 #http://84.112.18.204:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115516.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Qingsports",True Premiere 2
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115518.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Qingsports",SUKAN rtm
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
