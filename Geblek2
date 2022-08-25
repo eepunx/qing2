@@ -280,20 +280,8 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 ===China===
 
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qinghai_tv_cn.png",Qinghai
-http://203.77.246.50:5000/udp/239.1.2.190:5000
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png",Chongqing
-http://203.77.246.50:5000/udp/239.1.3.40:5000
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/hebeitv.jpg",Hebei
-http://203.77.246.50:5000/udp/239.1.3.42:5000
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg",Guizhou
-http://203.77.246.50:5000/udp/239.1.3.44:5000
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/LOGOGuangxiTV.jpg/170px-LOGOGuangxiTV.jpg",Guangxi
-http://203.77.246.50:5000/udp/239.1.3.62:5000
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg",Yunnan 
-http://203.77.246.50:5000/udp/239.1.3.66:5000
 
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman
 http://203.77.246.50:5000/udp/239.1.3.50:5000
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="China Provinsi 🇨🇳",Chinese Drama
@@ -384,6 +372,21 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China Provinsi 🇨🇳",NTD 新唐人大陸台
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China Provinsi 🇨🇳",NTD 新唐人亞太台
+
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qinghai_tv_cn.png",Qinghai
+http://203.77.246.50:5000/udp/239.1.2.190:5000
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png",Chongqing
+http://203.77.246.50:5000/udp/239.1.3.40:5000
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/hebeitv.jpg",Hebei
+http://203.77.246.50:5000/udp/239.1.3.42:5000
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg",Guizhou
+http://203.77.246.50:5000/udp/239.1.3.44:5000
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/LOGOGuangxiTV.jpg/170px-LOGOGuangxiTV.jpg",Guangxi
+http://203.77.246.50:5000/udp/239.1.3.62:5000
+#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg",Yunnan 
+http://203.77.246.50:5000/udp/239.1.3.66:5000
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/300px-NTD_Logo_with_symbol.svg.png" group-title="China Provinsi 🇨🇳",NTD 新唐人美東台
 
