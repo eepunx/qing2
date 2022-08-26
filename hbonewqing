@@ -204,7 +204,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO🔻
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 🅱️
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO 𝗙𝗛𝗗
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -212,7 +212,7 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family🔻
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family 🅱️
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family 𝗙𝗛𝗗
 http://203.77.246.50:5000/udp/239.1.3.76:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -220,7 +220,7 @@ http://203.77.246.50:5000/udp/239.1.3.76:5000
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits🔻
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits 🅱️
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits 𝗙𝗛𝗗
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -228,7 +228,7 @@ http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Signature🔻
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Sig 🅱️
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Sig 𝗙𝗛𝗗
 http://203.77.246.50:5000/udp/239.1.3.74:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
