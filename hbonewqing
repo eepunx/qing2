@@ -553,8 +553,6 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 720P 🅱️(Live only) 
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115534
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115516.m3u8
@@ -628,6 +626,8 @@ http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", FOX Sports 3 🇦🇷
 
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115534
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
