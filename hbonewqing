@@ -83,12 +83,12 @@ http://203.77.246.50:5000/udp/239.1.1.108:5000
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 🅰️
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 
 #https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 🅱️
-http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
