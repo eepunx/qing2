@@ -18,9 +18,9 @@ https://bit.ly/batjRdD
 #EXTINF:-1 group-title="🔴VOD Request 📋" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/16/3333866451.jpg",KKN Cam (tks Johan) 
 #https://bit.ly/knnqing
 
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="", Chinese Phoenix 凤凰中文
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/240px-Phoenix_Chinese.svg.png", Chinese Phoenix 凤凰中文
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="", Phoenix News 凤凰资讯
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/300px-Phoenix_InfoNews.svg.png", Phoenix News 凤凰资讯
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Fox_Action_Movies_Logo_in_white.png/revision/latest/scale-to-width-down/144?cb=20200818023447a", Fox Action Movies
