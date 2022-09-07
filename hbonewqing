@@ -557,13 +557,13 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Select
-http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71377
+#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71377
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Football 
-http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71391
+#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71391
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Golf 
-http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71392
+#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71392
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Tennis 
-http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71380
+#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71380
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/160px-True_Sport_Logo.png" group-title="Qingsports",True sports 1 
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115532.m3u8
