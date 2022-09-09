@@ -809,7 +809,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="Qingsports",WWE 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Qingsports", Combate 🇧🇷
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Qingsports", Combate (UFC)
 http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 #EXTINF:-1 tvg-id="" group-title="Qingsports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",Premiere
