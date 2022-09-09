@@ -1196,6 +1196,8 @@ https://raw.githubusercontent.com/eepunx/qing2/master/Eesspnu.m3u8
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Qingsports",ESPN Extra 🇧🇷
 http://38.143.137.221:8000/LA78/index.m3u8
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg" group-title="Qingsports",ESPN Deportes 🇧🇷
+http://38.143.137.221:8000/LA81/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_44/44f7a1effc51d5563a347702053ca96c.png" group-title="Qingsports",ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_07/07113847db4c87c8f2be573566e9e8d4.png" group-title="Qingsports",ESPN2 🇧🇷
