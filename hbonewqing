@@ -1194,6 +1194,8 @@ https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn2.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPNU 🇺🇲  
 https://raw.githubusercontent.com/eepunx/qing2/master/Eesspnu.m3u8
 
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Qingsports",ESPN Extra 🇧🇷
+http://38.143.137.221:8000/LA78/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_44/44f7a1effc51d5563a347702053ca96c.png" group-title="Qingsports",ESPN 🇧🇷
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_07/07113847db4c87c8f2be573566e9e8d4.png" group-title="Qingsports",ESPN2 🇧🇷
@@ -1201,7 +1203,7 @@ http://189.91.128.146:4444/udp/227.10.20.152:1234
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_2b/2b8d3f1f3f0ceec6579802355fdce78f.jpeg" group-title="Qingsports",ESPN3 🇧🇷  
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="Qingsports",ESPN4 🇧🇷  
-http://189.91.128.146:4444/udp/227.10.20.116:1234
+#http://189.91.128.146:4444/udp/227.10.20.116:1234
 
 
 
