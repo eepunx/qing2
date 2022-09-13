@@ -1064,28 +1064,28 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5280QrMG/Capture1-removebg-preview.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV4K
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJGWWxMt/Capture-removebg-preview-1.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV淘电影
-http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-
 #EXTINF:-1 tvg-logo="https://www.right.com.cn/FORUM/data/attachment/forum/202110/28/121130dduqqddlo0xhqw2l.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV淘剧场
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXrjZTKh/1-2010041616070-L-removebg-preview.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV淘娱乐
-http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 #EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
-#http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="Entertaiment & Lifestyle",Viu 6 TV
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu 6 TV
 
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Zhibo
-#http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",Now Xinwen
-#http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼",HK Kai Dianshi
-#http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now Zhibo
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now Xinwen
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now 
+http://livetv.dnsfor.me:80/channel.8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE News Channel
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE Channel
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE Channel 2
+http://livetv.dnsfor.me:80/channel.7.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI Tw 
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
