@@ -573,6 +573,18 @@ https://tv.tas-ix.tv/hls/token_28.m3u8
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
 https://tv.tas-ix.tv/hls/token_29.m3u8
 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/160px-True_Sport_Logo.png" group-title="Qingsports",True sports 1 
 #http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115532.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/160px-True_Sport_Logo.png" group-title="Qingsports",True sports 2 
@@ -597,6 +609,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi (UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Qingsports", Combate (UFC)
+http://189.91.128.146:4444/udp/227.10.20.172:1234
+
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
 
@@ -671,17 +687,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAI48t.jpg",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -804,8 +809,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="Qingsports",WWE 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Qingsports", Combate (UFC)
-http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 #EXTINF:-1 tvg-id="" group-title="Qingsports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",Premiere
 http://189.91.128.146:4444/udp/227.10.20.102:1234
