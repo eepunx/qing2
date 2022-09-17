@@ -619,13 +619,13 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Qingsports", ASTRO SUPERSPORT 5
 
 
