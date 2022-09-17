@@ -555,14 +555,10 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPwGPjebGRjPgbDUwU53xUoiU2twTMnKXUzuou_R8nEZ8CKd83KODib90x-ecCDwz1OiPHYwoj_-ZFHyEWGvOAs_S0d_U0jEfA3uZa2XSwB1wZzE3BR0YpGTPM6-cH43H6GZlcdKrY6KcqHMEIn3Ttlzqi2oSUpf6skbbC3PGSF95mPaSZgwBcsN2H/s600/Liga%202%20Indonesia.png" group-title="Qingsports",Liga 2 (Live only) 
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Liga22.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Select
-#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71377
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Football 
-#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71391
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Golf 
-#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71392
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2c/0c/a0/2c0ca0e70e9a7a77cbf1ff3ef78ba26e.jpg" group-title="Qingsports",Ziggo Tennis 
-#http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/71380
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
+https://tv.tas-ix.tv/hls/token_28.m3u8
+#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
+https://tv.tas-ix.tv/hls/token_29.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/160px-True_Sport_Logo.png" group-title="Qingsports",True sports 1 
 #http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115532.m3u8
@@ -1186,11 +1182,11 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 // sports//
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 🇺🇲
-https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn1.m3u8
+#https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn1.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN2 🇺🇲
-https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn2.m3u8
+#https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn2.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPNU 🇺🇲  
-https://raw.githubusercontent.com/eepunx/qing2/master/Eesspnu.m3u8
+#https://raw.githubusercontent.com/eepunx/qing2/master/Eesspnu.m3u8
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Qingsports",ESPN Extra 🇧🇷
 http://38.143.137.221:8000/LA78/index.m3u8
