@@ -564,7 +564,7 @@ https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Liga22.m3u8
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Liga21.m3u8
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
-https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
+#https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL1 (Live only) 
 https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik.m3u8
