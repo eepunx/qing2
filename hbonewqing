@@ -674,17 +674,17 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png", F1 F3 FE rally🔻
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="SPORTS",Fox Sports 1  🇦🇷
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="Qingsports",Fox Sports 1  🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8ad99f6512d50476639052a8fe8a4676&key=5ff3bee4cff05d3400d7ea60fcc93235
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cN7XH5X.png" group-title="SPORTS",Fox Sports 2  🇦🇷
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cN7XH5X.png" group-title="Qingsports",Fox Sports 2  🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fk1kss9.png" group-title="SPORTS",Fox Sports 3  🇦🇷
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fk1kss9.png" group-title="Qingsports",Fox Sports 3  🇦🇷
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
