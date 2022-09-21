@@ -340,7 +340,7 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 http://185.59.223.102:8080/disney/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/6e/db/69/6edb69326ca4e5261ee2f9542d874ae9--disney-logo-disney-jr.jpg" group-title="Kids",Disney Jr 🇮🇳
-http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+#http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
