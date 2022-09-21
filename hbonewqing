@@ -339,8 +339,14 @@ https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/N/new-disney-channel-logo-9E50BDA03A-seeklogo.com.jpg" group-title="Kids",Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/6e/db/69/6edb69326ca4e5261ee2f9542d874ae9--disney-logo-disney-jr.jpg" group-title="Kids",Disney Jr 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/6e/db/69/6edb69326ca4e5261ee2f9542d874ae9--disney-logo-disney-jr.jpg" group-title="Kids",Disney Jr 🇮🇳
 http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
+#EXTINF:-1 tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Kids", Disney Junior 
+https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/628px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD 
 http://89.187.175.143:80/3016/mpegts
