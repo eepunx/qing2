@@ -737,6 +737,14 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 ===China===
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzzh.png" group-title="China Provinsi 🇨🇳",FZTV 1
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzys.png" group-title="China Provinsi 🇨🇳",FZTV 2
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzsh.png" group-title="China Provinsi 🇨🇳",FZTV 3
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzse.png" group-title="China Provinsi 🇨🇳",FZTV 少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225094004B2.png",Youman
