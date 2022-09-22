@@ -1120,28 +1120,28 @@ https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu 6 TV
 
 #EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now Zhibo
-http://livetv.dnsfor.me:80/channel.3.m3u8
+#http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now Xinwen
-http://livetv.dnsfor.me:80/channel.4.m3u8
+#http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now 
-http://livetv.dnsfor.me:80/channel.8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE News Channel
+#http://livetv.dnsfor.me:80/channel.8.m3u8
+#EXTINF:-1 tvg-logo="https://eshop.hk.chinamobile.com/export/sites/default/imgdir/data_vas/utv/20200923/cable_news.png" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE News
 http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE Channel
+#EXTINF:-1 tvg-logo="https://eshop.hk.chinamobile.com/export/sites/default/imgdir/data_vas/utv/20200923/cable_finance.png" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE Finance 
 http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE Channel 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/I-CABLE_Live_News_Channel.png/180px-I-CABLE_Live_News_Channel.png" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE live news
 http://livetv.dnsfor.me:80/channel.7.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI Tw 
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI2 Tw 
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbjingdian.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB经典台
 #EXTINF:-1 tvg-logo="https://www.newton.com.tw/img/2/9bb/cGcq5SO1YzNzIDOwQTN5QzMxEzYkBzYhV2MmJDOhRzMwYzY1EzMjJWNygTOv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB为食台
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB星河
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB功夫台
-
 
 #EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",RTHK31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
