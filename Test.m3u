@@ -31,9 +31,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1663593314~acl=/vp9/9624_stream.mp
 ========INDONESIA=========
 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",BRI LIVE 1
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",Set
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tvn.x10.mx/live/master.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",BRI LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
