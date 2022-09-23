@@ -495,7 +495,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.epg.best/id/ANTV.id.png" tvg-chno="102" channel-id="102" group-title="Indonesia 🇮🇩 (server 2)",ANTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 #EXTINF: -1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)",TVONE
-f7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/1RTjJ55/ruangtrampil-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Ruang Trampil
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/zXb9cGt/useephoto-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Usee Photo
