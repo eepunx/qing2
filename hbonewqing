@@ -588,6 +588,8 @@ http://tvn.x10.mx/playlist/master.m3u8
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Liga21.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
+#EXTINF:-1 tvg-logo="" group-title="Qingsports", Friendly match IND VS CUR 
+http://tvn.x10.mx/playlist/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
