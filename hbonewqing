@@ -594,11 +594,11 @@ https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Liga21.m3u8
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL1 (Live only) 
-https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik.m3u8
+#https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL2 (Live only) 
-https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik2.m3u8
+#https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL3 (Live only) 
-https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik3.m3u8
+#https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
 https://tv.tas-ix.tv/hls/token_28.m3u8
