@@ -1243,6 +1243,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 // sports//
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2020/02/ACCN_Football_Header_1600-780x405.jpg" group-title="Qingsports",Accn espn 🇺🇲  
+http://89.187.175.143:80/3111/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/280px-MLBNetworkLogo.svg.png" group-title="Qingsports",MLB 🇺🇲  
 http://89.187.175.143:80/3003/mpegts
