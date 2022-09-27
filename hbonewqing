@@ -555,32 +555,17 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///// SPORTS /////
 
-
-#EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/UuLfJwV33y8xuzLmv1c8WfBTf2Y=/0x0:696x464/375x240/data/photo/2021/11/24/619d7ef70a6bb.jpg" group-title="Qingsports",Superbike (Live only)
-#https://bit.ly/S3Kqing
-
-
 #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1&2 🇮🇩 vs 🇨🇼
 http://tvn.x10.mx/playlist/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 1️⃣ (Live only) 
-https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
+#https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 2️⃣ (Live only) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
 #https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga2.m3u8
-
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 480P (Live only) 
-#https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-480.m3u8
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 720P (Live only) 
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPwGPjebGRjPgbDUwU53xUoiU2twTMnKXUzuou_R8nEZ8CKd83KODib90x-ecCDwz1OiPHYwoj_-ZFHyEWGvOAs_S0d_U0jEfA3uZa2XSwB1wZzE3BR0YpGTPM6-cH43H6GZlcdKrY6KcqHMEIn3Ttlzqi2oSUpf6skbbC3PGSF95mPaSZgwBcsN2H/s600/Liga%202%20Indonesia.png" group-title="Qingsports",Liga 2 (Live only) 
-http://tvn.x10.mx/playlist/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPwGPjebGRjPgbDUwU53xUoiU2twTMnKXUzuou_R8nEZ8CKd83KODib90x-ecCDwz1OiPHYwoj_-ZFHyEWGvOAs_S0d_U0jEfA3uZa2XSwB1wZzE3BR0YpGTPM6-cH43H6GZlcdKrY6KcqHMEIn3Ttlzqi2oSUpf6skbbC3PGSF95mPaSZgwBcsN2H/s600/Liga%202%20Indonesia.png" group-title="Qingsports",Liga 2 🅱️(Live only) 
-https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Liga21.m3u8
-
+#https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
