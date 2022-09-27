@@ -812,6 +812,16 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6 🏍️🏎️
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94464
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3080
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="Qingsports",beIN 2 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3079
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 🇫🇷
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3078
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis Channel
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
