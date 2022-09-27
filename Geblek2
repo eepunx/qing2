@@ -105,8 +105,6 @@ https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=
 #EXTINF:-1 group-title="VOD INDO",Kau & Dia
 https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO ANAK",Nussa
-https://www.googleapis.com/drive/v3/files/1kkH-g4_BSJjxeogL92s7PUe-gtbLuFYP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD INDO HOROR",Nini Thowok
 https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -148,6 +146,10 @@ https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=
 https://www.googleapis.com/drive/v3/files/1vyByVmTWj4bHnuTaNWJW25dROnv6VIbC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD INDO HOROR",Pelukis Hantu
 https://www.googleapis.com/drive/v3/files/1QBFbdxKb8iXKwzV3Cir1We_Tung25W7M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 group-title="VOD Animasi 2022",Nussa
+https://www.googleapis.com/drive/v3/files/1kkH-g4_BSJjxeogL92s7PUe-gtbLuFYP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD Animasi 2022",Chickenhare and the Hamster of Darkness
 https://www.googleapis.com/drive/v3/files/1lK6ARVLXuumNNPZcM9mIul_b8-XWOSc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -896,7 +898,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Qingsports",NBC GOLF
-https://nonton.site:8443/mustakim/mustakim/37436
+#https://nonton.site:8443/mustakim/mustakim/37436
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115702
 #EXTINF:-1 tvg-logo="https://northsidedrivingrange.com/wp-content/uploads/2022/05/GOLF_PGAT_FLAT.jpg" group-title="Qingsports",NBC GOLF 🇺🇲
 http://89.187.175.143:80/3013/mpegts
 
