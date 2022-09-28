@@ -1,3 +1,3 @@
 
-#EXTINF:-1 group-title="test channel" tvg-logo="",tennis
-http://31.172.87.59:2200/AFR-EX/SuperSport_Tennis_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+#EXTINF:-1 group-title="test channel" tvg-logo="",epl
+https://raw.githubusercontent.com/krismrp123/SupersportSS/main/SS-EPL.m3u8
