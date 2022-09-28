@@ -1028,6 +1028,72 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
+/////JAPAN 🇯🇵////
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Tokyo TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Osaka TV
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Asahi TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",0テレ
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",?1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",?2
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Sun TV
+https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Yomiuri
+https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 2
+https://cdn.us195.jpnettv.live/jptv/starch3_720/playlist.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Toei Channel
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS日テレ
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BSTBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS12
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan TV G
+https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Disney Channel 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Disney Jr 🇯🇵
+https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Animax 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
+
 
 //// China /////
 
