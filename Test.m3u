@@ -1,3 +1,48 @@
 
-#EXTINF:-1 group-title="test channel" tvg-logo="",epl
-https://raw.githubusercontent.com/krismrp123/SupersportSS/main/SS-EPL.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",0テレ
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Breakout
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",?1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",?2
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png",Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS日テレ
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BSTBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS12
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+
+#EXTINF:-1 group-title="japan 🇯🇵" tvg-logo="",Disney Channel 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:-1 group-title="japan 🇯🇵" tvg-logo="",Animax 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
