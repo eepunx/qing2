@@ -29,8 +29,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF: -1, Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF: -1, Bellator MMA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
 
 #EXTINF: -1, TVRI
 http://203.77.246.50:5000/udp/239.1.2.66:5000
@@ -75,6 +73,8 @@ http://203.77.246.50:5000/udp/239.1.2.134:5000
 #EXTINF: -1, TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 
+#EXTINF: -1, Disney Channel 
+http://185.59.223.102:8080/disney/index.m3u8
 #EXTINF: -1, Boomerang-Kids
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF: -1, Baby First-Kids
