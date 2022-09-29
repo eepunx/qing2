@@ -225,14 +225,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1663850129~acl=/vp9/9858_stream.mp
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://2.bp.blogspot.com/-TTmmrYrXBOY/USSDhx1mb0I/AAAAAAAAAOU/E0UzNbHwjz8/s1600/MotoGP_by_ospyder.jpg",MOTO GP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=2550000,BANDWIDTH=3180000 tracks-v1a1/mono.m3u8
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://2.bp.blogspot.com/-TTmmrYrXBOY/USSDhx1mb0I/AAAAAAAAAOU/E0UzNbHwjz8/s1600/MotoGP_by_ospyder.jpg",MOTO GP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 group-title="RACE" tvg-logo="https://wallpaperaccess.com/full/6122413.jpg",F1 LIVE 1
+#EXTINF:-1 group-title="RACE" tvg-logo="https://wallpaperaccess.com/full/6122413.jpg",coba iki
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=2550000,BANDWIDTH=3180000 tracks-v1a1/mono.m3u8
 https://ad2017.vhls.ru.com/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="RACE" tvg-logo="https://wallpaperaccess.com/full/6122413.jpg",F1 LIVE 2
@@ -629,7 +631,8 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CwlNjXQ.png" ,beIN Sports Premium 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CwlNjXQ.png" ,beIN Sports Premium 1 coba
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=2550000,BANDWIDTH=3180000 tracks-v1a1/mono.m3u8
 https://ad2017.vhls.ru.com/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ns7isEP.png" ,beIN Sports Premium 2
