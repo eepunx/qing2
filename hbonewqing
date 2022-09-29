@@ -708,6 +708,9 @@ http://89.187.175.143:80/3056/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png" group-title="Qingsports",FS2 🇺🇲
 http://89.187.175.143:80/3056/mpegts
 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/K9dfgwH/skyf1.png",sky sport F1
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960274
+
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1 
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/159567
 
