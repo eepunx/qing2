@@ -812,7 +812,9 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="Qingsports",USEE Sports 2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 🇺🇲
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV true
+http://103.22.181.150:8095/nbatv/mpegts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
