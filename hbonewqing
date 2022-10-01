@@ -171,7 +171,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://203.77.246.50:5000/udp/239.1.2.66:5000
 
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg" group-title="Indonesia 🇮🇩", Moji
-https://www.dropbox.com/s/17c2rgnc4bjpr6d/master-13.m3u8?dl=1
+http://tvn.x10.mx/1/master-13.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/issuewireassets/primg/71287/thumb_the-indonesia-channel-logo534566050.jpeg" group-title="Indonesia 🇮🇩",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
@@ -556,7 +556,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 ///// SPORTS /////
 
 #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1&2
-https://www.dropbox.com/s/cf48856yikjsp9f/master.m3u8?dl=1
+http://tvn.x10.mx/1/master.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 1️⃣ (Live only) 
 #https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
