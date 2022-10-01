@@ -578,6 +578,17 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL3 (Live only) 
 #https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik3.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png" group-title="Qingsports",BT Sports 1
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960287
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png" group-title="Qingsports",BT Sports 2
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960290
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1647385037/5712.png" group-title="Qingsports",BT Sports 3
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960293
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png" group-title="Qingsports",BT Sports 4
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960296
+
+
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
 https://tv.tas-ix.tv/hls/token_28.m3u8
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
