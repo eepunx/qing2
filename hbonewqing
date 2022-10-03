@@ -33,8 +33,8 @@ http://185.6.124.8:65000/udp/224.1.1.108:1234
 https://bit.ly/slspqing
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/dcs8rwl-349fade6-6514-4a55-9b1e-20e9fc4a54f0.png/v1/fill/w_1192,h_670,q_70,strp/fx_logo_2018_by_doublekids07_dcs8rwl-pre.jpg",FX 🇺🇲
+http://89.187.175.143:80/3006/mpegts
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bflix-movies-logo.jpg",Bflix Movies
@@ -558,11 +558,6 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1&2
 #http://tvn.x10.mx/1/master.m3u8?dl=1
 
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 1️⃣ (Live only) 
-#https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 2️⃣ (Live only) 
-#https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga2.m3u8
-
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 🅰️ (Live only) 
 #https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 🅱️ (Live only) 
@@ -571,13 +566,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL1 (Live only) 
-#https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL2 (Live only) 
-#https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zjOoqZ5plI8JTYmqQrsbCNdvifU=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1480088/original/051375400_1485105150-PM.jpg" group-title="Qingsports",EPL3 (Live only) 
-#https://raw.githubusercontent.com/tvbolaonline98/laglag/main/Makcik3.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.montilia.fr/public/img/big/rmcsportpsd2jpg_5c90ba0d0fdd4.jpg" group-title="Qingsports",RMC Sports
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3036
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
 https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960287
