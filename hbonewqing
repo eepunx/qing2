@@ -629,16 +629,20 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960238
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960239
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960240
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960241
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Qingsports", ASTRO SUPERSPORT 5
 
 
