@@ -1297,6 +1297,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 // sports//
 #EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2021/01/Ballylogo-832x447.png" group-title="Qingsports",Bally Sports 🇺🇲  
 http://89.187.175.143:80/3115/mpegts
+#EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2021/01/Ballylogo-832x447.png" group-title="Qingsports",Bally Sports 2 🇺🇲  
+http://89.187.175.143:80/3113/mpegts
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2020/02/ACCN_Football_Header_1600-780x405.jpg" group-title="Qingsports",Accn espn 🇺🇲  
 http://89.187.175.143:80/3111/mpegts
 
