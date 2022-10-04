@@ -1174,9 +1174,24 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 http://89.187.175.143:80/3029/mpegts
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 2 
 http://89.187.175.143:80/3032/mpegts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 3 
+http://89.187.175.143:80/3090/mpegts
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/400px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="United States 🇺🇲", Oxygen true crime 
+http://89.187.175.143:80/3036/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png" group-title="United States 🇺🇲", Lifetime 
+http://89.187.175.143:80/3026/mpegts
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tnt-logo-png-11.png" group-title="United States 🇺🇲", TNT 
+http://89.187.175.143:80/3030/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/400px-InvestigationDiscoveryLogo2020.svg.png" group-title="United States 🇺🇲", ID 
+http://89.187.175.143:80/3024/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/440px-USA_Network_logo_%282016%29.svg.png" group-title="United States 🇺🇲", usa 
+http://89.187.175.143:80/3025/mpegts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tbs-tv-channel-logo-6D967A4842-seeklogo.com.png" group-title="United States 🇺🇲", tbs 
+http://89.187.175.143:80/3106/mpegts
+#EXTINF:-1 tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="United States 🇺🇲", SYFY 
+http://89.187.175.143:80/3105/mpegts
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/378-3781871_movies-grit-television-with-backbone-grit-tv-network.png" group-title="United States 🇺🇲", GRIT 
 http://89.187.175.143:80/3059/mpegts
 #EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="United States 🇺🇲", E entertainment 
