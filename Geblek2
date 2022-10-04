@@ -1169,3 +1169,35 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 
+////USA🇺🇲////
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 1 
+http://89.187.175.143:80/3029/mpegts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 2 
+http://89.187.175.143:80/3032/mpegts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/378-3781871_movies-grit-television-with-backbone-grit-tv-network.png" group-title="United States 🇺🇲", GRIT 
+http://89.187.175.143:80/3059/mpegts
+#EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="United States 🇺🇲", E entertainment 
+http://89.187.175.143:80/3082/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ion_Television_logo.svg/196px-Ion_Television_logo.svg.png" group-title="United States 🇺🇲",ion  
+http://89.187.175.143:80/3027/mpegts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="United States 🇺🇲",cw Network
+http://89.187.175.143:80/3083/mpegts
+#EXTINF:-1 tvg-logo="https://ugandamarathon.com/wp-content/uploads/2018/07/bloomberg-logo.jpg" group-title="United States 🇺🇲", Bloomberg
+http://89.187.175.143:80/3086/mpegts
+#EXTINF:-1 tvg-logo="https://www.afsc.org/sites/default/files/styles/normal/public/images/NBC%20News.png" group-title="United States 🇺🇲", NBC News
+http://89.187.175.143:80/3084/mpegts
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2021/01/CBS-News-Logo.jpg" group-title="United States 🇺🇲", CBS News
+http://89.187.175.143:80/3087/mpegts
+
+
+
+
+
+
+
+
+
