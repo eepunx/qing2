@@ -725,7 +725,7 @@ http://122.248.43.138:1935/ch6/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="Indonesia 🇮🇩 (server 2)",Jogja TV
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-pPfy1Rzr_b0/XFzrnyzVukI/AAAAAAAAPq0/pIjdJlAKY9Im53irgbu_xxMHcCMqgke_gCLcBGAs/s400/frekuensi%2Bjek%2Btv.jpg" group-title="Indonesia 🇮🇩 (server 2)",Jek TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtscRmF/jambi.png" group-title="Indonesia 🇮🇩 (server 2)",Jambi TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/94/PalTV_Palembang.png/200px-PalTV_Palembang.png" group-title="Indonesia 🇮🇩 (server 2)",Pal TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="Indonesia 🇮🇩 (server 2)",RCTV
@@ -734,22 +734,15 @@ http://122.248.43.138:1935/ch9/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qqV37NW/Balikpapan-TV.png" group-title="Indonesia 🇮🇩 (server 2)", BTV Balikpapan
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="Indonesia 🇮🇩 (server 2)",BMS TV
-http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CgbHPL4/Padang-TV.png" group-title="Indonesia 🇮🇩 (server 2)", Padang TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Radar_TV_Bengkulu.png" group-title="Indonesia 🇮🇩 (server 2)", Radar TV
-http://122.248.43.138:1935/ch11/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="Indonesia 🇮🇩 (server 2)", PonTV
 http://122.248.43.138:1935/ch15/myStream/live.m3u8
 
 
 ==========FoX===========
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES CN
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES ENG
-
-
 
 ///// SINGAPURA /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
