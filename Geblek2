@@ -668,6 +668,7 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=2.0.0.13", Trans7
 #http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.epg.best/id/ANTV.id.png" tvg-chno="102" channel-id="102" group-title="Indonesia 🇮🇩 (server 2)",ANTV
 #http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
