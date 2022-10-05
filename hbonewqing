@@ -545,6 +545,10 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/phkKTqh/skyarena.png",sky sport arena
+https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960277
+
 #EXTINF:-1 tvg-logo="https://www.montilia.fr/public/img/big/rmcsportpsd2jpg_5c90ba0d0fdd4.jpg" group-title="Qingsports",RMC Sports
 http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3036
 
