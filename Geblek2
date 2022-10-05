@@ -797,7 +797,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png" group-title="Malaysia 🇲🇾",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Malaysia 🇲🇾",TV6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/800px-TV6_Logo.jpg" group-title="Malaysia 🇲🇾",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
@@ -1132,7 +1132,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" group-title="Knowledge", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png" group-title="Knowledge", Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/MOTORVISION_HD.jpg" group-title="Knowledge", Motorvision TV
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
