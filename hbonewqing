@@ -336,9 +336,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png", Happy Kids
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://1.bp.blogspot.com/-g1RFIUz8kv4/YLE6T7ElRII/AAAAAAAAD4k/MCf2147-9C8trlVlzNxLEWrXIZo3tCetACLcBGAsYHQ/w640-h480/happykids.tv-logoroku.png", Happy Kids
 https://happykids-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://negara.my.id/wp-content/uploads/2021/08/HappyKids-TV-1068x641.png", Happy Kids Jr
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://1.bp.blogspot.com/-g1RFIUz8kv4/YLE6T7ElRII/AAAAAAAAD4k/MCf2147-9C8trlVlzNxLEWrXIZo3tCetACLcBGAsYHQ/w640-h480/happykids.tv-logoroku.png", Happy Kids JR
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 
@@ -652,7 +652,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 ///////🟢FOX Sport🟢//////////
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Qingsports",Fox Sports 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13", Fox Sports 1🇪🇦🔻
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.pngitem.com/pimgs/m/29-299984_fox-sports-logo-2019-hd-png-download.png", Fox Sports 1🇪🇦🔻
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg", Fox Sports 2🇪🇦🔻
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
@@ -743,7 +743,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.pngkit.com/png/full/972-9721216_1-tvg-id-tvg-name-tvg-logo-https.png", ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="http://www.maxtvs.net/admin/img/channel/fbd5e104dfb5e868621a.png", ABU DHABI SPORTS 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png",Strongman Champion League 
@@ -805,7 +805,7 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Qingsports",Bellator MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2020/01/MAVTV_Black-625x175.png" group-title="Qingsports",MAVTV
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="Qingsports",MAVTV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" group-title="Qingsports",Ski TV
