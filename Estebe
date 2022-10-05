@@ -5,7 +5,7 @@
 http://iptvtree.net:8080/ace2524d/15a571c413/266811
 #EXTINF: -1, HBO Signature
 #http://203.77.246.50:5000/udp/239.1.3.74:5000
-
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37430
 #EXTINF: -1, HBO Hits
 #http://203.77.246.50:5000/udp/239.1.3.82:5000
 http://iptvtree.net:8080/ace2524d/15a571c413/196480
@@ -39,27 +39,27 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 #EXTINF: -1, TVRI
-http://203.77.246.50:5000/udp/239.1.2.66:5000
+#http://203.77.246.50:5000/udp/239.1.2.66:5000
 #EXTINF: -1, TVONE
-http://203.77.246.50:5000/udp/239.1.2.68:5000
+#http://203.77.246.50:5000/udp/239.1.2.68:5000
 #EXTINF: -1, RCTI
-http://203.77.246.50:5000/udp/239.1.3.80:5000
+#http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF: -1, SCTV
-http://203.77.246.50:5000/udp/239.1.1.108:5000
+#http://203.77.246.50:5000/udp/239.1.1.108:5000
 #EXTINF: -1, MNCTV
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+#http://203.77.246.50:5000/udp/239.1.3.78:5000
 #EXTINF: -1, Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF: -1, CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF: -1, CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1, Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1, Trans7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 #EXTINF: -1, Sinema Indonesia
-http://203.77.246.50:5000/udp/239.1.1.74:5000
+#http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1, Bali TV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
@@ -68,10 +68,10 @@ http://203.77.246.50:5000/udp/239.1.1.68:5000
 #EXTINF:-1, RTV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8a
 #EXTINF:-1, Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 #EXTINF: -1, TV5 Monde
-http://203.77.246.50:5000/udp/239.1.1.168:5000
+#http://203.77.246.50:5000/udp/239.1.1.168:5000
 #EXTINF: -1, France 24
 #http://203.77.246.50:5000/udp/239.1.1.230:5000
 #EXTINF: -1, Animal Planet
@@ -81,7 +81,7 @@ http://iptvtree.net:8080/ace2524d/15a571c413/157532
 #http://203.77.246.50:5000/udp/239.1.2.134:5000
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 #EXTINF: -1, TLC
-http://203.77.246.50:5000/udp/239.1.2.140:5000
+#http://203.77.246.50:5000/udp/239.1.2.140:5000
 
 #EXTINF: -1, Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
