@@ -9,8 +9,12 @@ https://www.googleapis.com/drive/v3/files/1b9x0SVZ_mb-oBqz8hKTSPf0LooAzPiT0?alt=
 
 
 
-#EXTINF:0 group-title="" tvg-logo="",cb digitubin
-https://raw.githubusercontent.com/eepunx/qing2/master/Cemp11shWrKW2Z4Be0VSg&expires1=1665251319&refer=ZjFhOWM2MjItYWU3ZC00MTQzLWEzY2QtYzFlNWFmNjMyM2Iz&y=0
+#EXTINF:0 group-title="" tvg-logo="",cb mozila
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsxwt_BzIPTV_4K
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
