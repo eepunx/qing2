@@ -1071,7 +1071,7 @@ https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 
-//// China /////
+//// hK taiwan /////
 
 #EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmszwt test
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
@@ -1101,29 +1101,12 @@ https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://cdn2live.sky4k.top/4gtv/?id=twms_BzIPTV_4K
 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV 民視
-#http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="HK/Taiwan 🇭🇰🇹🇼",maaf off (pakai formosa app)  
-http://seb.sason.top/ptv/ftv.php?id=tw#http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5151R6070-L.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",maaf off (pakai formosa app) 
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 tvg-logo="https://img.itver.cc/tv/FMTV.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV One 
-#http://seb.sason.top/ptv/ftv.php?id=dy#http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBWc1kRi22al_QfSk_sSBZa8qZATTvg_nIxUT-u6MV4r4bYMDz_LdcYLR4rz_Evq780A&usqp=CAU" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV Shows 
-#http://seb.sason.top/ptv/ftv.php?id=zy#http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAWfaY8oGPhKToVcCMi3xwxdyvO6HvD6SGFM0h0yBmKPKdTP3ghvPBTqKN7OYPDaTIw&usqp=CAU" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV Movies 
-#http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="HK/Taiwan 🇭🇰🇹🇼", NEXT壹新聞
-#http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TV Taiwan HD 
+#rtmp://59.124.75.138/sat/tv071
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Dali大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -1131,54 +1114,83 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="YZM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Titv原住民频道
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI Tw 
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI2 Tw 
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
+http://livetv.dnsfor.me:80/channel.09.m3u8
+
+#EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV 民視
+#http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="HK/Taiwan 🇭🇰🇹🇼",maaf off (pakai formosa app)  
+#http://seb.sason.top/ptv/ftv.php?id=tw#http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5151R6070-L.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",maaf off (pakai formosa app) 
+#http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-logo="https://img.itver.cc/tv/FMTV.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV One 
+#http://seb.sason.top/ptv/ftv.php?id=dy#http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBWc1kRi22al_QfSk_sSBZa8qZATTvg_nIxUT-u6MV4r4bYMDz_LdcYLR4rz_Evq780A&usqp=CAU" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV Shows 
+#http://seb.sason.top/ptv/ftv.php?id=zy#http://sytv.xtvants.fun/mytv.php?id=mszy&token=free&user=free
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAWfaY8oGPhKToVcCMi3xwxdyvO6HvD6SGFM0h0yBmKPKdTP3ghvPBTqKN7OYPDaTIw&usqp=CAU" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV Movies 
+#http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="HK/Taiwan 🇭🇰🇹🇼", NEXT壹新聞
+#http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/460px-HakkaTV.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Hakka TV
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
 
 #EXTINF:-1 tvg-logo="https://hataiwan.com.my/cms/wp-content/uploads/2020/11/908.png" group-title="HK/Taiwan 🇭🇰🇹🇼",cti News
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ctitv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", cti Show
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 
 #EXTINF:-1 tvg-logo="http://s3-us-west-2.amazonaws.com/encoretvb-editorial/wp-content/uploads/2017/08/15183801/TVBUSA_272x90.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB J1台
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS 欢乐台
 #rtmp://59.124.75.138/sat/tv421
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TV Taiwan HD 
-rtmp://59.124.75.138/sat/tv071
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/440px-China_TV_logo_since_19971030.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTV 中视 
-rtmp://59.124.75.138/sat/tv091
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/CTS_LOGO_3.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTS 华视 
-rtmp://59.124.75.138/sat/tv111
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQJQW95.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",緯來日本HD 
-rtmp://59.124.75.138/sat/tv771
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/18/1-1PF50951294C.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",纬来体育HD 
-rtmp://59.124.75.138/sat/tv721
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426210540646.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",纬来育乐HD 
-rtmp://59.124.75.138/sat/tv701
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebccj.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",CBC 东森财经新闻 
-rtmp://59.124.75.138:1935/sat/tv571
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-191119193A80-L.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",MoMo综合台 
-rtmp://59.124.75.138/sat/tv761
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/440px-China_TV_logo_since_19971030.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTV 中视 
+#rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/CTS_LOGO_3.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTS 华视 
+#rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQJQW95.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",緯來日本HD 
+#rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/18/1-1PF50951294C.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",纬来体育HD 
+#rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/18/1-1P426210540646.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",纬来育乐HD 
+#rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebccj.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",CBC 东森财经新闻 
+#rtmp://59.124.75.138:1935/sat/tv571
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-191119193A80-L.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",MoMo综合台 
+#rtmp://59.124.75.138/sat/tv761
 
 #EXTINF:-1 tvg-id="6239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立綜合台
 #http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://www.tvyan.com/uploads/dianshi/setxinwen.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立新聞
 #http://59.125.101.187:8590/playlist.m3u8
-#EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
-https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/setlivenews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立Live新聞
 #http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立台灣台
 #http://59.125.101.187:8519/playlist.m3u8
 #EXTINF:-1 tvg-id="6048" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立都會台
 #http://59.125.101.187:8522/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5280QrMG/Capture1-removebg-preview.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV4K
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJGWWxMt/Capture-removebg-preview-1.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV淘电影
@@ -1196,31 +1208,18 @@ https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",Now 
 #http://livetv.dnsfor.me:80/channel.8.m3u8
 #EXTINF:-1 tvg-logo="https://eshop.hk.chinamobile.com/export/sites/default/imgdir/data_vas/utv/20200923/cable_news.png" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE News
-http://livetv.dnsfor.me:80/channel.5.m3u8
+#http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-logo="https://eshop.hk.chinamobile.com/export/sites/default/imgdir/data_vas/utv/20200923/cable_finance.png" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE Finance 
-http://livetv.dnsfor.me:80/channel.6.m3u8
+#http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/I-CABLE_Live_News_Channel.png/180px-I-CABLE_Live_News_Channel.png" group-title="HK/Taiwan 🇭🇰🇹🇼",i-CABLE live news
-http://livetv.dnsfor.me:80/channel.7.m3u8
+#http://livetv.dnsfor.me:80/channel.7.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI Tw 
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",DAAI2 Tw 
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbjingdian.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB经典台
 #EXTINF:-1 tvg-logo="https://www.newton.com.tw/img/2/9bb/cGcq5SO1YzNzIDOwQTN5QzMxEzYkBzYhV2MmJDOhRzMwYzY1EzMjJWNygTOv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB为食台
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB星河
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB功夫台
 
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",RTHK31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",RTHK32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",HK Open
-http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
 
 
@@ -1232,7 +1231,6 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 #https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1629096632_thumb-rock-entertainment.png" ,Rock Entertainment
 http://203.77.246.50:5000/udp/239.1.2.130:5000
 
@@ -1243,7 +1241,6 @@ http://203.77.246.50:5000/udp/239.1.2.132:5000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.ibb.co/qWrWQpb/wakuwaku-lean-paps.png", WakuWaku Japan🔻
 #https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
