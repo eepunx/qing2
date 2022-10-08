@@ -1073,6 +1073,37 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 //// China /////
 
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmszwt test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsxwt_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmsly test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsly_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmstw test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmstw_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmsyj test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsyj_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmsdy test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twmszy test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",twms test
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twms_BzIPTV_4K
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/e8/6b/45b315f894e40e817997133a1100.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV 民視
 #http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/technology-x/images/ch_logo_one.png" group-title="HK/Taiwan 🇭🇰🇹🇼",maaf off (pakai formosa app)  
@@ -1087,6 +1118,9 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 #http://seb.sason.top/ptv/ftv.php?id=yj#http://sytv.xtvants.fun/mytv.php?id=msyj&token=free&user=free
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="HK/Taiwan 🇭🇰🇹🇼", NEXT壹新聞
 #http://stream.nexttv.com.tw/n001/hd/live.m3u8
