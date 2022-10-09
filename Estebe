@@ -16,10 +16,7 @@ http://iptvtree.net:8080/ace2524d/15a571c413/197055
 #EXTINF: -1,Movies Action 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF: -1, K+ (test)
-http://210.210.155.35/uq2663/h/h08/index.m3u8
 
-///sports////
 #EXTINF: -1, ELEVEN 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF: -1, ELEVEN 2
@@ -42,106 +39,47 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1, UFC
 http://189.91.128.146:4444/udp/227.10.20.172:1234
 
+#EXTINF: -1,TV5 monde (Denstv)
+http://210.210.155.35:80/uq2663/h/h01/01.m3u8
 
-///kids///
 #EXTINF: -1, Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
-#EXTINF: -1, Boomerang-Kids
-http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF: -1, Baby First-Kids
 http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+#EXTINF: -1, Aniplus (Denstv)
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
 
-////Entertainment///
 #EXTINF: -1, KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1, KIX (Denstv)
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF: -1, Rock Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1, Rock Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1, AXN
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
+#EXTINF: -1, AXN (Denstv)
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF: -1, K+ (Denstv)
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF: -1, TVN (Denstv)
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF: -1, TVN Movies (Denstv)
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF: -1, Sony Gem (Denstv)
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF: -1, Celestial Mvs (Denstv)
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
 
-///Knowledge///
+
 #EXTINF: -1, Animal Planet
 http://iptvtree.net:8080/ace2524d/15a571c413/157532
 #EXTINF: -1, Discovery Channel
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 
 
-
-
-
-
-
-
-
-#EXTINF: -1, TVRI
-#http://203.77.246.50:5000/udp/239.1.2.66:5000
-#EXTINF: -1, TVONE
-#http://203.77.246.50:5000/udp/239.1.2.68:5000
-#EXTINF: -1, RCTI
-#http://203.77.246.50:5000/udp/239.1.3.80:5000
-#EXTINF: -1, SCTV
-#http://203.77.246.50:5000/udp/239.1.1.108:5000
-#EXTINF: -1, MNCTV
-#http://203.77.246.50:5000/udp/239.1.3.78:5000
-#EXTINF: -1, Metro TV
-#http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF: -1, CNN
-#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF: -1, CNBC
-#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1, Trans TV
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
-#EXTINF:-1, Trans7
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
-#EXTINF: -1, Sinema Indonesia
-#http://203.77.246.50:5000/udp/239.1.1.74:5000
-
-#EXTINF:-1, JTV sby
-#http://203.77.246.50:5000/udp/239.1.1.68:5000
-#EXTINF:-1, Bali TV
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1, RTV
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8a
-#EXTINF:-1, Berita Satu
-#http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF: -1, TV5 Monde
-#http://203.77.246.50:5000/udp/239.1.1.168:5000
-#EXTINF: -1, France 24
-#http://203.77.246.50:5000/udp/239.1.1.230:5000
-#EXTINF: -1, TLC
-#http://203.77.246.50:5000/udp/239.1.2.140:5000
-
-#EXTINF: -1, Cartoon network 
-#http://203.77.246.50:5000/udp/239.1.2.154:5000
-
-#EXTINF: -1, AFN
-#http://203.77.246.50:5000/udp/239.1.2.228:5000
-#EXTINF: -1, Sony One
-#http://203.77.246.50:5000/udp/239.1.2.144:5000
-#EXTINF: -1, Sony Gem
-#http://203.77.246.50:5000/udp/239.1.2.238:5000
-
-#EXTINF: -1, WB TV
-#http://203.77.246.50:5000/udp/239.1.2.156:5000
-#EXTINF: -1, Thrill
-#http://203.77.246.50:5000/udp/239.1.2.216:5000
-#EXTINF: -1, Hits 
-#http://203.77.246.50:5000/udp/239.1.2.240:5000
-#EXTINF: -1, Hits Movies
-#http://203.77.246.50:5000/udp/239.1.2.242:5000
-#EXTINF: -1, Celestial Movies
-#http://203.77.246.50:5000/udp/239.1.2.162:5000
-
-#EXTINF: -1, Makkah 
-#http://203.77.246.50:5000/udp/239.1.2.200:5000
-#EXTINF: -1, Madinah 
-#http://203.77.246.50:5000/udp/239.1.2.204:5000
-#EXTINF: -1, Rodja TV 
-#http://203.77.246.50:5000/udp/239.1.2.70:5000
 
 
 
