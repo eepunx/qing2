@@ -485,7 +485,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" group-title="Knowledge", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJRkYwW4/download-2021-09-10-T032341-627.png" group-title="Knowledge", Outdoor Channel
-#https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/MOTORVISION_HD.jpg" group-title="Knowledge", Motorvision TV
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
