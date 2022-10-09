@@ -2,6 +2,7 @@
 
 #EXTINF: -1, HBO 
 #http://203.77.246.50:5000/udp/239.1.3.84:5000
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/266811
 #EXTINF: -1, HBO Signature
 #http://203.77.246.50:5000/udp/239.1.3.74:5000
@@ -12,9 +13,13 @@ http://iptvtree.net:8080/ace2524d/15a571c413/196480
 #EXTINF: -1, HBO Family
 #http://203.77.246.50:5000/udp/239.1.3.76:5000
 http://iptvtree.net:8080/ace2524d/15a571c413/197055
+#EXTINF: -1,Movies Action 
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF: -1, K+ (test)
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+///sports////
 #EXTINF: -1, ELEVEN 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF: -1, ELEVEN 2
@@ -32,11 +37,44 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 #EXTINF: -1, TVRI Sports 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
 #EXTINF: -1, Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF: -1, UFC
 http://189.91.128.146:4444/udp/227.10.20.172:1234
+
+
+///kids///
+#EXTINF: -1, Disney Channel 
+http://185.59.223.102:8080/disney/index.m3u8
+#EXTINF: -1, Boomerang-Kids
+http://203.77.246.50:5000/udp/239.1.2.158:5000
+#EXTINF: -1, Baby First-Kids
+http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+
+
+////Entertainment///
+#EXTINF: -1, KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1, Rock Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1, Rock Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1, AXN
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
+
+///Knowledge///
+#EXTINF: -1, Animal Planet
+http://iptvtree.net:8080/ace2524d/15a571c413/157532
+#EXTINF: -1, Discovery Channel
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
+
+
+
+
+
+
+
+
 
 #EXTINF: -1, TVRI
 #http://203.77.246.50:5000/udp/239.1.2.66:5000
@@ -55,16 +93,16 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF: -1, CNBC
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1, Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1, Trans7
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 #EXTINF: -1, Sinema Indonesia
 #http://203.77.246.50:5000/udp/239.1.1.74:5000
 
+#EXTINF:-1, JTV sby
+#http://203.77.246.50:5000/udp/239.1.1.68:5000
 #EXTINF:-1, Bali TV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1, JTV sby
-http://203.77.246.50:5000/udp/239.1.1.68:5000
 #EXTINF:-1, RTV
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8a
 #EXTINF:-1, Berita Satu
@@ -74,56 +112,36 @@ http://203.77.246.50:5000/udp/239.1.1.68:5000
 #http://203.77.246.50:5000/udp/239.1.1.168:5000
 #EXTINF: -1, France 24
 #http://203.77.246.50:5000/udp/239.1.1.230:5000
-#EXTINF: -1, Animal Planet
-#http://203.77.246.50:5000/udp/239.1.2.136:5000
-http://iptvtree.net:8080/ace2524d/15a571c413/157532
-#EXTINF: -1, Discovery Channel
-#http://203.77.246.50:5000/udp/239.1.2.134:5000
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 #EXTINF: -1, TLC
 #http://203.77.246.50:5000/udp/239.1.2.140:5000
 
-#EXTINF: -1, Disney Channel 
-http://185.59.223.102:8080/disney/index.m3u8
-#EXTINF: -1, Boomerang-Kids
-http://203.77.246.50:5000/udp/239.1.2.158:5000
-#EXTINF: -1, Baby First-Kids
-http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
 #EXTINF: -1, Cartoon network 
-http://203.77.246.50:5000/udp/239.1.2.154:5000
+#http://203.77.246.50:5000/udp/239.1.2.154:5000
 
-
-#EXTINF: -1, AXN
-#http://203.77.246.50:5000/udp/239.1.2.142:5000
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
 #EXTINF: -1, AFN
-http://203.77.246.50:5000/udp/239.1.2.228:5000
+#http://203.77.246.50:5000/udp/239.1.2.228:5000
 #EXTINF: -1, Sony One
-http://203.77.246.50:5000/udp/239.1.2.144:5000
+#http://203.77.246.50:5000/udp/239.1.2.144:5000
 #EXTINF: -1, Sony Gem
-http://203.77.246.50:5000/udp/239.1.2.238:5000
+#http://203.77.246.50:5000/udp/239.1.2.238:5000
 
 #EXTINF: -1, WB TV
-http://203.77.246.50:5000/udp/239.1.2.156:5000
-#EXTINF: -1, Rock Extreme
-http://203.77.246.50:5000/udp/239.1.2.132:5000
-#EXTINF: -1, Rock Entertainment
-http://203.77.246.50:5000/udp/239.1.2.130:5000
+#http://203.77.246.50:5000/udp/239.1.2.156:5000
 #EXTINF: -1, Thrill
-http://203.77.246.50:5000/udp/239.1.2.216:5000
+#http://203.77.246.50:5000/udp/239.1.2.216:5000
 #EXTINF: -1, Hits 
-http://203.77.246.50:5000/udp/239.1.2.240:5000
+#http://203.77.246.50:5000/udp/239.1.2.240:5000
 #EXTINF: -1, Hits Movies
-http://203.77.246.50:5000/udp/239.1.2.242:5000
+#http://203.77.246.50:5000/udp/239.1.2.242:5000
 #EXTINF: -1, Celestial Movies
-http://203.77.246.50:5000/udp/239.1.2.162:5000
+#http://203.77.246.50:5000/udp/239.1.2.162:5000
 
 #EXTINF: -1, Makkah 
-http://203.77.246.50:5000/udp/239.1.2.200:5000
+#http://203.77.246.50:5000/udp/239.1.2.200:5000
 #EXTINF: -1, Madinah 
-http://203.77.246.50:5000/udp/239.1.2.204:5000
+#http://203.77.246.50:5000/udp/239.1.2.204:5000
 #EXTINF: -1, Rodja TV 
-http://203.77.246.50:5000/udp/239.1.2.70:5000
+#http://203.77.246.50:5000/udp/239.1.2.70:5000
 
 
 
