@@ -113,6 +113,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #http://203.77.246.50:5000/udp/239.1.1.72:5000
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", NET 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/5hHHBMD/rajawali-lean-paps.png", RTV
@@ -336,7 +339,8 @@ http://89.187.175.143:80/3016/mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png", Mentari TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+http://tvn.x10.mx/1/master-22.m3u8?dl=1
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://1.bp.blogspot.com/-g1RFIUz8kv4/YLE6T7ElRII/AAAAAAAAD4k/MCf2147-9C8trlVlzNxLEWrXIZo3tCetACLcBGAsYHQ/w640-h480/happykids.tv-logoroku.png", Happy Kids
 https://happykids-roku.amagi.tv/playlist.m3u8
