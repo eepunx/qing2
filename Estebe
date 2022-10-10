@@ -33,6 +33,15 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF: -1, SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
+#EXTINF: -1, Champions TV1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-30.m3u8?dl=1
+#EXTINF: -1, Champions TV2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-31.m3u8?dl=1
+#EXTINF: -1, Champions TV3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-32.m3u8?dl=1
 
 #EXTINF: -1, TVRI Sports 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -43,7 +52,6 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 
 #EXTINF: -1,TV5 monde (Denstv)
-http://210.210.155.35:80/uq2663/h/h01/01.m3u8
 
 #EXTINF: -1, Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
@@ -51,10 +59,30 @@ http://185.59.223.102:8080/disney/index.m3u8
 http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
 #EXTINF: -1, Aniplus (Denstv)
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF: -1, Hip Hip Horee
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-4.m3u8?dl=1
+#EXTINF: -1, Mentari TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-22.m3u8?dl=1
+#EXTINF: -1, Mentari TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-16.m3u8?dl=1
+
 
 #EXTINF: -1,Citra Drama
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://tvn.x10.mx/1/master-3.m3u8?dl=1
+#EXTINF: -1,Citra Bioskop
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-2.m3u8?dl=1
+#EXTINF: -1,Citra Dangdut 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-11.m3u8?dl=1
+#EXTINF: -1,Citra Entertainment 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
+
 
 #EXTINF: -1, KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -66,18 +94,23 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1, AXN
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
-#EXTINF: -1, AXN (Denstv)
-http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF: -1, AXN 
+
 #EXTINF: -1, K+ (Denstv)
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+
 #EXTINF: -1, TVN (Denstv)
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF: -1, TVN (master)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+http://tvn.x10.mx/1/master-17.m3u8?dl=1
+
 #EXTINF: -1, TVN Movies (Denstv)
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF: -1, Sony Gem (Denstv)
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-#EXTINF: -1, Celestial Mvs (Denstv)
-http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+#EXTINF: -1, Sony Gem 
+
+#EXTINF: -1, Celestial Mvs 
+
 
 
 #EXTINF: -1, Animal Planet
