@@ -1102,9 +1102,12 @@ https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
 
-#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",TVB 无线新闻
-#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="",TVB 无线财经
-
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/1172px-Tvb_logo.svg.png",TVB News
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://tvp22.sky4k.top/index1.php
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/1172px-Tvb_logo.svg.png",TVB Finance
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://tvp22.sky4k.top/index1.php
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
