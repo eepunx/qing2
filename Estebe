@@ -36,13 +36,13 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #EXTINF: -1, Champions TV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://tvn.x10.mx/1/master-30.m3u8?dl=1
+#http://tvn.x10.mx/1/master-30.m3u8?dl=1
 #EXTINF: -1, Champions TV2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://tvn.x10.mx/1/master-31.m3u8?dl=1
+#http://tvn.x10.mx/1/master-31.m3u8?dl=1
 #EXTINF: -1, Champions TV3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://tvn.x10.mx/1/master-32.m3u8?dl=1
+#http://tvn.x10.mx/1/master-32.m3u8?dl=1
 
 #EXTINF: -1, TVRI Sports 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -118,7 +118,10 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 http://iptvtree.net:8080/ace2524d/15a571c413/157532
 #EXTINF: -1, Discovery Channel
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png" ,Smithsonian Channels
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" , Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 
 
