@@ -16,7 +16,7 @@ http://tvn.x10.mx/1/master-2.m3u8?dl=1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI+
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|User-Agent=android-R+
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index_14.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV+
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV+
