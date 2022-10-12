@@ -556,8 +556,12 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/phkKTqh/skyarena.png",sky sport arena
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/phkKTqh/skyarena.png",skysport Arena
 https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960277
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1024px-Sky_Sport_Tennis.svg.png",skysport Tennis
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-top-event-de.png",skysport Top event
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161663
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
 https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960287
