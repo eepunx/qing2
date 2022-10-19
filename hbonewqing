@@ -577,15 +577,15 @@ https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960296
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/True_Sport_Logo.png/160px-True_Sport_Logo.png" group-title="Qingsports",True sports 1 
