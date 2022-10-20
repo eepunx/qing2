@@ -1115,9 +1115,9 @@ https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 #http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",TV Taiwan HD 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",Taiwan News HD 
 #rtmp://59.124.75.138/sat/tv071
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/台視新聞.m3u8
 
 #EXTINF:-1 tvg-id="7176" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="HK/Taiwan 🇭🇰🇹🇼", 中視新聞 HD
 https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/中視新聞.m3u8
