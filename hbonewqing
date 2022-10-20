@@ -874,6 +874,8 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://webro.com.br/wp-content/uploads/2018/09/animal_planet-200x200.jpg", Animal Planet🔻
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://webro.com.br/wp-content/uploads/2018/09/animal_planet-200x200.jpg", A. Planet backup
+http://iptvtree.net:8080/ace2524d/15a571c413/157532
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
