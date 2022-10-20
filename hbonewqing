@@ -8,7 +8,7 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🔉email ke qingtv37@gmail.com jika ada Masalah ott navigator",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🔉utk VOD gunakan Dutafilm krn keterbatasan kapasitas server maaf",AFV
+#EXTINF:-1 tvg-logo="" group-title="🔉Server tanda🔻 down cari channel backup atau lainnya",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 
@@ -104,6 +104,8 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/4
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE🔻
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE backup 
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
