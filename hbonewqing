@@ -203,7 +203,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO backup
-http://iptvtree.net:8080/ace2524d/15a571c413/266811
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -218,8 +218,9 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits🔻
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits 𝗙𝗛𝗗
-http://iptvtree.net:8080/ace2524d/15a571c413/196480
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png", HBO Hits backup
+#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
