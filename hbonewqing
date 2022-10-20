@@ -861,10 +861,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/FK9tNHY/disco-lean-paps.png", Discovery Channel🔻
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/6uHly3s.png" ,Discovery Turbo
-
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,Discovery Science
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/FK9tNHY/disco-lean-paps.png", Disc.Cnl backup
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
