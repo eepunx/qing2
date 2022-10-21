@@ -5,7 +5,9 @@
 #EXTVLCOPT:http-user-agent="TelevizoPlayer/1.2.8 (Linux;Android 5) ExoPlayerLib/2.8.4"
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO exo
+#EXTVLCOPT:http-user-agent="TelevizoPlayer/1.2.8 (Linux;Android 5) ExoPlayerLib/2.8.4"
+https://aqfadtv.xyz/hbogo/hbo/index.m3u8
 
 
 
