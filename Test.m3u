@@ -6,8 +6,8 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", MNCTVtambahdrm
-#EXTVLCOPT:http-user-agent="YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1" drm-id:"2455674212"
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", MNCTV VLC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
