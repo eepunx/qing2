@@ -17,17 +17,25 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
 
-#EXTINF:0 group-title="" tvg-logo="",twmszwt
+#EXTINF:0 group-title="" tvg-logo="",twmszwt 4Gtv
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twmsxwt_BzIPTV_4K
+#https://cdn2live.sky4k.top/4gtv/?id=twmsxwt_BzIPTV_4K
+https://4gtvfreemobile-mozai.4gtv.tv/evQyU5vmvXwZh0Odh2aVGsQB7Z-0qz_ri37WtaT0VIU=/stream2.m3u8?token=woH_pu0k_Bok-y6U0XvcnA&expires=1666332920&token1=IwOOsvRw8up8kAlX0hiRMw&expires1=1666361720&refer=ZWY2MmNjMTEtM2FkZi00Njc3LWE4ZWYtNzI0YWYyNzM4YTZl&y=0
 
-#EXTINF:0 group-title="" tvg-logo="",twmsly
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twmsly_BzIPTV_4K
 
-#EXTINF:0 group-title="" tvg-logo="",twmstw
+
+#EXTINF:0 group-title="" tvg-logo="",twmsly 4Gtv
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twmstw_BzIPTV_4K
+#https://cdn2live.sky4k.top/4gtv/?id=twmsly_BzIPTV_4K
+https://4gtvfreemobile-mozai.4gtv.tv/GwbU0z8DCqnxFKfTKLyNWQsMdBwxNxyPwrZ6SNKEJZs=/stream2.m3u8?token=wjg_99a0EmLB9fL7s6bYPw&expires=1666332982&token1=rSqZ5FCjGmVm6HEIJZmi_A&expires1=1666361782&refer=NzQzNmM0YWItMzNiOS00MzI2LThhZDktNmNhZTQ4ODc2NzFl&y=0
+ires=1666333017&token1=wzNv_-hpCrLup30KiPOirQ&expires1=1666361817&refer=ZjAyNWNiZGUtM2I0MS00NWNhLThkOWMtOTMxNjIzYTE5NzJi&y=0
+
+
+
+#EXTINF:0 group-title="" tvg-logo="",twmstw 4gtv
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#https://cdn2live.sky4k.top/4gtv/?id=twmstw_BzIPTV_4K
+https://4gtvfreemobile-mozai.4gtv.tv/X6WqYvA47F2Z1GjLBVZk0ScehsDadG4H4lf0yhqXWNQ=/stream2.m3u8?token=gbs6gW0Af323mWN6YCdwog&exp
 
 #EXTINF:0 group-title="" tvg-logo="",twmsyj
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
