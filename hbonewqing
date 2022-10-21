@@ -61,7 +61,7 @@ https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI🔻
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI backup
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
