@@ -212,9 +212,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-49
 /// HBO /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO
-#https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-https://aqfadtv.xyz/hbogo/hbo/index.m3u8
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO test MPD FILE
+https://stream-cdn.mncnow.id:443/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#https://aqfadtv.xyz/hbogo/hbo/index.m3u8
 
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO backup
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
