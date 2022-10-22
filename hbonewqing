@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://bit.ly/stavolid" 
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+
 
 ////donasi/////
 
