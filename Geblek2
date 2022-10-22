@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+ 
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Drama
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
