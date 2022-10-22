@@ -29,12 +29,10 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Indonesia 🇮🇩 (server 2) ",Indosiar 
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_sctv_big1.png?v=2.0.0.15" group-title="Indonesia 🇮🇩 (server 2)",SCTV 
-#http://203.77.246.50:5000/udp/239.1.1.108:5000
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia 🇮🇩 (server 2)",NET vidio
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia 🇮🇩 (server 2)",NET
-#http://203.77.246.50:5000/udp/239.1.1.72:5000
 
 #EXTINF:-1 tvg-logo="http://www.tempotv.com.tr/img/logo.png" group-title="Indonesia 🇮🇩 (server 2)",Tempo TV
 
@@ -51,7 +49,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV
 #https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/1RTjJ55/ruangtrampil-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Ruang Trampil
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/zXb9cGt/useephoto-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2)",Usee Photo
@@ -61,8 +58,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9VCf1tS/image-28.png" group-title="Indonesia 🇮🇩 (server 2)",TVRI
 #http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/600px-Logo_ntv.png" group-title="Indonesia 🇮🇩 (server 2)",Nusantara TV
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
 
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-oosV39Fczxs/XDAlx0XLyQI/AAAAAAAARQU/Q2YyyMAjRhkUfbB59t5bPbZ9CrFv1fJTQCLcBGAs/s320/CNN%2BIndonesia.png" group-title="Indonesia 🇮🇩 (server 2)",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
@@ -73,45 +68,55 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",RRInet
 http://36.89.47.217:11935/rrinet/live/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",JTV
+http://122.248.43.138:1935/ch2/myStream/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",JTV madiun
-http://122.248.43.138:1935/ch32/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="Indonesia 🇮🇩 (server 2)",JITV
-#http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
+
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",RTV
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
-#EXTINF: -1 tvg-logo="" group-title="Indonesia",Hi Indo
-#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",TV Edukasi
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",Metro TV
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="Indonesia 🇮🇩 (server 2)",Kompas TV
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/320px-Logo_BBS_TV_2018.png" group-title="Indonesia 🇮🇩 (server 2)",BBS
 
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="Indonesia 🇮🇩 (server 2)",Jogja TV
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-pPfy1Rzr_b0/XFzrnyzVukI/AAAAAAAAPq0/pIjdJlAKY9Im53irgbu_xxMHcCMqgke_gCLcBGAs/s400/frekuensi%2Bjek%2Btv.jpg" group-title="Indonesia 🇮🇩 (server 2)",Jek TV
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XWRP1EECW9lR7AEtjzsHnDlbHWNWRzbIVzg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Indonesia 🇮🇩 (server 2)",Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
-#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="Indonesia 🇮🇩 (server 2)",Jogja TV
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-pPfy1Rzr_b0/XFzrnyzVukI/AAAAAAAAPq0/pIjdJlAKY9Im53irgbu_xxMHcCMqgke_gCLcBGAs/s400/frekuensi%2Bjek%2Btv.jpg" group-title="Indonesia 🇮🇩 (server 2)",Jek TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtscRmF/jambi.png" group-title="Indonesia 🇮🇩 (server 2)",Jambi TV
-
-
+http://122.248.43.138:1935/ch23/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/94/PalTV_Palembang.png/200px-PalTV_Palembang.png" group-title="Indonesia 🇮🇩 (server 2)",Pal TV
+http://122.248.43.138:1935/ch7/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="Indonesia 🇮🇩 (server 2)",RCTV
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qqV37NW/Balikpapan-TV.png" group-title="Indonesia 🇮🇩 (server 2)", BTV Balikpapan
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CgbHPL4/Padang-TV.png" group-title="Indonesia 🇮🇩 (server 2)", Padang TV
+http://122.248.43.138:1935/ch16/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Radar_TV_Bengkulu.png" group-title="Indonesia 🇮🇩 (server 2)", Radar TV
+http://122.248.43.138:1935/ch17/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="Indonesia 🇮🇩 (server 2)", PonTV
-http://122.248.43.138:1935/ch15/myStream/live.m3u8
+http://122.248.43.138:1935/ch15/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", Sultra TV
+http://122.248.43.138:1935/ch20/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", SM TV
+http://122.248.43.138:1935/ch25/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", Fajar TV
+http://122.248.43.138:1935/ch27/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", Simpang 5 TV
+http://122.248.43.138:1935/ch4/myStream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", STV
+http://122.248.43.138:1935/ch5/myStream/index.m3u8
+
 
 
 ==========FoX===========
