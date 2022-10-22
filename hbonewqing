@@ -81,9 +81,9 @@ https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 
-https://stream-cdn.mncnow.id:443/live/eds/SCTV-HDD/sa_dash_vmx/SCTV-HDd.mpd
+#https://stream-cdn.mncnow.id:443/live/eds/SCTV-HDD/sa_dash_vmx/SCTV-HDd.mpd
 #http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/32
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 2
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
