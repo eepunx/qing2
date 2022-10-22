@@ -210,7 +210,7 @@ https://stream-cdn.mncnow.id:443/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 /// HBO /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO test MPD FILE
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png", HBO🔻
 https://stream-cdn.mncnow.id:443/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #https://aqfadtv.xyz/hbogo/hbo/index.m3u8
 
@@ -220,7 +220,7 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/210
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png", HBO Family🔻
 https://stream-cdn.mncnow.id:443/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #https://aqfadtv.xyz/hbogo/hbofam/index.m3u8
 
@@ -237,7 +237,7 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37431
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Signature
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Signature🔻
 https://stream-cdn.mncnow.id:443/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #http://180.211.90.134:8000/play/a04c
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png",HBO Sig backup
@@ -245,7 +245,7 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png",CINEMAX
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png",CINEMAX🔻
 https://stream-cdn.mncnow.id:443/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #https://aqfadtv.xyz/hbogo/cinemax/index.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png",CINEMAX backup 
