@@ -87,7 +87,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="Indonesia 🇮🇩 (server 2)",Jogja TV
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-pPfy1Rzr_b0/XFzrnyzVukI/AAAAAAAAPq0/pIjdJlAKY9Im53irgbu_xxMHcCMqgke_gCLcBGAs/s400/frekuensi%2Bjek%2Btv.jpg" group-title="Indonesia 🇮🇩 (server 2)",Jek TV
-
+http://122.248.43.138:1935/ch14/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78XWRP1EECW9lR7AEtjzsHnDlbHWNWRzbIVzg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Indonesia 🇮🇩 (server 2)",Jawa Pos TV
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtscRmF/jambi.png" group-title="Indonesia 🇮🇩 (server 2)",Jambi TV
@@ -116,8 +116,8 @@ http://122.248.43.138:1935/ch27/myStream/index.m3u8
 http://122.248.43.138:1935/ch4/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", STV
 http://122.248.43.138:1935/ch5/myStream/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", RTV
+http://122.248.43.138:1935/ch11/myStream/index.m3u8
 
 ==========FoX===========
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES CN
