@@ -1344,21 +1344,19 @@ https://bit.ly/mleot2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Music" tvg-logo ="https://www.lyngsat.com/logo/tv/mm/music-tv-id.png", MUSIC TV🔻
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://pbs.twimg.com/profile_images/460661152372903936/KnkCJe5S_400x400.jpeg" group-title="Music", Musica
-
-#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/440px-Channel_V_Logo.svg.png", V channel
+#https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo ="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/story/2019/08/01/9xm.jpg", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music", MTV Live
-#http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Music", KPOP
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
 
+#EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Music", MCM
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3068
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music", MTV Live
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3066
 #EXTINF:-1 group-title="Music" tvg-logo="",MTV Hits
 http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3065
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
