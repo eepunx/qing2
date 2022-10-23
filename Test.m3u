@@ -1,6 +1,10 @@
 
-#EXTVLCOPT:referer="https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT"
-#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", arena premium referer
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", arena premium tambah http
+#EXTVLCOPT:http-referer="https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT"
+https://ad2017.vhls.ru.com/lb/premium135/index.m3u8?
+
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", arena premium tanpa ttk2
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://ad2017.vhls.ru.com/lb/premium135/index.m3u8?
 
 
