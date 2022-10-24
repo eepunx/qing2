@@ -774,24 +774,24 @@ https://stream-cdn.mncnow.id:443/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Qingsports",beIN Sports 4
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94474
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 🥎
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Qingsports",beIN Sports 5 
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6 🏍️🏎️
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94464
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="Qingsports",beIN 1 My
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="Qingsports",beIN Sports 1 
 https://seulangatv.com/linearjitp/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VNLTWhJx/BS2.png" group-title="Qingsports",beIN 2 My
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VNLTWhJx/BS2.png" group-title="Qingsports",beIN Sports 2 
 https://seulangatv.com/linearjitp/dash-wv/linear/5013/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s26L6JSv/BS3.png" group-title="Qingsports",beIN 3 My
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s26L6JSv/BS3.png" group-title="Qingsports",beIN Sports 3 
 https://seulangatv.com/linearjitp/dash-wv/linear/2705/default_ott.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 🇫🇷
@@ -860,9 +860,9 @@ http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis Channel
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="Qingsports",USEE Sports 1 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",USEE Sports 1 
 http://iptvid.my.id/hmm/useetl1.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="Qingsports",USEE Sports 2 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",USEE Sports 2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
