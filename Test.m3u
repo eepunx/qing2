@@ -2,10 +2,17 @@ https://ad2017.vhls.ru.com/lb/premium370/index.m3u8?|User-Agent=Mozilla/5.0 (Win
 
 
 #EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png",coba baru 
-https://ad2017.vhls.ru.com/lb/premium135/index.m3u8?|User-Agent=Mozilla/5.0
+https://ad2017.vhls.ru.com/lb/premium370/index.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&Referer=https://player.licenses4.me/
 
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png",coba yg2
+#EXTVLCOPT:http-referer="https://player.licenses4.me/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://ad2017.vhls.ru.com/lb/premium135/index.m3u8
 
-
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png",coba yg url
+#EXTVLCOPT:http-url-referer="https://player.licenses4.me/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://ad2017.vhls.ru.com/lb/premium135/index.m3u8
 
 
 
