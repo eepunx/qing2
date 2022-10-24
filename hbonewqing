@@ -1370,6 +1370,12 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
 
 #EXTINF:-1 group-title="Music" tvg-logo="",MTV Hits
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnhV8Nv4/MTVA.png" group-title="Music",MTV Live
+https://seulangatv.com/linearjitp/dash-wv/linear/5014/default_ott.mpd
+
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
