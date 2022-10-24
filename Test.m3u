@@ -11,10 +11,13 @@ https://seulangatv.com/linearjitp/dash-wv/linear/5013/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s26L6JSv/BS3.png" group-title="SPORTS",beIN 3 My
 https://seulangatv.com/linearjitp/dash-wv/linear/2705/default_ott.mpd (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&Referer=https://player.licenses4.me/
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
 #EXTVLCOPT:http-user-agent=MNC Now
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",dicovery science 
+#EXTVLCOPT:http-deremel=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",dicovery science deremel
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd 
 
 
