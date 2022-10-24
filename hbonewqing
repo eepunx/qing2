@@ -778,10 +778,22 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6 🏍️🏎️
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94464
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="Qingsports",beIN 1 
+https://seulangatv.com/linearjitp/dash-wv/linear/408/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VNLTWhJx/BS2.png" group-title="Qingsports",beIN 2 
+https://seulangatv.com/linearjitp/dash-wv/linear/5013/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s26L6JSv/BS3.png" group-title="Qingsports",beIN 3 
+https://seulangatv.com/linearjitp/dash-wv/linear/2705/default_ott.mpd (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&Referer=https://player.licenses4.me/
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 🇫🇷
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="Qingsports",beIN 2 🇫🇷
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 🇫🇷
 
 /////////////////
