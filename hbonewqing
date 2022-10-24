@@ -593,13 +593,11 @@ https://stream-cdn.mncnow.id:443/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="ort-360.jpg",Golf+
 
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/phkKTqh/skyarena.png",skysport Arena
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/tTZc499X/SS-Arena.png",Skysport Arena
 https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960277
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1024px-Sky_Sport_Tennis.svg.png",skysport Tennis
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/wg2dX2z/skymix.png",skysport Mix
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/W1NfJGsY/SS-Mix.png",Skysport Mix
 https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960282
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.ibb.co/ww86qJC/skyfootball.png",skysport Football 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/jSM36D5x/SS-PL.png",Skysport EPL
 https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960259
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
