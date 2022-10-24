@@ -22,9 +22,9 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
-#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", ambil biasa
+#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", clearkey ganti
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 
 
