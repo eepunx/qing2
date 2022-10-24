@@ -12,9 +12,9 @@ http://tvn.x10.mx/1/master.m3u8?dl=1
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-logo="https://i.postimg.cc/CKbqbNxk/citra-dangdut.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Dangdut
 http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-entertainment-id.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Entertainment 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/k4jfBpdM/Citra-Entertainment-1.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Entertainment 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#http://tvn.x10.mx/1/master-12.m3u8?dl=1
+http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
 
 
 
