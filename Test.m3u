@@ -1,7 +1,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="SPORTS",beIN 1 My
-https://seulangatv.com/linearjitp/dash-wv/linear/408/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="SPORTS",dazn
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VNLTWhJx/BS2.png" group-title="SPORTS",beIN 2 My
