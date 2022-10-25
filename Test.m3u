@@ -1,7 +1,21 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="SPORTS",dazn
+#EXTINF:-1 tvg-logo="" group-title="TEST" tvg-id="",Test dazn
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"key":"100b6c20940f779a4589152b57d2dacb","kid":"eb676abbcb345e96bbcf616630f1a3da"}]}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="TEST" tvg-id="",Test dazn 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
