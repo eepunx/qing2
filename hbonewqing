@@ -41,7 +41,7 @@ http://185.6.124.8:65000/udp/224.1.1.108:1234
 http://bravo.kugo.id:8081/salingsapatv/hls/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/dcs8rwl-349fade6-6514-4a55-9b1e-20e9fc4a54f0.png/v1/fill/w_1192,h_670,q_70,strp/fx_logo_2018_by_doublekids07_dcs8rwl-pre.jpg",FX 🇺🇲
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/dcs8rwl-349fade6-6514-4a55-9b1e-20e9fc4a54f0.png/v1/fill/w_1192,h_670,q_70,strp/fx_logo_2018_by_doublekids07_dcs8rwl-pre.jpg",FX
 http://89.187.175.143:80/3006/mpegts
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
@@ -834,17 +834,17 @@ https://stream-cdn.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/9QHRCk2T/mnc-sports.png",MNC Sports
 https://stream-cdn.mncnow.id:443/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/9QHRCk2T/mnc-sports.png",MNC Sports 2
 https://stream-cdn.mncnow.id:443/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/9QHRCk2T/mnc-sports.png",MNC Sports 3
 https://stream-cdn.mncnow.id:443/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
@@ -860,9 +860,9 @@ http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Qingsports",Tennis Channel
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",USEE Sports 1 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
 http://iptvid.my.id/hmm/useetl1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",USEE Sports 2 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
 http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
