@@ -27,6 +27,10 @@ http://89.187.175.143:80/3028/index.m3u8
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115807
 #EXTINF: -1,Bein Sports 2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115809
+#EXTINF: -1,EPL 1
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
+#EXTINF: -1,EPL 2
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
 
 #EXTINF: -1, SPOTV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/67
