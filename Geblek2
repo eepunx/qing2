@@ -20,7 +20,7 @@ http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI+
-http://54.151.201.145:5566/GG/Live/RcTi/mpegts
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV+
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
