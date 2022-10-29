@@ -19,15 +19,15 @@ http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/19frQX4/gtv-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
 https://d33j155pv2xyba.cloudfront.net/GTV_2021.m3u8|User-Agent=android-R+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/500px-RCTI%2B.svg.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Indonesia 🇮🇩 (server 2)",NET.
