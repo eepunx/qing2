@@ -452,10 +452,6 @@ https://stream-cdn.mncnow.id:443/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 /////DVBT2/////
 
 ///// MOVIES /////
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.postimg.cc/ryhjq38K/Astro-Boo.png" group-title="MOVIES 2",BOO 
-https://seulangatv.com/linearjitp/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -785,21 +781,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Qingsports",beIN Sports 6 🏍️🏎️
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94464
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7ZNd74Z1/BS1.png" group-title="Qingsports",beIN Sports 1 🇹🇭
-https://seulangatv.com/linearjitp/dash-wv/linear/408/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VNLTWhJx/BS2.png" group-title="Qingsports",beIN Sports 2 🇹🇭
-https://seulangatv.com/linearjitp/dash-wv/linear/5013/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s26L6JSv/BS3.png" group-title="Qingsports",beIN Sports 3 🇹🇭
-https://seulangatv.com/linearjitp/dash-wv/linear/2705/default_ott.mpd
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 🇫🇷
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="Qingsports",beIN 2 🇫🇷
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 🇫🇷
@@ -875,7 +856,7 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 #http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115738
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 2
-http://iptvtree.net:8080/ace2524d/15a571c413/281638
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/49691
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
@@ -1049,10 +1030,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/66vFyw18/Berita-RTM.png" group-title="NEWS",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://i.postimg.cc/przS7Ynf/bernama.png" group-title="NEWS",Bernama (Maintenance)
-https://seulangatv.com/linearjitp/dash-wv/linear/1114/default_ott.mpd
 
 #EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.postimg.cc/6Q2Wn1jp/RT.png" group-title="NEWS",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -1436,11 +1413,6 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music", MTV Live
 
 #EXTINF:-1 group-title="Music" tvg-logo="",MTV Hits
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnhV8Nv4/MTVA.png" group-title="Music",MTV Live
-https://seulangatv.com/linearjitp/dash-wv/linear/5014/default_ott.mpd
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
