@@ -1,7 +1,12 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
  
+#EXTINF:0 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/B2rPddt/indosiar.jpg",Indosiar 2
+http://tv.zonanime.my.id/vidio/indosiar.m3u8
+
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV
 http://tvn.x10.mx/1/master-12.m3u8?dl=1
+#EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 2
+http://nonton.wap.sh/id/009.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RFH4WsCx/Citra-Muslim.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Muslim
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
