@@ -18,14 +18,17 @@ http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
 
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/19frQX4/gtv-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
 https://d33j155pv2xyba.cloudfront.net/GTV_2021.m3u8|User-Agent=android-R+
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 
