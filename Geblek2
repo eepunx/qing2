@@ -18,7 +18,6 @@ http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
@@ -55,7 +54,7 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/6
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TVONE 
-
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV
