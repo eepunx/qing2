@@ -49,12 +49,10 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:-1,ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF: -1,Horee test
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://tv.zonanime.my.id/vidio/horee.m3u8
-
 #EXTINF: -1, Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
+#EXTINF: -1, Disney junior test
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF: -1, Nickelodeon 
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
 #EXTINF: -1, Aniplus (Denstv)
