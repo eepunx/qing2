@@ -42,7 +42,9 @@ https://d33j155pv2xyba.cloudfront.net/GTV_2021.m3u8|User-Agent=android-R+
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png" group-title="Indonesia 🇮🇩 (server 2)",NET.
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
+#http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
+http://rr2.dens.tv/s/s08/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET
+
 #EXTINF:-1 tvg-logo="http://www.tempotv.com.tr/img/logo.png" group-title="Indonesia 🇮🇩 (server 2)",Tempo TV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="Indonesia 🇮🇩 (server 2)",Trans TV
@@ -57,6 +59,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/BbVMMHrs/antv.png" group-title="Indonesia 🇮🇩 (server 2)",ANTV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/04
+
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png", METRO TV
