@@ -29,6 +29,10 @@ https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+https://d1akid76fpbq4x.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
