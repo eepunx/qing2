@@ -39,8 +39,7 @@ https://d33j155pv2xyba.cloudfront.net/GTV_2021.m3u8|User-Agent=android-R+
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png" group-title="Indonesia 🇮🇩 (server 2)",NET.
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
-http://rr2.dens.tv/s/s08/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
 
 #EXTINF:-1 tvg-logo="http://www.tempotv.com.tr/img/logo.png" group-title="Indonesia 🇮🇩 (server 2)",Tempo TV
 
