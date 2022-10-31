@@ -780,13 +780,16 @@ https://m3u-editor.com/serve/2c94af90-25a7-11ed-93b5-f51357322fa3/624960275
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Qingsports",Bein Premium 1 
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94498
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111600.m3u8
+#http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111600.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94496&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Qingsports",Bein Premium 2 
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94488
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111602.m3u8
+#http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111602.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94492&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Qingsports",Bein Premium 3
 #http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94489
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111607.m3u8
+#http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/111607.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94488&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
