@@ -335,8 +335,6 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="China Provinsi 🇨🇳",Chinese Drama
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/36733
-#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
