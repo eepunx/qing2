@@ -6,12 +6,10 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
-#EXTVLCOPT:http-user-agent=MNC Now
+
 #EXTVLCOPT:http-deremel=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",dicovery science deremel
-https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",RTP
+rtp://238.200.200.133:5540 
 
 
 
