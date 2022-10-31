@@ -73,7 +73,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/6
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png", TVONE 
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b64eee6360b118d0d90329cc2c9e4c60&key=4e97aa6422b26ffb372647dbd0a7683c
