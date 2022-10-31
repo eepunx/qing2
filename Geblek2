@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/zalindo/tv/master/tvone.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b64eee6360b118d0d90329cc2c9e4c60&key=4e97aa6422b26ffb372647dbd0a7683c
 #EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/sxkm7f0m/tv1.png" group-title="Indonesia 🇮🇩 (server 2)",TVONE
-https://liveanevia.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+http://Live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4sKczfm/GarudaTV.png" group-title="Indonesia 🇮🇩 (server 2)",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
@@ -339,31 +339,31 @@ https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV🔻
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+http://Live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV Low
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225582/index.m3u8?fmt=ts2hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV🔻
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+http://Live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", SHANGHAI DRAGON TV🔻
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+http://Live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", XINGKONG TV🔻
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+http://Live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV🔻
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+http://Live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="China Provinsi 🇨🇳", Macau TV
 http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
