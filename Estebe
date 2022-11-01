@@ -2,7 +2,7 @@
 
 #EXTINF: -1, HBO 
 #https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTVNJQS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY2OTEzNjY4fX19XX0_&Signature=sEB-DF-Rufdre2eYoCQRCBbE7TT5umF69ZRwGArct5j1ln-q-rNhCHEtX2AQxt~Wr7PqyztcST7WEcE9ZHGrALechXfVM28Fi4ElHZ80yw6ScqvwK4sZWLwszuvO4HCBzG4mjqC1jcgpdHO3p69IsyQ2cqvIRgYIMn-doWY8kxAuwW4yXjLa3HBeu8uQvQ8SKZWuRtlg5kAfTaRvtLSUuFPtO6I2cMsrbOlmH0~V2az72xvgh0aTXoozmCbGBJrQ7VaRZjONQOnBZqOLee0cVJra0Em2GEzw~~Qlj-ok23QRRNirVbQDtE6ZTmGZzJ~~3u3nnIIeTXlEpKzUk0u1VA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-http://streamz.us:2082/live/J1528/Aa1234/136.m3u8
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 #EXTINF: -1, HBO Signature
 http://streamz.us:2082/live/J1528/Aa1234/142.m3u8
 #EXTINF: -1, HBO Hits
