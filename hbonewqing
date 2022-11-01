@@ -16,34 +16,21 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 ///////REQUEST //////
 
-#EXTINF:-1 group-title="🔴VOD Request 📋" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/02/26/2951360923.jpg",Batman 2022 (tks Ricky) 
-#https://bit.ly/batjRdD
-#EXTINF:-1 group-title="🔴VOD Request 📋" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/02/27/730303316.jpg",Sonic 2 (tks Pixie) 
-#https://bit.ly/3NrRqWV
-#EXTINF:-1 group-title="🔴VOD Request 📋" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/16/3333866451.jpg",KKN Cam (tks Johan) 
-#https://bit.ly/knnqing
-
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/240px-Phoenix_Chinese.svg.png", Chinese Phoenix 凤凰中文
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/300px-Phoenix_InfoNews.svg.png", Phoenix News 凤凰资讯
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Fox_Action_Movies_Logo_in_white.png/revision/latest/scale-to-width-down/144?cb=20200818023447a", Fox Action Movies
-
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/400px-REN_TV_logo_2017.svg.png", Рен ТВ
-http://185.6.124.8:65000/udp/224.1.1.108:1234
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eab8f822017729.5630b43dde9e3.jpg", RU TV
-#http://185.6.124.8:65000/udp/224.1.1.48:1234
+http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eab8f822017729.5630b43dde9e3.jpg", РБК
+http://213.172.73.170:8081/nimble_live/1096__RBK/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (tks duds) 
 http://bravo.kugo.id:8081/salingsapatv/hls/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/dcs8rwl-349fade6-6514-4a55-9b1e-20e9fc4a54f0.png/v1/fill/w_1192,h_670,q_70,strp/fx_logo_2018_by_doublekids07_dcs8rwl-pre.jpg",FX
 http://89.187.175.143:80/3006/mpegts
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/bflix-movies-logo.jpg",Bflix Movies
-#https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 
 
@@ -1254,6 +1241,18 @@ http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc371815
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQQU0a0.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",SET Variety (三立綜合台)
 http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
+http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EYE_TV%E6%88%B2%E5%8A%87%E5%8F%B0%E6%A8%99%E8%AA%8C.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", EYE TV戏剧
+http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+
+#EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS 欢乐台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="HK/Taiwan 🇭🇰🇹🇼", FTV News
 #http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",Taiwan News HD 
@@ -1297,8 +1296,6 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/460px-HakkaTV.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Hakka TV
 #http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
-
 #EXTINF:-1 tvg-logo="https://hataiwan.com.my/cms/wp-content/uploads/2020/11/908.png" group-title="HK/Taiwan 🇭🇰🇹🇼",cti News
 #http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 
@@ -1308,8 +1305,6 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTINF:-1 tvg-logo="http://s3-us-west-2.amazonaws.com/encoretvb-editorial/wp-content/uploads/2017/08/15183801/TVBUSA_272x90.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB J1台
 #https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS 欢乐台
-#rtmp://59.124.75.138/sat/tv421
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/440px-China_TV_logo_since_19971030.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTV 中视 
 #rtmp://59.124.75.138/sat/tv091
@@ -1342,7 +1337,6 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTINF:-1 tvg-logo="https://www.right.com.cn/FORUM/data/attachment/forum/202110/28/121130dduqqddlo0xhqw2l.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV淘剧场
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXrjZTKh/1-2010041616070-L-removebg-preview.png" group-title="HK/Taiwan 🇭🇰🇹🇼",北京IPTV淘娱乐
 
-#EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="Entertaiment & Lifestyle",Viu 6 TV
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu 6 TV
 
