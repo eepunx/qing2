@@ -1235,7 +1235,7 @@ https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
 #EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
 https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
 
-#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",SET Taiwan (三立臺灣台)
+#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",loading lm SET Taiwan (三立臺灣台)
 http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQQU0a0.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",SET Variety (三立綜合台)
