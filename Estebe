@@ -10,34 +10,30 @@ http://streamz.us:2082/live/J1528/Aa1234/137.m3u8
 #EXTINF: -1, HBO Family
 http://streamz.us:2082/live/J1528/Aa1234/139.m3u8
 
-
 #EXTINF: -1,Movies Action 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF: -1,Hits
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
-#EXTINF: -1,Hits Movies 
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
 #EXTINF: -1,Movies 
 http://89.187.175.143:80/3029/mpegts
 
+
+#EXTINF: -1, SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF: -1, SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 #EXTINF: -1,Fox Sports 1
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF: -1,Fox Sports 2
 http://89.187.175.143:80/3028/index.m3u8
-#EXTINF: -1,Bein Sports 1
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115807
-#EXTINF: -1,Bein Sports 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115809
 #EXTINF: -1,EPL 1
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 #EXTINF: -1,EPL 2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
-
-#EXTINF: -1, SPOTV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/67
-#https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF: -1, SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
+#EXTINF: -1,MAV TV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1,Euro Sports 1
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+#EXTINF: -1,Euro Sports 2
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 
 #EXTINF: -1, TVRI Sports 
@@ -49,38 +45,31 @@ http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:-1,ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
+
 #EXTINF: -1, Disney Channel 
 http://185.59.223.102:8080/disney/index.m3u8
-#EXTINF: -1, Disney junior test
+#EXTINF: -1, Disney junior 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-#EXTINF: -1, Nickelodeon 
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
+#EXTINF: -1, Disney XD 
+http://89.187.175.143:80/3016/mpegts
+#EXTINF: -1,Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF: -1,Mentari TV
+http://tv.zonanime.my.id/vidio/mentaritv.m3u8
+#EXTINF: -1,Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF: -1,Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF: -1,Happy Kids Jr
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF: -1,Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF: -1,Lego Channel 
+https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF: -1, Aniplus (Denstv)
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-#EXTINF: -1, Zoo Moo
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
-#EXTINF: -1, Horee
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
-#EXTINF: -1, Edukasi TV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/44
-
-
-#EXTINF: -1,IMC
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
-#EXTINF: -1,Sony One
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
-#EXTINF: -1, Rock Extreme
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
-#EXTINF: -1, Rock Entertainment
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
-#EXTINF: -1, TVN 
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/69
-#EXTINF: -1, TVN Movies 
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
-#EXTINF: -1, KPOP
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
-#EXTINF: -1,Tech Storm
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
 
 #EXTINF: -1, KIX (Denstv)
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
@@ -89,27 +78,3 @@ http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF: -1, K+ (Denstv)
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
-#EXTINF: -1,AFN
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
-#EXTINF: -1, Animal Planet
-http://iptvtree.net:8080/ace2524d/15a571c413/157532
-#EXTINF: -1, Discovery Channel
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
-#EXTINF: -1,NatGeo Wild
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
-#EXTINF:-1 ,Smithsonian Channels
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mygreenpod.com/wp-content/uploads/2019/04/Love-Nature-Logo.jpg" , Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 ,CNBC 
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
-#EXTINF:-1 ,CBS
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
-
-#EXTINF:-1 ,Rodja TV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/114
-#EXTINF:-1 ,Salam TV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/115
-#EXTINF:-1 ,Madinah TV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/117
