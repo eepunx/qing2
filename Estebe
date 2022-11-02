@@ -56,6 +56,8 @@ http://89.187.175.143:80/3016/mpegts
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF: -1,Mentari TV
 http://tv.zonanime.my.id/vidio/mentaritv.m3u8
+#EXTINF: -1,Horee
+http://tv.zonanime.my.id/vidio/horee.m3u8
 #EXTINF: -1,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF: -1,Happy Kids
@@ -68,8 +70,6 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF: -1,Lego Channel 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF: -1, Aniplus (Denstv)
-http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
 #EXTINF: -1, KIX (Denstv)
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
