@@ -71,10 +71,102 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF: -1,Lego Channel 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF: -1, KIX (Denstv)
-http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-#EXTINF: -1, AXN
+#EXTINF:-1  group-title="Box Office---" tvg-logo="https://i.imgur.com/vyAY17c.jpg" ,The Adam Project (2022)
 
-#EXTINF: -1, K+ (Denstv)
-http://210.210.155.35/uq2663/h/h08/index.m3u8
+https://www.googleapis.com/drive/v3/files/1iUJZPxPKu0GoVXFLwNuS1htTgFbtJTVE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Bad Guys (2022)" tvg-id="" tvg-logo="https://i.imgur.com/t2xOS53.jpg" group-title="Box Office---",The Bad Guys (2022)
+https://streamku.xyz/stream/360/YZ8EUWU5cUpDjeT/__001
+#EXTINF:-1  tvg-name="The Batman (2022)" tvg-id="" tvg-logo="https://i.imgur.com/k0k9RES.jpg" group-title="Box Office---",The Batman (2022)
+https://streamku.xyz/stream/360/xfJ5HdmyTbRwwIZ/__001
+#EXTINF:-1  tvg-name="The Valet (2022)" tvg-id="" tvg-logo="https://i.imgur.com/ebqfmwc.jpg" group-title="Box Office---",The Valet (2022)
+https://streamku.xyz/stream/360/neguWKOD0bqrXNO/__001
+#EXTINF:-1  tvg-name="The 355 (2022)" tvg-id="" tvg-logo="https://i.imgur.com/JhuuHnu.jpg" group-title="Box Office---",The 355 (2022)
+https://streamku.xyz/stream/360/avwWdFB7sjyCDeY/__001
+#EXTINF:-1  tvg-name="Texas Chainsaw Massacre (2022)" tvg-id="" tvg-logo="https://i.imgur.com/QYgARbW.jpg" group-title="Box Office---",Texas Chainsaw Massacre (2022)
+https://www.googleapis.com/drive/v3/files/1tNeNBblcG1lyAVi9VjDhEFTo2UIPaTM5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Takedown (2022)" tvg-id="" tvg-logo="https://i.imgur.com/2hIOXJd.jpg" group-title="Box Office---",The Takedown (2022)
+https://streamku.xyz/stream/360/GZFC8DEnJPr8h7T/__001
+#EXTINF:-1  tvg-name="The Northman (2022)" tvg-id="" tvg-logo="https://i.imgur.com/oFgvFiz.jpg" group-title="Box Office---",The Northman (2022)
+https://streamku.xyz/stream/360/d0pqLGnJq3IqWRo/__001
+#EXTINF:-1  tvg-name="The Contractor (2022)" tvg-id="" tvg-logo="https://i.imgur.com/Do77r6t.jpg" group-title="Box Office---",The Contractor (2022)
+https://streamku.xyz/stream/360/cW6aO0c6oyuMV69/__001
+#EXTINF:-1  tvg-name="The Man from Toronto (2022)" tvg-id="" tvg-logo="https://i.imgur.com/U2jy7DO.jpg" group-title="Box Office---",The Man from Toronto (2022)
+https://www.googleapis.com/drive/v3/files/1ys8vxMby6TKuYoN1fIu8uFcY1DlAD6LK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Unbearable Weight of Massive Talent (2022)" tvg-id="" tvg-logo="https://i.imgur.com/e7Z6voP.jpg" group-title="Box Office---",The Unbearable Weight of Massive Talent (2022)
+https://www.googleapis.com/drive/v3/files/1RIcdoG7B-dO-2z3Pl6iHrwYNle_6K6Yt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Lost City (2022)" tvg-id="" tvg-logo="https://i.imgur.com/7S2Einb.jpg" group-title="Box Office---",The Lost City (2022)
+https://streamku.xyz/stream/360/XEYNsWBQ3RJAG5y/__001
+#EXTINF:-1  tvg-name="The Roundup (2022)" tvg-id="" tvg-logo="https://i.imgur.com/LQQkvuD.jpg" group-title="Box Office---",The Roundup (2022)
+https://data03.streamku.xyz/mv/7a-roundup.mp4
+#EXTINF:-1  tvg-name="The Sea Beast (2022)" tvg-id="" tvg-logo="https://i.imgur.com/VYah8lq.jpg" group-title="Box Office---",The Sea Beast (2022)
+https://v2.streamku.xyz/stream/360/XebjyHpgou6wy2j/__001
+#EXTINF:-1  tvg-name="The Loneliest Boy in the World (2022)" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg3YmJjMGEtNGM1ZC00YzA0LWI5MTUtOWZiZWQ4MmEyMDRjXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="Box Office---",The Loneliest Boy in the World (2022)
+https://data.streamku.xyz/mv/69-lone.mp4
+#EXTINF:-1  tvg-name="The Stranger (2022)" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhmNWMyYjQtNTVlMC00MGUwLWFmYjEtM2NkNWY0ODQ2YmFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="Box Office---",The Stranger (2022)
+https://data.streamku.xyz/mv/69-stranger.mp4
+
+
+
+#EXTINF:-1  tvg-name="The Cellar (2022)" tvg-id="" tvg-logo="https://i.imgur.com/SOtJqYC.jpg" group-title="Box Office---",The Cellar (2022)
+https://www.googleapis.com/drive/v3/files/1tMyzFl63Ck6fguEKEWDUA3OgKdQp17ky?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Princess (2022)" tvg-id="" tvg-logo="https://i.imgur.com/73eiyhQ.jpg" group-title="Box Office---",The Princess (2022)
+https://www.googleapis.com/drive/v3/files/13AV4CkBmPCJp6mYJiTXAy4EuI1BMnbYs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Gray Man (2022)" tvg-id="" tvg-logo="https://i.imgur.com/8TZfXda.jpg" group-title="Box Office---",The Gray Man (2022)
+https://data03.streamku.xyz/mv/6a-gray.mp4
+#EXTINF:-1  tvg-name="The Witch: Part 2. The Other One (2022)" tvg-id="" tvg-logo="https://i.imgur.com/03PU4bk.jpg" group-title="Box Office---",The Witch: Part 2. The Other One (2022)
+https://data03.streamku.xyz/mv/1a-thewitchpart2.mp4
+#EXTINF:-1  tvg-name="The Policeman’s Lineage (2022)" tvg-id="" tvg-logo="https://i.imgur.com/d0yATDU.jpg" group-title="Box Office---",The Policeman’s Lineage (2022)
+https://www.googleapis.com/drive/v3/files/1bmYWEnuSU17Myu3Eab82KC22BSzALCsm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Girl on a Bulldozer (2022)" tvg-id="" tvg-logo="https://i.imgur.com/71uJFSg.jpg" group-title="Box Office---",The Girl on a Bulldozer (2022)
+https://streamku.xyz/stream/360/WMgURrMEYrHcnNb/__001
+#EXTINF:-1  tvg-name="The Battle at Lake Changjin II (2022)" tvg-id="" tvg-logo="https://i.imgur.com/vs8EXqP.jpg" ggroup-title="Box Office---",The Battle at Lake Changjin II (2022)
+https://data03.streamku.xyz/mv/a-water.mp4
+#EXTINF:-1  tvg-name="Top Gun: Maverick (2022)" tvg-id="" tvg-logo="https://i.imgur.com/J4cMXW7.jpg" group-title="Box Office---",Top Gun: Maverick (2022)
+https://data03.streamku.xyz/mv/28a-top.mp4
+##EXTINF:-1  tvg-name="The School for Good and Evil (2022)" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg" group-title="Box Office---",The School for Good and Evil (2022)
+https://data.streamku.xyz/mv/69-school.mp4
+#EXTINF:-1  tvg-name="The Curse of Bridge Hollow (2022)" tvg-id="" tvg-logo="https://i.imgur.com/W47fOti.jpg" group-title="Box Office---",The Curse of Bridge Hollow (2022)
+https://data.streamku.xyz/mv/68-curse.mp4
+#EXTINF:-1  tvg-name="Tibetan Raiders (2022)" tvg-id="" tvg-logo="https://i.imgur.com/bB9yS9z.jpg" group-title="Box Office---",Tibetan Raiders (2022)
+https://bambi.uploadfile.pl/pobierz/2218577---7ap8.html?play
+#EXTINF:-1  tvg-name="The Invitation (2022)" tvg-id="" tvg-logo="https://i.imgur.com/VIYr0XP.jpg" group-title="Box Office---",The Invitation (2022)
+https://www.googleapis.com/drive/v3/files/1RRNryg_F8uRIhCagZs3VsP-nsNfOYSqN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Greatest Beer Run Ever (2022)" tvg-id="" tvg-logo="https://i.imgur.com/YNgY2xk.jpg" group-title="Box Office---",The Greatest Beer Run Ever (2022)
+https://data.streamku.xyz/mv/55a-great.mp4
+#EXTINF:-1  tvg-name="The Munsters (2022)" tvg-id="" tvg-logo="https://i.imgur.com/Gd7estT.jpg" group-title="Box Office---",The Munsters (2022)
+https://www.googleapis.com/drive/v3/files/1q3Vc10UsG5uyIG76xi-6xK4FgRQlwmO6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="The Enforcer (2022)" tvg-id="" tvg-logo="https://i.imgur.com/XrwUee7.jpg" group-title="Box Office---",The Enforcer (2022)
+https://data.streamku.xyz/mv/49a-enfor.mp4
+#EXTINF:-1  tvg-name="The Infernal Machine (2022)" tvg-id="" tvg-logo="https://i.imgur.com/Q155pdD.jpg" group-title="Box Office---",The Infernal Machine (2022)
+https://data.streamku.xyz/mv/54a-infer.mp4
+#EXTINF:-1  tvg-name="Thor: Love and Thunder (2022)" tvg-id="" tvg-logo="https://i.imgur.com/CjiKCWg.jpg" group-title="Box Office---",Thor: Love and Thunder (2022)
+https://www.googleapis.com/drive/v3/files/16_clLgkF9H2zGUTfwgzp1C_usxBkVBWO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="Thor: Love and Thunder #2 (2022)" tvg-id="" tvg-logo="https://i.imgur.com/CjiKCWg.jpg" group-title="Box Office---",Thor: Love and Thunder #2 (2022)
+https://v2.streamku.xyz/stream/360/Ngfsc4N5EQ3Yk3Y/__001
+
+
+---U
+#EXTINF:-1  tvg-name="Umma (2022)" tvg-id="" tvg-logo="https://i.imgur.com/BzXuzyv.jpg" group-title="Box Office---",Umma (2022)
+https://www.googleapis.com/drive/v3/files/1Mvtes-SvmMrrlCt11VTFJWs7SCIwqIhj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="Uncharted (2022)" tvg-id="" tvg-logo="https://i.imgur.com/H0avWQU.jpg" group-title="Box Office---",Uncharted (2022)
+https://www.googleapis.com/drive/v3/files/1YBYWaTLn25c9z7DVPW1wnPocddu-drSR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+---V
+#EXTINF:-1  tvg-name="Vikram (2022)" tvg-id="" tvg-logo="https://i.imgur.com/vjwFrSu.jpg" group-title="Box Office---",Vikram (2022)
+https://data03.streamku.xyz/mv/6a-vikram.mp4
+
+---W
+#EXTINF:-1  tvg-name="Warhunt (2022) " tvg-id="" tvg-logo="https://i.imgur.com/Our2KFr.jpg" group-title="Box Office---",Warhunt (2022)
+https://streamku.xyz/stream/360/Jnw9CBzAa5SR20y/__001
+#EXTINF:-1  tvg-name="Wire Room (2022)" tvg-id="" tvg-logo="https://i.imgur.com/6hoJVep.jpg" group-title="Box Office---",Wire Room (2022)
+https://www.googleapis.com/drive/v3/files/1ebpKUk0iwgpx-Yju57ziobBr3idlTniE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1  tvg-name="Werewolf by Night (2022)" tvg-id="" tvg-logo="https://i.imgur.com/4rBrxQQ.jpg" group-title="Box Office---",Werewolf by Night (2022)
+https://data.streamku.xyz/mv/63a-were.mp4
+
+---other
+#EXTINF:-1  tvg-name="2037 (2022)" tvg-id="" tvg-logo="https://i.imgur.com/Ae0Vsrh.jpg" group-title="Box Office---",2037 (2022)
+https://streamku.xyz/stream/360/4GLZYpBS2Ng6FI8/__001
+
+
+
 
