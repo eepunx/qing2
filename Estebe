@@ -5,11 +5,10 @@
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 #EXTINF: -1, HBO Family
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-
 #EXTINF: -1, HBO Signature
-http://streamz.us:2082/live/J1528/Aa1234/142.m3u8
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF: -1, HBO Hits
-http://streamz.us:2082/live/J1528/Aa1234/137.m3u8
+http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=ma34564be88dc14041284&ct=17874&tsum=4c27530a08ffe34dd956619fd0f36a22
 
 #EXTINF: -1,Movies Action 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
