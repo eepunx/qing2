@@ -17,9 +17,9 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 ///////REQUEST //////
 
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/240px-Phoenix_Chinese.svg.png", Chinese Phoenix 凤凰中文
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/300px-Phoenix_InfoNews.svg.png", Phoenix News 凤凰资讯
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/400px-REN_TV_logo_2017.svg.png", Рен ТВ
 http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
@@ -1229,7 +1229,7 @@ http://23.237.10.66:16106
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/512px-Phoenix_Chinese.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Phoenix Chinese (鳳凰衛視中文)
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/512px-Phoenix_InfoNews.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Phoenix News (鳳凰衛視資訊)
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
