@@ -1228,6 +1228,12 @@ http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="HOYTV.hk" tvg-logo="https://i.imgur.com/3VLa4qg.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",HOY TV 
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/512px-Phoenix_Chinese.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Phoenix Chinese (鳳凰衛視中文)
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/512px-Phoenix_InfoNews.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Phoenix News (鳳凰衛視資訊)
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
 http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EYE_TV%E6%88%B2%E5%8A%87%E5%8F%B0%E6%A8%99%E8%AA%8C.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", EYE TV戏剧
