@@ -614,6 +614,11 @@ http://Live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
 
+#EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN Bar 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+#EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN Bar 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
+
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 1
 http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53387
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 2
@@ -623,7 +628,10 @@ http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53389
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 4
 http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53390
 
-
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Tennis.png" group-title="Qingsports",SkySport Tennis
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
+#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="Qingsports",SkySport EPL
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok66TR4WskgVMgVBV84udfR9
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
 #http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115516.m3u8
