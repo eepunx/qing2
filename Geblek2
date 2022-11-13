@@ -459,80 +459,80 @@ http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 
 ///CCTV/////
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV China 🇨🇳",CCTV 1 test
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV China 🇨🇳",CCTV 1 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV China 🇨🇳",CCTV 1 
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CCTV China 🇨🇳",CCTV 2 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CCTV China 🇨🇳",CCTV 2 
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CCTV China 🇨🇳",CCTV 3
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CCTV China 🇨🇳",CCTV 3 
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CCTV China 🇨🇳",CCTV 4 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CCTV China 🇨🇳",CCTV 4 
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV China 🇨🇳",CCTV 5 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV China 🇨🇳",CCTV 5+
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CCTV China 🇨🇳",CCTV 6 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CCTV China 🇨🇳",CCTV 7 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CCTV China 🇨🇳",CCTV 8
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CCTV China 🇨🇳",CCTV 9 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CCTV China 🇨🇳",CCTV 10 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CCTV China 🇨🇳",CCTV 11 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="CCTV China 🇨🇳",CCTV 12 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
-http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CCTV China 🇨🇳",CCTV 13
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CCTV China 🇨🇳",CCTV 14 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CCTV China 🇨🇳",CCTV 15 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CCTV China 🇨🇳;Music",CCTV 15 
-http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg" group-title="CCTV China 🇨🇳",CCTV 16
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CCTV China 🇨🇳",CCTV 17 
-#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
+#http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CCTV China 🇨🇳",CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
