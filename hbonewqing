@@ -238,7 +238,8 @@ https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png" group-title="HBO (server 2)",HBO FAMILY
-https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/23.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -1387,10 +1388,10 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/L5vxVGKb/rock.png" ,Rock Entertainment
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/78.ts
 
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/3rZf704F/rock-extreme.png" ,Rock Extreme
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/79.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
