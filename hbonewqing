@@ -587,9 +587,6 @@ http://Live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/tTZc499X/SS-Arena.png",Skysport Arena
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/W1NfJGsY/SS-Mix.png",Skysport Mix
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/jSM36D5x/SS-PL.png",Skysport EPL
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 2
@@ -615,19 +612,30 @@ http://Live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
 
-#EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN Bar 1
+#EXTINF:-1 tvg-ID="https://static.vecteezy.com/system/resources/thumbnails/008/785/666/small/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" tvg-name="AR: Al KASS 1 HD" tvg-logo="" group-title="Qingsports",AlKASS 1 HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/1138
+#EXTINF:-1 tvg-ID="https://static.vecteezy.com/system/resources/thumbnails/008/785/666/small/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" tvg-name="AR: Al KASS 2 HD" tvg-logo="" group-title="Qingsports",AlKASS 2 HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/1139
+#EXTINF:-1 tvg-ID="https://static.vecteezy.com/system/resources/thumbnails/008/785/666/small/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" tvg-name="AR: Al KASS 3 HD" tvg-logo="" group-title="Qingsports",AlKASS 3 HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54523
+#EXTINF:-1 tvg-ID="https://static.vecteezy.com/system/resources/thumbnails/008/785/666/small/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" tvg-name="AR: Al KASS 4 HD" tvg-logo="" group-title="Qingsports",AlKASS 4 HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/50586
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 5 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/008/785/666/small/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",AlKASS 5 HD
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/50587
+
+#EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN 1
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
-#EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN Bar 2
+#EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 1
-http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53387
+#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53387
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 2
-http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53388
+#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53388
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 3
-http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53389
+#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53389
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 4
-http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53390
+#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53390
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Tennis.png" group-title="Qingsports",SkySport Tennis
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
