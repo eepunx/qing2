@@ -614,18 +614,18 @@ http://Live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///Worldkap///
 
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 1(yacinetv)
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/1138
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 2 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 2 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 2(yacinetv)
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/1139
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 3 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 3 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 3(yacinetv)
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/54523
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 4 HD
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",ALKASS 4(yacinetv)
 http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/50586
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",beIN Sp MAX 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",beIN MAX 1(yacinetv)
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/5351.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",beIN Sp Max 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports",beIN Max 2(yacinetv)
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/5352.ts
 
 //////
