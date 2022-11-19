@@ -457,6 +457,10 @@ http://Live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 /////DVBT2/////
 
 ///// MOVIES /////
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="", My Family Cannel
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/49.ts
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="", My Cinema Asia
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/48.ts
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="", My Cinema
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/47.ts
