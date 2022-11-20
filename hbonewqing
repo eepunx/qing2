@@ -624,7 +624,7 @@ http://Live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///Worldkap///
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports", Opening Ceremony
-https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga1.m3u8
+#https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga1.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="Qingsports", Worldcup 1(yacinetv/SBOTv)
 http://185.71.66.45:88/220263509778434/220263509778434/1438
