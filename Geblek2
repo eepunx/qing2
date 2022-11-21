@@ -212,13 +212,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia 🇲🇾",NTV 7
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-#http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+http://23.237.10.66:16405/
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia 🇲🇾",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+http://23.237.10.66:16406/
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia 🇲🇾",TV9
 #EXTVLCOPT:http-referrer=https://dailymotion.com
