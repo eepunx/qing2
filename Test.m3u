@@ -3,78 +3,21 @@
 http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 
+#EXTINF:-1 ,ELEVEN1
+rtmp://59.124.75.138/sat/tv731
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test baru",HBO zalindo
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-
-
-
-
-#EXTVLCOPT:http-deremel=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="test",RTP
-rtp://238.200.200.133:5540 
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=CLEARKEY
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=f129fb9b5d213e20e2abe529b8cf2597&kid=46ba409fb04e40fb86b466d97e3a9588&tekon=iIl0OiIl0OiIl0OiIl
-#EXTINF:-1 group-title="test" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", clearkey lg
-https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 group-title="" tvg-logo="",twmstw 4gtv
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#https://cdn2live.sky4k.top/4gtv/?id=twmstw_BzIPTV_4K
-https://4gtvfreemobile-mozai.4gtv.tv/X6WqYvA47F2Z1GjLBVZk0ScehsDadG4H4lf0yhqXWNQ=/stream2.m3u8?token=gbs6gW0Af323mWN6YCdwog&exp
-
-#EXTINF:0 group-title="" tvg-logo="",twmsyj
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twmsyj_BzIPTV_4K
-
-#EXTINF:0 group-title="" tvg-logo="",twmsdy
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
-
-#EXTINF:0 group-title="" tvg-logo="",twmszy
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
-
-#EXTINF:0 group-title="" tvg-logo="",twms
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://cdn2live.sky4k.top/4gtv/?id=twms_BzIPTV_4K
-
-#EXTINF:0 group-title="" tvg-logo="",
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
+ELEVEN1,rtmp://59.124.75.150/sat/tv731
+ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+ELEVEN2,rtmp://59.124.75.138/sat/md051
+ELEVEN2,rtmp://59.124.75.150/sat/md051
+ELEVEN2,rtmp://59.124.75.150/sat/tv741
+#EXTINF:-1 ,ELTA体育1
+rtmp://59.124.75.150/sat/md011
+ELTA体育1,rtmp://59.124.75.138/sat/md011
+ELTA体育2,rtmp://59.124.75.150/sat/md021
+ELTA体育2,rtmp://59.124.75.138/sat/md021
+ELTA体育3,rtmp://59.124.75.150/sat/md041
+ELTA体育3,rtmp://59.124.75.138/sat/md041
 
