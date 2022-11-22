@@ -589,8 +589,8 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CCTV 5 
 http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 #http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", ELTA Sports 
+https://global.zkshuye.cn/live/sd-1-3718453.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", KBS 1   
 http://123.30.146.172:21585/200/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", SBS   
@@ -605,7 +605,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ss.premier.
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", SuperSport B
 #http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", FS1 
-http://89.187.175.143:80/3056/index.m3u8
+#http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", FS2 
 
 
