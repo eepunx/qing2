@@ -600,8 +600,8 @@ http://123.30.146.172:21585/202/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", MBC  
 #https://uiptv.do.am/1ufc/000000003/playlist.m3u8
 http://123.30.146.172:21585/203/index.m3u8
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CVM  
+https://139-99-60-48.servers.tips:5052/live22/YfkH2nxK-sc-8oWlHujglg/77368/1669220941/2065853.m3u8
 
 
 
