@@ -1,6 +1,6 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="",nyoaba
-http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="",cctv5
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
 
 
 #EXTINF:-1 , tutorial 
