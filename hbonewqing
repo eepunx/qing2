@@ -82,13 +82,13 @@ http://iptvid.my.id/hmm/sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", Indosiar
 #https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-http://tvn.x10.mx/1/master-1.m3u8?dl=1
+#http://tvn.x10.mx/1/master-1.m3u8?dl=1
 
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 2
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 
 #http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
 http://iptvid.my.id/hmm/indoseear.m3u8
 
-#EXTINF:-1 group-title="Indonesia 🇮🇩;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 
+#EXTINF:-1 group-title="Indonesia 🇮🇩;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 2
 http://tvn.x10.mx/1/master.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
