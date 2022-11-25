@@ -585,6 +585,8 @@ http://Live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
 ///Worldkap///
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Sukan RTM 
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=1
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", TV2 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=1
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", beIN Fr 
@@ -670,8 +672,7 @@ https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
 //////
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Qingsports",SUKAN rtm
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=1
 
 #EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN 1
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
