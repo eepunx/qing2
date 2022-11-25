@@ -1,10 +1,20 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="",cctv5 81d
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225752/index.m3u8
 
 
-#EXTINF:-1 , tutorial 
-https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
+#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="",max 1 720
+
+
+
+
+
+#EXTINF:-1 , max 1 720
+https://raw.githubusercontent.com/krismrp123/beinmax/main/1-720.m3u8
+
+#EXTINF:-1 , max 3
+https://raw.githubusercontent.com/krismrp123/beinmax/main/Beinmax3.m3u8
+
+
+
 
 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
 ELEVEN1,rtmp://59.124.75.150/sat/tv731
