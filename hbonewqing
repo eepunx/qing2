@@ -9,7 +9,10 @@ https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%28
 #EXTINF:-1 tvg-logo="" group-title="🔷App TV alternatif ada di web qingtv.blogspot.com",AFV
 https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="" group-title="🇧🇭WORLD CUP/Live sports lain pke SBOTV/YacineTV/Seulangatv jika server ini mati/buffer bs didownload diwebsite qingtv.blogspot.com",tutor
+#EXTINF:-1 tvg-logo="" group-title="🇧🇭 WORLD CUP/Live pilih yg chnnel lancar sesuai kec internet masing2 ",tutor
+https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="" group-title="📹 CCTV hanya tersisa 1 server sj dgn format FHD (1080pixel) dan akan di up jika ada server baru yg lebih ringan",tutor
 https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
 
 
@@ -32,6 +35,7 @@ http://213.172.73.170:8081/nimble_live/1096__RBK/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (tks duds) 
 http://bravo.kugo.id:8081/salingsapatv/hls/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
+
 
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/dcs8rwl-349fade6-6514-4a55-9b1e-20e9fc4a54f0.png/v1/fill/w_1192,h_670,q_70,strp/fx_logo_2018_by_doublekids07_dcs8rwl-pre.jpg",FX
 http://89.187.175.143:80/3006/mpegts
@@ -599,14 +603,14 @@ http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
 http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351448.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", TSN 1  
-http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", LIVE ramdom 
 https://raw.githubusercontent.com/krismrp123/beinmax/main/live5pildun.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Match Russia 
 #https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#https://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: Al KASS 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", MBC  
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
