@@ -604,6 +604,10 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", VTV 🇻🇳
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CCTV 5 🇨🇳
+#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225752/index.m3u8
+https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Asahi TV 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
@@ -615,15 +619,17 @@ http://xone8.1222908.net:80/live/18C7E71BB37968F5ACBDA341D8B9E900/351448.ts
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", LIVE ramdom 🇸🇦🇮🇩
 https://raw.githubusercontent.com/krismrp123/beinmax/main/live5pildun.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", tyC 🇦🇷
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Match 🇷🇺
 #https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #https://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", MBC 🇰🇷
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CCTV 5 🇨🇳
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225752/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",True Sports 🇹🇭 
