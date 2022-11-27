@@ -74,34 +74,31 @@ http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/fNdqZw3/inews-lean-paps.png", INEWS backup 
 #https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV
-#http://Live-cdn.mncnow.id/live/eds/SCTV-HDD/sa_dash_vmx/SCTV-HDd.mpd
-http://tvn.x10.mx/1/master-1.m3u8?dl=1
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV 2
+
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV usee
 http://iptvid.my.id/hmm/sctv.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", Indosiar
-#https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-#http://tvn.x10.mx/1/master-1.m3u8?dl=1
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV vidio
+http://tvn.x10.mx/1/master-1.m3u8?dl=1
 
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 
-#http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/2vJNY7j/sctv-lean-paps.png", SCTV Denstv
+http://nonton.wap.sh/id/009.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR usee
 http://iptvid.my.id/hmm/indoseear.m3u8
 
-#EXTINF:-1 group-title="Indonesia 🇮🇩;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR 2
+#EXTINF:-1 group-title="Indonesia 🇮🇩;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR vidio
 http://tvn.x10.mx/1/master.m3u8?dl=1
+
+#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR Denstv
+http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/tPfqXC0/antv-lean-paps.png", ANTV
 http://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/tPfqXC0/antv-lean-paps.png", ANTV backup
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/04
-#http://180.211.90.134:8000/play/a03m
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -114,8 +111,6 @@ http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", NET.
 http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:-1 group-title="Indonesia 🇮🇩" tvg-logo="https://i.ibb.co/T8rm0CT/net-lean-paps.png", NET. backup
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
