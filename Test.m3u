@@ -7,35 +7,6 @@
 
 
 
-#EXTINF:-1 , mbc 1
-http://123.254.72.24:1935/tvlive/livestream2/1.m3u8
-
-#EXTINF:-1 , mbc 2
-http://123.254.72.24:1935/tvlive/livestream2/2.m3u8
-
-#EXTINF:-1 , mbc 3
-http://123.254.72.24:1935/tvlive/livestream2/3.m3u8
-
-#EXTINF:-1 , mbc 4
-http://123.254.72.24:1935/tvlive/livestream2/4.m3u8
-
-#EXTINF:-1 , index
-http://123.254.72.24:1935/tvlive/livestream2/index.m3u8
-
-
-
-
-ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN1,rtmp://59.124.75.150/sat/tv731
-ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-ELEVEN2,rtmp://59.124.75.138/sat/md051
-ELEVEN2,rtmp://59.124.75.150/sat/md051
-ELEVEN2,rtmp://59.124.75.150/sat/tv741
-
-ELTA体育1,rtmp://59.124.75.138/sat/md011
-ELTA体育2,rtmp://59.124.75.150/sat/md021
-ELTA体育2,rtmp://59.124.75.138/sat/md021
-ELTA体育3,rtmp://59.124.75.150/sat/md041
-ELTA体育3,rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 , tudn
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
