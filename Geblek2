@@ -1,46 +1,22 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
  
 #EXTINF:0 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png",Indosiar 
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV
-http://tvn.x10.mx/1/master-12.m3u8?dl=1
-#EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV 2
-#http://nonton.wap.sh/id/009.m3u8
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/4.ts
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/RFH4WsCx/Citra-Muslim.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Muslim
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://tvn.x10.mx/1/master-3.m3u8?dl=1
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SRF4H7ym/citra-bioskop.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Bioskop
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://tvn.x10.mx/1/master.m3u8?dl=1
-
-#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-logo="https://i.postimg.cc/CKbqbNxk/citra-dangdut.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Dangdut
-http://tv.zonanime.my.id/vidio/citradangdut.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/k4jfBpdM/Citra-Entertainment-1.png" group-title="Indonesia 🇮🇩 (server 2)",Citra Entertainment 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
-#https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
+https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
-EXTVLCOPT:http-user-agent=android-R+
-EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
-#https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
+#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
-#https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|User-Agent=android-R+
-#https://d33j155pv2xyba.cloudfront.net/GTV_2021.m3u8|User-Agent=android-R+
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
+https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS
-#https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|User-Agent=android-R+
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/8.ts
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png" group-title="Indonesia 🇮🇩 (server 2)",NET.
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/11.ts
