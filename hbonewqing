@@ -620,8 +620,11 @@ http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
 
 ///// SPORTS /////
 
-#EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1&2
-#http://tvn.x10.mx/1/master.m3u8?dl=1
+#EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1 1️⃣
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1 2️⃣
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 🅰️ (Live only) 
 #https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
