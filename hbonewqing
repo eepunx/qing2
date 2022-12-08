@@ -674,36 +674,31 @@ https://m3u-editor.com/serve/ab909e20-3a50-11ed-ba7d-dbcb157f12d0/645272550
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi (UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Qingsports", Combate (UFC)
-http://189.91.128.146:4444/udp/227.10.20.172:1234
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
 #http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 #http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Qingsports", ASTRO SUPERSPORT 5
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-#http://tv.zonanime.my.id/vidio/championstv1.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-#http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
-#http://tv.zonanime.my.id/vidio/championstv3.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -861,9 +856,9 @@ http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
-http://iptvid.my.id/hmm/useetl1.m3u8
+#http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
-http://iptvid.my.id/hmm/useetl2.m3u8
+#http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
 #http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
@@ -873,7 +868,7 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115738
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Qingsports",Bellator MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="Qingsports",MAVTV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -895,8 +890,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 http://185.59.223.102:8080/wwe/index.m3u8
 #https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Qingsports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/premiere.png",Premiere
-http://189.91.128.146:4444/udp/227.10.20.102:1234
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Qingsports", MLB
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1464,33 +1457,4 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://ia803100.us.archive.org/19/items/CmtMusic/cmt%20music.png",CMT music 
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-
-// sports//
-
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 🇺🇲
-#https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn1.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b7/b71e8d23a4aacfa342a776bfb71ceec7.png" group-title="Qingsports",ESPN2 🇺🇲
-#https://raw.githubusercontent.com/eepunx/qing2/master/Eesspn2.m3u8
-
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Qingsports",ESPN Extra 🇧🇷
-http://38.143.137.221:8000/LA78/index.m3u8
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg" group-title="Qingsports",ESPN Deportes 🇧🇷
-http://38.143.137.221:8000/LA81/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_44/44f7a1effc51d5563a347702053ca96c.png" group-title="Qingsports",ESPN 🇧🇷
-http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_07/07113847db4c87c8f2be573566e9e8d4.png" group-title="Qingsports",ESPN2 🇧🇷
-http://189.91.128.146:4444/udp/227.10.20.152:1234
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_2b/2b8d3f1f3f0ceec6579802355fdce78f.jpeg" group-title="Qingsports",ESPN3 🇧🇷  
-http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="Qingsports",ESPN4 🇧🇷  
-#http://189.91.128.146:4444/udp/227.10.20.116:1234
-
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_da/da0790e0b0e835c0bd0f0ce1eef69466.png" group-title="Qingsports",NFL
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Qingsports",Sony Ten 1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Qingsports",Sony Ten 2 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Qingsports",Sony Ten 3
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Qingsports",Sony Six
 
