@@ -1384,10 +1384,7 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/L5vxVGKb/rock.png" ,Rock Entertainment
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/78.ts
-
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/3rZf704F/rock-extreme.png" ,Rock Extreme
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/79.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
