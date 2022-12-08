@@ -255,8 +255,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Qingsports",NBC GOLF
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115702
 
-#EXTINF:-1 tvg-logo="https://northsidedrivingrange.com/wp-content/uploads/2022/05/GOLF_PGAT_FLAT.jpg" group-title="Qingsports",NBC GOLF 🇺🇲
-http://89.187.175.143:80/3013/mpegts
 
 #EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok5esmmyvQnwIXm7WWdjvQl4
@@ -536,69 +534,6 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 
 ////USA🇺🇲////
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 1 
-http://89.187.175.143:80/3029/mpegts
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 2 
-http://89.187.175.143:80/3032/mpegts
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 3 
-http://89.187.175.143:80/3090/mpegts
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 4 
-http://89.187.175.143:80/3001/mpegts
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 5 
-http://89.187.175.143:80/3014/mpegts
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/005/903/347/small/gold-abstract-letter-s-logo-for-negative-video-recording-film-production-free-vector.jpg" group-title="United States 🇺🇲", Movies 6 
-http://89.187.175.143:80/3104/mpegts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="United States 🇺🇲", VH1
-http://89.187.175.143:80/3080/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1600px-TV_Land_2015_logo.svg.png" group-title="United States 🇺🇲", TV Land classic
-http://89.187.175.143:80/3033/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png" group-title="United States 🇺🇲", amc
-http://89.187.175.143:80/3002/mpegts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="United States 🇺🇲", History
-http://89.187.175.143:80/3031/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="United States 🇺🇲", History 2
-http://89.187.175.143:80/3058/mpegts
-#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/country-music-television-cmt-logo.png" group-title="United States 🇺🇲", CMT music
-http://89.187.175.143:80/3018/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/300px-Paramount_Pictures_Corporation_logo.svg.png" group-title="United States 🇺🇲", Paramount 
-http://89.187.175.143:80/3015/mpegts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="United States 🇺🇲", epix 
-http://89.187.175.143:80/3020/mpegts
-#EXTINF:-1 tvg-logo="https://music-b26f.kxcdn.com/wp-content/uploads/2020/05/Vice-Logo-2020-770x470.png" group-title="United States 🇺🇲", vice 
-http://89.187.175.143:80/3034/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/400px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="United States 🇺🇲", Oxygen true crime 
-http://89.187.175.143:80/3036/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png" group-title="United States 🇺🇲", Lifetime 
-http://89.187.175.143:80/3026/mpegts
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/tnt-logo-png-11.png" group-title="United States 🇺🇲", TNT 
-http://89.187.175.143:80/3030/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/400px-InvestigationDiscoveryLogo2020.svg.png" group-title="United States 🇺🇲", ID 
-http://89.187.175.143:80/3024/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/440px-USA_Network_logo_%282016%29.svg.png" group-title="United States 🇺🇲", usa 
-http://89.187.175.143:80/3025/mpegts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tbs-tv-channel-logo-6D967A4842-seeklogo.com.png" group-title="United States 🇺🇲", tbs 
-http://89.187.175.143:80/3106/mpegts
-#EXTINF:-1 tvg-logo="https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="United States 🇺🇲", SYFY 
-http://89.187.175.143:80/3105/mpegts
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/378-3781871_movies-grit-television-with-backbone-grit-tv-network.png" group-title="United States 🇺🇲", GRIT 
-http://89.187.175.143:80/3059/mpegts
-#EXTINF:-1 tvg-logo="https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/static/optimized/rev-a378051/wp-content/uploads/e-ente24x555.jpg" group-title="United States 🇺🇲", E entertainment 
-http://89.187.175.143:80/3082/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ion_Television_logo.svg/196px-Ion_Television_logo.svg.png" group-title="United States 🇺🇲",ion  
-http://89.187.175.143:80/3027/mpegts
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/The_CW-logo-41446F49E7-seeklogo.com.png" group-title="United States 🇺🇲",cw Network
-http://89.187.175.143:80/3083/mpegts
-#EXTINF:-1 tvg-logo="https://ugandamarathon.com/wp-content/uploads/2018/07/bloomberg-logo.jpg" group-title="United States 🇺🇲", Bloomberg
-http://89.187.175.143:80/3086/mpegts
-#EXTINF:-1 tvg-logo="https://www.afsc.org/sites/default/files/styles/normal/public/images/NBC%20News.png" group-title="United States 🇺🇲", NBC News
-http://89.187.175.143:80/3084/mpegts
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2021/01/CBS-News-Logo.jpg" group-title="United States 🇺🇲", CBS News
-http://89.187.175.143:80/3087/mpegts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/BET_Her_2021.png/175px-BET_Her_2021.png" group-title="United States 🇺🇲", BeT Her
-http://89.187.175.143:80/3008/mpegts
-
 
 #EXTINF:-1  tvg-name="Samaritan (2022)" tvg-id="" tvg-logo="https://i.imgur.com/2cr6323.jpg" group-title="Box Office---",Samaritan (2022)
 https://www.googleapis.com/drive/v3/files/1fHpCpHl1hlYAMIMFyTc5V6tt1K9zrAqJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
