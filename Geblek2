@@ -226,8 +226,11 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 
 ==========SPROT===========
+#EXTINF:-1 tvg-logo="https://mmatv.fr/wp-content/uploads/2019/07/MMAtv_Logo2.png" group-title="Qingsports",MMA TV
+https://alchimie-mmatv-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Logo_Persija_TV.png" group-title="Qingsports",Persija TV
-https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png" group-title="Qingsports",BT Sports 1
 #http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -237,14 +240,6 @@ https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="Qingsports", FREE Sports 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1070.png" group-title="Qingsports",True Sp 1
-#https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="Qingsports",True Sp 2
-#https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="Qingsports",True Sp 3
-#https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="Qingsports",True Sp 4
-#https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.doyleracing.com.au/assets/images/doyle/links/9.png",RACING.COM
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/344/386/png-transparent-fight-channel-television-channel-boxing-final-fight-championship-boxing-television-angle-sport.png" group-title="Qingsports",KOK
@@ -254,7 +249,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Qingsports",NBC GOLF
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115702
-
 
 #EXTINF:-1 tvg-logo="http://checkafricatv.com/uploads/tv_image/sky-sports-golf.png" group-title="Qingsports",Sky Sports Golf
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok5esmmyvQnwIXm7WWdjvQl4
