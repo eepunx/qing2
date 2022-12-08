@@ -37,11 +37,6 @@ http://bravo.kugo.id:8081/salingsapatv/hls/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.ibb.co/CVN0MSH/Star-Movies-1999.png",Star Movies
 
 
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/dcs8rwl-349fade6-6514-4a55-9b1e-20e9fc4a54f0.png/v1/fill/w_1192,h_670,q_70,strp/fx_logo_2018_by_doublekids07_dcs8rwl-pre.jpg",FX
-http://89.187.175.143:80/3006/mpegts
-
-
-
 /////////////////! 
 
 
@@ -351,9 +346,6 @@ http://185.59.223.102:8080/disney/index.m3u8
 #https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
 #EXTINF:-1 tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Kids", Disney Junior 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/628px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD 
-#http://89.187.175.143:80/3016/mpegts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-S-Ips5MU1vk/Y0UnBmqT_eI/AAAAAAAAB2U/0k-Yc-q4XTYcTxELF_RhcS5p9MwEbFtfwCNcBGAsYHQ/s1600/1665476356728679-0.png" group-title="Kids",Horee 
 #http://tv.zonanime.my.id/vidio/horee.m3u8
@@ -757,11 +749,6 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Qingsports",Fox Sports 🇦🇷
 #http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
-
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/qimdreM.png" ,FS1 🇺🇲
-http://89.187.175.143:80/3056/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png" group-title="Qingsports",FS2 🇺🇲
-http://89.187.175.143:80/3028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1 
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/159567
@@ -1434,8 +1421,6 @@ http://anevia114.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
 http://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV 🇺🇲
-http://89.187.175.143:80/3114/mpegts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1482,18 +1467,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 // sports//
-#EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2021/01/Ballylogo-832x447.png" group-title="Qingsports",Bally Sports 🇺🇲  
-http://89.187.175.143:80/3115/mpegts
-#EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2021/01/Ballylogo-832x447.png" group-title="Qingsports",Bally Sports 2 🇺🇲  
-http://89.187.175.143:80/3113/mpegts
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2020/02/ACCN_Football_Header_1600-780x405.jpg" group-title="Qingsports",Accn espn 🇺🇲  
-http://89.187.175.143:80/3111/mpegts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/280px-MLBNetworkLogo.svg.png" group-title="Qingsports",MLB 🇺🇲  
-http://89.187.175.143:80/3003/mpegts
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_e0/e0a9589cf3ea1cd9df0c15a0c823f5f0.jpeg" group-title="Qingsports",ESPNU 🇺🇲  
-http://89.187.175.143:80/3044/mpegts
-
 
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_b4/b4cfa1eda70a1eb0e741cf735adbca30.png" group-title="Qingsports",ESPN 🇺🇲
