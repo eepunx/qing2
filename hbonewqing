@@ -567,6 +567,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", beIN Fr 🇫🇷
 http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CCTV 5 🇨🇳
+http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", VTV5 🇻🇳
 #http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
