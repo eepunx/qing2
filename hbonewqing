@@ -564,6 +564,11 @@ http://51.81.208.129:35461/live/80203081502/656678/14400.ts
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", NOW 619 🇭🇰
 http://51.81.208.129:35461/live/80203081502/656678/14401.ts
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",VTV2 🇻🇳
+http://171.238.181.52:18080/192.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",VTV5 🇻🇳
+http://171.238.181.52:18080/194.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",SBS 🇰🇷
 http://51.81.208.129:35461/live/80203081502/656678/14403.ts
 
