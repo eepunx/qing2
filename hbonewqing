@@ -611,11 +611,9 @@ https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/wc.m3u8
 
 
 
-
-
-
-
 ///// SPORTS /////
+#EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1 FHD
+http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 
 #EXTINF:-1 tvg-logo="https://www.kibrispdr.org/data/740/live-streaming-png-3.jpg" group-title="Qingsports",Liga1 1️⃣
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-480.m3u8
