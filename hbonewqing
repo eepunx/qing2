@@ -677,20 +677,22 @@ http://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/9QHRCk2T/mnc-sports.png",MNC Sports
 http://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
+-----------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/9QHRCk2T/mnc-sports.png",MNC Sports 2
 http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
+-----------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.postimg.cc/9QHRCk2T/mnc-sports.png",MNC Sports 3
 http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Qingsports",SUKAN rtm
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=1
+------------
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 
 #EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN 1
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
@@ -698,13 +700,9 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 1
-#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53387
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 2
-#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53388
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 3
-#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53389
 #EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/2389/PNG/512/dazn_logo_icon_145353.png" group-title="Qingsports",DAZN 4
-#http://server.sibfungold.info:8080/AhmadRaza/CbHEg2VrCbHEg2Vrxy/53390
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Tennis.png" group-title="Qingsports",SkySport Tennis
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
@@ -718,11 +716,10 @@ https://m3u-editor.com/serve/ab909e20-3a50-11ed-ba7d-dbcb157f12d0/645272549
 #http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115518.m3u8
 https://m3u-editor.com/serve/ab909e20-3a50-11ed-ba7d-dbcb157f12d0/645272550
 
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi (UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Qingsports",SUKAN rtm
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
@@ -741,12 +738,6 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
 #http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
-
-
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
