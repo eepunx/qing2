@@ -623,13 +623,15 @@ http://golive.yn.lt/live/liga1/01.m3u8
 http://golive.yn.lt/live/liga1/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 3️⃣
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 4️⃣
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 5️⃣
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 🅰️ (Live only) 
