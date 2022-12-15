@@ -562,42 +562,25 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=10491
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Bein Max 2 4K kec100mbps up 
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049172&extension=ts&play_token=8bzBXG34rW
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Bein Max 3 4K kec100mbps up
-#http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049168&extension=ts&play_token=E9FpTOfUPB
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049168&extension=ts&play_token=E9FpTOfUPB
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Bein Max 1 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Bein Max 2 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
-
-
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Матч 🇷🇺
-#http://194.143.148.28/MatchHD/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", NOW 618 🇭🇰
-http://51.81.208.129:35461/live/80203081502/656678/14400.ts
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", NOW 619 🇭🇰
-http://51.81.208.129:35461/live/80203081502/656678/14401.ts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Bein Max 3 HD
+http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170479
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",SS select 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/239076
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",SBS 
-http://51.81.208.129:35461/live/80203081502/656678/14403.ts
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",TV2 🇲🇾
-http://51.81.208.129:35461/live/80203081502/656678/14404.ts
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭",ELTA Sp 🇹🇼
-http://51.81.208.129:35461/live/80203081502/656678/14406.ts
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CCTV 5 1️⃣ 🇨🇳
-http://51.81.208.129:35461/live/80203081502/656678/14407.ts
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", VTV2 🇻🇳
+http://171.238.181.52:18080/192.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", VTV5 🇻🇳
+http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", CCTV 5 2️⃣ 🇨🇳
 http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Asahi TV 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
@@ -607,6 +590,9 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cvm.car.m3u
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", MBC 🇰🇷
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", Матч 🇷🇺
+http://194.143.148.28/MatchHD/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/785/666/non_2x/mondial-fifa-world-cup-qatar-2022-official-logo-champion-symbol-design-abstract-illustration-free-vector.jpg" group-title="⚽ WORLD CUP QATAR 🇧🇭", LIVE ramdom 1
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/wc.m3u8
