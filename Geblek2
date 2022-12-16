@@ -120,8 +120,100 @@ http://122.248.43.138:1935/ch5/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2)", RTV
 http://122.248.43.138:1935/ch11/myStream/index.m3u8
 
+//// hK taiwan /////
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png",FTV General 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twms_BzIPTV_4K
 
-------HK tai------
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-6WS4rLOA8_8/Y0KqRNtWYzI/AAAAAAAAB1k/cbAOu9T4qQEnRA6ziEokCy3Ic5cTBw9HACNcBGAsYHQ/s1600/1665313346793424-2.png",民視新聞台
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsxwt_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-LiEzyNt222Q/Y0Ks3H4n-LI/AAAAAAAAB2E/2LVGCVsWgWIqz1iLPY9BSIGuKGsQ9MJbgCNcBGAsYHQ/s1600/1665314009926342-0.png",民視旅遊台
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsly_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-E-kmz6tKxXs/Y0KqQVl3z2I/AAAAAAAAB1g/-f5IQHy6RdowaUKo1AmSFHKFqArnGLQ2QCNcBGAsYHQ/s1600/1665313343346147-3.png",民視台灣台
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmstw_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-ndUV_II6zJw/Y0Kr1KTXjbI/AAAAAAAAB18/6KJdLKT3Xhwx0mmmlADcntXPV2LBJt9wwCNcBGAsYHQ/s1600/1665313746095558-0.png",民視影劇台
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsyj_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png",民視第一台
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
+
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-_A8mrsj2GbI/Y0KqPb1bZQI/AAAAAAAAB1c/s2kvmEMfPh4_mJEIaRzA5GBq0lyeBmKJQCNcBGAsYHQ/s1600/1665313339495568-4.png",民視綜藝台
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
+
+#EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
+
+#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",loading lm SET Taiwan (三立臺灣台)
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZQQU0a0.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",SET Variety (三立綜合台)
+http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+
+#EXTINF:-1 tvg-id="JETTV.tw" tvg-logo="https://i.imgur.com/j8aghTe.png" group-title="HK/Taiwan 🇭🇰🇹🇼",JET TV (JET綜合台)
+http://50.7.220.74:8278/jettv_japan/playlist.m3u8?ct=19225&tid=MA7A4202687942026879&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+
+#EXTINF:-1 tvg-id="GTV1.tw" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gala_tv_tw_variety.png" group-title="HK/Taiwan 🇭🇰🇹🇼",GTV1 (八大第1台)
+http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gala_tv_tw_entertainment.png" group-title="HK/Taiwan 🇭🇰🇹🇼",GTV Entertainment (八大综合台)
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",八大综合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",美亚电影
+http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
+#EXTINF:-1 tvg-id="TVBJade.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Jade (翡翠台)
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-logo="https://i.imgur.com/3VLa4qg.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",HOY TV 
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/512px-Phoenix_Chinese.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Phoenix Chinese (鳳凰衛視中文)
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/512px-Phoenix_InfoNews.svg.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Phoenix News (鳳凰衛視資訊)
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="HK/Taiwan 🇭🇰🇹🇼", ELTA影劇 
+http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EYE_TV%E6%88%B2%E5%8A%87%E5%8F%B0%E6%A8%99%E8%AA%8C.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼", EYE TV戏剧
+http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+
+#EXTINF:-1   tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK/Taiwan 🇭🇰🇹🇼",Viu TV
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS 欢乐台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVBSEntertainmentChannel.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/512px-Tvbs-logo-42.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVBS Entertainment Channel (TVBS歡樂台) (720p)
+http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+
+#EXTINF:-1 tvg-id="EBCVariety.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-variety-tw.png" group-title="HK/Taiwan 🇭🇰🇹🇼",EBC Variety (東森綜合台) 
+http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-foreign-movie-tw.png" group-title="HK/Taiwan 🇭🇰🇹🇼",EBC Foreign Movie (東森洋片台)
+http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-movie-tw.png" group-title="HK/Taiwan 🇭🇰🇹🇼",EBC Movie (東森電影台)
+http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="HK/Taiwan 🇭🇰🇹🇼",Taiwan News HD 
+#rtmp://59.124.75.138/sat/tv071
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/台視新聞.m3u8
+
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="HK/Taiwan 🇭🇰🇹🇼", 中視新聞 HD
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/中視新聞.m3u8
+#EXTINF:-1 tvg-id="CTV.tw" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_tw.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTV (CTV中視) 
+http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+#EXTINF:-1 tvg-id="CTVClassic.tw" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_tw_classic.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTV Classic (中視經典台)
+http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 
 #EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/AbUMkqo.png" group-title="HK/Taiwan 🇭🇰🇹🇼",CTi Variety (中天綜合台) 
 http://23.237.10.66:16372
@@ -225,7 +317,6 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
 
-//////////////
 
 
 
