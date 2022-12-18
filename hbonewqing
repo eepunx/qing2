@@ -577,14 +577,6 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 5️⃣
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 🅰️ (Live only) 
-#https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
-#EXTINF:-1 tvg-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/08/12/a9c3bad2-fabb-47c2-888d-49015a6f-20210812055027.jpeg" group-title="Qingsports",Liga1 🅱️ (Live only) 
-#https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
-
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
 
@@ -603,6 +595,7 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
 #http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
+#http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
 #http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
@@ -615,8 +608,8 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
 
 
 
+//////sprot////
 
-//////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qqfhqDK9/SOCCER-ch.png" group-title="Qingsports",Soccer Channel
@@ -668,8 +661,6 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="Qingsports",SkySport EPL
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok66TR4WskgVMgVBV84udfR9
-
-
 
 #EXTINF:-1 tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport1HD.png" group-title="Qingsports",Eurosport 1 HD
 http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
