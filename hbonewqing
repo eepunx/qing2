@@ -247,7 +247,8 @@ https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png" group-title="HBO (server 2)",CINEMAX
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-
+#EXTINF:-1  tvg-name="Thor: Love and Thunder #2 (2022)" tvg-id="" tvg-logo="https://i.imgur.com/CjiKCWg.jpg" group-title="Box Office---",Thor: Love and Thunder #2 (2022)
+https://v2.streamku.xyz/stream/360/Ngfsc4N5EQ3Yk3Y/__001
 
 
 ///// RELIGI /////
