@@ -560,22 +560,56 @@ http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTI
 
 ///// SPORTS /////
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 FHD
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live pilih yg nyala
 http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 1️⃣
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 2
 http://golive.yn.lt/live/liga1/01.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 2️⃣
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 3
+http://golive.yn.lt/live/liga1/02.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 4
+http://golive.yn.lt/live/liga1/03.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 5
 http://golive.yn.lt/live/liga1/04.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 6
+http://golive.yn.lt/live/liga1/05.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 7
+http://golive.yn.lt/live/liga1/06.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 8
+http://golive.yn.lt/live/liga1/07.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 9
+http://golive.yn.lt/live/liga1/08.m3u8
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 3️⃣
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 10
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 4️⃣
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 11
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Liga1 5️⃣
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 12
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
+
+-----AFF
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-logo="https://bit.ly/3YIimrO" group-title="⚽🅰️FF",Live 1
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 2
+http://171.238.181.52:18080/194.m3u8 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 group-title="⚽🅰️FF" tvg-id="iNews" tvg-name="iNews" tvg-logo="https://bit.ly/3YIimrO",Live 3
+https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 4
+http://golive.yn.lt/live/aff/01.m3u8
+#EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 5
+http://golive.yn.lt/live/aff/02.m3u8
+#EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 6
+http://golive.yn.lt/live/aff/03.m3u8
+
+------------
+
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
