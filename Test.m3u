@@ -1,3 +1,9 @@
+#EXTINF:0 group-title="" tvg-logo="",beenime
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://beenime.best/
+
+
+
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28neg2v8hwppm8nzpe"
 
 #EXTINF:0 group-title="LIVE EVENT" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",QTR
