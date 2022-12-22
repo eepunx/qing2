@@ -731,7 +731,7 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=
 
 ///////🟢FOX Sport🟢//////////
 #EXTINF:-1 tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png" group-title="Qingsports",Fox Sports 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png", Fox Sports 1 🇪🇦
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://lh3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png", Fox Sports 1 🇪🇦
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/DpnatBM.png", Fox Sports 2 🇪🇦
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
