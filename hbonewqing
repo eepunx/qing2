@@ -601,6 +601,11 @@ https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-360.m3u8
 #http://golive.yn.lt/live/aff/02.m3u8
 #EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 6
 #http://golive.yn.lt/live/aff/03.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 4
+http://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 
 ------------
 
