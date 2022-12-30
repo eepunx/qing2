@@ -85,7 +85,7 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR vidio
-http://xtv.ooo:8080/Mohammad/Mohammad123/228289
+#http://xtv.ooo:8080/Mohammad/Mohammad123/228289
 #http://tvn.x10.mx/1/master.m3u8?dl=1
 
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.ibb.co/L6QJFyk/indosiar-lean-paps.png", INDOSIAR Denstv
