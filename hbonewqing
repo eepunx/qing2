@@ -245,9 +245,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png" group-title="HBO (server 2)",CINEMAX
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1  tvg-name="Agent Game (2022)" tvg-id="" tvg-logo="https://i.imgur.com/uO5R5hX.jpg" group-title="Box Office---",Agent Game (2022)
-https://www.googleapis.com/drive/v3/files/1HXaAk7rBuWkL1MoWTN6jdawhGDqHUSuW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 
 ///// RELIGI /////
 #EXTINF:-114 group-title="RELIGI" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
