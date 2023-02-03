@@ -653,9 +653,9 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 ------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
-http://pprotv.com:80/live/20042004/20202020/39554.ts
+https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
-http://pprotv.com:80/live/20042004/20202020/39555.ts
+https://maper.info/UseeSport2-Shareext
 
 --------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
