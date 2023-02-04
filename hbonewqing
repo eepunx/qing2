@@ -548,8 +548,8 @@ http://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
 
-///Worldkap///
-#EXTI
+///
+
 
 ///// SPORTS /////
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live pilih yg nyala
@@ -578,6 +578,19 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 12
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
+
+//////
+-Saudi Pro Liga
+#EXTINF: -1 group-title="⚽ Saudi Pro League " tvg-logo="https://bit.ly/3QmgH7t",  Live 1
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/280135.m3u8
+#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  Live 2
+http://golive.yn.lt/live/bola/01.m3u8
+#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  Live 3
+http://golive.yn.lt/live/bola/02.m3u8
+#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  Live 4
+http://golive.yn.lt/live/bola/03.m3u8
+
+////////
 
 
 #EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 4
