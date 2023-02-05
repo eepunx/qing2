@@ -686,10 +686,13 @@ http://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
 
 
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Tennis.png" group-title="Qingsports",SkySport Tennis
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",True Tennis
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115805
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Tennis.png" group-title="Qingsports",Super Tennis
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51139
+#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", S.Sports Tennis
+http://iwatchtv.xyz:25461/ShamusHealy/Healy/33294
+
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="Qingsports",SkySport EPL
 
 
