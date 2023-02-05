@@ -613,21 +613,15 @@ http://golive.yn.lt/live/bola/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
-#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
-#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
-#http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
-#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
-#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95421
+#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
-#http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-#http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
+http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2535/index.m3u8
 
 
 
