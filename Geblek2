@@ -9,7 +9,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
 http://103.167.167.5:8111/play/a011/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
 http://103.167.167.5:8111/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
