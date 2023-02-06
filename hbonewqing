@@ -654,15 +654,12 @@ http://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 http://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 ------------
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 ------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
-https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
-https://maper.info/UseeSport2-Shareext
+
 
 --------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -681,11 +678,16 @@ http://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV 2 backup
 #https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 --------------
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1 
+#http://jadetv.de:80/eagleiptv/SsFAljPDDi/159567
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51116
+
+
 
 #EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN 1
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
 
-
+----TENNIS-----
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",True Tennis
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115805
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis
@@ -693,11 +695,19 @@ http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51139
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", S.Sports Tennis
 http://iwatchtv.xyz:25461/ShamusHealy/Healy/33294
 
+-----GOLF----
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",True Golf
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115702
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",S Sports Golf
+http://iwatchtv.xyz:25461/ShamusHealy/Healy/33285
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky Sports Golf
+http://iptvglobal.site:25461/LionTv/r1942G22hz/120502
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Golf Network 
+http://iptvglobal.site:25461/LionTv/r1942G22hz/109249
+
+
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="Qingsports",SkySport EPL
-
-
 #EXTINF:-1 tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport1HD.png" group-title="Qingsports",Eurosport 1 HD
-
 #EXTINF:-1 tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport2HD.png" group-title="Qingsports",Eurosport 2 HD
 
 
@@ -737,9 +747,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/w8sjQN2.png", Fox Sports 3 🇪🇦
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1 
-#http://jadetv.de:80/eagleiptv/SsFAljPDDi/159567
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51116
 
 /////////⛔BEIN sports⛔//////
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra
@@ -758,10 +765,11 @@ http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9153.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="Qingsports",beIN Sp Eng 2 
 http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9154.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 Fr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115807
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="Qingsports",beIN 2 Fr
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 Fr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="Qingsports",beIN 1 Arb
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94480&extension=ts&play_token=TQ6cftyhX8
