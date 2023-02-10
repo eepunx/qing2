@@ -433,12 +433,12 @@ http://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxj_tdHMPVqbVreYZyaKAIACLliL4EOP9Ow&usqp=CAU", Galaxy
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/DzdQHYjf/galaxy.png", Galaxy
 http://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-hSjgR2X3558/W7Q7SFzKEbI/AAAAAAAAmVg/UZn5xowoPlgTenyfZjxsUJuve5z3wuzGQCLcBGAs/s1600/galaxy-premium-tv-channel-logo.jpg" group-title="MOVIES 2",Galaxy Premium
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HscwdLZh/galaxy-premium.png" group-title="MOVIES 2",Galaxy Premium
 http://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 
@@ -452,75 +452,64 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/rZBRt7d/warner-leanback-papsbor.png", WarnerTV
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/XqPWcL94/Warner-TV.png", WarnerTV
 http://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/rZBRt7d/warner-leanback-papsbor.png", Warner backup
-#http://180.211.90.134:8000/play/a07r
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/fSsPq4Y/axn-leanback-papsbor.png", AXN
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/J4FvTtv7/axn.png", AXN
 http://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/fSsPq4Y/axn-leanback-papsbor.png", AXN backup
-#https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
 
 #EXTINF:-1 tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg" group-title="MOVIES 2", BOO (Horror) 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/zfbpPqs/thrill-lean-paps.png", Thrill
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/3JmZ2RXD/Thrill.png", Thrill
 http://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/LSj21DC/cinemaworld-lean-paps.png", Cinema World
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/8PSDspgj/CW.png", Cinema World
 http://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/sV36Bm4/kix-lean-paps.png", KIX
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/Xv48xbj7/kix.png", KIX
 http://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMN_%28Forget_Me_Not%29_Channel.png/800px-FMN_%28Forget_Me_Not%29_Channel.png", FMN
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/WzhSrw2G/fmn.png", FMN
 http://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", SOne
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/KcRdtnpp/one.png", Sony One
 http://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", ONE backup
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/w4hxZmd/tvn-lean-paps.png", TVN
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/cHJcyBtp/tvN.png", TVN
 http://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/w4hxZmd/tvn-lean-paps.png", TVN backup
-#http://180.211.90.134:8000/play/a084
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/L6rY6qK/tvnmovie-lean-paps.png", TVN Movies
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/k4YSdrxC/tvn-movies.png", TVN Movies
 http://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/w586/celestial%2Bclassic%2Bmovies.jpeg", CCM
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://1.https://i.postimg.cc/76K3YJrp/ccm.png", CCM
 http://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/G5DRGxj/celestialmovies-lean-paps.png", Celestial Movies
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/Kj4nKcZ4/celestial-movies.png", Celestial Movies
 http://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/G5DRGxj/celestialmovies-lean-paps.png", Celestial Movies backup
-#http://180.211.90.134:8000/play/a04r
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/5NPcqypp/ZEE-tv.jpg", Zee Bioskop
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/W3T6hq85/ZEE-B.png", Zee Bioskop
 http://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png", Sinema Indonesia
@@ -537,12 +526,12 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/Fn3XTXn/hits-lean-paps.png", HITS
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/ZYMwm2cV/hits.png", HITS
 http://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.ibb.co/SNKjFVd/hitsmovie-lean-paps.png", HITS Movies
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/q70ysxkP/HITSMOVIES.png", HITS Movies
 http://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
