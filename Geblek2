@@ -35,7 +35,7 @@ http://online-teve.xp3.biz/vidio/206.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/BbVMMHrs/antv.png" group-title="Indonesia 🇮🇩 (server 2)",ANTV
-https://maper.info/ANTV-Shareext
+http://rr2.dens.tv/s/s07/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
