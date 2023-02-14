@@ -645,9 +645,8 @@ http://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 ------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
-https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
-https://maper.info/UseeSport2-Shareext
+
 
 --------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -681,17 +680,17 @@ http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115805
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51139
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", S.Sports Tennis
-http://iwatchtv.xyz:25461/ShamusHealy/Healy/33294
+http://987161222318333701.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333701.ts
 
 -----GOLF----
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",True Golf
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",GOLF
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115702
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",S Sports Golf
-http://iwatchtv.xyz:25461/ShamusHealy/Healy/33285
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky Sports Golf
-http://iptvglobal.site:25461/LionTv/r1942G22hz/120502
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",True Golf
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115698
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Spr Sports Golf
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Golf Network 
-http://iptvglobal.site:25461/LionTv/r1942G22hz/109249
+
 
 
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="Qingsports",SkySport EPL
