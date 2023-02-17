@@ -82,12 +82,11 @@ http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR 
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR
-#http://xtv.ooo:8080/Mohammad/Mohammad123/228289
-#http://tvn.x10.mx/1/master.m3u8?dl=1
+#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Digital
+http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Denstv
-http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
+#http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
