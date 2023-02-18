@@ -667,6 +667,8 @@ http://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Formula 1 
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/159567
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51116
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115738
 
 
 
@@ -809,8 +811,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/115738
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="Qingsports", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
 
