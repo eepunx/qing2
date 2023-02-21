@@ -1,3 +1,5 @@
-#EXTINF:0 group-title="" tvg-logo="", liga1
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1nsplayer.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-name="HBOHitsHD" tvg-id="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="A1",HBO HITS
+https://conversant.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
