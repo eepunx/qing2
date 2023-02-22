@@ -599,15 +599,11 @@ http://golive.yn.lt/live/bola/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2531/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2532/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2533/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
-#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
-http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2535/index.m3u8
+
 
 
 
