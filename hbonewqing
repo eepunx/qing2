@@ -584,6 +584,15 @@ http://golive.yn.lt/live/bola/03.m3u8
 
 ------------
 
+#EXTINF:-1 tvg-logo="https://www.proliga.co.id/wp-content/uploads/2023/01/LOGO-PROLIGA-PLN-MOBILE-2023-120x57.png" group-title="🏐Pro liga", Live 1
+http://golive.yn.lt/live/volleyball/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.proliga.co.id/wp-content/uploads/2023/01/LOGO-PROLIGA-PLN-MOBILE-2023-120x57.png" group-title="🏐Pro liga", Live 2 
+http://golive.yn.lt/live/volleyball/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.proliga.co.id/wp-content/uploads/2023/01/LOGO-PROLIGA-PLN-MOBILE-2023-120x57.png" group-title="🏐Pro liga", Live 3
+http://golive.yn.lt/live/volleyball/03.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
 #https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
