@@ -566,23 +566,34 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 
 //////
 -Saudi Pro Liga
-#EXTINF: -1 group-title="⚽ Saudi Pro League " tvg-logo="https://bit.ly/3QmgH7t",  SSC 1
+#EXTINF: -1 group-title="⚽Saudi Pro League " tvg-logo="https://bit.ly/3QmgH7t", SSC 1
 http://starshare.live:8080/live/775577/775577/36251.ts
-#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 2
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 2
 http://starshare.live:8080/live/775577/775577/36252.ts
-#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 3
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 3
 http://starshare.live:8080/live/775577/775577/36253.ts
-#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 4
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 4
 http://starshare.live:8080/live/775577/775577/36254.ts
-#EXTINF: -1 group-title="⚽ Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 5
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 5
 http://starshare.live:8080/live/775577/775577/36255.ts
 
 ////////
 
 
-#EXTINF: -1 group-title="⚽🅰️FF" tvg-logo="https://bit.ly/3YIimrO",Live 4
-#http://171.238.181.52:18080/194.m3u8 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png",MNC Sports
+http://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+-----------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png",MNC Sports 2
+http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+-----------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png",MNC Sports 3
+http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 ------------
 
