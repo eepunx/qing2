@@ -221,25 +221,24 @@ http://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO (server 2)",HBO (anevi-live)
 https://anevi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO (server 2)",HBO FAM (avlive)
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO (server 2)",HBO FAM (av-live)
 https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO (server 2)",HBO SIGNATURE (anevia114)
-https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO (server 2)",HBO SIGNATURE (new-anv)
+https://newanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO (server 2)",HBO HITS 
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO (server 2)",HBO HITS (av-live)
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="HBO (server 2)",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="HBO (server 2)",CINEMAX (anevia114)
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
