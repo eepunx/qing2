@@ -590,27 +590,33 @@ http://starshare.live:8080/live/775577/775577/36258.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png",Pilih yg nyala
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg",Pilih yg nyala
 http://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 -----------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", Live 1
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 1
 http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 -----------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", Live 2
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 2
 http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", Live 3
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 3
 http://golive.yn.lt/live/afc/01.m3u8
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", Live 4
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 4
 http://golive.yn.lt/live/afc/02.m3u8
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", Live 5
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 5
 http://golive.yn.lt/live/afc/03.m3u8
-#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", Live 6
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 6
 http://golive.yn.lt/live/afc/04.m3u8
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 7
+http://golive.yn.lt/live/afc/05.m3u8
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 8
+http://golive.yn.lt/live/afc/06.m3u8
+#EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 9
+http://golive.yn.lt/live/afc/07.m3u8
 
 
 ------------
