@@ -576,6 +576,14 @@ http://starshare.live:8080/live/775577/775577/36253.ts
 http://starshare.live:8080/live/775577/775577/36254.ts
 #EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 5
 http://starshare.live:8080/live/775577/775577/36255.ts
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 6
+http://starshare.live:8080/live/775577/775577/36256.ts
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 7
+http://starshare.live:8080/live/775577/775577/36257.ts
+#EXTINF: -1 group-title="⚽Saudi Pro League" tvg-logo="https://bit.ly/3QmgH7t",  SSC 8
+http://starshare.live:8080/live/775577/775577/36258.ts
+
+
 
 ////////
 
