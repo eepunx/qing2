@@ -700,8 +700,8 @@ http://143.244.60.30/NBATV/index.m3u8
 ----TENNIS-----
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",True Tennis
 
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis
-
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Bein Tennis
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/77817
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", S.Sports Tennis
 http://987161222318333701.niceyour.xyz:80/play/vi0105248/bM$6EUuUuSeh/333701.ts
 
