@@ -22,6 +22,8 @@ https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%28
 
 
 ///////REQUEST //////
+#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i0.wp.com/kfaspain.es/wp-content/uploads/2022/01/logo-KCTV.png",Korut TV 🇰🇵
+https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/240px-Phoenix_Chinese.svg.png", Chinese Phoenix 凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
@@ -34,6 +36,8 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (off)
 http://bravo.kugo.id:8081/salingsapatv/hls/playlist.m3u8
+
+
 
 
 /////////////////! 
