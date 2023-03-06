@@ -718,7 +718,7 @@ http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 --------------
 
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", SkySp F1 
-https://spotv.me:8080/FG5195018939/5195018939/5605
+http://adamtvonline.com:8080/111111111111/222222222222/240636
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", RTSH 
 http://adamtvonline.com:8080/111111111111/222222222222/29127
 
@@ -730,12 +730,14 @@ http://143.244.60.30/NBATV/index.m3u8
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
 
 ----TENNIS-----
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",S.sport Tennis
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis
 http://adamtvonline.com:8080/111111111111/222222222222/33257
-#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Bein Tennis
-http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/77817
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", Ziggo Tennis
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16277
+#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", S.Sport Tennis
+http://adamtvonline.com:8080/111111111111/222222222222/358892
+#EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Bein Tennis
+http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/7781
 
 
 -----GOLF----
@@ -745,7 +747,8 @@ http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16277
 https://spotv.me:8080/FG5195018939/5195018939/5609
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Super Golf
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Golf Network 
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Golf Channel 
+http://higherpro.xyz:8080/elardticona79/783478437834/50381
 
 ------STARSP------
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="Qingsports",StarSports select 1
