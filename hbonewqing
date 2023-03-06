@@ -633,31 +633,32 @@ http://golive.yn.lt/live/volleyball/02.m3u8
 http://golive.yn.lt/live/volleyball/03.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/09/16/logo-kualifikasi-piala-asia-u-20-2023_169.jpeg" group-title="Qingsports",AFC U-20 (Live only) 
-#https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
-http://195.154.179.234:1234/stream/btsport1/master.m3u8
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 2
-http://195.154.179.234:1234/stream/btsport2/master.m3u8
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 3
-http://195.154.179.234:1234/stream/btsport3/master.m3u8
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png" group-title="Qingsports",BT Sports 4
-
 
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1  
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2  
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1 
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 2 
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 3 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4 
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 4
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 5 
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 1 
+http://213.13.16.138/shls/LIVE$SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 2 
+http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 3 
+http://213.13.16.138/shls/LIVE$SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 
 //////sprot////
@@ -744,9 +745,7 @@ http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
 
 ------STARSP------
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="Qingsports",StarSports select 1
-http://starshare.live:8080/live/775577/775577/238.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="Qingsports",StarSports select 2
-http://starshare.live:8080/live/775577/775577/239.ts
 
 
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/Sky_Sport_Premier.png" group-title="Qingsports",SkySport EPL
