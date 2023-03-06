@@ -608,19 +608,19 @@ http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 3
-http://golive.yn.lt/live/afc/01.m3u8
+https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 4
-http://golive.yn.lt/live/afc/02.m3u8
+https://spotv.me:8080/FG5195018939/5195018939/177320
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 5
-http://golive.yn.lt/live/afc/03.m3u8
+http://golive.yn.lt/live/afc/01.m3u8
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 6
-http://golive.yn.lt/live/afc/04.m3u8
+http://golive.yn.lt/live/afc/02.m3u8
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 7
-http://golive.yn.lt/live/afc/05.m3u8
+http://golive.yn.lt/live/afc/03.m3u8
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 8
-http://golive.yn.lt/live/afc/06.m3u8
+http://golive.yn.lt/live/afc/04.m3u8
 #EXTINF:-1 group-title="⚽U20 Uzbekistan" tvg-logo="https://assets.hops.id/crop/0x111:768x558/750x500/webp/photo/2023/03/01/Piala-Asia-U-20-Uzbekistan-1036713389.jpg", Live 9
-http://golive.yn.lt/live/afc/07.m3u8
+
 
 
 ------------
@@ -812,12 +812,15 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94448&extens
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Qingsports",beIN Sp Eng 2 
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94449&extension=ts&play_token=TQ6cftyhX8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 🇮🇩
+https://beetv.my.id/x/usee-bein1-masihsama.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 🇮🇩
+https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 ASIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 🇹🇭
 http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="Qingsports",beIN 2 Fr
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 ASIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="Qingsports",beIN 3 🇹🇭
 http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="Qingsports",beIN 1 Arb
