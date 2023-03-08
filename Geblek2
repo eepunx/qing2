@@ -660,7 +660,7 @@ http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
 ///CCTV/////
 
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CCTV 🇨🇳 (server 1)",AKTIF app 1111 jika buffer
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CCTV 🇨🇳 (server 1)",CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV 🇨🇳 (server 1)",CCTV 1🟢 
