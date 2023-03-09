@@ -155,6 +155,9 @@ https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
 
+#EXTINF:-1 tvg-id="6108" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TAIWAN+
+https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+
 #EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
 https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
 
