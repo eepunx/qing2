@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
-
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
 
 
 ////donasi/////
