@@ -584,7 +584,10 @@ http://anevia114.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="China Provinsi 🇨🇳", Macau TV
 http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="China Provinsi 🇨🇳", Hainan TV
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls 
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8 
+
+
+
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="China Provinsi 🇨🇳",Zhejiang  
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/800px-Beijing_Television_Logo_2009.png" group-title="China Provinsi 🇨🇳",Beijing  
