@@ -612,6 +612,19 @@ http://golive.yn.lt/live/volleyball/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.proliga.co.id/wp-content/uploads/2023/01/LOGO-PROLIGA-PLN-MOBILE-2023-120x57.png" group-title="🏐Pro liga", Live 3
 http://golive.yn.lt/live/volleyball/03.m3u8
 
+---------------
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/poster/qy281z1661655257.jpg" group-title="⚽RSL", SSC 1
+http://adamtvonline.com:8080/111111111111/222222222222/207621
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/poster/qy281z1661655257.jpg" group-title="⚽RSL", SSC 2
+http://adamtvonline.com:8080/111111111111/222222222222/207623
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/poster/qy281z1661655257.jpg" group-title="⚽RSL", SSC 3
+http://adamtvonline.com:8080/111111111111/222222222222/207625
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/poster/qy281z1661655257.jpg" group-title="⚽RSL", SSC 4
+http://adamtvonline.com:8080/111111111111/222222222222/207627
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/poster/qy281z1661655257.jpg" group-title="⚽RSL", SSC 5
+http://adamtvonline.com:8080/111111111111/222222222222/207629
+
+----------------
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 2
