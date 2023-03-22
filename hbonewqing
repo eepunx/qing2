@@ -693,18 +693,18 @@ http://143.244.60.30/NBATV/index.m3u8
 http://adamtvonline.com:8080/111111111111/222222222222/33257
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", Ziggo Tennis
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16277
-#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", Bein5 Tennis
-http://adamtvonline.com:8080/111111111111/222222222222/142740
+#EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", Bein Tennis
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115515&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",True Tennis
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115515&extension=ts&play_token=h3Jb2BBUAL
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115805&extension=ts&play_token=JriqBmW8MR
 
 -----GOLF----
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",True GOLF
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115541&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",NBC GOLF
+http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/56.ts
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky Golf
 https://spotv.me:8080/FG5195018939/5195018939/5609
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Super Golf
-http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/37635
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky2 Golf
+http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/11.ts
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Ziggo Golf 
 http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16336
 
@@ -720,14 +720,15 @@ http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16336
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
 #http://live.apicold.com/streaming/02_PremierHD1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115757&extension=ts&play_token=h3Jb2BBUAL
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115757&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Qingsports",True Premiere 2
 #http://live.apicold.com/streaming/02_PremierHD2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115762&extension=ts&play_token=h3Jb2BBUAL
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="Qingsports",True Premiere 3
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115510&extension=ts&play_token=h3Jb2BBUAL
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115510&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="Qingsports",True Premiere 4
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115513&extension=ts&play_token=h3Jb2BBUAL
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115513&extension=ts&play_token=JriqBmW8MR
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/limaminit.com/wp-content/uploads/2020/09/unifi.jpg" group-title="Qingsports",Unifi (UFC live) 
