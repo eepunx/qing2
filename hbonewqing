@@ -622,6 +622,17 @@ https://spotv.me:8080/FG5195018939/5195018939/228
 https://spotv.me:8080/FG5195018939/5195018939/12622
 
 
+¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
+http://kkimco03.oknirvana.club:8880/12mm130128/26367772/59220
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
+http://kkimco03.oknirvana.club:8880/12mm130128/26367772/59219
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
+http://kkimco03.oknirvana.club:8880/12mm130128/26367772/59218
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
+http://kkimco03.oknirvana.club:8880/12mm130128/26367772/59217
+¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
 //////sprot////
 
 
@@ -741,17 +752,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="Qingsports", ASTRO ARENA
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
-¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918986&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918985&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918984&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918983&extension=ts&play_token=1kEm8DbZmS
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=918982&extension=ts&play_token=1kEm8DbZmS
-¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
 
 ///////🟢FOX Sport🟢//////////
 #EXTINF:-1 tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png" group-title="Qingsports",Fox Sports 
