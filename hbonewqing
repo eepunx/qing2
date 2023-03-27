@@ -659,9 +659,9 @@ http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 ------------
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77220.ts
+http://103.167.167.5:8111/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-http://iptv.dxdtv.xyz:8080/live/Avenger100cnx/iIMpkGogJ7/77221.ts
+http://103.167.167.5:8111/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 ------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
