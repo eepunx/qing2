@@ -541,15 +541,15 @@ http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///
 
-#EXTINF: -1 group-title="Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 1
+#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 1
 http://golive.yn.lt/live/bola/11.m3u8
-#EXTINF: -1 group-title="Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 2
+#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 2
 http://golive.yn.lt/live/bola/12.m3u8
-#EXTINF: -1 group-title="Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 3
+#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 3
 http://golive.yn.lt/live/bola/13.m3u8
-#EXTINF: -1 group-title="Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 4
+#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 4
 http://golive.yn.lt/live/bola/14.m3u8
-#EXTINF: -1 group-title="Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 5
+#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 5
 http://golive.yn.lt/live/bola/15.m3u8
 
 
