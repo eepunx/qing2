@@ -551,6 +551,32 @@ http://golive.yn.lt/live/bola/13.m3u8
 http://golive.yn.lt/live/bola/14.m3u8
 #EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 5
 http://golive.yn.lt/live/bola/15.m3u8
+////
+
+-##-EURO QUALIFIERS-##-
+
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 1
+http://golive.yn.lt/live/bola/01.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 2
+http://golive.yn.lt/live/bola/02.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 3
+http://golive.yn.lt/live/bola/03.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 4
+http://golive.yn.lt/live/bola/04.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 5
+http://golive.yn.lt/live/bola/05.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 6
+http://golive.yn.lt/live/bola/06.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 7
+http://golive.yn.lt/live/bola/07.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 8
+http://golive.yn.lt/live/bola/08.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 9
+http://golive.yn.lt/live/bola/09.m3u8
+#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 10
+http://golive.yn.lt/live/bola/10.m3u8
+
+
 
 
 ///// SPORTS /////
