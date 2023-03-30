@@ -654,11 +654,8 @@ http://adamtvonline.com:8080/111111111111/222222222222/207629
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 1 
 https://spotv.me:8080/FG5195018939/5195018939/4490
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 2 
-https://spotv.me:8080/FG5195018939/5195018939/154
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 3 
-https://spotv.me:8080/FG5195018939/5195018939/155
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 4 
-https://spotv.me:8080/FG5195018939/5195018939/228
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 5 
 
 
@@ -666,13 +663,13 @@ https://spotv.me:8080/FG5195018939/5195018939/228
 
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
-http://adamtvonline.com:8080/111111111111/222222222222/104722
+https://donelfantastic.github.io/creativemedia/hls/asp1cmedia.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
-http://adamtvonline.com:8080/111111111111/222222222222/104723
+https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
-http://adamtvonline.com:8080/111111111111/222222222222/104724
+https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
-http://adamtvonline.com:8080/111111111111/222222222222/104725
+https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 
 //////sprot////
@@ -757,15 +754,14 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115805&extension=ts&play_token=JriqBmW8MR
 
 -----GOLF----
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",NBC GOLF
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",SuperSp GOLF
 http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/56.ts
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky Golf
 http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/163018
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky2 Golf
 http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/11.ts
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Ziggo Golf 
-http://live.vortextv.nl:8000/dennis1807/SMP9asQVej/16336
-
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports", Golf Network 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ------STARSP------
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="Qingsports",StarSports select 1
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="Qingsports",StarSports select 2
