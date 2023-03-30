@@ -656,6 +656,25 @@ http://adamtvonline.com:8080/111111111111/222222222222/207629
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 3 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 4 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 5 
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 6
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 7
+
+
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 1
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110615&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 2
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110616&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 3
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110617&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 4
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110618&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 5
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110619&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 6
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110620&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="",Now Sports 7
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110621&extension=ts&play_token=shareext@.m3u8
 
 
 
