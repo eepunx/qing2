@@ -91,8 +91,8 @@ https://sub.home-tv.my.id/first/indosiar.m3u8
 #EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Digital
 http://103.167.167.5:8111/play/a00r/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Denstv
-#http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR Vid
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -596,27 +596,7 @@ https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 2
-http://golive.yn.lt/live/liga1/01.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 3
-http://golive.yn.lt/live/liga1/02.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 4
-http://golive.yn.lt/live/liga1/03.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 5
-http://golive.yn.lt/live/liga1/04.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 6
-http://golive.yn.lt/live/liga1/05.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 7
-http://golive.yn.lt/live/liga1/06.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 8
-http://golive.yn.lt/live/liga1/07.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 9
-http://golive.yn.lt/live/liga1/08.m3u8
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 10
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live 11
-https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
 
 ////////
 
