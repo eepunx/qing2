@@ -583,7 +583,9 @@ http://golive.yn.lt/live/bola/10.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Pilih yg nyala
 https://sub.home-tv.my.id/first/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live FHD 
-http://103.167.167.5:8111/play/a00r/index.m3u8
+#http://103.167.167.5:8111/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live usee 
+https://maper.info/UseeSport1-Shareext
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live vidio 1
 https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-360.m3u8
