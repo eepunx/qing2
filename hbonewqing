@@ -541,40 +541,7 @@ http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///
 
-#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 1
-http://golive.yn.lt/live/bola/11.m3u8
-#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 2
-http://golive.yn.lt/live/bola/12.m3u8
-#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 3
-http://golive.yn.lt/live/bola/13.m3u8
-#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 4
-http://golive.yn.lt/live/bola/14.m3u8
-#EXTINF: -1 group-title="⚽Friendly Match" tvg-logo="https://bit.ly/3YSzbA7", Live 5
-http://golive.yn.lt/live/bola/15.m3u8
-////
 
--##-EURO QUALIFIERS-##-
-
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 1
-http://golive.yn.lt/live/bola/01.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 2
-http://golive.yn.lt/live/bola/02.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 3
-http://golive.yn.lt/live/bola/03.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 4
-http://golive.yn.lt/live/bola/04.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 5
-http://golive.yn.lt/live/bola/05.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 6
-http://golive.yn.lt/live/bola/06.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 7
-http://golive.yn.lt/live/bola/07.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 8
-http://golive.yn.lt/live/bola/08.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 9
-http://golive.yn.lt/live/bola/09.m3u8
-#EXTINF: -1 group-title="⚽EURO QUALIFIERS" tvg-logo="https://bit.ly/3LRhtta", Live 10
-http://golive.yn.lt/live/bola/10.m3u8
 
 
 
@@ -1009,7 +976,7 @@ http://anevia114.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 http://anevia114.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HkQwBcBG/TVR.png" group-title="NEWS",TV PARLEMEN
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/85f7kCQw/cbs-news.png" group-title="NEWS",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
