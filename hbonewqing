@@ -111,6 +111,12 @@ http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png", NET.
 http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji
+https://beetv.my.id/x/usee-ochannel-masihsama.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji FHD
+http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/Gmgk0mbp/rtv-1.png", RTV
@@ -122,8 +128,6 @@ http://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/W3pY5K3L/daaitv-1.png", Daai TV
 http://anevia114.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/W3pY5K3L/daaitv-1.png", DAAITV backup 
-#http://180.211.90.134:8000/play/a03w
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -144,24 +148,16 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png", TransTV
 http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png", Trans TV Backup 
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/15
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans7
 http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans 7 Backup 
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png", TVRI
 http://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png", TVRI backup
-#http://stream.semerutv.link:7780/freebies/EOti98qsWH/6
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzSdM534/tic.png" group-title="Indonesia❤️",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
