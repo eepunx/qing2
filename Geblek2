@@ -4,22 +4,23 @@
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV
-http://103.167.167.5:8111/play/a00o/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png" group-title="Indonesia 🇮🇩 (server 2) ",MNCTV
-http://103.167.167.5:8111/play/a011/index.m3u8
+https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv|user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="Indonesia 🇮🇩 (server 2) ",RCTI
-http://103.167.167.5:8111/play/a01c/index.m3u8
+https://m3u-editor.com/live/serve/6ccb72a0-cb16-11ed-bf4c-85313ab8b659/804985035.m3u8|user-agent=Dalvik/2.1.0
+https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti|user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
-http://103.167.167.5:8111/play/a014/index.m3u8
+https://mooncang.my.id/api/rplus/ch.m3u8?id=gtv|user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS
 #https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png" group-title="Indonesia 🇮🇩 (server 2)",NET.
-http://103.167.167.5:8111/play/a041/index.m3u8
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/80292
 
 #EXTINF:-1 tvg-logo="http://www.tempotv.com.tr/img/logo.png" group-title="Indonesia 🇮🇩 (server 2)",Tempo TV
 
@@ -29,7 +30,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia 🇮🇩 (server 2)", Moji
-http://online-teve.xp3.biz/vidio/206.m3u8
+
 
 #EXTINF:-1 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/Gmgk0mbp/rtv-1.png", RTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
