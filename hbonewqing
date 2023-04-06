@@ -577,18 +577,12 @@ https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 6 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 1
-https://spotv.me:8080/FG5195018939/5195018939/4490
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 2
-https://spotv.me:8080/FG5195018939/5195018939/154
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 3 
-https://spotv.me:8080/FG5195018939/5195018939/155
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 4 
-https://spotv.me:8080/FG5195018939/5195018939/228
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 5 
-https://spotv.me:8080/FG5195018939/5195018939/12622
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 6
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 7
-
 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 1
@@ -674,23 +668,23 @@ http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 --------------
 
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", SkySp F1 
-http://adamtvonline.com:8080/111111111111/222222222222/33241
+http://176.57.50.167:25461/122162/994771/78149
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", UK SkySp F1
-http://adamtvonline.com:8080/111111111111/222222222222/33644
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170817
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", Bein 
-http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
 http://143.244.60.30/NBATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV bein
-http://adamtvonline.com:8080/111111111111/222222222222/294858
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA china
+https://epg.pw/stream/ffd05f5013174c5161b27fd72d40bb8c3116f8b3f770010af4368d0ea053ce58.m3u8
 
 #EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN 1
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
 
 ----TENNIS-----
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis
-http://adamtvonline.com:8080/111111111111/222222222222/33257
+http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170819
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", NOW1 HK
 http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110615&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", NOW4 HK
@@ -704,13 +698,14 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115
 
 -----GOLF----
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",SuperSp GOLF
-http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/56.ts
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky Golf
-http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/163018
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/11641
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Ziggo Golf
+http://sawaiptv.vip:80/040010071303333/62c0b41274c24/131282
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports",Sky2 Golf
-http://starshare.live:8080/live/shahrooz_exchange/ptv.ccshare.in/11.ts
+
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/golf-logo-icon-sign-white-background-simple-golf-logo-icon-sign-149057212.jpg" group-title="Qingsports", Golf Network 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
 ------STARSP------
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="Qingsports",StarSports select 1
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="Qingsports",StarSports select 2
