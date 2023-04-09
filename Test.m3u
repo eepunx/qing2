@@ -12,5 +12,8 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Mani
 #EXTINF:-1 group-title="" tvg-logo="", espn 1
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="", golf
+
+#EXTINF:-1 group-title="" tvg-logo="", golf hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8
