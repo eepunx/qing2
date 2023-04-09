@@ -578,28 +578,46 @@ http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/88177
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 6 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium286/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium287/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium288/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium289/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium290/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium291/index.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/04/SportTVLogo.png", SPORT TV 7
 
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 1
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110615&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110615&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 2
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110616&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110616&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 3
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110617&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110617&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 4
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110618&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110618&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 5
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110619&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110619&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 6
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110620&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110620&extension=ts&play_token=shareext@.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhvBjx0woOV7x9d9AZPvdp5ibnWw8BBrXG1-Ynvftw5ZqKCfo3dwq9ZomVvxGXtnf4bk_jhFkhyeXeZ9Dz7hb8VwbcT9qzjpNdRO8lHU2g8wSmFr7Fr_YGn1cvZ9l3OKzz4DIrPC72452LRps-meNN9UbJ3tX6tKPW9J040tJbC1mVAbTaKW_wcgD0a5A",Now Sports 7
-http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110621&extension=ts&play_token=shareext@.m3u8
+#http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110621&extension=ts&play_token=shareext@.m3u8
 
 
 
