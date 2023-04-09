@@ -5,7 +5,9 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tucumantvdigital.xyz/sv-mx
-#EXTINF:-1 group-title="" tvg-logo="", espn
+#KODIPROP:inputstream.adaptive.license_url=http://tucumantvdigital.xyz/sv-mx
+#EXTINF:-1 group-title="" tvg-logo="", espn url
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
