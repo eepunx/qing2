@@ -328,16 +328,12 @@ http://anevia114.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 ///// KIDS /////
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdsd7fH5/Disney-Channel.png" group-title="Kids",Disney Channel 
-#http://185.59.223.102:8080/disney/index.m3u8
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3277
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR0qhWb7/Disney-Junior.png" group-title="Kids", Disney Junior 
-#https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR0qhWb7/Disney-Junior.png" group-title="Kids", Disney Junior 
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3292
+https://stream.sarapan.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleuhttps://i.postimg.cc/dVmmxVVZ/HOREE.png" group-title="Kids",Horee 
 #http://tv.zonanime.my.id/vidio/horee.m3u8
@@ -345,7 +341,7 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3292
 #http://tvn.x10.mx/1/master-2.m3u8?dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.postimg.cc/qBYhbchW/Mentari.png", Mentari TV
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxLrsS2t/bizkids.png" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
