@@ -326,6 +326,15 @@ http://anevia114.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 
 ///// KIDS /////
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DznWRf4H/Animax.png", Animax ID
+http://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", Animax 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm4QXGKX/Aniplus.png" group-title="Kids", Aniplus 
+http://210.210.155.35/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdsd7fH5/Disney-Channel.png" group-title="Kids",Disney Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -513,15 +522,6 @@ http://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png", Sinema Indonesia
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DznWRf4H/Animax.png", Animax
-http://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/500px-Animax.svg.png", ANIMAX backup
-#http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm4QXGKX/Aniplus.png" group-title="Kids", Aniplus 
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=ts&play_token
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="Kids", NARUTO series 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
