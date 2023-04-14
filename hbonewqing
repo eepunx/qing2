@@ -717,8 +717,10 @@ https://epg.pw/stream/d6db2d47f2d0ee421414248979010ece1e2190cd7267f57b4b0e21c160
 --------------
 
 ---YUEFSI----
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports", TVN Sports
-https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports",True Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports", Unifi (UFC live) 
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -746,7 +748,7 @@ https://epg.pw/stream/ffd05f5013174c5161b27fd72d40bb8c3116f8b3f770010af4368d0ea0
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Sports Tennis
 #http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170819
-http://hostengine.live/live/wrecks82/habsiptv82/56771.m3u8
+
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis HD
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
 #EXTINF:-1 xui-id="211790" tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports", NOW1 HK
@@ -767,9 +769,9 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115
 https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="Qingsports",SuperSp GOLF
-http://hostengine.live/live/wrecks82/habsiptv82/56763.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="Qingsports",Ziggo Golf
-http://sawaiptv.vip:80/040010071303333/62c0b41274c24/131282
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="Qingsports",Sky2 Golf
 
 
