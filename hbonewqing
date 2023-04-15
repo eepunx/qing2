@@ -551,9 +551,9 @@ http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 ///// SPORTS /////
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",pilih yg on
 #http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=994885&extension=ts&play_token=1kEm8DbZmS
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",Live vidio 
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="Qingsports",LIVE usee 
 #http://103.167.167.5:8111/play/a00r/index.m3u8
-http://pprotv.com:80/live/rakan111/rakan111/39427.ts
+http://pprotv.com:80/live/rakan111/rakan111/39554.ts
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg" group-title="⚽LIVE LIGA1️⃣",Live usee 
 #https://maper.info/UseeSport1-Shareext
 
@@ -651,6 +651,15 @@ http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1111031&
 
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",Hub 1 SG
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110667&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",Hub 2 SG
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110666&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Qingsports",Hub 4 SG
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110665&extension=ts&play_token=shareext@.m3u8
+
+
+
 //////sprot////
 
 
@@ -745,6 +754,12 @@ https://epg.pw/stream/ffd05f5013174c5161b27fd72d40bb8c3116f8b3f770010af4368d0ea0
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
 
 ----TENNIS-----
+
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Hub 1 SG
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110667&extension=ts&play_token=shareext@.m3u8
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Hub 2 SG
+http://shareext@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=1110666&extension=ts&play_token=shareext@.m3u8
+
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Sports Tennis
 #http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170819
