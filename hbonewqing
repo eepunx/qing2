@@ -562,8 +562,10 @@ http://pprotv.com:80/live/rakan111/rakan111/39554.ts
 
 
 ------------
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="Qingsports",SCTV 15
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="Qingsports",SCTV 17
+http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
 ---------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_of_Ho_Chi_Minh_Television.svg/806px-Logo_of_Ho_Chi_Minh_Television.svg.png" group-title="Qingsports", HTV
 http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
