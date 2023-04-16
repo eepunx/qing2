@@ -559,7 +559,18 @@ http://pprotv.com:80/live/rakan111/rakan111/39554.ts
 
 
 ////////
-
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg", Diema 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium465/index.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg", Diema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium466/index.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg", Diema 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.onlinewebtv.lol/lb/premium467/index.m3u8
 
 ------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="Qingsports",SCTV 15
