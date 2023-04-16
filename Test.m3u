@@ -51,12 +51,11 @@ https://webudit.onlinewebtv.lol/lb/premium466/index.m3u8
 https://webudit.onlinewebtv.lol/lb/premium467/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data": "AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEExGenN0RWhMSXRCb1VsdXlI88aJmwY="} 
+#EXTHTTP:{"dt-custom-data":"AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEExGenN0RWhMSXRCb1VsdXlI88aJmwY="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true 
 #EXTINF:-1 group-title="" tvg-id="bioskopindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd #EXTINF:-1 tvg-id="GALAXY" group-title="Movies"
-
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd 
 
 
