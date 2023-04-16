@@ -50,7 +50,10 @@ https://webudit.onlinewebtv.lol/lb/premium466/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 https://webudit.onlinewebtv.lol/lb/premium467/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="bioskopindonesia.id" tvg-logo="",paramont
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="" tvg-id="bioskopindonesia.id" tvg-logo="",paramont new
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd 
 
 
