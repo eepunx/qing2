@@ -557,10 +557,11 @@ http://iptvid.my.id/hmm/Arviams/ams600/useesport.m3u8
 
 
 ////////
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg", Diema 1
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg", Diema 1 test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.onlinewebtv.lol/lb/premium465/index.m3u8
+https://webudit.salamus1.lol/lb/premium465/index.m3u8
+
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://nstatic.nova.bg/public/doc/doc/1625131615_ds_web.jpg", Diema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
