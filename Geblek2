@@ -328,8 +328,7 @@ http://livetv.dnsfor.me:80/channel.09.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo2.png" group-title="HK/Taiwan 🇭🇰🇹🇼",HKIB hd
 
 
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" 
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -349,7 +348,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e 
-#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27,Suria 
+#EXTINF:-1 group-title="Singapore 🇸🇬" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/1599px-Mediacorp_Suria_logo.svg.png?20220430083711",Suria 
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
