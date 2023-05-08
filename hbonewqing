@@ -112,8 +112,8 @@ http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji
-https://beetv.my.id/x/usee-ochannel-masihsama.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji FHD
+#https://beetv.my.id/x/usee-ochannel-masihsama.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji 
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
 
@@ -758,6 +758,7 @@ https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=875
 
 ---YUEFSI----
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports",True Sports
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
@@ -766,6 +767,7 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 -----------Formula-----
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", SkySp F1 
+http://89.47.232.72:8080/live/Chris/Chris/5539.ts
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", SkySp F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
