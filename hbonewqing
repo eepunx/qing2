@@ -580,6 +580,13 @@ https://webudit.salamus1.lol/lb/premium466/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 https://webudit.salamus1.lol/lb/premium467/index.m3u8
 
+
+
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Qingsports",PPTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+
+
 ------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="Qingsports",SCTV 15
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
