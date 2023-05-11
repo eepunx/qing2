@@ -335,6 +335,7 @@ http://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm4QXGKX/Aniplus.png" group-title="Kids", Aniplus 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdsd7fH5/Disney-Channel.png" group-title="Kids",Disney Channel 
