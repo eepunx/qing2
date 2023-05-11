@@ -5,8 +5,8 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Indonesia Lokal",Sctv 
+#KODIPROP:inputstream.adaptive.license_key= https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Indonesia Lokal",Sctv cek
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 
