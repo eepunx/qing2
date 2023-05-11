@@ -432,6 +432,18 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Malaysia 🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria 
 #http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+///////////Thailand ////
+
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="THAILAND", Amarin TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
+
+
+
+
+
+
 
 
 ==========SPROT===========
