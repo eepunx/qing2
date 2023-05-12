@@ -336,7 +336,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm4QXGKX/Aniplus.png" group-title="Kids", Aniplus 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/dr9445/h/h02/02.m3u8
+http://210.210.155.37/dr9445/h/h02/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdsd7fH5/Disney-Channel.png" group-title="Kids",Disney Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -462,27 +462,27 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/x6bnqe/h/h193/index.m3u8
+http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3Zck8RM ,MY Cinema Europe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35:80/uq2663/h/h18/01.m3u8
+http://210.210.155.37/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3GExy24" ,My Cinema 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/uq2663/h/h192/index.m3u8
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3VncoKa" ,My Family Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/uq2663/h/h194/index.m3u8
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3jPj9HC" ,Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/dr9445/h/h15/01.m3u8
+http://210.210.155.37/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3GDKsO7" ,Rock Entertainment 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/dr9445/h/h16/01.m3u8
+http://210.210.155.37/dr9445/h/h16/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="MOVIES 2",Paramount🔻
