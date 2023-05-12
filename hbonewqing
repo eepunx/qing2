@@ -189,25 +189,18 @@ http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 /// HBO /////
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png", HBO HD
-#http://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png", HBO Family HD 
-#http://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png", HBO HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=1kEm8DbZmS
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png", HBO Hits HD
-#http://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png", HBO Family HD 
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/197055
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="HBO" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature HD
-#http://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png", HBO Hits HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941647&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941645&extension=ts&play_token=1kEm8DbZmS
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
