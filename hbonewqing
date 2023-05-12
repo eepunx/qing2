@@ -1093,10 +1093,8 @@ https://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/cLvXSQkn/CI.png", Crime Investigation
 http://anevia114.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/BQQmhWxN/Animal-Planet.png", Animal Planet
-#http://anevia114.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
