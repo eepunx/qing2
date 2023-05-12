@@ -197,10 +197,12 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&e
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/197055
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png", HBO Hits HD
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941647&extension=ts&play_token=1kEm8DbZmS
+#http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941647&extension=ts&play_token=1kEm8DbZmS
+http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/196480
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941645&extension=ts&play_token=1kEm8DbZmS
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
