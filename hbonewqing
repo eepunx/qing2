@@ -194,11 +194,10 @@ http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png", HBO Family HD 
-http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/197055
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941646&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png", HBO Hits HD
-#http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941647&extension=ts&play_token=1kEm8DbZmS
-http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/196480
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941647&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941645&extension=ts&play_token=1kEm8DbZmS
