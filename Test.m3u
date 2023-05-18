@@ -1,14 +1,13 @@
-#EXTINF:-1 group-title="HBOGO" tvg-id="hboasia.sg" tvg-logo="",HBO pola iso
+#EXTINF:-1 group-title="HBOGO" tvg-id="hboasia.sg" tvg-logo="",HBO clearkey
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c#
 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 
-
-
+HB
 
 
 
