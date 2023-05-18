@@ -189,44 +189,33 @@ http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 /// HBO /////
-#EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO 🇮🇩
+#EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO test🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png",HBO Family 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png",HBO Hits 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
 
  
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png", HBO 🇹🇼
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=1kEm8DbZmS
-
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png", HBO Family 🇹🇼
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941646&extension=ts&play_token=1kEm8DbZmS
-
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png", HBO Hits 🇹🇼
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941647&extension=ts&play_token=1kEm8DbZmS
-
-#EXTINF:-1 group-title="HBO Group" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature 🇹🇼
-http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941645&extension=ts&play_token=1kEm8DbZmS
 
 
 
