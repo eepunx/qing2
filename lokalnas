@@ -1,7 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNC TV new server 
+#EXTINF:-1 group-title="Nasional 🇮🇩" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNC TV new server 
 https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="Nasional 🇮🇩" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", MNCTV backup
 #https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|User-Agent=android-R+
