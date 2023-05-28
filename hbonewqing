@@ -53,7 +53,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNC TV (V+)
 https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.ibb.co/y01BWj0/mnc-lean-paps.png", MNCTV (Trans)
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
@@ -65,7 +65,7 @@ https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.ibb.co/GtYfZr0/rcti-lean-paps.png", RCTI (Trans)
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI (Trans)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -73,7 +73,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e8258
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png", GTV (V+)
 http://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.ibb.co/19frQX4/gtv-lean-paps.png", GTV (Trans)
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png", GTV (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
@@ -96,7 +96,8 @@ https://sub.home-tv.my.id/first/sctv.m3u8
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV OTT 
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR
@@ -105,6 +106,8 @@ https://sub.home-tv.my.id/first/indosiar.m3u8
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR OTT
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
