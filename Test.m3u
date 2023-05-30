@@ -12,10 +12,10 @@ HB
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="MOVIES",Cinemachi HD
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="MOVIES",dreamworks 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-https://nyanv-live-cdn.mncnow.id/live/eds/Dreamworks-HD/sa_dash_vmx/Dreamworks-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamworks/sa_dash_vmx/Dreamworks.mpd
 
 
 
