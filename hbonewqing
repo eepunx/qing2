@@ -235,7 +235,31 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 
 
  
+///cinenemamaichi///
+#EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
+#EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Extra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
 
