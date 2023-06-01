@@ -234,6 +234,18 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group",HBO🇹🇼
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941648&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group",Hbo Hits🇹🇼
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941647&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group",Hbo family🇹🇼
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941646&extension=ts&play_token=shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group",Hbo signature🇹🇼
+http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941645&extension=ts&play_token=shareext.ts
+
+
+
+
  
 ///cinenemamaichi///
 #EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
