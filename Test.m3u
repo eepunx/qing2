@@ -1,18 +1,16 @@
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="Sport",DAZN F1
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="|Sport",DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV DZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6712bf2a84edcc93d001a9613f6fec:cfb5e2b73bef4f3c878f25ab86a7451f
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
-
-
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" group-title="|Sport",LaLiga TV BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[ {"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0 uFfw52QUqC/Xt8XSYeF6g"}, {"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0 uFfw52QUqC/Xt8XSYeF6g"}, {"kty":"oct","k":"BriRsZUyEcgoa7MSrQXp5Q","kid":"4 siMHOx4VHWrawWhxNFaeA"}, {"kty":"oct","k":"DQvy4ud5n/Jsi7grG+Z8ig","kid":"RDVDIBD0XdmWfc483hhmSw"} ],"type":"temporary" }
+https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
