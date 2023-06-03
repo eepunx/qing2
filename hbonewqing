@@ -869,10 +869,6 @@ https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_a
 
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgV5XE4ZYhV1IFB_c9T5zUmNu5h7PNZypi2Ol_x_-TyGq70vBtks38ilGGUxH1alkIizg13usYSJc8_o2S0-TfxwDst5wpPS36dmcXhMUxHCvfBjUf25_kLo6QdJYaTzYd3MArtV5UMu3eooq5ddjRtRwza-Qpu4-7U70fbnUXpb4GpBknNxEqOiB9bsw" group-title="Qingsports",Hub 1 SG
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgV5XE4ZYhV1IFB_c9T5zUmNu5h7PNZypi2Ol_x_-TyGq70vBtks38ilGGUxH1alkIizg13usYSJc8_o2S0-TfxwDst5wpPS36dmcXhMUxHCvfBjUf25_kLo6QdJYaTzYd3MArtV5UMu3eooq5ddjRtRwza-Qpu4-7U70fbnUXpb4GpBknNxEqOiB9bsw" group-title="Qingsports",Hub 2 SG
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgV5XE4ZYhV1IFB_c9T5zUmNu5h7PNZypi2Ol_x_-TyGq70vBtks38ilGGUxH1alkIizg13usYSJc8_o2S0-TfxwDst5wpPS36dmcXhMUxHCvfBjUf25_kLo6QdJYaTzYd3MArtV5UMu3eooq5ddjRtRwza-Qpu4-7U70fbnUXpb4GpBknNxEqOiB9bsw" group-title="Qingsports",Hub 4 SG
-
 
 
 //////sprot////
@@ -902,11 +898,6 @@ http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 ------------
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-1-id.png", Champion TV 1
-
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-2-id.png", Champion TV 2
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/champions-tv-3-id.png" group-title="Qingsports", Champion TV 3
 
 
 
@@ -931,7 +922,7 @@ http://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhZ00vvM1a09PrRNcsbwVnDE_tTxORhQU8g&usqp=CAU",SPOTV ON 🇰🇷
-https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
+
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbh83BFq1QTwk8gFy51G4kx5y_qFF8aJGaBw&usqp=CAU",SPOTV Prime 🇰🇷
 
@@ -1009,6 +1000,13 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 
 -----GOLF----
+#EXTINF:-1 group-title="Qingsports" tvg-id="ziggosportgolf.nl" tvg-logo="https://i.imgur.com/yMfvcUl.png",Ziggo Sports Golf
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "kid": "u0t47zl2RuOuXxO9sj1W7Q", "k": "wSR6lCxxJkQ6kyFMZ0Mf6A"}]}
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="Qingsports", NBC Golf 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
