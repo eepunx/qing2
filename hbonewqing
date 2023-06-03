@@ -969,12 +969,12 @@ https://webudit.salamus1.lol/lb/premium537/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.salamus1.lol/lb/premium404/index.m3u8
+#https://webudit.salamus1.lol/lb/premium404/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV 
-http://143.244.60.30/NBATV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA china
-https://epg.pw/stream/ffd05f5013174c5161b27fd72d40bb8c3116f8b3f770010af4368d0ea053ce58.m3u8
+
 
 #EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="Qingsports",DAZN 1
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="Qingsports",DAZN 2
@@ -985,7 +985,7 @@ https://epg.pw/stream/ffd05f5013174c5161b27fd72d40bb8c3116f8b3f770010af4368d0ea0
 #http://playhispano.org:8080/BOXDIGITAL/aJ4rpws3a0/170819
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg", Tennis Channel
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
 
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Qingsports",Super Tennis HD
@@ -1010,7 +1010,7 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 
 -----GOLF----
-#EXTINF:-1 group-title="Qingsports" tvg-id="ziggosportgolf.nl" tvg-logo="https://i.imgur.com/yMfvcUl.png",Ziggo Sports Golf
+#EXTINF:-1 group-title="Qingsports" tvg-id="ziggosportgolf.nl" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg",Ziggo Sports Golf
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1027,7 +1027,9 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 #https://webudit.salamus1.lol/lb/premium70/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="Qingsports",Movistar Golf
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="Qingsports",Golf Channel 
+http://173.225.246.25:8889/udp/239.203.20.51:4002
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 #https://webudit.salamus1.lol/lb/premium528/index.m3u8
