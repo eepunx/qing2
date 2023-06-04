@@ -6,7 +6,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR0qhWb7/Disney-Junior.png" group-title="KIDS", Disney Junior 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=314 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddylivehd.php?id=312 
+https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
 #https://webudit.cdnhks.lol/lb/premium313/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="KIDS",Disney XD 
