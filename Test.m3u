@@ -1,18 +1,18 @@
 
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", 311
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium311/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", 312
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdsd7fH5/Disney-Channel.png" group-title="KIDS",Disney Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 https://webudit.cdnhks.lol/lb/premium312/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", 313
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR0qhWb7/Disney-Junior.png" group-title="KIDS", Disney Junior 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 https://webudit.cdnhks.lol/lb/premium313/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="KIDS",Disney XD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+https://webudit.salamus1.lol/lb/premium314/index.m3u8
 
 
 
