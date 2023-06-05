@@ -1,17 +1,17 @@
-#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN Sports 1 English
+#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN 98
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium89/index.m3u8?
+https://webudit.cdnhks.lol/lb/premium98/index.m3u8?
 
-#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN Sports 2 English
+#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN 99
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium90/index.m3u8?
+https://webudit.cdnhks.lol/lb/premium99/index.m3u8?
 
-#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN Sports 3 English
+#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.cdnhks.lol/lb/premium46/index.m3u8?
+https://webudit.cdnhks.lol/lb/premium100/index.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV FHD
