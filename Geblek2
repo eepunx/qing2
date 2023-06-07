@@ -105,25 +105,39 @@ rtmp://219.80.97.77/sat/tv051
 #https://bit.ly/3WBDek3
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
-#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-LiEzyNt222Q/Y0Ks3H4n-LI/AAAAAAAAB2E/2LVGCVsWgWIqz1iLPY9BSIGuKGsQ9MJbgCNcBGAsYHQ/s1600/1665314009926342-0.png",民視旅遊台
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-LiEzyNt222Q/Y0Ks3H4n-LI/AAAAAAAAB2E/2LVGCVsWgWIqz1iLPY9BSIGuKGsQ9MJbgCNcBGAsYHQ/s1600/1665314009926342-0.png",民視旅遊台 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#https://bit.ly/3oEgAuQ
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-LiEzyNt222Q/Y0Ks3H4n-LI/AAAAAAAAB2E/2LVGCVsWgWIqz1iLPY9BSIGuKGsQ9MJbgCNcBGAsYHQ/s1600/1665314009926342-0.png",民視旅遊台 lama
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://bit.ly/3oEgAuQ
 
-#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-E-kmz6tKxXs/Y0KqQVl3z2I/AAAAAAAAB1g/-f5IQHy6RdowaUKo1AmSFHKFqArnGLQ2QCNcBGAsYHQ/s1600/1665313343346147-3.png",民視台灣台
+#EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-E-kmz6tKxXs/Y0KqQVl3z2I/AAAAAAAAB1g/-f5IQHy6RdowaUKo1AmSFHKFqArnGLQ2QCNcBGAsYHQ/s1600/1665313343346147-3.png",民視台灣台 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/43yht6G
+#https://bit.ly/43yht6G
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+
+
+
+h
+
 
 #EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-ndUV_II6zJw/Y0Kr1KTXjbI/AAAAAAAAB18/6KJdLKT3Xhwx0mmmlADcntXPV2LBJt9wwCNcBGAsYHQ/s1600/1665313746095558-0.png",民視影劇台
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/3qexnoA
+#https://bit.ly/3qexnoA
+http://seb.sason.top/ptv/ftv.php?id=yj
 
 #EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png",民視第一台
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/3WGB9n1
+#https://bit.ly/3WGB9n1
+http://seb.sason.top/ptv/ftv.php?id=dy
 
 #EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-_A8mrsj2GbI/Y0KqPb1bZQI/AAAAAAAAB1c/s2kvmEMfPh4_mJEIaRzA5GBq0lyeBmKJQCNcBGAsYHQ/s1600/1665313339495568-4.png",民視綜藝台
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/43doSc7
+#https://bit.ly/43doSc7
+http://seb.sason.top/ptv/ftv.php?id=zy
 
 #EXTINF:-1 tvg-id="6108" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TAIWAN+
 https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
