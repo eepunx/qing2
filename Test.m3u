@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="" group-title="kids",dreamworks 
+
+https://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+
 #EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="https://i.imgur.com/qtcHsxc.png" group-title="SPORTS 2",beIN 98
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
