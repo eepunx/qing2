@@ -98,7 +98,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_
 #EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png",FTV General 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #https://bit.ly/3N0NzTf
-rtmp://219.80.97.77/sat/tv051
+#rtmp://219.80.97.77/sat/tv051
+http://seb.sason.top/ptv/ftv.php?id=ms
 
 #EXTINF:0 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://lh3.googleusercontent.com/-6WS4rLOA8_8/Y0KqRNtWYzI/AAAAAAAAB1k/cbAOu9T4qQEnRA6ziEokCy3Ic5cTBw9HACNcBGAsYHQ/s1600/1665313346793424-2.png",民視新聞台
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
@@ -154,9 +155,9 @@ https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeas
 
 
 #EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",八大综合
-http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#
 #EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",美亚电影
-http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#
 
 #EXTINF:-1 tvg-id="TVBJade.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TVB Jade (翡翠台)
 
