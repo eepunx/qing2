@@ -210,37 +210,44 @@ http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 /// HBO /////
 #EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group",HBO 🇮🇩 (backup)
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png",HBO Family 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group",Hbo fam 🇮🇩 (backup)
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png",HBO Hits 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group",Hbo Hits 🇮🇩 (backup)
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group",Hbo sig 🇮🇩 (backup)
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
+
 
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO Group" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO 🇹🇭
 http://live.vthanhtivi.pw/hbo
-#EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="HBO Group" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png", HBO Fam 🇹🇭
-http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941646
-#EXTINF:-1 tvg-id="hbohitshd-asia" group-title="HBO Group" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png", HBO Hits 🇹🇭
-http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941647
-#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="HBO Group" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png", HBO Sig 🇹🇭
-http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941645
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO Group" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax 🇹🇭
 http://live.vthanhtivi.pw/cinemax
 
