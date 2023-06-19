@@ -63,6 +63,11 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI (backup 1)
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683099&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI (backup 2)
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI (Trans)
