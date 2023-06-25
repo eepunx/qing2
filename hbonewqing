@@ -716,6 +716,11 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 
+EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SportsMax.png",SportsMax
+http://173.225.246.25:8889/udp/239.203.20.132:4001
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/SportsMax.png",SportsMax 2
+http://173.225.246.25:8889/udp/239.203.20.149:4001
+
 
 ///Arena//
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2dFqUoXCqCY2s3eCCJCTDGff1n2niYJO-w&usqp=CAU" group-title="Qingsports",Arena Sport 1
@@ -974,7 +979,6 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 -----------Formula-----
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", FOX Sports
 
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", SkySp F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
@@ -1029,7 +1033,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 
------GOLF----
+-----GOLF🏌️----
 #EXTINF:-1 group-title="Qingsports" tvg-id="ziggosportgolf.nl" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg",Ziggo Sports Golf
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1066,7 +1070,6 @@ https://youdooball.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport1HD.png" group-title="Qingsports",Eurosport 1 HD
 #EXTINF:-1 tvg-logo="http://boomtivi.xyz/images/logos/DE/Eurosport2HD.png" group-title="Qingsports",Eurosport 2 HD
 
-
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
@@ -1087,8 +1090,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Qingsports",SUKAN rtm
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
@@ -1101,11 +1102,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 ///////🟢FOX Sport🟢//////////
 #EXTINF:-1 tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png" group-title="Qingsports",Fox Sports 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://lh3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png", Fox Sports 1 🇪🇦
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/DpnatBM.png", Fox Sports 2 🇪🇦
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/w8sjQN2.png", Fox Sports 3 🇪🇦
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 
 /////////⛔BEIN sports⛔//////
