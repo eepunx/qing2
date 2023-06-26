@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="No group" tvg-id="elevensport.ro" tvg-name="elevensport.ro", Eleven 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="No group" tvg-id="elevensport.ro" tvg-name="elevensport.ro", Eleven 1 nyala
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -12,7 +12,7 @@ http://127.0.0.1:37237/video/aHR0cHM6Ly90dnZ2aWRlb2xpdmUzLnNvbG9jb28udHYvYmx1ZXN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
-http://127.0.0.1:37237/video/aHR0cHM6Ly93ZWJ1ZGkub3BlbmhkLmxvbC9sYi9wcmVtaXVtNDU2L2luZGV4Lm0zdTg=.m3u8
+http://127.0.0.1:37237/video/aHR0cHM6Ly93ZWJ1ZGkub3BlbmhkLmxvbC9sYi9wcmVtaXVtNDU2L2luZGV4Lm0zdTg=.0%22
 
 
 #EXTINF:-1 tvg-id="BeIN Sports English 1 4K" tvg-logo="" group-title="kids",dreamworks 
