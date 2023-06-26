@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcMKOFdZ4clFzAPBHt1gD5ut-oGzP8RJbuw&usqp=CAU" group-title="3. SPORTS",Max Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+https://webudit.cdnhks.lol/lb/premium472/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPhkmq2UOmuC1GsGSgwnD1rytgsMlybidneA&usqp=CAU" group-title="3. SPORTS",Max Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+https://webudit.cdnhks.lol/lb/premium473/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5pw1TZF_S2HmEhjkK9i5Kf8w_Jyw18VrqMg&usqp=CAU" group-title="3. SPORTS",Max Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+https://webudit.cdnhks.lol/lb/premium474/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd76oBKPmQBjMnUpFRZfLLm4Zc4MJIWS5gWw&usqp=CAU" group-title="3. SPORTS",Max Sport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+https://webudit.cdnhks.lol/lb/premium475/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="No group" tvg-id="elevensport.ro" tvg-name="elevensport.ro", Eleven 1 nyala
