@@ -350,67 +350,6 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 ///////////Thailand 🇹🇭////
 
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="THAILAND🇹🇭", Amarin TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="THAILAND🇹🇭",CH3 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8 
-#EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="THAILAND🇹🇭",CH7 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH 8" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="THAILAND🇹🇭",CH 8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8 
-#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="THAILAND🇹🇭",GMM 25 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8 
-#EXTINF:-1 tvg-chno="30" tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="THAILAND🇹🇭",MCOT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8 
-#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="THAILAND🇹🇭",MONO 29 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
-
-#EXTINF:-1 tvg-chno="22" tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="THAILAND🇹🇭",Nation TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8 
-#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="THAILAND🇹🇭",NBT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8 
-#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="THAILAND🇹🇭",PPTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8 
-#EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="THAILAND🇹🇭",Thairath TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8 
-#EXTINF:-1 tvg-chno="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="THAILAND🇹🇭",TPTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
-
-#EXTINF:-1 tvg-chno="31" tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="THAILAND🇹🇭",ONE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8 
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND🇹🇭",Altv 4 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8 
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="THAILAND🇹🇭", Altv 4 SD 
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://seeklogo.com/images/A/AND-logo-B08B08AEAC-seeklogo.com.gif" group-title="THAILAND🇹🇭",And TV 
-https://live.thaitvstream.com/play/andtv/index.m3u8 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://pbs.twimg.com/profile_images/616532058718892032/SmjrJwro_400x400.jpg" group-title="THAILAND🇹🇭", Attv 
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png" group-title="THAILAND🇹🇭", CTB 
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="THAILAND🇹🇭", Jkn 18 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" group-title="THAILAND🇹🇭", Tnn 16 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
 
 
 
@@ -456,70 +395,6 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142718.m3u8
 
 /////JAPAN 🇯🇵////
 
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS日テレ
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BSTBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS12
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Tokyo TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Osaka TV
-https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Asahi TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",0テレ
-http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",?1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Tokyo MX1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Sun TV
-https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Yomiuri
-https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
-
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK BS1
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",NHK BSP
-http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 1
-http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 2
-http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Star 3
-https://cdn.us195.jpnettv.live/jptv/starch3_720/playlist.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Toei Channel
-https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
-
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS日テレ
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BSTBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",BS12
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 2
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan Sports 3
-http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Japan TV G
-https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8
-
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Disney Channel 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Disney Jr 🇯🇵
-https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
-#EXTINF:-1 group-title="Japan 🇯🇵" tvg-logo="",Animax 🇯🇵
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 
 
