@@ -214,65 +214,44 @@ http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 /// HBO /////
-#EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO 🇮🇩
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group",HBO (Go)
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group",Hbo Hits (Go)
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197080
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group",Hbo fam (Go)
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group",Hbo sig (Go)
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197048
+#EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax (Go)
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
+
+#EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group",HBO 🇮🇩 (backup)
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236278
-
-#EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax 🇮🇩
+#EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
-#EXTINF:-1 group-title="HBO Group" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax 🇮🇩 (backup)
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236279
-
-#EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png",HBO Family 🇮🇩
+#EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png",HBO Family (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group",Hbo fam 🇮🇩 (backup)
-
-
-#EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png",HBO Hits 🇮🇩
+#EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png",HBO Hits (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group",Hbo Hits 🇮🇩 (backup)
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384427
-
-#EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature 🇮🇩
+#EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group",Hbo sig 🇮🇩 (backup)
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384427
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO Group" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO 🇹🇭
-http://live.vthanhtivi.pw/hbo
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO Group" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax 🇹🇭
-http://live.vthanhtivi.pw/cinemax
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group",HBO 🇹🇼
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941648&extension=ts&play_token=shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group",Hbo Hits 🇹🇼
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941647&extension=ts&play_token=shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group",Hbo fam 🇹🇼
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941646&extension=ts&play_token=shareext.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group",Hbo sig 🇹🇼
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941645&extension=ts&play_token=shareext.ts
-
-
-
-
- 
 ///cinenemamaichi///
 #EXTINF:-1 group-title="Cinamachi Group" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -300,65 +279,16 @@ https://anevia114.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtr
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
-
----server 2----
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO (server 2)",HBO (anevi-live)
-#https://anevi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO (server 2)",HBO FAM (av-live)
-#https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO (server 2)",HBO SIGNATURE (new-anv)
-#https://newanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO (server 2)",HBO HITS (nyanv-live)
-#https://nyanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="HBO (server 2)",CINEMAX (anevia114)
-#https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-
-
 ///// RELIGI /////
 #EXTINF:-114 group-title="RELIGI" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",MUADZ TV
-
-
 #EXTINF:-105 group-title="RELIGI" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png" group-title="RELIGI", WESAL TV
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzbQJvm.png" group-title="RELIGI",AHSAN TV
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="RELIGI",AL BAHJAH TV
-
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-CWb5ok09I_E/W9Zz5occECI/AAAAAAAAgAA/HxEMl61IzsUNMaaI-GQEQuAsdE_B_PuaQCLcBGAs/s320/surau%2Btv.png" group-title="RELIGI",SURAU TV
-
-
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGI", AL IMAN TV
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/izzah-tv-id.png", group-title="RELIGI", IZZAH TV
- 
-
-
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg", group-title="RELIGI", ALFURQON TV
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
