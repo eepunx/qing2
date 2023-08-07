@@ -118,8 +118,13 @@ http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png", NET
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png", NET.
 http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png", NET.(Dens)
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Indonesia❤️", Moji digital
 http://103.166.27.2:800/play/a017
