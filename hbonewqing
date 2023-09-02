@@ -611,6 +611,17 @@ http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Qingsports", Moji digital
 http://103.166.27.2:800/play/a017
 
+----ESPN---
+#EXTINF: -1 tvg-id="espn.us" tvg-name="ESPN 1 US" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Qingsports", ESPN 1 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099158
+#EXTINF: -1 tvg-id="espn2.us" tvg-name="ESPN 2 US" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Qingsports", ESPN 2 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099159
+
+
 -----wolrdcup----
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Qingsports",Fox Sports Premium
