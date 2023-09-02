@@ -612,8 +612,59 @@ http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://103.166.27.2:800/play/a017
 
 -----wolrdcup----
-#EXTINF:-1 tvg-id="143" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/ba/Piala_Dunia_U-20_FIFA_2023.png" group-title="Qingsports",Live 1
-#http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Qingsports",Fox Sports Premium
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/512
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Qingsports",Fox Sports Arg
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/402
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Qingsports",Fox Sports Arg 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/410
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Qingsports",Fox Sports Arg 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/511
+
+#EXTINF:-1 tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png" group-title="Qingsports",Fox Sports Sp
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://lh3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png", Fox Sports 🇪🇦
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/527
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/DpnatBM.png", Fox Sports Sp 2 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/528
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/w8sjQN2.png", Fox Sports Sp 3 
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/54
+
+
+
 
 -----cempion----
 
@@ -917,49 +968,6 @@ https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 
 
 ///////🟢FOX Sport🟢//////////
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Qingsports",Fox Sports Premium
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/512
-
-#EXTINF:-1, tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png" group-title="Qingsports",Fox Sports Sur
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/402
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="Qingsports",Fox Sports Sur 2
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/410
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="Qingsports",Fox Sports Sur 3
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/511
-
-#EXTINF:-1 tvg-logo="h3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png" group-title="Qingsports",Fox Sports 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://lh3.googleusercontent.com/-BUu_P_0J7sE/Y6OpbFAeeoI/AAAAAAAAEGs/GwMnyJNwnNcAzuvj5A2vaIUFNXGTzej5wCNcBGAsYHQ/w945-h600-p-k-no-nu/1671670122194703-0.png", Fox Sports 🇪🇦
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/527
-
-#https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-
-
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/DpnatBM.png", Fox Sports 2 🇪🇦
-#https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://i.imgur.com/w8sjQN2.png", Fox Sports 3 🇪🇦
-#https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 
 /////////⛔BEIN sports⛔//////
