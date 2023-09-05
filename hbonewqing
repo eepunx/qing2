@@ -623,6 +623,10 @@ https://webudit.cdnhks.lol/lb/premium44/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.cdnhks.lol/lb/premium45/index.m3u8 
 
+#EXTINF: -1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="https://logo.iptveditor.com/nflnetwork.png" group-title="Qingsports", NFL NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099246
 
 -----wolrdcup----
 
