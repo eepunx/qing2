@@ -50,7 +50,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV
-https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV (Trans)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
