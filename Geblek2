@@ -134,6 +134,10 @@ https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeas
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/SETTV_Metro_Chinnel.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET Metro (三立都會台)
 https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 
+#EXTINF:-1 group-title="HK/Taiwan 🇭🇰🇹🇼" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/1284/20221109164645-360518426_jpeg_665_444_65538.jpg/1284",SET Drama (三立戏剧台)
+http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+
+
 #EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",八大综合
 
 #EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="HK/Taiwan 🇭🇰🇹🇼",美亚电影
