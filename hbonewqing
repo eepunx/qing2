@@ -180,15 +180,28 @@ http://nxanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 /// HBO /////
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group", HBO
-http://sysadminhost.net:8080/stadnik/6a627b52a9/197972
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group", HBO Family
-http://sysadminhost.net:8080/stadnik/6a627b52a9/197055
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group", HBO Hits
-http://sysadminhost.net:8080/stadnik/6a627b52a9/196480
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group", HBO Signature
-http://sysadminhost.net:8080/stadnik/6a627b52a9/221948
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="HBO Group", Cinemax
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="HBO Group", HBO FHD
+http://sysadminhost.net:8080/stadnik/6a627b52a9/197972
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="HBO Group", HBO Family FHD
+http://sysadminhost.net:8080/stadnik/6a627b52a9/197055
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="HBO Group", HBO Hits FHD
+http://sysadminhost.net:8080/stadnik/6a627b52a9/196480
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="HBO Group", HBO Signature FHD
+http://sysadminhost.net:8080/stadnik/6a627b52a9/221948
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="HBO Group", Cinemax FHD
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197964
 
 
