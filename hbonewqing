@@ -840,15 +840,7 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 
 
 ////////
---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="Qingsports",SCTV 15
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/SCTV_logo_%28Vietnam%29.png" group-title="Qingsports",SCTV 17
-
 ---------------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_of_Ho_Chi_Minh_Television.svg/806px-Logo_of_Ho_Chi_Minh_Television.svg.png" group-title="Qingsports", HTV
-
-----------------
 
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="Qingsports",BT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -936,23 +928,15 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
-//////sprot////
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhZ00vvM1a09PrRNcsbwVnDE_tTxORhQU8g&usqp=CAU",SPOTV ON 🇰🇷
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbh83BFq1QTwk8gFy51G4kx5y_qFF8aJGaBw&usqp=CAU",SPOTV Prime 🇰🇷
---------------
-
-
 -----------Formula-----
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", FOX Sports
-
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", SkySp F1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 #https://webudit.cdnhks.lol/lb/premium60/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2020/01/Formula-1-logo-678.1.png" group-title="Qingsports", DAZN F1 
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 #https://webudit.cdnhks.lol/lb/premium537/index.m3u8
