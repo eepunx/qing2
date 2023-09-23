@@ -252,16 +252,17 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia 🇲🇾",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png" group-title="Malaysia 🇲🇾",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/800px-TV6_Logo.jpg" group-title="Malaysia 🇲🇾",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia 🇲🇾",NTV 7
 #EXTVLCOPT:http-referrer=https://dailymotion.com
@@ -280,10 +281,15 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia 🇲🇾",TV OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 group-title="Malaysia 🇲🇾" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Berita%20RTM.jpg",Berita RTM 
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-id="CHN" group-title="Malaysia 🇲🇾" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+#https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_alhijrah.png" group-title="ISLAMI",TV-Alhijrah
