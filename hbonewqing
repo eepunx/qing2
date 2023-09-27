@@ -1378,18 +1378,12 @@ http://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleF
 
 
 ///// MUSIK /////
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Music", Prambors ID🔻
-#https://cdn11jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=eLFrXIfNDQMwqeZGpwgYcA&uid=&expp=1662899081
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png"  group-title="Music",MALEO TV
-
-#https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Music" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIC TV🔻
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="Music" tvg-logo ="https://i.postimg.cc/NM7Rv4hB/9xm.png", 9XM india
+#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="Music", KPOP
@@ -1397,22 +1391,38 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="Music", KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Music", MCM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="Music",MTV Live
+https://bit.ly/46646g0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTINF:-1 tvg-id="MTV90s" tvg-url="" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="Music",MTV 90s
+https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/MZMj4htb/MTVL.png" group-title="Music", MTV Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Now4K%20HD-FM-Chl-345.jpg" group-title="Music",Stingray Now
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynow.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Djazz%20HD-FirstMedia-Chl-334.jpg" group-title="Music",Stingray Jazz
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayjazz.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="Music",Stingray Festival
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="",MTV Hits
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="Music", Citra Dangdut
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="Music",Nagaswara Dangdut
+https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="Music",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/MTV_Circle_476x476_SamsungTV.png",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://paultclark.com/tv/mtv-block.png",MTV Block Party 
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://ia803100.us.archive.org/19/items/CmtMusic/cmt%20music.png",CMT music 
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+--------
