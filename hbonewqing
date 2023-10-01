@@ -555,6 +555,46 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/q70ysxkP/HITSMOVIES.png", HITS Movies
 http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+-- MEDIACROP ASIAN GAMES -----
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE EVENT
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
+
+ASIAN GAMES CHINA
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 1
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation51/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3a327c3769e750894bb30b35ffb63a63
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 2
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation52/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=72686708b502d3b8d8d091c5a2132803
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 3
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation53/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e60a656af7c0bf1ad9286d81223cd5bc
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 4
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation54/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=311c48c3e59c036d1b9d95b3d9f3f64d
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 5
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation55/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cacf7e0730769dac2d88d81415423906
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 6
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation56/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=548904ffa18533be1cb78c980c3b2614
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 7
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation57/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ab76e86390524f8c4d407eb7e514c521
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 8
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation58/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4a74fe07dad1ef91ba93fcf7fbb71ade
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 9
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation59/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8a76d4326f9420750a5d742fdbe7243f
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 10
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation60/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=058c7b1273a21f0f86db490151255c9a
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 11
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation61/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f386db9586e3db7469848c7fb6f97177
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 12
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation62/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=db75ce9c7660e44e272d22f707c34a0f
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 13
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation63/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9ffe2e7050483968cb68d610a632bf42
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 14
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation64/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=016871adcfbddf12decd54c15c340973
+#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 15
+https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation65/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5c5546d63b17fb2bd9bbac904d9dd0b5
+
+
+
+
+
 
 ///// SPORTS /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
