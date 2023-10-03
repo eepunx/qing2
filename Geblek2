@@ -383,10 +383,6 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzse.png" group-title="China Provinsi 🇨🇳",FZTV 少儿
 
 
-#EXTINF:-1 group-title="China Provinsi 🇨🇳" tvg-logo="http://www.bigaovi.com/uploadfiles/201910/20191011185720952095.png",新闻综合
-https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
-
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="China Provinsi 🇨🇳",Chinese Drama
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -524,8 +520,32 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 
 
 ////Koseljapan////
-
-
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daejeon
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Gwangju
+https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daegu
+https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Ulsan
+https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Busan
+https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/2560px-KBS_DRAMA.svg.png", KBS Drama
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/2560px-KBS_JOY.svg.png", KBS Joy
+https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/1024px-KBS_Story.svg.png", KBS Story
+https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/2560px-KBS_Life.svg.png", KBS Life
+https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/2560px-KBS_N_Sports.svg.png", KBSN Sports
+https://code.vthanhtivi.pw/getlink/jptvvn/193/playlist.m3u8
 
 
 ########################## RADIO ##########################
