@@ -664,6 +664,15 @@ https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="Qingsports",Astro SuperSport 1
+https://m3.ballnaja.com/live/assp1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="Qingsports",Astro SuperSport 2
+https://m3.ballnaja.com/live/assp2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="Qingsports",Astro SuperSport 3
+https://m3.ballnaja.com/live/assp3/chunks.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115", Astro Supersport 4
+https://m3.ballnaja.com/live/assp4/chunks.m3u8
+
 ----FS-----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="Qingsports", FS1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="Qingsports", FS2
@@ -724,36 +733,28 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ----ASTROSport---
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Qingsports",Astro SuperSport
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Qingsports",Astro SuperSport 2
-#http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Qingsports",Astro SuperSport 3
-#http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Qingsports",Astro SuperSport 4
-#http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
 
 ¶¶¶¶¶¶¶¶ASTRO¶¶¶¶¶¶
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Qingsports", ASTRO SUPERSPORT
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium123/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 2
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium124/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 3
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium125/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium125/index.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Qingsports", ASTRO SUPERSPORT 4
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium126/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport5_v1.png" group-title="Qingsports",ASTRO SUPERSPORT 5 
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium43/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium43/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="Qingsports",beIN 1 TH 🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
