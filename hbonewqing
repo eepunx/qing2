@@ -1156,7 +1156,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 http://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/BQQmhWxN/Animal-Planet.png", Animal Planet
-http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
+http://iptvtree.net:8080/EyQcvdQmdH/3373082b90/157532
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
