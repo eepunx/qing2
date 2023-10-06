@@ -564,6 +564,16 @@ https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation65/51/01.m3u8?=&mt
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="BEIN Sports",beIN 1 TH 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
+https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="BEIN Sports",beIN 2 Fr
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="BEIN Sports",beIN 3 TH 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
+https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 2 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 3
@@ -579,24 +589,22 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BEIN Sports",beIN 2 FRANCE 🇫🇷
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BEIN Sports",beIN 3 FRANCE 🇫🇷
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 1 Turki 🇹🇷
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 2 Turki 🇹🇷
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 3 Turki 🇹🇷
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 1 Turki 🇹🇷
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 2 Turki 🇹🇷
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 3 Turki 🇹🇷
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 4 Turki 🇹🇷
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 5 Turki 🇹🇷
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 1 Arb
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 2 Arb
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 3 Arb
 
-%%%%%%BEIN%%%%
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="BEIN Sports",beIN 1 TH 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="BEIN Sports",beIN 2 Fr
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="BEIN Sports",beIN 3 TH 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
 
 
 
