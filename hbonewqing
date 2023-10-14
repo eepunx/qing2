@@ -618,23 +618,15 @@ https://webudit.vipboxtv.stream/lb/premium117/index.m3u8
 https://webudit.vipboxtv.stream/lb/premium118/index.m3u8
 
 
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 1 Turki 🇹🇷
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 2 Turki 🇹🇷
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 3 Turki 🇹🇷
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 4 Turki 🇹🇷
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 5 Turki 🇹🇷
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 1 Arb
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 2 Arb
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEIN Sports",beIN 3 Arb
-
-
 
 
 
@@ -692,12 +684,12 @@ http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="Qingsports", Moji digital
-http://103.166.27.2:800/play/a017
 
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Qingsports", Premier Sports (FM)
 https://bit.ly/46uOrGT
 
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png", Insider
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 -----truesp---
 
 #EXTINF:-1 group-title="Qingsports" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
@@ -748,19 +740,22 @@ https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1
+https://bit.ly/3C6tK6F?/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2
+https://bit.ly/3OG6GmP?/playlist.m3u8
+
+
+===Astrosp===
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="Qingsports",Astro SuperSport 1
-https://m3.ballnaja.com/live/assp1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="Qingsports",Astro SuperSport 2
-https://m3.ballnaja.com/live/assp2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="Qingsports",Astro SuperSport 3
-https://m3.ballnaja.com/live/assp3/chunks.m3u8
 #EXTINF:-1 group-title="Qingsports" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115", Astro Supersport 4
-https://m3.ballnaja.com/live/assp4/chunks.m3u8
 
 ----FS-----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="Qingsports", FS1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="Qingsports", FS2
-
 
 ----ESPN---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Qingsports", ESPN mx
@@ -780,7 +775,6 @@ https://webudit.vipboxtv.stream/lb/premium44/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.vipboxtv.stream/lb/premium45/index.m3u8 
-
 
 #EXTINF: -1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="https://logo.iptveditor.com/nflnetwork.png" group-title="Qingsports", NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
