@@ -669,6 +669,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Qingsports",TV OKEY (AFF)
 
+---YUEFSI----
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports", Unifi (UFC live) 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ------------
 
@@ -804,9 +807,6 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="PTVSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="Qingsports",PTV SPORTS  
 http://175.107.244.52:4457/play/a08g/index.m3u8
 ----------
----YUEFSI----
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports", Unifi (UFC live) 
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 -----maxspor----
