@@ -523,6 +523,10 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 
 
 ////Koseljapan////
+#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1600px-KBS_World_%282009%29.svg.png", KBS Wolrd
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daejeon
 https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Gwangju
