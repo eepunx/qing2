@@ -120,7 +120,7 @@ https://s.id/1V5RG
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia❤️", Moji OTT
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia❤️", Moji Dens
-https://bit.ly/474asfI
+https://bit.ly/3tMoswx
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1130,8 +1130,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 http://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/BQQmhWxN/Animal-Planet.png", Animal Planet
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
-https://bit.ly/3MdG0Yx
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+#https://bit.ly/3MdG0Yx
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
