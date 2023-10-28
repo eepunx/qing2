@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1204px-Paramount_Network.svg.png" group-title="MOVIES 2",para baru 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/eepunx/cancan/main/para
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1204px-Paramount_Network.svg.png" group-title="MOVIES 2",Paramount Network 2
