@@ -736,10 +736,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2
 http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg",SPOTV (F.media)
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2 (F.media)
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 1 🚴🏸
+https://bit.ly/3C6tK6F?/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 2 🚴🏸
+https://bit.ly/3OG6GmP?/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
@@ -811,31 +812,16 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1
-https://bit.ly/3C6tK6F?/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2
-https://bit.ly/3OG6GmP?/playlist.m3u8
 
 ===SPORTTV====
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Qingsports",Sporttv 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Qingsports",Sporttv 2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Qingsports",Sporttv 3
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="Qingsports",Sporttv 4
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-
-===ORANGESp===
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="Qingsports", ORANGE Sport 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="Qingsports", ORANGE Sport 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="Qingsports", ORANGE Sport 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="Qingsports", ORANGE Sport 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
-
+#https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 
 ===ELEVEN===
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg", ELEVEN 1
@@ -1076,11 +1062,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Channel
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Asia
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/03.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch30)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch30)/index.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Turbo
 https://bit.ly/3Q9remT
 
