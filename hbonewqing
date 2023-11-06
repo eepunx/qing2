@@ -676,7 +676,6 @@ https://sc2022.stream-link.org/tv2306.php?id=s17
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/BeIN_Sports_Rugby_Logo.png" group-title="BEIN Sports",beIN Rugby
 https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 1 Turki 🇹🇷
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 2 Turki 🇹🇷
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BEIN Sports",beIN 3 Turki 🇹🇷
@@ -693,7 +692,8 @@ https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 ///// SPORTS /////
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/1597px-KBS_N_Sports.svg.png",KBSN Sp (Megatron 🏐)
 http://110.47.7.144:9981/stream/channelid/90
-
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/1597px-KBS_N_Sports.svg.png",SBS Sp (Megatron 🏐)
+http://110.47.7.144:9981/stream/channelid/89
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -800,7 +800,7 @@ https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 --premire sport---
 
 #EXTINF:-1 tvg-logo="https://www.fifplay.com/img/public/premier-league-logo.png" group-title="Qingsports",Live Premier Lg
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1 FHD
 https://edge1.laotv.la/live/TSport1/index.m3u8
