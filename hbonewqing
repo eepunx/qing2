@@ -691,9 +691,7 @@ https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 
 ///// SPORTS /////
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/1597px-KBS_N_Sports.svg.png",KBSN Sp (Megatron 🏐)
-http://110.47.7.144:9981/stream/channelid/90
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/1597px-KBS_N_Sports.svg.png",SBS Sp (Megatron 🏐)
-http://110.47.7.144:9981/stream/channelid/89
+#http://110.47.7.144:9981/stream/channelid/90
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
