@@ -1089,6 +1089,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Channel
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+http://173.225.246.25:8889/udp/239.203.20.26:4001
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Asia
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/03.m3u8
