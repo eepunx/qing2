@@ -753,6 +753,11 @@ https://bit.ly/3C6tK6F?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 2 🚴🏸
 https://bit.ly/3OG6GmP?/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png",Rush Sports 1
+https://bit.ly/3FZEgP3
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png",Rush Sports 2
+https://bit.ly/3FSsl5H
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mb4RgLS/USP.png" group-title="Qingsports",UseeSports 1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq7N8cY7/USP-2.png" group-title="Qingsports",UseeSports 2 
