@@ -625,7 +625,13 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/q70ysxkP/HITSMOVIES.png", HITS Movies
 http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-///worldkap///
+
+///⚽worldkap⚽///
+#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 SD
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918986&extension=ts&play_shareext@assp1_my
+#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 SD
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918985&extension=ts&play_shareext@assp2_my
+
 #EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 HD
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
 #EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 HD
