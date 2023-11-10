@@ -243,9 +243,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #http://tvkuonline.my.id:25461/riyad/riyad/424
 
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO GRUP" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO 🇻🇳
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO GRUP" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax 🇻🇳
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
