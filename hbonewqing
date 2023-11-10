@@ -625,6 +625,17 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/q70ysxkP/HITSMOVIES.png", HITS Movies
 http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+///worldkap///
+#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
+
+
 
 
 /////////⛔BEIN sports⛔//////
