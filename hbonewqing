@@ -629,11 +629,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///⚽worldkap⚽///
 
-#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 FHD
-https://sc2022.stream-link.org/tv2306.php?id=s19
-#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 FHD
-https://sc2022.stream-link.org/tv2306.php?id=s20
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png" group-title="⚽ FIFA WORLD CUP U17",FIFA+ 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
@@ -646,6 +641,11 @@ https://d2h3grlsj8f9qu.cloudfront.net/out/v1/df357e7da00b4f528989176850153919/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6MDlkMzk0ZmUtMjI1ZC00ZjJhLTgxYjMtNmIyYWY2MGMyODlh
 https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
+
+#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 FHD
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 FHD
+https://sc2022.stream-link.org/tv2306.php?id=s20
 
 
 
