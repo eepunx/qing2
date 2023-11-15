@@ -629,17 +629,18 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///⛔worldkap⛔///
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png" group-title="⚽ FIFA WORLD CUP U17",FIFA+ 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
-#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 FHD
+#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 FHD 
 https://sc2022.stream-link.org/tv2306.php?id=s19
 #EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 FHD
 https://sc2022.stream-link.org/tv2306.php?id=s20
 
-#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", TVP Sports
-http://aboltys.ottclub.xyz/iptv/V64KDDZ8TF9V98/2520/index.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png" group-title="⚽ FIFA WORLD CUP U17",FIFA+ 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
+#EXTINF:-1 group-title="⚽ FIFA WORLD CUP U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", FIFA (auto reso)
+#http://aboltys.ottclub.xyz/iptv/V64KDDZ8TF9V98/2520/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
 
 #EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 SD1
