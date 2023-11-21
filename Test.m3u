@@ -9,14 +9,14 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",Sportstars 3 (Liga 1)
-http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",Soccer q
+http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/SoccerchannelHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",Sportstars 3 (Liga 1)
-http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-1.mpd
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",Soccer
+http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
