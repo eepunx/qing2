@@ -3,21 +3,26 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",4
-http://nyanv-live-cdn.mncnow.id/live/eds/SoccerHD/sa_dash_vmx/SoccerHD.mpd
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",7
+http://nyanv-live-cdn.mncnow.id/live/eds/Soccer/sa_dash_vmx/Soccer.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",5
-http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-3/sa_dash_vmx/Soccer-3.mpd
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",8
+http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar5/sa_dash_vmx/Sportstar5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",6
-http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-HD/sa_dash_vmx/Soccer-HD.mpd
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",9
+http://nyanv-live-cdn.mncnow.id/live/eds/SoccerChannelHD/sa_dash_vmx/SoccerChannelHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2021/08/645x430/bri-liga-1_0064f0c.jpg",10
+http://nyanv-live-cdn.mncnow.id/live/eds/SoccerChannel-HD/sa_dash_vmx/SoccerChannel-HD.mpd
 
 
 
