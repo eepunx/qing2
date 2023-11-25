@@ -1257,8 +1257,12 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MpYPtWLs/nbc.png" group-title="NEWS",NBC
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.postimg.cc/C5Lkhg7K/sky-news-1.png" group-title="NEWS",Sky News
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.postimg.cc/C5Lkhg7K/sky-news-1.png" group-title="NEWS",Sky News 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.postimg.cc/C5Lkhg7K/sky-news-1.png" group-title="NEWS",Sky News 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://i.postimg.cc/C5Lkhg7K/sky-news-1.png" group-title="NEWS",Sky News 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fW3PZQ3L/the-first.png" group-title="NEWS",The First
 https://thefirst-distroscale.amagi.tv/index.m3u8
