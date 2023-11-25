@@ -260,8 +260,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia 🇲🇾" tvg-id="103" tvg-name="103", TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
-https://aqfadtv.xyz/live/tv3/index.mpd
-
+#https://aqfadtv.xyz/live/tv3/index.mpd
+http://iptvmedia.live:8080/streamnet/a8b92bb196/298514
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/800px-TV6_Logo.jpg" group-title="Malaysia 🇲🇾",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
