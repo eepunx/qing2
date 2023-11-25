@@ -1,5 +1,26 @@
 #EXTM3U 
 
+############################# HBO ASIA (Cubmu)
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU9HVTBZalZpTnpNdE9HTXdOaTAwTkdGbUxXRTVZV0V0TjJNM09EVm1OV1E1T1RnM0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRWE5wWVM5S1lXdGhjblJoSWl3aVlYVjBhRzl5YVhSNUlqb2lVazlNUlY5VlUwVlNJaXdpWlhod0lqb3hOekF3T1RrME5UVTRMQ0oxYzJWeVNXUWlPaUkwTURJNE5EaGxORGhoTVRobU5UUmlNREU0WVRoaU9HUXhOVGxtTldKaU5DSXNJbVJsZG1salpVbGtJam9pTVRJek5EVTJOemc1TUNJc0ltbGhkQ0k2TVRjd01Ea3dPREUxT0N3aWRYTmxjbTVoYldVaU9pSnBkR052Y21VdWJXRnpkR1Z5WDNOME1rQjBjbll1WTI4dWFXUWlmUS5ZMnVXWHNnamphZzhWTU82a1ZkLVp0bXBJN21NU3lBYnBURER0RGNXcG5RIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="07. Movies - HBO ASIA (Cubmu)",HBO HD (Cubmu)
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJpdGNvcmUubWFzdGVyX3N0MkB0cnYuY28uaWQiLCJzZXNzaW9uSWQiOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKamRYSnlaVzUwVTJWemMybHZia2xrSWpvaU9HVTBZalZpTnpNdE9HTXdOaTAwTkdGbUxXRTVZV0V0TjJNM09EVm1OV1E1T1RnM0lpd2lZM1Z5Y21WdWRFUmxkbWxqWlZSNWNHVWlPaUpCSWl3aVkzVnljbVZ1ZEZCc1lYUm1iM0p0U1dRaU9pSTBNREk0WXpZNE5UYzBOVE0zWm1Oa01ERTNOR0ZtTmpjMU5tRTVOREk0T0NJc0luUnBiV1Y2YjI1bElqb2lRWE5wWVM5S1lXdGhjblJoSWl3aVlYVjBhRzl5YVhSNUlqb2lVazlNUlY5VlUwVlNJaXdpWlhod0lqb3hOekF3T1RrME5UVTRMQ0oxYzJWeVNXUWlPaUkwTURJNE5EaGxORGhoTVRobU5UUmlNREU0WVRoaU9HUXhOVGxtTldKaU5DSXNJbVJsZG1salpVbGtJam9pTVRJek5EVTJOemc1TUNJc0ltbGhkQ0k2TVRjd01Ea3dPREUxT0N3aWRYTmxjbTVoYldVaU9pSnBkR052Y21VdWJXRnpkR1Z5WDNOME1rQjBjbll1WTI4dWFXUWlmUS5ZMnVXWHNnamphZzhWTU82a1ZkLVp0bXBJN21NU3lBYnBURER0RGNXcG5RIiwibWVyY2hhbnQiOiJnaWl0ZF90cmFuc3Zpc2lvbiJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="cinemax.id" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="07. Movies - HBO ASIA (Cubmu)",Cinemax (Cubmu) 
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
