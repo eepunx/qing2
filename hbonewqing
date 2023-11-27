@@ -641,11 +641,11 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #https://sc2022.stream-link.org/tv2306.php?id=s20
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png" group-title="⚽ world cup U17",FIFA+ 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 #EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", FIFA (auto reso)
 #http://aboltys.ottclub.xyz/iptv/V64KDDZ8TF9V98/2520/index.m3u8
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
 
 #EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 SD1
@@ -846,9 +846,9 @@ https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1 FHD
-https://edge1.laotv.la/live/TSport1/index.m3u8
+#https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Qingsports",True Premiere 2 FHD
-https://edge1.laotv.la/live/TSport2/index.m3u8
+#https://edge1.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
