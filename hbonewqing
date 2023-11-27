@@ -935,11 +935,11 @@ https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 
 ----ESPN---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Qingsports", ESPN mx
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Qingsports", ESPN 2 mx
-http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Qingsports", ESPN 3 mx
-http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 
 #EXTINF: -1 tvg-id="espn.us" tvg-name="ESPN 1 US" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Qingsports", ESPN 1 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
