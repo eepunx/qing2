@@ -353,7 +353,7 @@ https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="RELIGI",MTA
 #https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="RELIGI",Rodja
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="RELIGI",Rodja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
@@ -426,16 +426,16 @@ https://bit.ly/3MkWgXZ
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png", Happy Kids JR
 #https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="KIDS" tvg-logo="",Moonbug
+#EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="KIDS" tvg-logo="",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/TP0yx8rw/babyfirst.png", Baby First
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/66ycpKYF/dunk-tv.png", Duck TV
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png",PBS Kids  
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/440px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KjBg30K3/ZooMoo.png", Zoo Moo Australia 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KjBg30K3/ZooMoo.png", Zoo Moo 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -461,7 +461,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/y6Mm6ZJS/nick-jr.png", Nick Jr
 http://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="KIDS",Pluto TV Nick Jr. (720p)
+#EXTINF:-1 tvg-id="PlutoTVNickJr.us" tvg-name="Pluto TV Nick Jr." tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="KIDS",Pluto TV Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -521,30 +521,57 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="MOVIES 2", Rakuten Movies 
 #https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/x6bnqe/h/h193/index.m3u8
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3Zck8RM ,MY Cinema Europe 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MOVIES 2" tvg-id="mycinema.id" tvg-logo="https://bit.ly/3GExy24",My Cinema
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MOVIES 2" tvg-id="mycinemaasia.id" tvg-logo="https://bit.ly/40x0pxx",My Cinema Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3VncoKa ,MY Cinema Europe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/uq2663/h/h18/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MOVIES 2" tvg-id="myfamily.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",My Family Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://bit.ly/3jPj9HC",Rock Action
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://bit.ly/3GDKsO7",Rock Entertainment
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/40x0pxx" ,MY Cinema Asia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3GExy24" ,My Cinema 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+#http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3VncoKa" ,My Family Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+#http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3jPj9HC" ,Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/dr9445/h/h15/01.m3u8
+#http://210.210.155.37/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://bit.ly/3GDKsO7" ,Rock Entertainment 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/dr9445/h/h16/01.m3u8
+#http://210.210.155.37/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="MOVIES 2",Paramount
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/XqPWcL94/Warner-TV.png", WarnerTV
-#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -599,7 +626,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://1.https://i.postimg.cc/76K3YJrp/ccm.png", CCM
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/76K3YJrp/ccm.png", CCM
 http://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -635,34 +662,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///⛔worldkap⛔///
 
-
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 FHD 
-#https://sc2022.stream-link.org/tv2306.php?id=s19
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 FHD
-#https://sc2022.stream-link.org/tv2306.php?id=s20
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png" group-title="⚽ world cup U17",FIFA+ 1
-#https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", FIFA (auto reso)
-#http://aboltys.ottclub.xyz/iptv/V64KDDZ8TF9V98/2520/index.m3u8
-#https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-
-
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 SD1
-#http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918986&extension=ts&play_astro1
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 SD2
-#http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918985&extension=ts&play_astro2
-
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 SD
-#http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918986&extension=ts&play_shareext@assp1_my
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 SD
-#http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=918985&extension=ts&play_shareext@assp2_my
-
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 1 HD
-#http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
-#EXTINF:-1 group-title="⚽ world cup U17" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/2023_FIFA_U-17_World_Cup.svg/271px-2023_FIFA_U-17_World_Cup.svg.png", ASSP 2 HD
-#http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
 
 
 /////////⛔BEIN sports⛔//////
@@ -1138,7 +1137,7 @@ https://bit.ly/49uPR6w
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Asia
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/03.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch30)/index.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/hGxsJKB4/discovery-channel.png", Discovery Turbo
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Discovery_Turbo_logo_2016.svg/300px-Discovery_Turbo_logo_2016.svg.png", Discovery Turbo
 https://bit.ly/3Q9remT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1181,11 +1180,6 @@ https://bit.ly/3MdG0Yx
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Fz1DH3F8/history.png" group-title="Knowledge",History 
 http://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/BvzV5H3G/Besmart.png", BeSmart
-http://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -1366,11 +1360,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 ///// ENTERTAINMENT /////
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony GEM
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PqT5yzB/k.png" group-title="Entertaiment & Lifestyle", K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197969
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PqT5yzB/k.png" group-title="Entertaiment & Lifestyle", K+ (denstv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1385,7 +1375,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/t4KYJG55/nhk-premium.png", NHK World Premium 
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/t4KYJG55/nhk-premium.png", NHK Premium 
 http://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1396,15 +1386,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
 ///// LIFESTYLE /////
-#EXTINF:-1 tvg-id="blueantent" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.ibb.co/Y8pQz8Q/Blue-ant-entertainment-BEARTV.png" , Blue Ant Entertainment
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.ibb.co/c6MN6Cc/Blue-ant-extreme-BEARTV.png" , Blue Ant Extreme
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/L5vxVGKb/rock.png" ,Rock Entertainment
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/3rZf704F/rock-extreme.png" ,Rock Extreme
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
@@ -1412,22 +1393,23 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/3RFZB9NP/afn.png",AFN test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 #https://bit.ly/498lP8s
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entertaiment & Lifestyle",The Food Network 
-http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/T3r0rwX4/Lifetime.png", Lifetime
 http://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png", Lifetime backup
 #http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115629&extension=ts&play_token
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
