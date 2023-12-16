@@ -1,3 +1,5 @@
+testing
+
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
  
 #EXTINF:0 group-title="Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png",Indosiar 
