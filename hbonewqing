@@ -838,18 +838,18 @@ https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1 FHD
-#https://edge1.laotv.la/live/TSport1/index.m3u8
+https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Qingsports",True Premiere 2 FHD
-#https://edge1.laotv.la/live/TSport2/index.m3u8
+https://edge1.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Qingsports",True Premiere 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="Qingsports",True Premiere 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
