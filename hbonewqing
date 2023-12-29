@@ -209,9 +209,14 @@ http://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO 🇮🇩
 http://iptvtree.net:8080/F26646/f950f250/197972
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax 🇮🇩
 http://iptvtree.net:8080/F26646/f950f250/197964
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO 2 🇮🇩
+https://s.id/hboHD_shareext-ts
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax 2 🇮🇩
+https://s.id/cinemaxHD_shareext-ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
@@ -274,21 +279,6 @@ https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
 #EXTINF:-1 group-title="HBO Group" tvg-id="Cinemax" tvg-url="" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax (max)
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png",HBO Eng
-https://bit.ly/45NIofG
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",HBO+ Eng
-https://bit.ly/3FFkNmF
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png",HBO2 Eng
-https://bit.ly/3snzR5n
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png",HBO Family Eng
-https://bit.ly/3tXEYtB
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png",HBO Sig Eng
-https://bit.ly/3MqAn9D
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",HBO Xtreme Eng
-https://bit.ly/45NIofG
-#EXTINF:-1 group-title="HBO GRUP" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png",HBO POP Eng
-https://bit.ly/3QOeNi9
 
 
 ///cinenemamaichi///
