@@ -203,8 +203,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://github.com/Qingtvnew/test/raw/main/OKTV.png", OK TV
 http://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e063f8090c95b837f0c4f1160a5c028c.png" group-title="⚽ FIFA MATCHDAY"catchup="",INDONESIA VS LIBYA 2
+#EXTINF:-1 tvg-logo="" group-title="⚽ FIFA MATCHDAY"catchup="",INDONESIA VS LIBYA 2
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/162138
+#EXTINF:-1 tvg-logo="" group-title="⚽ FIFA MATCHDAY"catchup="",INDONESIA VS LIBYA 3
+http://xtv.ooo:8080/moon786/moon1200/350972
 
 /// HBO /////
 
