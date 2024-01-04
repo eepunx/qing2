@@ -404,10 +404,13 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 http://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.mos.cms.futurecdn.net/xAzmv9D9dkbJeweJuwtWhU-970-80.jpg",Dreamworks
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+https://raw.githubusercontent.com/eepunx/cancan/main/drmwrk
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png",Cartoon Network
 https://raw.githubusercontent.com/eepunx/cancan/main/Carnet
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://bravi.tv/wp-content/uploads/2022/02/cartoonito.jpg",Cartoonito
+https://raw.githubusercontent.com/eepunx/cancan/main/cartunito
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -444,7 +447,7 @@ https://s.id/mentariHD_shareext-ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/QNwbBzzC/Happy-Kids.png", Happy Kids JR
 #https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="KIDS" tvg-logo="",Moonbug
+#EXTINF:-1 tvg-id="" tvg-name="https://imageio.forbes.com/specials-images/imageserve/5f9b27a46a9216a1a3c8df3b/Blue-Moonbug-Kids-logo-with-a-variety-of-their-shows--characters-in-the-background/960x0.jpg" group-title="KIDS" tvg-logo="",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/TP0yx8rw/babyfirst.png", Baby First
@@ -507,10 +510,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPrem
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/xAzmv9D9dkbJeweJuwtWhU-970-80.jpg" group-title="MOVIES 2",Dreamworks
-https://raw.githubusercontent.com/eepunx/cancan/main/drmwrk
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES 2",Rock Action
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
