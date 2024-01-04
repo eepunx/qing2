@@ -512,6 +512,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPrem
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
+
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/xAzmv9D9dkbJeweJuwtWhU-970-80.jpg" group-title="MOVIES 2",Dreamworks
+https://raw.githubusercontent.com/eepunx/cancan/main/drmwrk
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES 2",Rock Action
 #http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
 
