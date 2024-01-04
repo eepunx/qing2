@@ -799,7 +799,7 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/Stream%2803%29/index.m3u8
+https://raw.githubusercontent.com/eepunx/cancan/main/eurosp
 ------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/1600px-Usee_Sports.png" group-title="Qingsports",UseeSports 1
