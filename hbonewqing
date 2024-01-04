@@ -700,7 +700,6 @@ http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2764
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 8 HD | AR" tvg-logo="https://i.imgur.com/xURPuIU.jpg" group-title="BEIN Sports",BEINSPORT 8 HD
 http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2765
 
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 2 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 3
@@ -748,7 +747,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2
 http://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -800,7 +798,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/1600px-Usee_Sports.png" group-title="Qingsports",UseeSports 2 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
 
-
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 1 🚴🏸
 https://bit.ly/3C6tK6F?/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 2 🚴🏸
@@ -811,8 +808,8 @@ https://bit.ly/3FZEgP3
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png",Rush Sports 2
 https://bit.ly/3FSsl5H
 
-#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Qingsports", Premier Sports (FM)
-#https://bit.ly/46uOrGT
+#EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="Qingsports", Premier Sports
+https://raw.githubusercontent.com/eepunx/cancan/main/premsp
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Qingsports" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png", Insider
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -1424,7 +1421,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 https://bit.ly/4aKFBrb
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entertaiment & Lifestyle",The Food Network 
-#http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
+https://raw.githubusercontent.com/eepunx/cancan/main/futnet
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
