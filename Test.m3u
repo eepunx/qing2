@@ -2,5 +2,5 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
-
-
+#EXTINF:-1 tvg-logo="" group-title="", animal
+https://raw.githubusercontent.com/eepunx/cancan/main/anim
