@@ -208,23 +208,26 @@ http://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO 🇮🇩
 http://iptvtree.net:8080/F26646/f950f250/197972
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO 2 🇮🇩
-https://s.id/hboHD_shareext-ts
+https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO 3 🇮🇩
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197972
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax 🇮🇩
 http://iptvtree.net:8080/F26646/f950f250/197964
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax 2 🇮🇩
-https://s.id/cinemaxHD_shareext-ts
+https://s.id/cinemax_shareext-m3u8|User-Agent=Shareext/5.0
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax 3 🇮🇩
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197964
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GRUP",HBO_HITS~HD
-https://s.id/hbohits_shareext-ts
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="HBO GRUP",HBO_SIGNATURE~HD
-https://s.id/hbosigHD_shareext-ts
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GRUP",HBO_FAMILY~HD
-https://s.id/hbofam_shareext-ts
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GRUP",HBO HITS
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196480
+http://iptvtree.net:8080/F26646/f950f250/196480
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="HBO GRUP",HBO SIGNATURE
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/221948
+http://iptvtree.net:8080/F26646/f950f250/221948
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GRUP",HBO FAMILY
+http://iptvtree.net:8080/F26646/f950f250/197055
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197055
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
