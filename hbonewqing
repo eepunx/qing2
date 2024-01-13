@@ -686,22 +686,8 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
 https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsports1.jpg" group-title="BEIN Sports",BEINSPORT 1 HD 
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2758
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2.jpg" group-title="BEIN Sports",BEINSPORT 2 HD
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2759
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3.jpg" group-title="BEIN Sports",BEINSPORT 3 HD 
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2760
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="BEIN Sports",BEINSPORT 4 HD 
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2761
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 5 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="BEIN Sports",BEINSPORT 5 HD
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2762
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 6 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="BEIN Sports",BEINSPORT 6 HD
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2763
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 7 HD | AR" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="BEIN Sports",BEINSPORT 7 HD
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2764
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 8 HD | AR" tvg-logo="https://i.imgur.com/xURPuIU.jpg" group-title="BEIN Sports",BEINSPORT 8 HD
-http://callvip.me:80/ViktorKolaj/wsu9wn93r19E8gjn6W5P/2765
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEIN Sports" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png",Bein sports NBA 🇺🇸
+http://185.252.100.23:9091/play/a00a/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BEIN Sports",Bein Premium 2 
