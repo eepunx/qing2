@@ -669,16 +669,17 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",Soccer Channel 
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP1SD," tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEIN ASIANCUP 1SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89375.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP1HD-" tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEI _ASIANCUP 1HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89374.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP2SD." tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEIN ASIANCUP 2SD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89377.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP2HD." tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEIN ASIANCUP 2HD
+http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89376.ts
 #EXTINF:0 tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",Astro Arena
 http://iptvtree.net:8080/F26646/f950f250/157485
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP1SD," tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEIN_SPORTS_ASIANCUP1SD,
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89375.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP1HD-" tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEIN_SPORTS_ASIANCUP1HD-
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89374.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP2SD." tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",BEIN_SPORTS_ASIANCUP2SD.
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89377.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP2HD." tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title=" AFC Qatar",BEIN_SPORTS_ASIANCUP2HD.
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89376.ts
+
 
 ///⛔worldkap⛔///
 #EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 1SD-" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS AFCON 1SD-
