@@ -669,6 +669,8 @@ http://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",Soccer Channel 
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:0 tvg-logo="https://images.alkassdigital.net/uploads/newsimages/original/1701705322.jpg" group-title="AFC Qatar",Astro Arena
+http://iptvtree.net:8080/F26646/f950f250/157485
 
 
 ///⛔worldkap⛔///
