@@ -115,8 +115,9 @@ https://bit.ly/3sBQgmR
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 #http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia❤️", Moji (Vidio)
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia❤️", Moji (Vid)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8237&type=hls
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia❤️", Moji 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia❤️", Moji OTT
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
