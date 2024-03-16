@@ -1,8 +1,8 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48701Nw/usee-2.jpg" group-title="SHAREEXT@MPD~INDIHOME", Usee Sport 1
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48701Nw/usee-2.jpg" group-title="SHAREEXT@MPD~INDIHOME", Usee Sports
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
