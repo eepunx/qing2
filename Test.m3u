@@ -1,14 +1,9 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" ,LaLiga TV BAR
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
-#KODIPROP:inputstream.adaptive.license_key={"d2e15 fc39d9052a0bf5edf17498785ea":"543ddd241709882d8cbb 162c2c11b964","e2c88c1cec785475ab6b05a1c4d15a78":" 06b891b1953211c8286bb312ad05e9e5","4435432010f45dd 9967dce3cde18664b":"0d0bf2e2e7799ff26c8bb82b1be67c 8a"}
-https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
 
-#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="" ,bein ais
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="" ,bein ais key
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
-#KODIPROP:inputstream.adaptive.license_key={"3fd52d1e9ba4b180aec12c9295b62c0f":"bb274e33da0c709e62c55d0cba911889"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889}
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 
