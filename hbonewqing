@@ -356,8 +356,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://github.com/Qingtvnew/test/raw/main/Animax%20(1).png", Animax ID
 http://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/Aniplus%20(1).png" group-title="KIDS", Aniplus 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="KIDS" tvg-id="AniPlus.th" tvg-logo="https://github.com/Qingtvnew/test/raw/main/Aniplus%20(1).png",Aniplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/200px-Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -1035,7 +1037,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HkQwBcBG/TVR.png" group-title="NEWS",TV PARLEMEN
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/85f7kCQw/cbs-news.png" group-title="NEWS",CBSN
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -1163,9 +1164,15 @@ http://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="Entertaiment & Lifestyle", Sony GEM
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png" group-title="Entertaiment & Lifestyle", K+ (denstv)
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png" group-title="Entertaiment & Lifestyle", K+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg",K+ backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
