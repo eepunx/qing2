@@ -851,6 +851,7 @@ https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYi6Ty7K0xH.jpg", Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 -----GOLF🏌️----
 #EXTINF:-1 group-title="Qingsports" tvg-id="ziggosportgolf.nl" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg",Ziggo Sports Golf
@@ -879,6 +880,8 @@ http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/65719.ch
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Qingsports", ASTRO ARENA 2
 
 /// sport Campuran ////
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="Qingsports",MAVTV
+https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports 1
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFHs1.jpg",Db Sp 2 
@@ -896,8 +899,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Qingsports",Bellator MMA
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="Qingsports",MAVTV
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" group-title="Qingsports",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
