@@ -1224,6 +1224,9 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
 https://raw.githubusercontent.com/eepunx/cancan/main/hgtv
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
