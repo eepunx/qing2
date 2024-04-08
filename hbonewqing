@@ -213,16 +213,16 @@ http://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO (TAIWAN)
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="HBO GRUP",HBO (ID)
+http://xtv.ooo:8080/live/T4S00515/820172/350955.ts
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="HBO GRUP",Cinemax (TAIWAN)
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GRUP",HBO HITS (TAIWAN)
-http://198.16.100.90:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="HBO GRUP",HBO SIGNATURE (TAIWAN)
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GRUP",HBO FAMILY (TAIWAN)
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="HBO GRUP",HBO HITS (ID)
+http://xtv.ooo:8080/live/T4S00515/820172/350957.ts
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="HBO GRUP",HBO SIGNATURE (ID)
+http://xtv.ooo:8080/live/T4S00515/820172/350958.ts
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="HBO GRUP",HBO FAMILY (ID)
+http://xtv.ooo:8080/live/T4S00515/820172/350956.ts
 
 
 ///cinenemamaichi///
