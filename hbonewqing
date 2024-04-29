@@ -580,7 +580,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://github.com/Qingtvnew/test/raw/main/one.png", Sony One V+
 http://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES 2",TVN Dens
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvN.png" group-title="MOVIES 2",TVN Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
@@ -590,7 +590,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvN.png", TVN V+
 http://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="MOVIES 2",TVN Movies Dens
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="MOVIES 2",TVN Movies Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
