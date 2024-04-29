@@ -7,7 +7,7 @@ https://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="Indonesia 🇮🇩 (server 2) ",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+https://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="Indonesia 🇮🇩 (server 2)",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
