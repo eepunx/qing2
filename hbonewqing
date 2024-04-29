@@ -58,7 +58,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png", iNews V+
 http://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV
+#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/eepunx/cancan/main/sc
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV OTT 
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/eepunx/cancan/main/sc
 #https://s.id/sctv_shareext-m3u8
 #http://iptvtree.net:8080/F26646/f950f250/162141
 
-#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR
+#EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR Dens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/eepunx/cancan/main/ind
 #EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR OTT
