@@ -708,6 +708,16 @@ http://iptvtree.net:8080/F14995/a84c0963/106
 
 
 ///// SPORTS /////
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.promediateknologi.id/crop/15x201:1016x637/750x500/webp/photo/p1/479/2024/01/15/Indonesia-vs-Irak-1595731132.jpg",🇮🇩vs🇮🇶 Live 1 
+https://raw.githubusercontent.com/eepunx/qing2/master/cctv5
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.promediateknologi.id/crop/15x201:1016x637/750x500/webp/photo/p1/479/2024/01/15/Indonesia-vs-Irak-1595731132.jpg",🇮🇩vs🇮🇶 Live 2
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.promediateknologi.id/crop/15x201:1016x637/750x500/webp/photo/p1/479/2024/01/15/Indonesia-vs-Irak-1595731132.jpg",🇮🇩vs🇮🇶 Live 3
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.promediateknologi.id/crop/15x201:1016x637/750x500/webp/photo/p1/479/2024/01/15/Indonesia-vs-Irak-1595731132.jpg",🇮🇩vs🇮🇶 Live 4
+
+
 -------- SPOTIVI ----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
