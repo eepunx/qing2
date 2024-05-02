@@ -685,7 +685,7 @@ http://171.238.181.52:18080/194.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://static.promediateknologi.id/crop/15x201:1016x637/750x500/webp/photo/p1/479/2024/01/15/Indonesia-vs-Irak-1595731132.jpg",🇮🇩vs🇮🇶 Live 3 
-http://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
