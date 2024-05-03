@@ -640,28 +640,28 @@ http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 ///CCTV/////
 
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20201210005312/en/845821/2/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201210110237.jpg" group-title="CCTV 🇨🇳",CCTV+
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV 🇨🇳",CCTV 1 
-
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CCTV 🇨🇳",CCTV 2 
-
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CCTV 🇨🇳",CCTV 3
  
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CCTV 🇨🇳",CCTV 4 
-http://176868.cloud/b1db472994b3e1a730599c13b6c309e8/a2142e9e39fcb740164dc9a0e031727e/6971f59965445f50082620b53cc21823/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV 🇨🇳",CCTV 5 
-http://176868.cloud/3133a20590e88efb16d6f9d60e151c97/a2142e9e39fcb740164dc9a0e031727e/999c837a4c53a68e9cf806384d9488e6/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV 🇨🇳",CCTV 5+
-http://176868.cloud/ed8057e1d2ac1f26ac320349860884a8/a2142e9e39fcb740164dc9a0e031727e/e6c7c2abdfc6d118c20869cd22292f82/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CCTV 🇨🇳",CCTV 6 
 
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV 🇨🇳",CCTV 5 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV 🇨🇳",CCTV 5+
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CCTV 🇨🇳",CCTV 6 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CCTV 🇨🇳",CCTV 7
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CCTV 🇨🇳",CCTV 8
-
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CCTV 🇨🇳",CCTV 9 
-
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CCTV 🇨🇳",CCTV 10 
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CCTV 🇨🇳",CCTV 11 
@@ -675,7 +675,7 @@ http://176868.cloud/ed8057e1d2ac1f26ac320349860884a8/a2142e9e39fcb740164dc9a0e03
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CCTV 🇨🇳;Music",CCTV 15 
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv16.jpg" group-title="CCTV 🇨🇳;Music",CCTV 16
-http://176868.cloud/89d5f42036b2b0215c38cda48b613228/a2142e9e39fcb740164dc9a0e031727e/a7ffab28fcf1290a4629ebeaea91bd1d/index.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CCTV 🇨🇳",CCTV 17 
 
 ////Koseljapan////
