@@ -755,6 +755,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Qingsports", Unifi (UFC live) 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="Qingsports", CCTV5
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="Qingsports", CCTV5+
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+
 -----L'EQUIPE----
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1
 https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
