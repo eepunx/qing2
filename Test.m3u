@@ -1,33 +1,612 @@
-#EXTM3U 
 
-#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="" ,bein ais key
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889}
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+Navigation Menu
 
+#EXTIM3U
+#EXTINF:-1,Movies 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
 
+#EXTINF:-1,Movies 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2_RyvsiDL0EdkpzB/ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Sports",BeIN Sports cler
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
-#KODIPROP:inputstream.adaptive.license_key={"3fd52d1e9ba4b180aec12c9295b62c0f":"bb274e33da0c709e62c55d0cba911889"}
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="Sports",BeIN Sports 2 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"30c11587a1686b72f115f34b0bf1c383":"1e3a6af2408cdd78347b722728560c3b"}
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="Sports",BeIN Sports 3 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#EXTINF:-1,Movies 3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48701Nw/usee-2.jpg" group-title="SHAREEXT@MPD~INDIHOME", Usee Sports
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports/manifest.mpd
+#EXTINF:-1,Movies 4
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
 
+#EXTINF:-1,Movies 5
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="", animal
-https://raw.githubusercontent.com/eepunx/cancan/main/anim
+#EXTINF:-1,Series 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
+
+#EXTINF:-1,Series 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
+
+#EXTINF:-1,Cartoon 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
+
+#EXTINF:-1,Cartoon 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
+
+#EXTINF:-1,BananaSport03
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
+
+#EXTINF:-1,bananaSport04
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_27V1T-uibEZidCpUPSjDC/ts
+
+#EXTINF:-1,EPL 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x92Pmv8vLbRSFeTtp9qGJ83/ts
+
+#EXTINF:-1,EPL 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-oXZhIY9Ri8RwqCNLg_bd/ts
+
+#EXTINF:-1,EPL 3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9kHfqazuvBUxJRN9cmREne/ts
+
+#EXTINF:-1,EPL 4
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5Hyqp3jNxiyedefGo/ts
+
+#EXTINF:-1,EPL 5 SD For Slow Network
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
+
+#EXTINF:-1,EPL 5 (Live)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
+
+#EXTINF:-1,EPL 5 (Live HD)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8Dy_yVY-7dRMxVk6zi5har/ts
+
+#EXTINF:-1,EPL 6 Highlight
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9E02BLhxh45bCLqMTKqFnL/ts
+
+#EXTINF:-1,EPL 7
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9YAwbr8pP4Dsxi56NFyf4w/ts
+
+#EXTINF:-1,Laliga 1 HD
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-NIJZUzLKxjmlqVyH4UVnz/ts
+
+#EXTINF:-1,Laliga 2 HD
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_CO4ZqDew1yba9hMGAgboY/ts
+
+#EXTINF:-1,Laliga 3 HD (Live)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_nCSQBKfipEWGJ3wH/ts
+
+#EXTINF:-1,Laliga 4
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGnR8DkLk7wj35JE0Q/ts
+
+#EXTINF:-1,Play sports 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZeV9LiZVCky5Qnjao1Id_/ts
+
+#EXTINF:-1,Play Sports 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_SRZ4EF1Q-TsC0eVU0BoIX/ts
+
+#EXTINF:-1,Play Sports 3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_hcIkfcATcPpXXgwU8F_9o/ts
+
+#EXTINF:-1,Arenasport 1 Premium
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_RjNI8BEpV0aMAXWgGQ3xn/ts
+
+#EXTINF:-1,Arena Sport 2 Premium
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_jTipG43oLLhgZ8nrciON0/ts
+
+#EXTINF:-1,Arenasport 3 Premium
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_qndFtwXlkKjTzIFTSzXf2/ts
+
+#EXTINF:-1,Arena Sport 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_-HyUWlE_dV7GecaGo-LHm/ts
+
+#EXTINF:-1,Arena Sport 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8ozfJh5J8v4uOvXSlD2Xjl/ts
+
+#EXTINF:-1,Arena Sport 3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8J7FwJGavoxbblaLwUjOVQ/ts
+
+#EXTINF:-1,Arenasport 4
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-7FHzCeG3FrxKLidMLedUw/ts
+
+#EXTINF:-1,Arena Sport 5
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8WsEzQQgachaYM04W0xvLL/ts
+
+#EXTINF:-1,Arena Sport 6
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_igdeF3T5rsvkZLriizTya/ts
+
+#EXTINF:-1,Arena Sport 7
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_5_qvPx_PmaquPg9Rxmvav/ts
+
+#EXTINF:-1,Arena Sport 8
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DJjCtl3ZcOW7N_C05hDBb/ts
+
+#EXTINF:-1,Arena Sport 9
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZQf7MNafHivHdj92L3NDG/ts
+
+#EXTINF:-1,TNT Sport 1
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_YtqEYl5yidOz18vs5ysp7/ts
+
+#EXTINF:-1,TNT Sport 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_erwDN92Mg51TQcAiFoWub/ts
+
+#EXTINF:-1,TNT Sport 3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8sNFoUGvfY6agwuGgcvjYA/ts
+
+#EXTINF:-1,TNT Sport 4
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-V9vW5LAQZz-NziYWcZ2ep/ts
+
+#EXTINF:-1,TEN 1 (SONY LIV)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9JGmMJUm5WznC085NBIo9R/ts
+
+#EXTINF:-1,TEN 2 (SONY LIV)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_cQS_lXkx7qApDRFySonHw/ts
+
+#EXTINF:-1,TEN 3 (SONY LIV)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_G3x6qgWw1nipsFewtQ-Ui/ts
+
+#EXTINF:-1,TEN 4 (SONY LIV)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-srcrPaOiFb70_Wa_J6hsg/ts
+
+#EXTINF:-1,TEN 5 (SONY LIV)
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8ObNuRh6Yng49WaE9rtSXo/ts
+
+#EXTINF:-1,UFC TEST EVENT
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vY5OzBfNBSiJufgBSBPMq/ts
+
+#EXTINF:-1,Fight Box
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9i9ZAWhorngPC1rTdekg5s/ts
+
+#EXTINF:-1,WWE
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8es6yhiPYj7Qz1gx-JBqzB/ts
+
+#EXTINF:-1,A SPOR HD
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ieOK9zSg9K5dOdAzXjqrt/ts
+
+#EXTINF:-1,S Sport TR
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9wpUsekGdMLhkpork6KdcW/ts
+
+#EXTINF:-1,S Sport 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8dXLX2eUNs6wWxZxQkGi19/ts
+
+#EXTINF:-1,TRT 3 SPOR
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8MAOWId5u2AsJRPqsLc7dl/ts
+
+#EXTINF:-1,TRT YILDIZ HD
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_VaJdcwjrdP3lylKyMPvf2/ts
+
+#EXTINF:-1,Hits
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
+
+#EXTINF:-1,Hits Movies
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_Vu0uN_9Vd3WhYI1E8SNLc/ts
+
+#EXTINF:-1,WB TV
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB7jEolujpPtM6Yv2/ts
+
+#EXTINF:-1,Thrill
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8SIRC1KBHrq-TPp4/ts
+
+#EXTINF:-1,Rock Entertainment
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8NhanBM-mCNt9nbjYdx4NF/ts
+
+#EXTINF:-1. AXN
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lCtu1SJ2EuirOc_xC2iFq/ts
+
+#EXTINF:-1,Kix
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8jDxuAOKBDAI8UIAbLro_-/ts
+
+#EXTINF:-1,Celestial Classic Movie
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_dn06AitUOdpfZI5hJ30za/ts
+
+#EXTINF:-1,Celestial Movies
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Mx3_OssukpAA1pcdsiSiq/ts
+
+#EXTINF:-1,Galaxy Premium Movie
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x85BIHiNMXIJascndcUxtP3/ts
+
+#EXTINF:-1,Cinemax http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9XZ3TzmQtUgnDknGAj2BX6/ts
+
+#EXTINF:-1,Cinemax 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-WegspxQvJr6VgEFbGWloy/ts
+
+#EXTINF:-1,Cinemax Europe
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-04_H3UhUeXAYJLJB5k9Up/ts
+
+#EXTINF:-1,HBO Europe
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8VCi8wSDjt6vCukIYyNz6M/ts
+
+#EXTINF:-1,HBO Family
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgwGRI6sj98ReZoZc6/ts
+
+#EXTINF:-1,HBO
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
+
+#EXTINF:-1,HBO 2
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9vBFPK_yZSqBtgCH_7da49/ts
+
+#EXTINF:-1HBO3
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8BVrsOqJYj1vYT_bdvul_T/ts
+
+#EXTINF:-1,TV4 Motor
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV180nE-tmQY1FbDJ/ts
+
+#EXTINF:-1,TV4 Tennis
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9q7TOF1J-kP5R6Pt-cTCno/ts
+
+#EXTINF:-1,Animal Planet
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vt4vhECsJJjNIPMPBwKMt/ts
+
+#EXTINF:-1,Animax MM
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
+
+#EXTINF:-1,Love Nature
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_6iDoZHgeJxchJ5shNDG_4/ts
+
+#EXTINF:-1,Discovery Channel
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXzizOp1z1U64VSOMRwv/ts
+
+#EXTINF:-1,Discovery Asia
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
+
+#EXTINF:-1,World Fashion
+http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-z5oYIEWOFr-jmrhl51sap/ts
+
+#EXTINF:-1,Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8#
+
+#EXTINF:-1,HBO
+http://150.95.25.221:8000/hbo%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO SD
+http://150.95.25.221:8000/HBO%20SD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Hit
+http://150.95.25.221:8000/HBO%20Hit?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Sig
+http://150.95.25.221:8000/HBO%20Sig?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO FAMILY
+http://150.95.25.221:8000/HBO%20FAMILY?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2226
+
+#EXTINF:-1,HBO 2
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2248
+
+#EXTINF:-1,HBO 3
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2225
+
+EXTINF:-1,HBO Top Ten
+http://150.95.25.221:8000/HBO%20Top%20Ten?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Now Movies
+http://150.95.25.221:8000/HBO%20Now%20Movies?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Action
+http://150.95.25.221:8000/HBO%20Action?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Asian
+http://150.95.25.221:8000/HBO%20Asian?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO BOLLYWOOD
+http://150.95.25.221:8000/HBO%20BOLLYWOOD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO ANIMATION
+http://150.95.25.221:8000/HBO%20ANIMATION?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO MAX
+http://150.95.25.221:8000/HBO%20MAX?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,CINEMAX HD
+http://150.95.25.221:8000/CINEMAX%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Hit Movies HD
+http://150.95.25.221:8000/Hit%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Cinemax HD
+http://150.95.25.221:8000/Cinemax%20%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Movies HD
+http://150.95.25.221:8000/Star%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Movies Select HD
+http://150.95.25.221:8000/Star%20Movies%20Select%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,BeIN 1 TH
+http://150.95.25.221:8000/BeIN%201%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,BeIN2 TH
+http://150.95.25.221:8000/BeIN2%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,BeIN3 TH
+http://150.95.25.221:8000/BeIN3%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,EPL1 HD
+http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,EPL2 HD
+http://150.95.25.221:8000/EPL2%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports VIP1
+http://150.95.25.221:8000/Sports%20VIP%5FHBO?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports VIP2
+http://150.95.25.221:8000/Sports%20VIP%5FCinemax?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports Vip3
+http://150.95.25.221:8000/Sports%20Vip?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports1 Asiasat5
+http://150.95.25.221:8000/Sports1%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports2 Asiasat5
+http://150.95.25.221:8000/Sports2%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports3 Asiasat5
+http://150.95.25.221:8000/Sports3%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Select 1HD
+http://150.95.25.221:8000/Star%20Select%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Select 2HD
+http://150.95.25.221:8000/Star%20Select%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten1
+http://150.95.25.221:8000/Sony%20Ten1?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten2
+http://150.95.25.221:8000/Sony%20Ten2?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten3
+http://150.95.25.221:8000/Sony%20Ten3?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten4
+http://150.95.25.221:8000/Sony%20Ten4?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten5
+http://150.95.25.221:8000/Sony%20Ten5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,TEN 1HD
+http://150.95.25.221:8000/TEN%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,TEN 2HD
+http://150.95.25.221:8000/TEN%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,TEN 3HD
+http://150.95.25.221:8000/TEN%203HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 1
+http://150.95.25.221:8000/ASTRO%20SPORT%201?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 2
+http://150.95.25.221:8000/ASTRO%20SPORT%202?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 3
+http://150.95.25.221:8000/ASTRO%20SPORT%203?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 4
+http://150.95.25.221:8000/ASTRO%20SPORT%204?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,LFC TV
+http://150.95.25.221:8000/LFC%20TV?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,MU TV
+http://150.95.25.221:8000/MU%20TV?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Minimax
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2250
+
+#EXTINF:-1,Pro Cinema
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/6150
+
+#EXTINF:-1,ANIMAL PLANET
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/9839
+
+#EXTINF:-1,BBC Earth
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/19910
+
+#EXTINF:-1,Animal World
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2238
+
+#EXTINF:-1,Love Nature
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/67018
+
+#EXTINF:-1,โทรศัพท์มือถือหาย
+https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ใจตึกตักเพราะสมาร์ทโฟน
+https://pops-vod-thai.akamaized.net/hn--P7mYXNiB5VOMG4ES1Ymcc5Klk4/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699c-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ตกปลาริมผากับพ่อ
+https://pops-vod-thai.akamaized.net/hn-wmWz5AWN6ke6rLevBYjfv2hwxO8/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698c-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,จัดของเล่น
+https://pops-vod-thai.akamaized.net/hn-5BO7_6wmyViOqwDjbrZPblwGc6Y/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698b-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ไล่ตามกระเป๋าผ้าลดโลกร้อนของเนเน่จัง
+https://pops-vod-thai.akamaized.net/hn-xAqSk9W-_xaWwV8BuPHy5TrzL-s/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698a-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,อยากฟังเสียงหายาก
+https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697c-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ไปงานโรงเรียนของโรงเรียนสตรี
+https://pops-vod-thai.akamaized.net/hn-sYg0G-H-BOww7eD2flXr0witUxE/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697b-popsthai/index-f2-v1-a1.m3u8
+RAW Paste Data
+#EXTIM3U
+#EXTINF:-1,Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,HBO
+http://150.95.25.221:8000/hbo%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO SD
+http://150.95.25.221:8000/HBO%20SD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Hit
+http://150.95.25.221:8000/HBO%20Hit?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Sig
+http://150.95.25.221:8000/HBO%20Sig?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO FAMILY
+http://150.95.25.221:8000/HBO%20FAMILY?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2226
+
+#EXTINF:-1,HBO 2
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2248
+
+#EXTINF:-1,HBO 3
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2225
+
+EXTINF:-1,HBO Top Ten
+http://150.95.25.221:8000/HBO%20Top%20Ten?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Now Movies
+http://150.95.25.221:8000/HBO%20Now%20Movies?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Action
+http://150.95.25.221:8000/HBO%20Action?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO Asian
+http://150.95.25.221:8000/HBO%20Asian?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO BOLLYWOOD
+http://150.95.25.221:8000/HBO%20BOLLYWOOD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO ANIMATION
+http://150.95.25.221:8000/HBO%20ANIMATION?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,HBO MAX
+http://150.95.25.221:8000/HBO%20MAX?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,CINEMAX HD
+http://150.95.25.221:8000/CINEMAX%20hd?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Hit Movies HD
+http://150.95.25.221:8000/Hit%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Cinemax HD
+http://150.95.25.221:8000/Cinemax%20%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Movies HD
+http://150.95.25.221:8000/Star%20Movies%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Movies Select HD
+http://150.95.25.221:8000/Star%20Movies%20Select%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,BeIN 1 TH
+http://150.95.25.221:8000/BeIN%201%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,BeIN2 TH
+http://150.95.25.221:8000/BeIN2%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,BeIN3 TH
+http://150.95.25.221:8000/BeIN3%20TH?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,EPL1 HD
+http://150.95.25.221:8000/EPL1%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,EPL2 HD
+http://150.95.25.221:8000/EPL2%20HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports VIP1
+http://150.95.25.221:8000/Sports%20VIP%5FHBO?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports VIP2
+http://150.95.25.221:8000/Sports%20VIP%5FCinemax?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports Vip3
+http://150.95.25.221:8000/Sports%20Vip?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports1 Asiasat5
+http://150.95.25.221:8000/Sports1%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports2 Asiasat5
+http://150.95.25.221:8000/Sports2%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sports3 Asiasat5
+http://150.95.25.221:8000/Sports3%20Asiasat5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Select 1HD
+http://150.95.25.221:8000/Star%20Select%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Star Select 2HD
+http://150.95.25.221:8000/Star%20Select%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten1
+http://150.95.25.221:8000/Sony%20Ten1?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten2
+http://150.95.25.221:8000/Sony%20Ten2?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten3
+http://150.95.25.221:8000/Sony%20Ten3?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten4
+http://150.95.25.221:8000/Sony%20Ten4?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Sony Ten5
+http://150.95.25.221:8000/Sony%20Ten5?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,TEN 1HD
+http://150.95.25.221:8000/TEN%201HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,TEN 2HD
+http://150.95.25.221:8000/TEN%202HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,TEN 3HD
+http://150.95.25.221:8000/TEN%203HD?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 1
+http://150.95.25.221:8000/ASTRO%20SPORT%201?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 2
+http://150.95.25.221:8000/ASTRO%20SPORT%202?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 3
+http://150.95.25.221:8000/ASTRO%20SPORT%203?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,ASTRO SPORT 4
+http://150.95.25.221:8000/ASTRO%20SPORT%204?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,LFC TV
+http://150.95.25.221:8000/LFC%20TV?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,MU TV
+http://150.95.25.221:8000/MU%20TV?u=515WdgIIIIlllOO0A:p=215AslllIIIwagjl3fA
+
+#EXTINF:-1,Minimax
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2250
+
+#EXTINF:-1,Pro Cinema
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/6150
+
+#EXTINF:-1,ANIMAL PLANET
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/9839
+
+#EXTINF:-1,BBC Earth
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/19910
+
+#EXTINF:-1,Animal World
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/2238
+
+#EXTINF:-1,Love Nature
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/67018
+
+#EXTINF:-1,โทรศัพท์มือถือหาย
+https://pops-vod-thai.akamaized.net/hn-JD00JgVP3_9r3w0z1yoyOKbc0Cc/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699a-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ใจตึกตักเพราะสมาร์ทโฟน
+https://pops-vod-thai.akamaized.net/hn--P7mYXNiB5VOMG4ES1Ymcc5Klk4/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s699c-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ตกปลาริมผากับพ่อ
+https://pops-vod-thai.akamaized.net/hn-wmWz5AWN6ke6rLevBYjfv2hwxO8/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698c-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,จัดของเล่น
+https://pops-vod-thai.akamaized.net/hn-5BO7_6wmyViOqwDjbrZPblwGc6Y/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698b-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,ไล่ตามกระเป๋าผ้าลดโลกร้อนของเนเน่จัง
+https://pops-vod-thai.akamaized.net/hn-xAqSk9W-_xaWwV8BuPHy5TrzL-s/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s698a-popsthai/index-f2-v1-a1.m3u8
+
+#EXTINF:-1,อยากฟังเสียงหายาก
+https://pops-vod-thai.akamaized.net/hn-bEvDlNIVzUAiMkQvSfuwqQtYgfo/videos/transcoded/new_crayon_shin-chan_hd_pal_final_thai-jp_ep.s697c-popsthai/index-f2-v1-a1.m3u8
