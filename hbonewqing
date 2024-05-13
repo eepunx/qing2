@@ -176,13 +176,16 @@ http://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 /// HBO /////
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits (Banana TV)
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0150.png",HBO family (Banana TV)
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX (BananaTV)
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
-
+#EXTINF:-1 tvg-id="HBO GROUP" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP",HBO
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO GROUP",HBO Hits
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO GROUP",HBO Family
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP",HBO Signature
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP",Cinemax
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 
 
 ///cinenemamaichi///
