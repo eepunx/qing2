@@ -1209,7 +1209,12 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Qingsports", ESPN 2 mx
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Qingsports", ESPN 3 mx
 
----SONY SPORTS -----
+---SONY star SPORTS -----
+#EXTINF:-1 tvg-id="143" tvg-logo="https://indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/17/StarSports_Logo.jpg" group-title="Qingsports",Star Sports 1 
+http://103.120.172.74:4600
+#EXTINF:-1 tvg-id="143" tvg-logo="https://indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/17/StarSports_Logo.jpg" group-title="Qingsports",Star Sports 2
+http://103.120.172.74:4700
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 1 
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 2 
