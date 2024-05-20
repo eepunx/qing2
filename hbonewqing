@@ -1113,6 +1113,14 @@ https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2
 https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
 
+-------Eleven---------
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",Eleven Sports1 🇵🇱
+http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",Eleven Sports2 🇵🇱
+http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
+
+
 -----ZIGGO----
 #EXTINF:-1 tvg-id=" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",Ziggo Voetbal
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1282763&extension=ts
