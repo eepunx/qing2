@@ -740,7 +740,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 #https://rawcdn.githack.com/broto121/ali/main/dx.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/qBYhbchW/Mentari.png", Mentari TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxLrsS2t/bizkids.png" group-title="KIDS", Biznet Kids
 #http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
