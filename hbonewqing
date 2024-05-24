@@ -1660,8 +1660,11 @@ https://testfunctionlive.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #EXTINF:-1 tvg-id="MTV 90's - [Channel 149].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="Music",MTV 90's
 https://testfunctionlive.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
+#EXTINF:-1 tvg-id="ClubbingTV.fr" group-title="Music" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png",Clubbing tv
+https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
+
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="Music", KPOP
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="Music", KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
