@@ -532,6 +532,8 @@ http://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://github.com/Qingtvnew/test/raw/main/OKTV.png", OK TV V+
 http://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
+
+
 /// HBO /////
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO (CUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -577,6 +579,19 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="HBO" tvg-logo="http://play.fastkobar.my.id:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjSg5vgZwwgeEQrortt0CxVA8PHPGYZddd4ODpQ1IlOpTZDz4BTQU1xZNCbyQ1VZbx.png" group-title="HBO GROUP",HBO (fiberhome)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMWgRU0fA_lUnNVtFfKchSs
+#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="HBO Family" tvg-logo="http://play.fastkobar.my.id:8080/images/4bLkwD6BbJ-uUyWDVKP7usweHqRh8p-xcWCOgNJ-_dzwTV8rf_SSYSH7d9eXPkIaK1TCbENfcXLUikSih81MIXq9O7o1Zbb6Cplx6-BFsZhZWqusZPO6bXUmqufP7sxRlGrG-iRpBw2mJnFCg3TyOg.png" group-title="HBO GROUP",HBO Fam (fiberhome)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGlWEyMOAAo79nSRn6DcNKM
+#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="HBO Hits" tvg-logo="http://play.fastkobar.my.id:8080/images/T0Pc5DE_oLwKsA53YyMCp-2O9NyNRHGDPSHqCKXSKGzEoIc4_uKUH1_mLWuJC0-pjIft3lRe9ygYKUZQucP54bM0ATs3EKrHnxcETs7bRpE.png" group-title="HBO GROUP",HBO Hits (fiberhome)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPD8Kg7knoHj12XIsIFdueY
+#EXTINF:-1 xui-id="97" tvg-id="" tvg-name="HBO Signature" tvg-logo="http://play.fastkobar.my.id:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48Ri97yRbNrbRVwRmE5qKgRMgwZ4xQFqDl3W7LkuSGhe-qE.png" group-title="HBO GROUP",HBO Sig (fiberhome)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRO31yweI9drEyVsjjMrUtUk
+#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="Cinemax by HBO" tvg-logo="http://play.fastkobar.my.id:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjIE9i-nKtkNcJcFZkpg9kG5-7jvCkeBGiLmzqIxJIby4YFAHAhm79Pq3ceSxhzGSIwfgi1EFAai-q2RZzWt0A_Q.png" group-title="HBO GROUP",Cinemax (fiberhome)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLQ_ICSAHTZKskhEw2HVjGM
+
 
 
 
