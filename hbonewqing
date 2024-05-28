@@ -1003,8 +1003,6 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKlo-W027jxYPBv0w-KTDM
 #EXTINF:-1 xui-id="152" tvg-id="" tvg-name="beIN Sports 3 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest/scale-to-width-down/250?cb=20170624060242" group-title="BEIN Sports",beIN Sports 3 
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRP8nPGI-vHLj22I6fqewrQI
 
-
-
 #EXTINF:-1 group-title="BEIN Sports" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1148,17 +1146,16 @@ http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id=" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",Ziggo Voetbal
 #EXTINF:-1 tvg-id=" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",Ziggo Racing
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg" group-title="Qingsports",Fight Sports V+
 https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-
-#EXTINF:-1 group-title="Qingsports" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport 1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/162
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",Eurosport 1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/110
 
 ------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/1600px-Usee_Sports.png" group-title="Qingsports",UseeSports 1
@@ -1214,13 +1211,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 
 ===Astrosp===
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
-http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
 
 ----FS-----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="Qingsports", FS1
@@ -1238,15 +1235,15 @@ http://103.120.172.74:4600
 http://103.120.172.74:4700
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 1 
-
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 2 
-
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 3 
-
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 #EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 4 
-
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 5 
-
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
