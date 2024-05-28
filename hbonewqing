@@ -1211,13 +1211,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 
 ===Astrosp===
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 
 ----FS-----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="Qingsports", FS1
@@ -1243,7 +1243,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 #EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 4 
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 5 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
