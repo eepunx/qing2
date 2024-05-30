@@ -1248,14 +1248,17 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-1-ua.jpg" group-title="Qingsports",ФУТБОЛ 1
 #EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/futbol-2-ua.jpg" group-title="Qingsports",ФУТБОЛ 2
 
+#EXTINF:-1 tvg-id="BandSports.br" group-title="Qingsports" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
+#https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" group-title="Qingsports" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+
+
 ---F1-----
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/main/F1.png" group-title="Qingsports", DAZN F1
 http://iptvtree.net:8080/F14995/a84c0963/1672
-
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/main/F1.png" group-title="Qingsports", BeIN Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/main/F1.png" group-title="Qingsports", Bansports
+https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
 
 ====MLB===
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/280px-MLBNetworkLogo.svg.png" group-title="Qingsports", MLB Network
