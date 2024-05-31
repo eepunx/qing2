@@ -1412,7 +1412,7 @@ https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/Qingtvnew/test/raw/main/CI.png", Crime Investigation V+
 http://liveaneviadev.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="group-title="Knowledge", Smithsonian Channel
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Knowledge", Smithsonian Channel
 http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
