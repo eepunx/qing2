@@ -1132,10 +1132,9 @@ https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
 
 -------Eleven---------
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",Eleven Sports1 🇵🇱
-http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg",Eleven Sports2 🇵🇱
-http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
+
 
 -----ZIGGO----
 #EXTINF:-1 tvg-id=" group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",Ziggo Voetbal
@@ -1222,13 +1221,13 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
 
 ===Astrosp===
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+
 #EXTINF:-1 group-title="Qingsports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+
 
 ----FS-----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="Qingsports", FS1
@@ -1238,6 +1237,8 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Qingsports", ESPN mx
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Qingsports", ESPN 2 mx
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Qingsports", ESPN 3 mx
+
+
 
 ---SONY star SPORTS -----
 #EXTINF:-1 tvg-id="143" tvg-logo="https://indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/17/StarSports_Logo.jpg" group-title="Qingsports",Star Sports 1 
