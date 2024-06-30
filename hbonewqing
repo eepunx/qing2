@@ -1097,9 +1097,9 @@ http://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://github.com/eepunx/qing2/raw/master/liga1euro.jpg",Spstars 4  V+
 http://melon-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="Qingsports", INDOSIAR live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Qingsports", INDOSIAR live
 http://xtv.ooo:8080/MansoorWapda/258741/350972
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="Qingsports", INDOSIAR live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Qingsports", INDOSIAR live
 http://xtv.ooo:8080/owais1/12345/350972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
