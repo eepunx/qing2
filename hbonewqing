@@ -426,11 +426,11 @@ https://raw.githubusercontent.com/eepunx/cancan/main/sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/eepunx/cancan/main/ind
 #EXTINF:-1 group-title="Indonesia❤️;Indonesia 🇮🇩 (server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 1
-http://xtv.ooo:8080/MansoorWapda/258741/350972
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 2
-http://xtv.ooo:8080/owais1/12345/350972
+
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 3
-http://iptvtree.net:8080/e891d265/89d742c3/162138
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1103,9 +1103,9 @@ http://melon-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Qingsports", INDOSIAR live
-http://xtv.ooo:8080/MansoorWapda/258741/350972
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Qingsports", INDOSIAR live
-http://xtv.ooo:8080/owais1/12345/350972
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
