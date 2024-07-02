@@ -330,7 +330,7 @@
 
 ------NAsIO------
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="Shareext@LOKAL_ID", RCTI (rcti+)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="Indonesia 🇮🇩 (server 2) ", RCTI (rcti+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
