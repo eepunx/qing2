@@ -1141,15 +1141,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="Qingsports", CCTV5
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="Qingsports", CCTV5+
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+
+==setanta===
+#EXTINF:-1 tvg-id="" group-title="Qingsports" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports
+https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+
 
 -----L'EQUIPE----
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 1
-https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Qingsports" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe 2
-https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+
 
 -------Eleven---------
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",Eleven Sports1 🇵🇱
@@ -1213,7 +1217,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 #https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Qingsports" tvg-id="truesports5.th" tvg-logo="",True Sports 7
-
 
 --premire sport---
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Qingsports",True Premiere 1
