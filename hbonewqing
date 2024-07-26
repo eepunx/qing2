@@ -1105,7 +1105,7 @@ http://melon-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 /⭕⭕////OLYMP/////
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/eepunx/qing2/master/Screenshot_2024-07-26-08-52-43-880_com.opera.mini.native-edit.jpg" tvg-logo="" group-title="Qingsports",PPTV
+#EXTINF:-1 tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/qing2/master/Screenshot_2024-07-26-08-52-43-880_com.opera.mini.native-edit.jpg" group-title="Qingsports",PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 
