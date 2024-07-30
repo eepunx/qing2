@@ -442,7 +442,7 @@ http://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png", tvOne V+
-http://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
