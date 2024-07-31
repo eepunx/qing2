@@ -1,107 +1,157 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",121
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",141
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h121/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h141/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h122/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h142/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h123/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h143/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h124/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h144/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h125/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h145/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h126/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h146/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h127/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h147/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h128/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h148/01.m3u8
 
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h129/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h149/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h130/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h150/01.m3u8
+
 
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h131/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h151/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h132/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h152/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h133/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h153/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h134/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h154/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h135/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h155/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h136/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h156/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h137/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h157/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h138/01.m3u8
-
+http://op-group1-swiftservehd-1.dens.tv/h/h158/01.m3u8
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h139/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h159/01.m3u8
 
-#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",140
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",160
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h140/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h160/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h161/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h162/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h163/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h164/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h165/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h166/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h167/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h168/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h169/01.m3u8
+
+#EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h170/01.m3u8
 
 
 
