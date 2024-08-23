@@ -762,16 +762,20 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
 
 ////Singapore 🇸🇬 ///
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest?cb=20120613095225",CH 5
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=941615
 
-#EXTM3U
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/800px-Mediacorp_Channel_8_2023.svg.png",CH 8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=941616
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDdTBNTjBFVDlDeU9nRHo3djUzRTkxa0lIaDRUc2FEQ3A2NTI1VnRXUFNxbjRFWjczUzliTkt4YUlkNUZTQ3ZuR3ROUms5VVotOGlVQVZDdW9YUHhGaDFVN2FIbDZFYXVENzFWbi1XcEZwdG9GQ1pTUnRPSW5ZVTRla3N1elI1Qy12TVRNWHNtOG1VNkdUWFRUblUwNnBJaGktRVhfdEtxcHVEeGlCX09PbG5YTVJOckJDWDl6dFNyYkhqOHdFVmVfRVZsWUJtY0M1dGZLMm5abm9CMFNvOGpMTk5RMmJKQVZEYllpN01Zdk1ScUxNZ1c2TjItRjBlekpxM0RrdXhibmhtRl9RWDU1cjdxT3pZYWhIRVk2aTViSFVJRWJqMWJBWmVsMlpYLWxvRV80OS1rWkxtN1BWWlM1OFpOT3NGRnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkN1ME1OMEVUOUN5T2dEejd2NTNFOTFrSUhoNFRzYURDcDY1MjVWdFdQU3FuNEVaNzNTOWJOS3hhSWQ1RlNDdm5HdE5SazlVWi04aVVBVkN1b1hQeEZoMVU3YUhsNkVhdUQ3MVZuLVdwRnB0b0ZDWlNSdE9JbllVNGVrc3V6UjVDLXZNVE1Yc204bVU2R1RYVFRuVTA2cEloaS1FWF90S3FwdUR4aUJfT09sblhNUk5yQkNYOXp0U3JiSGo4d0VWZV9FVmxZQm1jQzV0Zksyblpub0IwU284akxOTlEyYkpBVkRiWWk3TVl2TVJxTE1nVzZOMi1GMGV6SnEzRGt1eGJuaG1GX1FYNTVyN3FPellhaEhFWTZpNWJIVUlFYmoxYkFaZWwyWlgtbG9FXzQ5LWtaTG03UFZaUzU4Wk5Pc0ZGdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=VwIQEEh%2bDHScAJtaMJa5AX0er34%3d
-#EXTINF:-1 group-title="Mediacorp SG maaf dihapus permanen" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Maaf ☹️
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/MediaCorp_Channel_U_logo.jpg/revision/latest/scale-to-width-down/250?cb=20101105110017",CH U
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=941617
 
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",LIVE 1
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=941678
 
+#EXTINF:-1 group-title="SINGAPORE TV" tvg-logo="https://play-lh.googleusercontent.com/pvoIUgtbvS3XuxLTDkDOghF59twl66Vx-aalb74yOTKYLz3t17y7MJFtbwTfV0itWA",LIVE 2
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:13:8C:3A&extension=ts&stream=941679
 
 /////BRUNEI
 
