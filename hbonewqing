@@ -462,13 +462,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png" group-title="Indonesia❤️",SCTV (vidio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=204&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png" group-title="Indonesia❤️",SCTV (ext)
+https://s.id/SCTV_shareext-xs
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
