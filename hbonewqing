@@ -1182,11 +1182,42 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
-===AFC===
+
+
+==DOUYU===
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 1
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 2
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 3
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 4
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 5
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 6
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 7
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 8
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 9
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 10
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 11
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 12
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 13
+http://epg.112114.xyz/douyu/252802
 
 
 
 
+
+
+===AFC==
 /////////⛔BEIN sports⛔//////
 #EXTINF:-1 xui-id="154" tvg-id="" tvg-name="Infinity Champions 1 HD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="BEIN Sports",beIN Sports 
 #http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJFOg0OPlsugRfELSOg5-84
