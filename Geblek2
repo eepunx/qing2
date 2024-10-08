@@ -725,10 +725,9 @@ http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="6108" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="HK/Taiwan 🇭🇰🇹🇼",TAIWAN+
-https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+
 
 #EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="HK/Taiwan 🇭🇰🇹🇼",SET 三立iNews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 #EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" group-title="HK/Taiwan 🇭🇰🇹🇼",SET三立都会台
 https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
