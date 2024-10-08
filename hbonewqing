@@ -462,8 +462,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR (Indihome)
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR (Dens)
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="Indonesia❤️",INDOSIAR (Transvision)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
