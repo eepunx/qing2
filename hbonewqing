@@ -1185,6 +1185,15 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mp
 
 
 ==DOUYU===
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",Bioskop Terlaris 1
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",Bioskop Terlaris 2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",Bioskop Terlaris 3
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",Bioskop Terlaris 4
+http://epg.112114.xyz/douyu/252802
+
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 1
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="BIOSKOP sub ENG",DOUYU•Bioskop 2
