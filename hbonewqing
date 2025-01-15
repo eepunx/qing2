@@ -1529,7 +1529,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/Qingtvnew/test/raw/main/discovery-channel.png", Discovery Channel
-
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45442
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://facedumonde.fr/wp-content/uploads/2023/04/DiscoveryAsia.png", Discovery Asia
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1024px-Discovery_Science_-_Logo_2012.svg.png", Discovery Science
@@ -1563,10 +1563,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #http://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:0 group-title="Knowledge" tvg-logo="https://github.com/Qingtvnew/test/raw/main/National-Geographic.png" ,National Geograpic
-#http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176897
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/Qingtvnew/test/raw/main/natgeowild.png", Nat Geo Wild
-#http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
-#http://124.29.225.205:8000/play/a044/index.m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=176898
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1803,7 +1803,7 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 /////🕺🥳 LIFESTYLE /////
 #EXTINF:-1 tvg-id="" group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TLC.webp",TLC
-https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571189
 
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/Qingtvnew/test/raw/main/afn.png",AFN 
@@ -1811,7 +1811,7 @@ https://github.com/inspirationlinks/m3u/raw/live/Streams/TLC.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entertaiment & Lifestyle",The Food Network 
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571179
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
