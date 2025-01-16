@@ -363,7 +363,7 @@ https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%28
 https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="" group-title="🇹🇼🇭🇰TAIWAN HK sdg proses perbaikan",Maintenance
-https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
+#https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="" group-title="cek http://tokopedia.com/qing37 utk merk box terbaru google voice assistant 390an rb",tutor
 #https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
@@ -1411,8 +1411,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 #http://filex.tv:8080/paramjeetsingh/002818/302734
 
 ----FS-----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="Qingsports", FS1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="Qingsports", FS2
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png",FOX SPORTS 2
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
+
+#EXTINF:-1 group-title="Qingsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBknO-7pQZ0cliJsEyPFiX5VPrZf2lTutRg&s",NBA TV
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7226/index.m3u8
 
 ----ESPN---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Qingsports", ESPN mx
@@ -1426,13 +1431,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 1 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 2 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 3 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
 #EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 4 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Qingsports",Sony Sports 5 
 
 
