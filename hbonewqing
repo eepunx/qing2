@@ -1534,15 +1534,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://github.com/Qingtvnew/test/raw/main/discovery-channel.png", Discovery Channel
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45442
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://facedumonde.fr/wp-content/uploads/2023/04/DiscoveryAsia.png", Discovery Asia
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45442
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1024px-Discovery_Science_-_Logo_2012.svg.png", Discovery Science
+#EXTINF:-1 cuid="535" tvg-chno="535" tvg-name="Knowledge" tvg-id="Discovery.Channel.(US).on.demand.us" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DiscoveryIndia.webp" group-title="Knowledge",Discovery Channel 🇺🇸
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8
 
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge",DMAX
+#EXTINF:-1 cuid="538" tvg-chno="538" tvg-name="Knowledge" tvg-id="Discovery.Science.in" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Discovery%20Science.webp" group-title="Knowledge",Discovery Science 🇺🇸
+http://tkosportz.live:25461/live/swilder2023/6063815781/10389.ts
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Discovery_Turbo_logo_2016.svg/300px-Discovery_Turbo_logo_2016.svg.png", Discovery Turbo
-
+#EXTINF:-1 cuid="918" tvg-chno="918" tvg-name="Animal Planet" tvg-id="Animal.Planet.HD.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="Knowledge",Animal Planet HD 🇺🇸
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1808,8 +1813,10 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 /////🕺🥳 LIFESTYLE /////
 #EXTINF:-1 tvg-id="" group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TLC.webp",TLC
-http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571189
-
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8
+#http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571189
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/Qingtvnew/test/raw/main/afn.png",AFN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Safari/537.36
@@ -1825,7 +1832,9 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream
 http://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
-https://raw.githubusercontent.com/eepunx/cancan/main/hgtv
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channel
 https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
