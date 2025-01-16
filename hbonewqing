@@ -1853,8 +1853,17 @@ https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIC TV V+
 http://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="Music" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
+#EXTINF:-1 cuid="1256" tvg-chno="1254" tvg-name="XITE" tvg-id="ATBA22000070N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Xitelogo.jpg" group-title="Music",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 cuid="1262" tvg-chno="1260" tvg-name="XITE Hits" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="Music",XITE Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="1278" tvg-chno="1276" tvg-name="Deluxe Music 🇩🇪" tvg-id="DeluxeMusic.de" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeMusic.webp" group-title="Music",Deluxe Music
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 cuid="1283" tvg-chno="1281" tvg-name="Ocko Star 🇨🇿" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Music",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
