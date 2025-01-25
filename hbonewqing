@@ -1429,13 +1429,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#http://filex.tv:8080/paramjeetsingh/002818/302733
+http://myserver.myphuket.net:25461/test2/test2/26
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Qingsports",True Premiere 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#http://filex.tv:8080/paramjeetsingh/002818/302734
+http://myserver.myphuket.net:25461/test2/test2/27
+
 
 ----FS-----
 #EXTINF:-1 group-title="Qingsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FOX SPORTS 1
