@@ -1805,9 +1805,8 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream
 http://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/theGobRoss.webp",The Bob Ross Channel
 https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
