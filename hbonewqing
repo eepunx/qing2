@@ -1786,10 +1786,7 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 /////🕺🥳 LIFESTYLE /////
 #EXTINF:-1 tvg-id="" group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/TLC.webp",TLC
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8
-#http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571189
+http://iptv12k.com:35461/654321/123456/1743
 
 #EXTINF:-1 group-title="Entertaiment & Lifestyle" tvg-logo="https://github.com/Qingtvnew/test/raw/main/afn.png",AFN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Safari/537.36
