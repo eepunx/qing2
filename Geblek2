@@ -1114,7 +1114,8 @@ http://z.b.bkpcp.top/m.php?id=cctv17
 
 ////Koseljapan////
 #EXTINF:-1 group-title="🇰🇷|Korsel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1600px-KBS_World_%282009%29.svg.png", KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
+#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTM3U
