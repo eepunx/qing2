@@ -148,10 +148,170 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 
+======❤️KIDS======
 
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids" tvg-id="Cartoon Network" , Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="Kids" tvg-id="Nickelodeon.id", Nickelodeon
+https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Nickelodeon.id" tvg-name="Nickelodeon", Nickelodeon
+https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids" tvg-id="NickJr.id" , Nickelodeon Jr
+https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="NickJr.id" tvg-name="Nick Jr.", Nick Jr.
+https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids",ZooMoo
+https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
+https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="Kids",Viva TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Dora TV 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/kidsflix.png",KidsFlix 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/440px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
+#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
+https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids", Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="Kids",Dreamworks HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="DreamWorks.id" tvg-name="Dreamworks HD", Dreamworks HD
+https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|Referer=https://www.visionplus.id
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png" group-title="Kids",Kids TV
+https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="KidsTV.id" tvg-name="Kids TV", KidsTV
+https://d1abp075u76pbq.cloudfront.net/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|Referer=https://www.visionplus.id
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png" group-title="Kids",Cbeebies
+https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="553.unifi" tvg-name="CBeebies HD", CBeebies HD
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|Referer=https://www.visionplus.id
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+#EXTINF:-1 tvg-id="MyKidz" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="Kids",MyKids
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="MyKidz.id" tvg-name="My Kidz", MyKidz
+http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="Animax.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png",Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1  group-title="Kids" tvg-id="ANIPLUS HD.sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",Horee!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Horee.id" tvg-name="Horee", Horee
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+#EXTINF:-1 group-title="Kids"  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+#https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoonito.sg" tvg-name="Cartoonito", Cartoonito 
+http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://thumbor.prod.vidiocdn.com/b82CgoIwEV8ChnOh_9lvGhnt2iU=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", Mentari TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls 
+#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="Kids",Spacetoon
+#https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1  group-title="Kids" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Boomerang_tv_%282000-2004%29.png",Boomerang
+
+#EXTINF:-1, tvg-id="IndiKids" tvg-name="IndiKids" group-title="Kids" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iIkcrZF.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Biznet Kids", B Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 
 
