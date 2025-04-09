@@ -99,13 +99,14 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9FZNRPYH/cnbc-id.png" group-title="🇮🇩|Indonesia",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/tJPnk4B7/beritasatu.png" group-title="🇮🇩|Indonesia",Beritasatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
+#EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 
 ========❤️LOKAL======
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tJPnk4B7/beritasatu.png" group-title="🇮🇩|LOKAL",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.postimg.cc/t4JxzGFG/ntv.png" group-title="🇮🇩|LOKAL",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L8Cs9Vc2/inspira-tv1.png" group-title="🇮🇩|LOKAL",Inspira TV
