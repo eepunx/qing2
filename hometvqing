@@ -400,6 +400,10 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iIkcrZF.png?v=1.0.0.1" group-title="👶|KIDS" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Biznet Kids", B Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
+#EXTINF:-1  tvg-logo="" group-title="👶|KIDS", VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch107.m3u8
+
 
 =====❤️Premium Movies========
 
