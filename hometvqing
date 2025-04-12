@@ -282,34 +282,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png", Sportstars 3 HD (ott.navigator)
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="⚽ SPORTS", SPORTSTARS 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="⚽|SPORTS",Sportstars 2 HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
-
-
-#EXTINF:-1 group-title="⚽|SPORTS" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png",SPORTSTAR 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="⚽|SPORTS",MY: Astro Cricket
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157565
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="⚽|SPORTS",MY: Astro Football
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="⚽|SPORTS",MY: Astro Grandstand
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306492
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/8d68f28d23ef38bdfeecd26b7c613e3d.png" group-title="⚽|SPORTS",MY: Astro Premier League
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" group-title="⚽|SPORTS",MY: Astro Premier League 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306491
 
 
 
