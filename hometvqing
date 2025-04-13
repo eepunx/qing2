@@ -372,7 +372,14 @@ https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="⚽|SPORTS",MY: Astro Football
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="⚽|SPORTS",MY: Astro Grandstand
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306492
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/8d68f28d23ef38bdfeecd26b7c613e3d.png" group-title="⚽|SPORTS",MY: Astro Premier League
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" group-title="⚽|SPORTS",MY: Astro Premier League 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306491
 
 
 
