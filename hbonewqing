@@ -1182,6 +1182,16 @@ http://iptvtree.net:8080/F25093/29838750/298506
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Motorsport" tvg-logo="https://i.imgur.com/lhRJvvV.png" group-title="Qingsports",S Motorsport
 http://supersonictv.live:8080/227058/272105/86879
 
+#EXTINF:-1 group-title="Qingsports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1(Referer)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Qingsports" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2(Referer)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
