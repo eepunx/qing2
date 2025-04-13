@@ -1174,6 +1174,14 @@ http://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mp
 
 ///// SPORTS /////
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="Qingsports",SpoTV
+http://iptvtree.net:8080/F25093/29838750/165105
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="Qingsports",SpoTV 2
+http://iptvtree.net:8080/F25093/29838750/298506
+
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Motorsport" tvg-logo="https://i.imgur.com/lhRJvvV.png" group-title="Qingsports",S Motorsport
+http://supersonictv.live:8080/227058/272105/86879
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
