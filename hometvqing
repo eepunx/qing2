@@ -17,6 +17,7 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia", INEWS_+ (sdi)
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -90,6 +91,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e82
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇮🇩|Indonesia",INews
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
+
+
 
 #EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
