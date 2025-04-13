@@ -360,7 +360,17 @@ http://ua.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtr
 #EXTINF:-1 cuid="" tvg-chno="" tvg-id="TNT.Sports.3HD.uk" tvg-logo="http://tv.team/images/chIcons/233.png" group-title="⚽|SPORTS",TNT Sport 3 🇬🇧
 http://ua.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtkwT58xCKGmUb76YLA0yX9SnAuOF3AErdGHBsSDLGYSl
 
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-title="⚽|SPORTS",DAZN 1 🇩🇪 
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.2" tvg-id="DAZN.2.de" tvg-logo="https://logo.iptveditor.com/dazn2.png" group-title="⚽|SPORTS",DAZN 2 🇩🇪 
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
 
 
