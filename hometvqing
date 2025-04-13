@@ -296,8 +296,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="⚽|SPORTS",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -355,6 +353,28 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306492
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" group-title="⚽|SPORTS",MY: Astro Premier League 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306491
+
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="http://tv.team/images/chIcons/314.png" group-title="⚽|SPORTS",Sky Sports Football 🇬🇧
+http://ua.1usd.tv:34000/ch314/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtuayo1lnRyMC858ktivV-hwHFNBEZp-WBd_G4xXJ8sV6
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="SkySp.Mix.HD.uk" tvg-logo="http://tv.team/images/chIcons/234.png" group-title="⚽|SPORTS",Sky Sports Mix 🇬🇧
+http://ua.1usd.tv:34000/ch234/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtmHr93-YVchT_kBdj0t4PbmPGjF2lDUOK2ZU8iklUcqd
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="SkySpMainEvHD.uk" tvg-logo="http://tv.team/images/chIcons/335.png" group-title="⚽|SPORTS",Sky Sports Main Event 🇬🇧
+http://ua.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtsqku8me-KmXsw4WKyd3pjAUe6X1gCLBfkAchNCkeW1j
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="SkySp.Racing.HD.uk" tvg-logo="http://tv.team/images/chIcons/1100.png" group-title="⚽|SPORTS",Sky Sports Racing 🇬🇧
+http://ua.1usd.tv:34000/ch1100/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtjqhPkxkR22mvYP4u4RD4fusJwnemf_qao6Wuq72zES0
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="SkySp+.uk" tvg-logo="http://tv.team/images/chIcons/74.png" group-title="⚽|SPORTS",Sky Sports+ 🇬🇧
+http://ua.1usd.tv:34000/ch074/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtnGoJfPU0089TTxu0tdNMFBdB4MRFZhUvSMxOb7snpp6
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="http://tv.team/images/chIcons/236.png" group-title="⚽|SPORTS",TNT Sport 1 🇬🇧
+http://ua.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtpVXZnhjxCH6CDCfMaRVc6RI7IFYFJS5bPVEkE5S3Zsm
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="http://tv.team/images/chIcons/334.png" group-title="⚽|SPORTS",TNT Sport 2 🇬🇧
+http://ua.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtrNCmp-MGfW11_pq5ETCtYQTq8fNz05uscqqtT9-KniM
+#EXTINF:-1 cuid="" tvg-chno="" tvg-id="TNT.Sports.3HD.uk" tvg-logo="http://tv.team/images/chIcons/233.png" group-title="⚽|SPORTS",TNT Sport 3 🇬🇧
+http://ua.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtkwT58xCKGmUb76YLA0yX9SnAuOF3AErdGHBsSDLGYSl
+
+
+
+
+
 
 
 
