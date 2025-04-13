@@ -392,6 +392,16 @@ https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%28
 
 /////////IND🇮🇩////////! 
 
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia❤️", RCTI_+(sdi)
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="Indonesia❤️", MNCTV_+(sdi)
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia❤️", GTV_+(sdi)
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="Indonesia❤️", INEWS_+(sdi)
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia❤️",RCTI
