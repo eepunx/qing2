@@ -1,18 +1,34 @@
 #EXTM3U 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV V+
+https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🔴NASIONAL",mnc
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Qingsports",Soccer V2
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Qingsports",Soccer test
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash/soccerchannel-test.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Qingsports",Soccer tanpa test
+https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash/soccerchannel.mpd
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Shareext@LOKAL_ID", RCTI_+(sdi)
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV_+(sdi)
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="Shareext@LOKAL_ID", GTV_+(sdi)
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS_+(sdi)
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+
+
+
+
