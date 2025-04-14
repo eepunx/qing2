@@ -440,36 +440,44 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306491
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="👶|KIDS" tvg-id="Nickelodeon.id", Nickelodeon
-#https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="👶|KIDS" tvg-logo="https://github.com/Qingtvnew/test/raw/main/nick-jr.png", Nick Jr V+
+http://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="👶|KIDS" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Nickelodeon.id" tvg-name="Nickelodeon", Nickelodeon
-https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="👶|KIDS" tvg-logo="https://github.com/Qingtvnew/test/raw/main/nick.png", Nickelodeon V+
+http://cempedak-cdn-fly.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="👶|KIDS" tvg-id="NickJr.id" , Nickelodeon Jr
-#https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="👶|KIDS" tvg-logo="https://github.com/Qingtvnew/test/raw/main/Cbeebies.png", Cbeebies V+
+https://cempedak-cdn-fly.mncnow.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="👶|KIDS" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="NickJr.id" tvg-name="Nick Jr.", Nick Jr.
-https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/dreamworks.png" group-title="👶|KIDS",DreamWorks V+
+https://cempedak-cdn-fly.mncnow.id/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-#EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="👶|KIDS",ZooMoo
-#https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+#EXTINF:-1 group-title="👶|KIDS" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/buddystar.png",Buddy Star V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="👶|KIDS" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
-https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Referer=https://www.visionplus.id
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="👶|KIDS",ZooMoo V+
+https://cempedak-cdn-fly.mncnow.id/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
