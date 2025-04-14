@@ -640,12 +640,17 @@ http://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png" group-title="🎬|Premium Movies",Galaxy Premium V+
 http://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="🎬|Premium Movies" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN V+
+http://cempedak-cdn-fly.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="🎬|Premium Movies",AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
-https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-id="95" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="🎬|Premium Movies", My Cinema (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
