@@ -368,6 +368,19 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 cuid="" tvg-chno="" tvg-id="DAZN.F1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1024px-DAZN_F1_logo.svg.png?20220719171020" group-title="⚽|SPORTS",DAZN F1 🇪🇸
 http://ua.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtjXgQWYiP07KTilt5LFY4bvjn_irmlKQ1RipdckGD4Ow
 
+#EXTINF:-1 cuid="927" tvg-name="" tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-f1-de.png" group-title="⚽|SPORTS",Sky Sports F1 🇩🇪
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 cuid="928" tvg-name="" tvg-id="Sky.Sport.Tennis.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-tennis-de.png" group-title="⚽|SPORTS",Sky Sports Tennis 🇩🇪
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium884/mono.m3u8
+
+
 #EXTINF:-1   tvg-name="L'Equipe Live 1 🇫🇷" tvg-id="" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-title="⚽|SPORTS",L'Equipe 1 🇫🇷
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1   tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-title="⚽|SPORTS",L'Equipe 2 🇫🇷
