@@ -153,9 +153,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/x1jqJ5VX/cnn-id.png" group-title="🇮🇩|Indonesia",CNN Indo
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/600px-CNN_Indonesia_logo.svg.png" group-title="🇮🇩|Indonesia",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9FZNRPYH/cnbc-id.png" group-title="🇮🇩|Indonesia",CNBC Indo
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CNBC_Indonesia_2024.svg/500px-CNBC_Indonesia_2024.svg.png" group-title="🇮🇩|Indonesia",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
