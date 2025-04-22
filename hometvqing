@@ -44,28 +44,6 @@ https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",RCTI
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",MNCTV
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",GTV
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",INEWS 
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV (Transvision)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -93,6 +71,25 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇮🇩|Indonesia",INews
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
+
+=====RCTI+=====
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",MNCTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
 
 
 
