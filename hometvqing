@@ -371,8 +371,6 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG.png" group-title="⚽|SPORTS", NBA TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb832/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-
-
 #EXTINF:-1 cuid="" tvg-chno="" tvg-id="DAZN.F1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1024px-DAZN_F1_logo.svg.png?20220719171020" group-title="⚽|SPORTS",DAZN F1 🇪🇸
 http://ua.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtjXgQWYiP07KTilt5LFY4bvjn_irmlKQ1RipdckGD4Ow
 
@@ -388,7 +386,6 @@ https://windnew.newkso.ru/wind/premium274/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium884/mono.m3u8
 
-
 #EXTINF:-1   tvg-name="L'Equipe Live 1 🇫🇷" tvg-id="" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-title="⚽|SPORTS",L'Equipe 1 🇫🇷
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1   tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-title="⚽|SPORTS",L'Equipe 2 🇫🇷
@@ -400,6 +397,8 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium260/mono.m3u8
 
+#EXTINF:-1 cuid="916" tvg-name="" tvg-id="RaiSport.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp" group-title="⚽|SPORTS",Rai Sport 🇮🇹
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 
 ====SPORTSTAR====
