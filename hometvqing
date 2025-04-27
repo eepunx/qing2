@@ -1015,9 +1015,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 
 ======China🇨🇳=====
-#EXTINF:-1 tvg-id="chinese drama" tvg-logo="https://i.imgur.com/NLMxZ86.png" group-title="🇨🇳🇹🇼🇭🇰|Mandarin",Chinese Drama
-#EXTVLCOPT:http-user-agent=avengers21
-http://194.42.205.101:8070/live/test_acct/ohbo1veifa4AhD/298516.ts
 
 #EXTINF:-1 tvg-id="110" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg" group-title="🇨🇳🇹🇼🇭🇰|Mandarin", CCM (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
