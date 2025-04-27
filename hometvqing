@@ -728,6 +728,12 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 
 =====❤️Premium Movies========
+#EXTINF:-1 group-title="🎬|Premium Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
 
 #EXTINF:-1 group-title="🎬|Premium Movies" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/originals.png",Originals V+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
