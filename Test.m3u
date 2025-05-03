@@ -5,4 +5,13 @@
 #EXTINF:-1 group-title="Sport",True Sport 1
 https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports1thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-livescorethai
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
+#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports2thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png", Bein Sports 2 -livescorethai
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
+#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports3thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png", Bein Sports 3-livescorethai
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
 
