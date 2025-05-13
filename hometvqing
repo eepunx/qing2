@@ -735,6 +735,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 
 
 ======❤️KIDS======
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="👶|KIDS",DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/sofiathefirst/images/c/c6/Disney_Junior_logo.png/revision/latest/scale-to-width-down/1200?cb=20180810132710" group-title="👶|KIDS",DISNEY Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
@@ -742,6 +747,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="👶|KIDS",DISNEY XD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
+
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="👶|KIDS" tvg-id="Cartoon Network" , Cartoon Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -878,6 +890,19 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1  tvg-logo="" group-title="👶|KIDS", VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY FIRST TV" tvg-logo="http://apkip.tv/logos/USA/BabyFirst.us.png" group-title="👶|KIDS",BABY FIRST TV
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=2&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fkidsflix.jpg" group-title="👶|KIDS", KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png" group-title="👶|KIDS", SuperToons TV
+https://jmp2.uk/sam-GBBD5100001HL.m3u8
+
+
+
+
 
 
 
