@@ -106,8 +106,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png",Indosiar BRI
+#EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png",Indosiar BRI/Bola
 https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
+http://iptvtree.net:8080/F25093/29838750/162138
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
