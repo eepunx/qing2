@@ -1279,9 +1279,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 ======China🇨🇳=====
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/setinews.jpg" group-title="🇨🇳🇹🇼🇭🇰|Mandarin",set INEWS.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/setinews.jpg" group-title="🇨🇳🇹🇼🇭🇰|Mandarin",set INEWS test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV01.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747639816/ei/qIkqaJOIN_6kzPsP6vO20Qk/ip/92.205.3.32/id/pF507BLtbqU.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZ9jhYChfHrSjwktS8q72iJmGbcSu02I3uEKhXONwq8Qm1omIVPirC6wNw3ZaT722XJPLRkBggG/spc/wk1kZo9cAGfMv85gN84Ln6gS9-AckdXJBmJ4KlqTFps7zhUjh-rDj-AjycrCiXE8Q-rWoiY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM_FuZG55-LN9uySJpcZxgQRHXkeRkhs0N13omWsjylVAiEAoH33zQ5F0ftl9kFvxNZK5S78y5Tow-2wdtyAKTpstdA%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="🇨🇳🇹🇼🇭🇰|Mandarin",Chinese Drama
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
