@@ -1,17 +1,19 @@
 #EXTM3U 
 
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-1 group-title="Sport",True Sport 1
-https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports1thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-livescorethai
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
-#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports2thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png", Bein Sports 2 -livescorethai
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
-#EXTINF:-1 group-title="📺 ช่องกีฬา" tvg-id="beinsports3thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png", Bein Sports 3-livescorethai
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
-
+#EXTINF:-1, 2号[1920*1080]
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1, 3号[1920*1080]
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+1号[1920*1080],http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+5号[1920*1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+8号[1920*1080],http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+6号[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+9号[853*480],http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+11号[720*540],http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
+12号[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+13号[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+15号[1920*1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+18号[1920*1080],http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+21号[1920*1080],http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+24号[1920*1080],http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
+26号[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
