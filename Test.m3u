@@ -1,19 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1, 2号[1920*1080]
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1, 3号[1920*1080]
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-1号[1920*1080],http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-5号[1920*1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-8号[1920*1080],http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-6号[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-9号[853*480],http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-11号[720*540],http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
-12号[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-13号[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-15号[1920*1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-18号[1920*1080],http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
-21号[1920*1080],http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
-24号[1920*1080],http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
-26号[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV V+
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
