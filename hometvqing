@@ -126,6 +126,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
+#EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/mdtv.png", MDTV V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
 #EXTINF:-1 group-title="🇮🇩|Indonesia" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/mdtv.png", MDTV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
