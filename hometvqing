@@ -939,6 +939,10 @@ https://jmp2.uk/sam-GBBD5100001HL.m3u8
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1212px-Logo_Studio_Universal.svg.png" group-title="Premium Movies", STUDIO UNIVERSAL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/originals.png",Originals V+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -951,7 +955,6 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-
 
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/superrix.png",Superrix V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -987,6 +990,11 @@ http://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN V+
 http://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_IMC_Channel.png" group-title="Premium Movies",Indonesia Movie Channel
+https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
 
 #EXTINF:-1 tvg-id="95" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium Movies", My Cinema (dens)
