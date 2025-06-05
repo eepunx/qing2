@@ -557,6 +557,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg" group-title="SPORTS",BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="SPORTS",BEIN SPORTS canada
+http://wanicelife.com:8880/D12m4389/60388773/30178
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -589,10 +592,10 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+#https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",True Premier 2
 #EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+#https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="trueSports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1 🇹🇭
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
