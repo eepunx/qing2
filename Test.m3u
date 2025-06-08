@@ -1,5 +1,25 @@
 #EXTM3U 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV V+
-https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTINF:-1 cuid="927" tvg-name="" tvg-id="SKY.Sport.F1.de" tvg-logo="" group-title="SPORTS",275
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium275/mono.m3u8
+
+#EXTINF:-1 cuid="927" tvg-name="" tvg-id="SKY.Sport.F1.de" tvg-logo="" group-title="SPORTS",276
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium276/mono.m3u8
+
+#EXTINF:-1 cuid="927" tvg-name="" tvg-id="SKY.Sport.F1.de" tvg-logo="" group-title="SPORTS",277
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium277/mono.m3u8
+
+#EXTINF:-1 cuid="927" tvg-name="" tvg-id="SKY.Sport.F1.de" tvg-logo="" group-title="SPORTS",278
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium278/mono.m3u8
