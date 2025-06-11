@@ -530,6 +530,73 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 ======❤️❤️SPORT=======
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS", ASTRO ARENA 1(github) 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena1.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="SPORTS", ASTRO ARENA 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", ASTRO PREMIER LEAGUE(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS1.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", ASTRO PREMIER LEAGUE 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS2.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", ASTRO GRANDSTAND(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS3.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="SPORTS", ASTRO FOOTBALL(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS4.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="SPORTS", ASTRO BADMINTON(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadminton.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", ASTRO PREMIER LEAGUE 1_BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB1.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", ASTRO PREMIER LEAGUE 2_BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB2.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", ASTRO GRANDSTAND BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB3.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="SPORTS", ASTRO FOOTBALL BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="SPORTS ", ASTRO BADMINTON BK(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadmintonB.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS", ASTRO CRICKET(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Astrocricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS", TRUESPORT PREMIER LEAGUE 1(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TruePL1.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="SPORTS", TRUESPORT PREMIER LEAGUE 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TruePL2.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="SPORTS", TRUESPORT PREMIER LEAGUE 3(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TruePL3.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="SPORTS", TRUESPORT PREMIER LEAGUE 4(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TruePL4.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiR1_7srf5zjaacrtVyJ4d8N6_yPG-Ek121A&s" group-title="SPORTS", TRUESPORT PREMIER LEAGUE 5(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TruePL5.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", TRUE BEINSPORT 1(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein1.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", TRUE BEINSPORT 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein2.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", TRUE BEINSPORT 3(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueBein3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="SPORTS", TRUE SPOTV 1(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv1.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGPayY5Ef3Tq1zv2-QWSGrfbOrTd4O4WXMG_lnu3n33BYQ-GcxjCYgHI&s=10" group-title="SPORTS", TRUE SPOTV 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/TrueSpotv2.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SPORTS", TRUESPORT 1(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SPORTS", TRUESPORT 2(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SPORTS", TRUESPORT 3(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SPORTS", TRUESPORT 4(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SPORTS", TRUESPORT 5(github)
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyAWjGHBXD4-A1-SYnpdEE_9TCqzzhH9QXg&usqp=CAU" group-title="SPORTS", TRUESPORT 7(github) 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/True7.m3u8
+
+
+
 
 
 ==BEIN==
