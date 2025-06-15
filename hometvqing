@@ -797,42 +797,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 =====ASTRO=====
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASTRO SPORTS", ASTRO ARENA 1 
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena1.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUzQEaqrarNmURWmDm8xGVzNQb3orQxQIg&s" group-title="ASTRO SPORTS", ASTRO ARENA 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroArena2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS1.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS2.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="ASTRO SPORTS", ASTRO GRANDSTAND
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS3.m3u8 
-#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="ASTRO SPORTS", ASTRO FOOTBALL
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSS4.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="ASTRO SPORTS", ASTRO BADMINTON
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadminton.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 1 B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB1.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 2 B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB2.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="ASTRO SPORTS", ASTRO GRANDSTAND B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB3.m3u8 
-#EXTINF:-1 tvg-logo="https://www.tvmalaysia.live/images/astro-football-live-streaming-online.webp" group-title="ASTRO SPORTS", ASTRO FOOTBALL B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroSSB4.m3u8 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe00qVrak9d7t7Lxb-ADHBgmbr4FUP8ggr6g&usqp=CAU" group-title="ASTRO SPORTS ", ASTRO BADMINTON B
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/AstroBadmintonB.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASTRO SPORTS", ASTRO CRICKET
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/Astrocricket.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="SPORTS", DENZ PLAy
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
-
 
 
 
