@@ -635,8 +635,10 @@ http://iptvtree.net:8080/F25093/29838750/54437
 #EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 2 🇫🇷
 http://iptvtree.net:8080/F25093/29838750/54444
 
-
-
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",SPORTV 1 🇧🇷
+http://iptvtree.net:8080/F25093/29838750/4015
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.2" tvg-id="DAZN.2.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",SPORTV 2 🇧🇷
+http://iptvtree.net:8080/F25093/29838750/8783
 
 ====SPORTSTAR====
 
