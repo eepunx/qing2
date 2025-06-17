@@ -611,6 +611,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 =====DAZN====
+
+
 #EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 1 🇩🇪 
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
@@ -623,10 +625,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
-#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 1 
-http://iptvtree.net:8080/F25093/29838750/54437
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 1 🇩🇪 
+http://tooontv.com:999/live/ere3444h/agape/53387.ts
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.2" tvg-id="DAZN.2.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 2 🇩🇪 
+http://tooontv.com:999/live/ere3444h/agape/53386.ts
 
-#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 2
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 1 🇫🇷
+http://iptvtree.net:8080/F25093/29838750/54437
+#EXTINF:-1 cuid="1012" tvg-chno="1012" tvg-name="DAZN.1" tvg-id="DAZN.1.de" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/41/2025/03/27/Logo-Fifa-Club-World-Cup-2957533603.jpg" group-title="SPORTS",DAZN 2 🇫🇷
 http://iptvtree.net:8080/F25093/29838750/54444
 
 
