@@ -699,11 +699,18 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 
 
 ===CAMPUR=====
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1024px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="SPORTS",SkySports Golf FHD
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35240
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", Champion Golf 1 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=dash
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", Champion Golf 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
 
-#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="SPORTS",SkySports Golf
-http://tvmate.icu:8080/69NpyV/884735/35238
 
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="SPORTS",US Golf Channel 
 http://tvmate.icu:8080/69NpyV/884735/9806
