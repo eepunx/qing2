@@ -668,10 +668,41 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 ======CAMPION====
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", ChampionTV 1 (OttNavigator & tivimate)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=6685&type=dash
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", ChampionTV 2 (OttNavigator & tivimate)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", ChampionTV 3 (OttNavigator & tivimate)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=6786&type=dash
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", ChampionTV 5 (OttNavigator & tivimate)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", ChampionTV 6 (OttNavigator & tivimate)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=drm 
+https://skyblue.openwindow043.workers.dev/play.mpd?id=9183&type=dash
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="SPORTS",Champions TV 5
+
+
+
 
 
 
