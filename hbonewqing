@@ -86,7 +86,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV (Dens)
-http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
+
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV (Oxy)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png", tvOne (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
