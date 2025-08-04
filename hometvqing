@@ -1119,8 +1119,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/5/5e/Warner2018LA.png/330px-Warner2018LA.png" group-title="Premium Movies",Warner TV
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1533.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Premium Movies",eTv Bioskop 1
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
