@@ -435,42 +435,36 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
 
 =======❤️HBO =============================================>
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 #EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO GROUP",HBO (FMX) 🇮🇩
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
 #EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO GROUP",Hits (FMX) 🇮🇩
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
 #EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO GROUP",Family (FMX) 🇮🇩
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
 #EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO GROUP",Signature (FMX) 🇮🇩
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO GROUP",Cinemax (FMX) 🇮🇩
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-
 
 
 
@@ -562,21 +556,21 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO GROUP",HBO backup 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.ts
+#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.ts
 #EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO GROUP",HBO Family backup 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.ts
+#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.ts
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="HBO GROUP",HBO Hits backup 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/591.ts
+#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/591.ts
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="",HBO Signature backup 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.ts
+#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.ts
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax backup 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.ts
+#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.ts
 
 
 
