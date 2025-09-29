@@ -435,36 +435,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
 
 =======❤️HBO =============================================>
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO GROUP",HBO (Indi) 🇮🇩
-http://103.179.182.117:6768/hls/27/27.m3u8
+#EXTINF:0 tvg-name="HBO" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO GROUP",HBO 🇮🇩
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO GROUP",Hits (indi) 🇮🇩
-http://103.179.182.117:6768/hls/28/28.m3u8
+#EXTINF:0 tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO GROUP",Hits 🇮🇩
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO GROUP",Family (indi) 🇮🇩
-http://103.179.182.117:6768/hls/30/30.m3u8
+#EXTINF:0 tvg-name="HBO Family" ch-number="108" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO GROUP",Family 🇮🇩
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO GROUP",Signature (indi) 🇮🇩
-http://103.179.182.117:6768/hls/29/29.m3u8
+#EXTINF:0 tvg-name="HBO Signature" ch-number="106" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO GROUP",Signature 🇮🇩
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO GROUP",Cinemax (indi) 🇮🇩
-http://103.179.182.117:6768/hls/26/26.m3u8
+#EXTINF:0 tvg-name="Cinemax" ch-number="109" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO GROUP",Cinemax 🇮🇩
 
 
 
@@ -637,7 +617,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
 
-======CAMPION====
+======CAMPION GOLF====
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", Champion Golf 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -651,6 +631,11 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18189&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18190&type=dash
 
 
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="SPORTS",US Golf Channel 
+http://tvmate.icu:8080/69NpyV/884735/9806
+
+#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/V_Sport_Golf_logo.png/500px-V_Sport_Golf_logo.png" group-title="SPORTS",V SPORT GOLF HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
 
 
 
@@ -667,10 +652,6 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8
 
 ======EQUIPE======
 
-#EXTINF:-1   tvg-name="L'Equipe Live 1 🇫🇷" tvg-id="" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-title="SPORTS",L'Equipe 1 🇫🇷
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1   tvg-name="L'Equipe Live 2 🇫🇷" tvg-id="" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-title="SPORTS",L'Equipe 2 🇫🇷
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 
 
 ===ESPN+FOXSP===
@@ -680,36 +661,10 @@ https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 
 
 ===CAMPUR=====
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="SPORTS",Motorvision+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|Referer=http://www.dens.tv/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", Champion Golf 1 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18189&type=dash
- 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G2Hdybk/Champions-TV.jpg", Champion Golf 2 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=18190&type=dash
-
-
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="SPORTS",US Golf Channel 
-http://tvmate.icu:8080/69NpyV/884735/9806
-
-#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/V_Sport_Golf_logo.png/500px-V_Sport_Golf_logo.png" group-title="SPORTS",V SPORT GOLF HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
-
-#EXTINF:-215 tvg-logo="https://i.ibb.co/XLqcPHP/Prem-Football-new-logo-1.png" group-title="SPORTS",Premier Football
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 cuid="917" tvg-name="Solo Calcio 🇮🇹" tvg-id="ITBC4700002CO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="SPORTS",Solo Calcio 🇮🇹
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="SPORTS", PEACOCK SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -737,11 +692,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 #https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF:-1 cuid="922" tvg-name="" tvg-id="vodasport(src01).is" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vodafone-sport.png" group-title="SPORTS",Vodafone Sport
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium260/mono.m3u8
 
 #EXTINF:-1 cuid="916" tvg-name="" tvg-id="RaiSport.it" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp" group-title="SPORTS",Rai Sport 🇮🇹
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
