@@ -628,9 +628,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="SPORTS",US Golf Channel 
 http://tvmate.icu:8080/69NpyV/884735/9806
 
-#EXTINF:-1 tvg-id="" tvg-name="DK: V SPORT GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/V_Sport_Golf_logo.png/500px-V_Sport_Golf_logo.png" group-title="SPORTS",V SPORT GOLF HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
-
 #EXTINF:-1 cuid="1518" tvg-name="PGA Tour 🇺🇸" tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/pga_tour.png" group-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/iconsGrups/sports.png" group-title="SPORTS",PGA Tour
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
@@ -638,19 +635,23 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa
 
 =====SKYSPORT====
 
-#EXTINF:-1 cuid="928" tvg-name="" tvg-id="Sky.Sport.Tennis.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-tennis-de.png" group-title="SPORTS",Sky Sports Tennis 🇩🇪
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium884/mono.m3u8
-
 
 ======EQUIPE======
 
 
 
 ===ESPN+FOXSP===
+#EXTINF:-1 tvg-id=""FOX SPORTS PREMIUM.mx""  tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png"" group-title=""SPORTS"", FOX SPORTS PREMIUM#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.manifest_type=dash#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id=""FOX SPORTS.mx""  tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png"" group-title=""SPORTS"", FOX SPORTS 1#KODIPROP:inputstream.adaptive.manifest_type=mpd#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53fhttps://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+#EXTINF:-1 tvg-id=""FOX SPORTS 2.mx""  tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png"" group-title=""SPORTS"", FOX SPORTS 2#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.manifest_type=dash#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-id=""FOX SPORTS 3.mx""  tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png"" group-title=""SPORTS"", FOX SPORTS 3#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.manifest_type=dash#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
+
+=====TNT SPORTS======
+#EXTINF:-1 tvg-id=""TNT 1"" tvg-logo=""https://i.ibb.co.com/7dNPfNGB/Tntsports1.png"" group-title=""SPORTS"",TNT SPORTS 1#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id=""TNT 2"" tvg-logo=""https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png"" group-title=""SPORTS"",TNT SPORTS 2#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id=""TNT 3"" tvg-logo=""https://i.ibb.co.com/Lzkztmpw/Tntsports3.png"" group-title=""SPORTS"",TNT SPORTS 3#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fchttps://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-id=""TNT 4"" tvg-logo=""https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title=""SPORTS"",TNT SPORTS 4#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
 
