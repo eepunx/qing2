@@ -1008,9 +1008,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
 
 #EXTINF:-1 tvg-id="44" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/rockaction.jpg" group-title="Premium Movies", ROCK Action
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02 
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+
 
 #EXTINF:-1 tvg-id="39" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/rockenter.jpg" group-title="Premium Movies", ROCK Entertainment
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
