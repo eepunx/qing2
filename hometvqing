@@ -1592,7 +1592,7 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 
 
 #EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
-#http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/35
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
