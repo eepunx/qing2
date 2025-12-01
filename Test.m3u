@@ -1,5 +1,13 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="" group-title="", spotv
+https://cdn10jtedge.indihometv.com/atm/DASH/spotv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", spotv2
+https://cdn10jtedge.indihometv.com/atm/DASH/spotv2/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="", dunia lain
 https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
 
