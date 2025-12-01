@@ -1166,6 +1166,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
+#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/wbros.jpg" group-title="Premium Movies",Warner TV (indi)
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/wbros.jpg" group-title="Premium Movies",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1446,15 +1448,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/74/Rai_Italia_-_Logo_2017.png/revision/latest/thumbnail/width/360/height/360?cb=20190730144317" group-title="LifeStyle" ,RAI Italia
-https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
-
-
-
+#EXTINF:-1 tvg-url="" tvg-logo="" group-title="LifeStyle" ,Dunia lain
+https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
 
 
 
@@ -1619,6 +1614,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 ===🇰🇷Korea====
 
+#EXTINF:-1 group-title="🇰🇷| KOREA" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",K+
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="🇰🇷| KOREA",GEM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1709,12 +1707,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Korean_Broadcasting_System-text_only.svg/1024px-Korean_Broadcasting_System-text_only.svg.png" group-title="🇰🇷| KOREA",KBS Korea
-https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="🇰🇷| KOREA" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
 
 
 
