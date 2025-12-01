@@ -1211,19 +1211,18 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 
-
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/aonSLmE.png",ZeE Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title="Premium Movies", Cinemaworld 
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Premium Movies", Bioskop Indonesia
+https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
+
 
 
 🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾🗾
