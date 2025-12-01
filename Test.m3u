@@ -25,6 +25,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="" group-title="", kplus
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 
 
