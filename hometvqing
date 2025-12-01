@@ -1022,9 +1022,11 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Dunia Anak
+https://cdn10jtedge.indihometv.com/atm/DASH/duniaanak/manifest.mpd
 
-#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-53-35-450.png" group-title="KIDS", SuperToons TV
-
+#EXTINF:-1 group-title="KIDS" tvg-logo="",Indi Kids
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 
