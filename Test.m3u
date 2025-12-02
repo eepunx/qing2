@@ -1,40 +1,69 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="" group-title="", spotv
-https://cdn10jtedge.indihometv.com/atm/DASH/spotv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/beib1/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="", spotv2
-https://cdn10jtedge.indihometv.com/atm/DASH/spotv2/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/beib2/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="", muitv
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="", euronews
+https://cdn10jtedge.indihometv.com/atm/DASH/euronews/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="", dunia lain
-https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="", warner
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="", cinema world
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld_dash/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="", aniplus 
-https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="", curiosity 
-https://cdn10jtedge.indihometv.com/atm/DASH/curiosity/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="", maxstream
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="", chinesedrama
-https://cdn10jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="", kplus
+#EXTINF:-1 tvg-logo="" group-title="", spotv2
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="", spotv2
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", useesport
+https://cdn10jtedge.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", useesports2
+https://cdn10jtedge.indihometv.com/atm/DASH/useesports2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", nba
+https://cdn10jtedge.indihometv.com/atm/DASH/nba/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="", flik
+https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", paramount
+https://cdn10jtedge.indihometv.com/atm/DASH/paramount/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", cdrama
+https://cdn10jtedge.indihometv.com/atm/DASH/cdrama/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", kungfutv
+https://cdn10jtedge.indihometv.com/atm/DASH/kungfutv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", sGEm
+https://cdn10jtedge.indihometv.com/atm/DASH/sgem/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", cartoonnetwork
+https://cdn10jtedge.indihometv.com/atm/DASH/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", disco
+https://cdn10jtedge.indihometv.com/atm/DASH/disco/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="", spotv2
+
+#EXTINF:-1 tvg-logo="" group-title="", spotv2
+
+
+
+
+
+
 
 
 
