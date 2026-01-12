@@ -1967,31 +1967,38 @@ http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=202
 
 ======❤️❤️Singapura=====
 
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://tv.cic.net.id/uploads/CNA.png" group-title="🇸🇬| Singapura",CHANNEL NEWS ASIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/18
 
 #EXTINF:-1 group-title="🇸🇬| Singapura" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp01.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+#https://tglmp01.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+http://iptv.kilas7.com:80/kaukia/asdfrewq/22
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zFww4YQ.png" group-title="🇸🇬| Singapura" tvg-ID="Ch 8" tvg-name"Channel 8", Channel 8
-https://tglmp01.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+#https://tglmp01.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+http://iptv.kilas7.com:80/kaukia/asdfrewq/19
 
 #EXTINF:-1 group-title="🇸🇬| Singapura" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch U" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+#https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+http://iptv.kilas7.com:80/kaukia/asdfrewq/21
 
 #EXTINF:-1 group-title="🇸🇬| Singapura" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+http://iptv.kilas7.com:80/kaukia/asdfrewq/23
 
 #EXTINF:-1  tvg-id="Vasantham" group-title="🇸🇬| Singapura" tvg-url="https://bit.ly/SingaporeEpg" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+http://iptv.kilas7.com:80/kaukia/asdfrewq/20
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
