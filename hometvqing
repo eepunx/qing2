@@ -231,9 +231,9 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/cnnindo.png" group-title="🇮🇩| Indonesia",CNN Indo
-http://iptv.kilas7.com:80/kaukia/asdfrewq/12
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/cnbcindo.png" group-title="🇮🇩| Indonesia",CNBC Indo
-http://iptv.kilas7.com:80/kaukia/asdfrewq/13
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
