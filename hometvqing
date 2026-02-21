@@ -7,6 +7,9 @@ https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-url="" tvg-logo="https://github.com/eepunx/qing2/raw/refs/heads/master/Screenshot_2025-04-13-05-12-59-726_com.gamma.scan-edit.jpg" group-title="https://saweria.co/qingtv" tvg-id="", Qingtv
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
 
+#EXTINF:-1 tvg-url="" tvg-logo="" group-title="V+ sedang gangguan teknis" tvg-id="", Qingtv
+https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="🇮🇩|Indonesia", RCTI_+ (sdi)
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
