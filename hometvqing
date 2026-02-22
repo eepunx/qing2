@@ -1943,43 +1943,43 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 ===CCTV =====
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV 🇨🇳",CCTV 1 test
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV 🇨🇳",CCTV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://smart.cityq.xyz:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CCTV 🇨🇳",CCTV 2 
-
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CCTV 🇨🇳",CCTV 3
-
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CCTV 🇨🇳",CCTV 4 
-http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV 🇨🇳",CCTV 5 
-http://smart.cityq.xyz:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV 🇨🇳",CCTV 5+
-http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CCTV 🇨🇳",CCTV 6 
-http://smart.cityq.xyz:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CCTV 🇨🇳",CCTV 7
-http://smart.cityq.xyz:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CCTV 🇨🇳",CCTV 8
-http://smart.cityq.xyz:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CCTV 🇨🇳",CCTV 9 
-http://smart.cityq.xyz:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CCTV 🇨🇳",CCTV 10 
-http://smart.cityq.xyz:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CCTV 🇨🇳",CCTV 11 
-http://smart.cityq.xyz:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="CCTV 🇨🇳",CCTV 12 
-http://smart.cityq.xyz:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CCTV 🇨🇳",CCTV 13
-http://smart.cityq.xyz:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CCTV 🇨🇳",CCTV 14 
-http://smart.cityq.xyz:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CCTV 🇨🇳",CCTV 15 
-http://smart.cityq.xyz:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv16.jpg" group-title="CCTV 🇨🇳",CCTV 16
-http://smart.cityq.xyz:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CCTV 🇨🇳",CCTV 17 
-http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 
 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
