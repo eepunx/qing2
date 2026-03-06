@@ -23,6 +23,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
+#EXTINF:-1 tvg-id="Daai TV.id" group-title="🇮🇩 Nasional" tvg-logo="https://pictr.com/images/2025/01/23/xpwbaY.jpg",DaaiTV_HD
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
 
 #EXTINF:-1 group-title="🇮🇩 Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV (intec)
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
@@ -46,6 +49,30 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="🇮🇩 Nasional", INEWS_+(sdi)
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="🇮🇩 Nasional",RCTI (rcti+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png" group-title="🇮🇩 Nasional", MNCTV (rcti+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="🇮🇩 Nasional, GTV (rcti+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="🇮🇩 Nasional", INEWS (rcti+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
