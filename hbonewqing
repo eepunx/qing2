@@ -18,6 +18,24 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rtv.png" group-title="🇮🇩 Nasional",RTV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+
+#EXTINF:-1 group-title="🇮🇩 Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV (intec)
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="🇮🇩 Nasional" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", InsanTV (intec)
+https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="🇮🇩 Nasional" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Hijrahtv (intec)
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
+
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="🇮🇩 Nasional", Channel Jowo
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="🇮🇩 Nasional", RCTI_+(sdi)
