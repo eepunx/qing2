@@ -20,6 +20,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="🇮🇩 Nasional", RCTI_+(sdi)
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="🇮🇩 Nasional", MNCTV_+(sdi)
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png" group-title="🇮🇩 Nasional", GTV_+(sdi)
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="🇮🇩 Nasional", INEWS_+(sdi)
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+
 
 #EXTINF:-1 group-title="🇮🇩 Nasional" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
