@@ -1462,8 +1462,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/discovery-asia.png" group-title="Pengetahuan",Discovery Asia 
 http://125.227.210.55:8154/VideoInput/play.ts
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Pengetahuan",Discovery Channel (max)
+https://cdnbal1.indihometv.com/atm/DASH/disco/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/99/74/a19974ce222a14ccfa0f26b47013c5e0.jpg" group-title="Pengetahuan",Discovery Channel
-http://202.169.224.202:8800/udp/239.9.1.6:1234
+#http://202.169.224.202:8800/udp/239.9.1.6:1234
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Pengetahuan",HGTV 
