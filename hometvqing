@@ -67,6 +67,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=dash
 
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
+
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
