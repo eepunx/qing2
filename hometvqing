@@ -907,9 +907,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 =====DAZN====
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Aneka" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTB Aneka
+#EXTINF:-1 group-title="SPORTS" tvg-id="Aneka" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTB 🔴 
 #EXTVLCOPT:network-caching=1000
-#https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="GoLive" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTB Go Live
 #EXTVLCOPT:network-caching=1000
