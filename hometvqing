@@ -978,50 +978,25 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
-##################CHAMPIONS
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9Up_c9-8XSz_sBEyenAF10ZlRhRtSU73LTohNBI94c2oaqUL8Wsj8BJxPh1A1MXPo8dRN5naQyFzUfzCFiYgEdnumvWp6F4h8LgSB-2LIFzY87jkZBRpTVbB7sR6xjUZn3TwwWRUk430cl1xA9BioSa0ezVgkNCd9Jk_4Ka0wRWjmVmdPz2AyY6frg/s1660/Champions%20TV%20World%20Cup.png" group-title="SPORTS",CHAMPIONS TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+##################EURO
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png",EuroSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
-#https://pidio.becek.workers.dev/17938.mpd
-#https://aspaltvpasti.top/11111/17938.mpd
-#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9Up_c9-8XSz_sBEyenAF10ZlRhRtSU73LTohNBI94c2oaqUL8Wsj8BJxPh1A1MXPo8dRN5naQyFzUfzCFiYgEdnumvWp6F4h8LgSB-2LIFzY87jkZBRpTVbB7sR6xjUZn3TwwWRUk430cl1xA9BioSa0ezVgkNCd9Jk_4Ka0wRWjmVmdPz2AyY6frg/s1660/Champions%20TV%20World%20Cup.png" group-title="SPORTS",CHAMPIONS TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png",EuroSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
-#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9Up_c9-8XSz_sBEyenAF10ZlRhRtSU73LTohNBI94c2oaqUL8Wsj8BJxPh1A1MXPo8dRN5naQyFzUfzCFiYgEdnumvWp6F4h8LgSB-2LIFzY87jkZBRpTVbB7sR6xjUZn3TwwWRUk430cl1xA9BioSa0ezVgkNCd9Jk_4Ka0wRWjmVmdPz2AyY6frg/s1660/Champions%20TV%20World%20Cup.png" group-title="SPORTS",CHAMPIONS TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
-#https://pidio.becek.workers.dev/19404.mpd
-#https://aspaltvpasti.top/11111/19404.mpd
-#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9Up_c9-8XSz_sBEyenAF10ZlRhRtSU73LTohNBI94c2oaqUL8Wsj8BJxPh1A1MXPo8dRN5naQyFzUfzCFiYgEdnumvWp6F4h8LgSB-2LIFzY87jkZBRpTVbB7sR6xjUZn3TwwWRUk430cl1xA9BioSa0ezVgkNCd9Jk_4Ka0wRWjmVmdPz2AyY6frg/s1660/Champions%20TV%20World%20Cup.png" group-title="SPORTS",CHAMPIONS TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
-#https://pidio.becek.workers.dev/9182.mpd
-#https://aspaltvpasti.top/11111/9182.mpd
-#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9Up_c9-8XSz_sBEyenAF10ZlRhRtSU73LTohNBI94c2oaqUL8Wsj8BJxPh1A1MXPo8dRN5naQyFzUfzCFiYgEdnumvWp6F4h8LgSB-2LIFzY87jkZBRpTVbB7sR6xjUZn3TwwWRUk430cl1xA9BioSa0ezVgkNCd9Jk_4Ka0wRWjmVmdPz2AyY6frg/s1660/Champions%20TV%20World%20Cup.png" group-title="SPORTS",CHAMPIONS TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
-#https://pidio.becek.workers.dev/9183.mpd
-#https://aspaltvpasti.top/11111/9183.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
 
 
 =====VOLI====
