@@ -917,6 +917,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="SPORTS", DSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="SPORTS", Elta Sports
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 
