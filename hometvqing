@@ -132,6 +132,8 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (max)
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (DG)
+http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
