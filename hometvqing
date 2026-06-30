@@ -913,11 +913,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",TSN 1
-https://cors-buster.fly.dev/http://209.38.198.59:8080/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",TIPIK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",unite8 sports
-http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
+
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Fussball
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
@@ -928,19 +930,6 @@ https://xemzi.short.gy/1000001
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
 https://xemzi.short.gy/1000002
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",MNB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",QAZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=912bca702ad54daf89839a1d91f0a460:89906fa33624855dd4a6d9395979c5ae
-https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.mpd
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",TVRI
-http://103.148.44.38:8000/play/a05u/index.m3u8
 ==============================
 
 
