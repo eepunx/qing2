@@ -924,11 +924,20 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Fussball
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTM
+http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 1
 https://xemzi.short.gy/1000001
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
 https://xemzi.short.gy/1000002
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",kian
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
 
 ==============================
 
