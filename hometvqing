@@ -913,14 +913,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",TIPIK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Fussball
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
@@ -928,15 +920,16 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTM
 http://iptv.kilas7.com:80/kaukia/asdfrewq/31
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 1
-https://xemzi.short.gy/1000001
+#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Okey
+http://iptv.kilas7.com:80/kaukia/asdfrewq/32
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC 2
-https://xemzi.short.gy/1000002
+#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Bein France
+http://185.160.192.64:80/mangin15/85784/14170
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",kian
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Cctv 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
 
 
 ==============================
