@@ -1863,7 +1863,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 ===🇰🇷Korea====
 
 #EXTINF:-1 group-title="🇰🇷| KOREA" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",K+
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="🇰🇷| KOREA",GEM
 #https://cdn10jtedge.indihometv.com/atm/DASH/gem/manifest.mpd
