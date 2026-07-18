@@ -1839,7 +1839,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="Music",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeVlMxH27YZItvBD98dwfC7qhE6RHj-Qpr_BpuwAAiGfcwhIqlFCnTpin3bWNn_ZoqmtQO7ghJ8z0a1RUhj82uGMa5Ib5-UulLhyv1h91HzPbU7QFDrEkrHuZZI3upkSeaOowfPBPG7aXgoNnZcSaG1e7_3uv0DwNS1Gb8Ae4_NOq0aqG4b953EhXe9S9/s700/MIC%20TV.png", Mic TV
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 
 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
@@ -2224,155 +2225,198 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 ======🌐NEWS======
 
+################################################################
+    ====================== News ========================>
+################################################################
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Jakarta GlobeNews" tvg-name="Jakarta GlobeNews" tvg-logo="https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png" group-title="News",JAKARTA GLOBE
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+#https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-logo="https://img-store-prod.switch.tv/images/4b66c3ea-cc24-4ea6-bf95-d5799e05bc5d/p10665080_b_h10_ab.jpg" group-title="News",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
-#EXTINF:-1 group-title="NEWS" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
+#EXTINF:-1 group-title="News" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/yVaDHIF.jpeg" ,ABC Australia
 https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mkdq6admRjS2hGrRUqYx-mzuN34=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-tv-16de57.jpg" group-title="News", AFRICANEWS
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
-#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-logo="https://iili.io/dVK1ux1.png" group-title="NEWS",ABC News
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_455xkjp3/landscape_carousel_hdpi.webp" group-title="News",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
-#EXTINF:-1 group-title="NEWS" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
-http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News",CTV NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22e73106b94341e588316b352b0d4fdb:417edcac1b76db20cdd781c8ed580f28
+https://live-news.video.9c9media.com/f/news/ctvnews/manifest.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera (k7)
-http://iptv.kilas7.com:80/kaukia/asdfrewq/46
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera Arabic
-http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic|us
-
-#EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="NEWS",CGTN
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://i.imgur.com/aWF7e5r.png" group-title="News",CGTN
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVoB2L1.png" group-title="News", AL JAZEERA
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg" tvg-id="BloombergTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2023/09/bloomberg-tv.png" group-title="NEWS",Bloomberg
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
+#EXTINF:-1 tvg-id="Aljazeera.id" tvg-name="Al Jazeera Arabic.id" tvg-logo="https://i.imgur.com/NVoB2L1.png" group-title="News",ALJAZEERA ARAB
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="NEWS",FOX News
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/nYDDtL6.png", BLOOMBERG
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF: -1 tvg-id="bloomberg.macan" tvg-logo="https://i.imgur.com/dZdjvXp.png" group-title="News", BLOOMBERG US
+http://liveprodusphoenixeast.akamaized.net:80/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://registrs.neplp.lv/storage/programs/logo/bloomberg_TV_logo.png" group-title="News",BLOOMBERG HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp.id" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/uAUXH3S.png" group-title="News", NHK World Japan
+https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&userid=lite&chname=NHK_WORLD-JAPAN
+
+#EXTINF:-1 tvg-id="NHK World Premium - [Channel 354].id" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.tLDQ3mNzuN2zRtWasT7_PwHaCV?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",NHK World Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mediampd/FOXNewsHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
+https://fta1-cdn-flr.visionplus.id/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLr6rbG.png" group-title="News", DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 cuid="125" tvg-name="NBC News Now 🇺🇸" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",NBC News Now
-https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-name="DW Deutsch" tvg-logo="https://i.imgur.com/JLr6rbG.png" group-title="News", DW+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
-#EXTINF:-1 cuid="139" tvg-name="CBS News 🇺🇸" tvg-id="62310d5a5dc9550007c6f580" tvg-logo="https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",CBC News
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 cuid="141" tvg-name="CBS News 24/7 🇺🇸" tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://textdata.cn/images/blog/cbsnews-blue.png" group-title="NEWS",CBS News 24/7
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 cuid="145" tvg-name="ABC News Live 🇺🇸" tvg-id="ABC.NEWS.us" tvg-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",ABC News Live 
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 cuid="147" tvg-name="BBC News 🇺🇸" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-
-#EXTINF:-1 tvg-id="DW Arabia HD.ar" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504940_tvchannels_v1.jpg" group-title="NEWS",DW Arabic
+#EXTINF:-1 tvg-id="DW Arabia HD.ar" tvg-logo="https://i.imgur.com/JLr6rbG.png" group-title="News",DW Arab
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504940_tvchannels_v1.jpg" group-title="NEWS", DW ENGLISH
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-
-#EXTINF:0 group-title="NEWS" tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg",France 24
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
-
-
-#EXTINF:-1 group-title="NEWS" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017f310a21613e4e/a809d067e38a464a90a0d89204a8a6d2.png",Euronews
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
+#EXTINF:-1 tvg-id="France.24.English.id" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/NIPPUgs.png" group-title="News",FRANCE24
+#https://atemeshield1-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/11/CBS-News.png" group-title="News", CBS NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://globalnews.ca/wp-content/uploads/2014/12/globalnewsnew.jpg" group-title="News",Global News
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
-https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="NEWS",BBC News
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
+#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://i.imgur.com/fUcUbwv.jpeg" group-title="News",EURONEWS
+#https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/739/527/png-clipart-nbc-news-correspondent-nbcuniversal-peacock-productions-golf-channel-on-nbc-text-logo.png" group-title="NEWS", CNBC ASIA
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eXuROTr.png", TV5 Monde
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eXuROTr.png", TV5 MondE
+https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.P6WgjuMho7XmB5pgygZ-hgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", TV5 ASIE
+#https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+
+#EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/32JRImq.jpeg" group-title="News", BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/9RgSEYZ.png" group-title="News",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=023eb9bda4064967b74730834f5e022e:5af44730eaf2754f62199d7b86053709
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="RT English" tvg-name="RT English" tvg-logo="https://i.imgur.com/9RgSEYZ.png" group-title="News",RT ENGLISH
+#https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+
+#EXTINF:-1 tvg-id="RT Arabic HD.ar" tvg-logo="https://i.imgur.com/9RgSEYZ.png" group-title="News",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg" group-title="News",SKY NEWS NOW
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.HKGkK7qP9pxpnCcZCqKwrQHaEc?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kX8ywwV/oan.png" group-title="News",OANN
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/t9thQoo.png" group-title="News", TRT World
+https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&userid=lite&chname=TRT_World
+#EXTINF:-1 tvg-id="TRT Arabi" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7cc91b46657225.585d3b1a7d8b7.jpg" group-title="News",TRT Arabic
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="WION" tvg-logo="https://i.imgur.com/fJrOZUT.jpeg" group-title="News",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8xm9YAU.png" group-title="News",AUSBIZ TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fK2deCb.png" group-title="News",YAHOO! FINANCE
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="News",NEWSMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dbY3VRH.jpg" group-title="News",NEWSMAX 2
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/739/527/png-clipart-nbc-news-correspondent-nbcuniversal-peacock-productions-golf-channel-on-nbc-text-logo.png" group-title="News", CNBC ASIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
 https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/mobile/images/tentang_kami.jpg" group-title="NEWS",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/1600px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="NEWS",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2022/11/CBS-News.png" group-title="NEWS",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://globalnews.ca/wp-content/uploads/2014/12/globalnewsnew.jpg" group-title="NEWS",Global News
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-
-
-#EXTINF:-1 cuid="114" tvg-name="Sky News 🇺🇸" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sky_news_us.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",Sky News
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
-#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1024px-Sky-news-logo.svg.png" group-title="NEWS",Sky News live 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1024px-Sky-news-logo.svg.png" group-title="NEWS",Sky News live 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1024px-Sky-news-logo.svg.png" group-title="NEWS",Sky News live 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
-#EXTINF:-1 cuid="149" tvg-name="TRT World 🇬🇧" tvg-id="TRT.World.HD.uk" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 cuid="100" tvg-name="Yahoo! Finance 🇺🇸" tvg-id="plex.tv.Yahoo.Finance.plex" tvg-logo="https://s.yimg.com/uc/fin/img/logo192x192.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",Yahoo! Finance
-https://yahoo-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/600px-Russia-today-logo.svg.png" group-title="NEWS",Rusia Today
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 cuid="92" tvg-name="Tv5 Monde Info 🇫🇷" tvg-id="TV5.Monde.fr" tvg-logo="https://logo.iptveditor.com/tv5mondeinfo.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",Tv5 Monde
-https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
-
-#EXTINF:-1 cuid="161" tvg-name="Channel News Asia" tvg-id="Channel.News.Asia.id" tvg-logo="https://logo.iptveditor.com/cna.png" group-logo="https://cdn-icons-png.freepik.com/512/2837/2837605.png" group-title="NEWS",Channel News Asia
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1488px-CNN-International-Logo.svg.png", CNN International
-#http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://iili.io/JhksR99.png" group-title="NEWS", Euronews
-https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
+#KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Channel.News.Asia.id" tvg-name="CNA" tvg-logo="https://i.imgur.com/ULfjzKZ.png" group-title="News",CNA
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="News",REUTERS TV
+https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Arabiya HD.ar" tvg-logo="https://shahid.mbc.net/mediaObject/Curation_2022/Hero/JAN/Alarabiya-new-Channel-Thumbs/original/Alarabiya-new-Channel-Thumbs.jpg?height=720&width=1280&croppingPoint=mc&version=1&type=webp" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SAN" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/664351a88f.png" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://th.bing.com/th/id/R.900d88d28139b8c6e55f1a7252ecd41f?rik=qBOI9bU675e5nw&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2016%2f12%2fPress-TV-News-Live-Stream-300x169.jpg&ehk=Buv2zUWVN7mY1UdEOFC7R3%2fEdg4zUJd9JBm6aP7tOEw%3d&risl=&pid=ImgRaw&r=0" group-title="News",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.754cef0289a9b441fde24bcaa05b22bc?rik=jCjygWGirRkUXg&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2017%2f01%2fAl-Manar-TV.jpg&ehk=YuUYwg0IsyxSIKRRiJHMZl01pBmXi6GkQwgeTvb4%2b04%3d&risl=&pid=ImgRaw&r=0" group-title="News", Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 
 
 
