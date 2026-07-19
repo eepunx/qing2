@@ -1544,8 +1544,8 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title="Premium Movies", Cinemaworld 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Premium Movies", Bioskop Indonesia
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Premium Movies", Bioskop Indonesia
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 
 
