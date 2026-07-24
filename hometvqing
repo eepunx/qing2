@@ -921,36 +921,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 =====Worldkap====
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="SPORTS", ❌🔴 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",dsports
-http://185.160.192.64/live/mangin15/85784/465846.ts
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",elta
-https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",BBC
-https://xemzi.short.gy/1000001
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Arena Sport
-http://178.253.194.79:10001
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",RTM
-http://iptv.kilas7.com:80/kaukia/asdfrewq/31
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Okey
-http://iptv.kilas7.com:80/kaukia/asdfrewq/32
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Bein France
-http://185.160.192.64:80/mangin15/85784/14170
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif",Cctv 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5hd.m3u8
 
 
 ==============================
