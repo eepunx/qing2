@@ -143,7 +143,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-#https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (max)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 
