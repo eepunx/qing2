@@ -35,9 +35,9 @@
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
+#http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (R+)2
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -58,7 +58,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv 
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (Max)
 #http://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
@@ -105,12 +105,8 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews_2 (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
 
 
 
