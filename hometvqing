@@ -148,6 +148,8 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (Fl)
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (max)
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
