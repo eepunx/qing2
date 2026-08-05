@@ -45,7 +45,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 
 
@@ -123,7 +123,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
 
 
 
@@ -160,10 +160,10 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (Vid)1
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (Vd)1
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (Vid)2
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (Vd)2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
