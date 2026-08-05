@@ -1918,13 +1918,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
 
 ======== Brunei ========
-#EXTINF:-1 tvg-id=RTB_SUKMAINDERA" tvg-name="RTB_SUKMAINDERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png/revision/latest?cb=20190121072745", group-title="Brunei 🇧🇳",RTB Sukmaindera 
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8 
-#EXTINF:-1 tvg-id=RTB_GOLIVE" tvg-name="RTB_GOLIVE" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png", group-title="Brunei 🇧🇳",RTB GO LIVE 
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8 
-#EXTINF:-1 tvg-id=RTB_ANEKA" tvg-name="RTB_ANEKA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest?cb=20190121072917", group-title="Brunei 🇧🇳",RTB Aneka 
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
-
 
 
 ====🇲🇾MALAY ===
@@ -2001,15 +1994,16 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 
 
 #EXTINF:-1 tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="🇰🇷| KOREA", tvN
-http://202.169.224.202:8800/udp/239.9.1.20:1234
+#http://202.169.224.202:8800/udp/239.9.1.20:1234
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="🇰🇷| KOREA",TVN Movies (v+)
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="🇰🇷| KOREA",TVN Movies (trans)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 group-title="🇰🇷| KOREA" tvg-id="ONE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
