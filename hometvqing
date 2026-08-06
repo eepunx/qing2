@@ -223,12 +223,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7838&type=drm
-https://tvratu.my.id/vid/index.mpd?id=783&type=dash
+#https://tvratu.my.id/vid/index.mpd?id=783&type=dash
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne (VD)2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
+#https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png", tvOne (max)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -240,7 +240,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=783&type=hls
 
 
 
-
+====mdtv====
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -260,7 +260,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
-
+===moji===
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/moji.png" group-title="🇮🇩| Indonesia", Moji (Dens)
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -268,9 +268,11 @@ http://202.150.161.212:5000/live/channel31/playlist.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
+===rtv===
+
 #EXTINF:-1 tvg-id="22" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="🇮🇩| Indonesia", RTV (Vd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://tvratu.my.id/nissa/index.mpd?id=1561&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="🇮🇩| Indonesia", RTV (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -280,12 +282,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 
+===daai===
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/daai.png" group-title="🇮🇩| Indonesia", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-
+===kompas===
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="kplus.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/kompas.png",Kompas TV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -301,10 +304,10 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/kompas.png" group-title="🇮🇩| Indonesia",Kompas TV (max)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV.mpd
 
 
-
+====metro===
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/metro.png",Metro TV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -315,7 +318,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 
 
-
+===transtv
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/transtv.png" group-title="🇮🇩| Indonesia",TRANSTV_detik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -326,9 +329,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 
+====trans7===
 
-
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png" group-title="🇮🇩| Indonesia",Trans 7 (Detik.)
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/trnas7.png" group-title="🇮🇩| Indonesia",Trans 7 (Detik)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1651955774_b744100_sleng.m3u8
 
@@ -345,24 +348,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1651955774_b744100_sl
 http://202.169.224.202:8800/udp/239.4.1.2:1234
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvri.png" group-title="🇮🇩| Indonesia", TVRI (vid)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#https://nextgenz.my.id/event/pidio/play.m3u8?id=6441&type=hls
+=====tvri====
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvri.png" group-title="🇮🇩| Indonesia", TVRI (dens)
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
@@ -372,13 +358,20 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 
+====cnnindo===
+
 #EXTINF: -1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/cnnindo.png" group-title="🇮🇩| Indonesia",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 
+===cnbc===
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="🇮🇩| Indonesia",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-http://202.169.224.202:8800/udp/239.4.1.4:1234
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+
+====campuran====
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
