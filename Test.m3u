@@ -1,140 +1,68 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="🇮🇩 Nasional" ,SCTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-flashcon-digdayahd-1.dens.tv/h/h217/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UhfAhCS.jpeg" group-title="🇮🇩 Nasional",Indosiar 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-flashcon-digdayahd-1.dens.tv/h/h235/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h43
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s100/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h44
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s101
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h44index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s101/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h45
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s102
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h45/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s102/index.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h46
+
+
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s103
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h46/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s103/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h47
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s105
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h47/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s105/index.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h48
+
+
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s106
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h48/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s106/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h49
+
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s107
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h49/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s107/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h50
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h50/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s108/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h51
+
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h51/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s109/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h52
+#EXTINF:-1 group-title="" tvg-id="kplus.id" tvg-logo="",s110
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h52/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h53
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h53/index.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h54
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h54/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h55/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h56
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h56/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h57/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h58
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h58/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h59
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h59/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h60
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h60/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h61/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h62/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h63
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h63/index.m3u8
-
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h64
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h64/index.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="🇮🇩| Indonesia", h65
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-flashcon-digdayahd-1.dens.tv/h/h65/index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s110/index.m3u8
 
 
 
