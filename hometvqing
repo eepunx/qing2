@@ -345,7 +345,10 @@ http://202.169.224.202:8800/udp/239.4.1.2:1234
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvri.png" group-title="🇮🇩| Indonesia", TVRI (vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://nextgenz.my.id/event/pidio/play.m3u8?id=6441&type=hls
+#https://nextgenz.my.id/event/pidio/play.m3u8?id=6441&type=hls
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvri.png" group-title="🇮🇩| Indonesia", TVRI (dens)
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/tvriwolrd.png" group-title="🇮🇩| Indonesia" , TVRI World
