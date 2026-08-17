@@ -230,7 +230,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 =====indosiar=====
 
-#EXTINF:-1 tvg-id="158" tvg-name="adptv-158" tvg-logo="https://i.ibb.co.com/v622nrKd/indosiar.png" group-title="🇮🇩| Indonesia",Indosiar (trans)
+#EXTINF:-1 tvg-id="158" tvg-name="adptv-158" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png" group-title="🇮🇩| Indonesia",Indosiar (trans)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
