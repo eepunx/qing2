@@ -114,7 +114,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -127,12 +127,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e82
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (R+)1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (R+)2
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (max)
@@ -153,7 +154,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (V+)
@@ -166,13 +167,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (R+)1
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (R+)2
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (Max)
 #http://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
@@ -190,7 +192,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -203,13 +205,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (R+)1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (R+)2
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 
 
@@ -220,7 +223,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mncmedia.malingtv.workers.dev/inews.m3u8
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (VD)
@@ -235,12 +238,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)1
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)2
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (max)
