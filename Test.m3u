@@ -1,9 +1,10 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="cnn",trans
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://20.detik.com/watch/livestreaming-trans7
+#EXTM3U
+#EXTINF:-1 tvg-name="Trans7",Trans 7
+#EXT-X-DATERANGE:ID="ad1",CLASS="com.apple.hls.interstitial",X-ASSET-URI="https://pubads.g.doubleclick.net/gampad/ads?slotname=/4905536/Trans7_desktop/Trans7_streaming&sz=640x360&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=%5Bplaceholder%5D&vad_type=linear&vpos=preroll&pod=1&vrid=1101512&min_ad_duration=0&max_ad_duration=60000&ppos=1&lip=true&npa=false&kfa=0&tfcd=0"
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (V+) test
