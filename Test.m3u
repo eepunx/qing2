@@ -1,11 +1,9 @@
 #EXTM3U 
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS7" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png" group-title="| Indonesia OTT",TRANS7
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS7" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png" group-title="| Indonesia OTT",TRANS7 test
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0","Origin":"https://20.detik.com","Referer":"https://20.detik.com/live/trans-7","Cookie":"cshx=3bcdb206"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
 #EXTVLCOPT:http-referrer=https://20.detik.com/live/trans-7
 #EXTVLCOPT:http-header=Origin: https://20.detik.com
