@@ -265,7 +265,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (VD)1
+#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png",Indosiar (vd)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205
