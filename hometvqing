@@ -282,7 +282,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (digital)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://013tv.com:8080/F33848/cbd9779b/162138
+https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (VD)2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
