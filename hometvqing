@@ -2546,6 +2546,10 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-id="FTV.tw@SD" group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",Formosa (v+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 
+
+#EXTINF:-1 tvg-id="FTV.tw@SD" group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",Formosa 民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
