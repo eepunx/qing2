@@ -2542,8 +2542,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=69
-#EXTINF:-1 tvg-id="FTV.tw@SD" group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png",Formosa (v+)
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=69&type=fitnah
+#EXTINF:-1 tvg-id="FTV.tw@SD" group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",Formosa (v+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
