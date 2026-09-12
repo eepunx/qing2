@@ -2642,6 +2642,18 @@ http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 
 
 ===CCTV =====
+#EXTINF:-1 tvg-logo="" group-title="CCTV 🇨🇳",CCTV 风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV 🇨🇳",CCTV 风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV 🇨🇳",CCTV 第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+
+#EXTINF:-1 tvg-logo="" group-title="CCTV 🇨🇳",CCTV 央视台球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV 🇨🇳",CCTV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
