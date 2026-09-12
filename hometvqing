@@ -2532,6 +2532,31 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 ======China🇨🇳=====
+
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",民视
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+
+#民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-logo="",cetv1
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+
 #EXTINF:-1 group-title="🇨🇳🇹🇼🇭🇰| Mandarin" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
 #http://iptv.kilas7.com:80/kaukia/asdfrewq/36
