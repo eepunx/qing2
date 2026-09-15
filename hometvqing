@@ -537,6 +537,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #https://ogietv.biz.id:443/Livetv/234/1310.m3u8
 
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/23WVwVPq/transtv.png" group-title="🇮🇩| Indonesia",TransTv (detik)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/23WVwVPq/transtv.png" group-title="🇮🇩| Indonesia",TransTv (013)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://013tv.com:8080/F33848/cbd9779b/162503
@@ -583,7 +587,9 @@ http://013tv.com:8080/F33848/cbd9779b/162503
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=734&type=drm
 #https://tvratu.my.id/nissa/index.mpd?id=734&type=dash
 
-
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/tMt13q7K/trans7.png" group-title="🇮🇩| Indonesia",TRANS7 (detik)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/tMt13q7K/trans7.png" group-title="🇮🇩| Indonesia",TRANS7 (013)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
