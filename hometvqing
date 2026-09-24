@@ -378,7 +378,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #KODIPROP:inputstream.adaptive.license_key=https://cbm-drm.openwindow042.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
 
 
 
@@ -615,7 +615,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
 #EXTINF: -1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/cnnindo.png" group-title="🇮🇩| Indonesia",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 
 ===cnbc===
 
@@ -628,7 +628,7 @@ https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="🇮🇩| Indonesia",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-http://013tv.com:8080/F33848/cbd9779b/165062
+
 
 ====campuran====
 
@@ -637,7 +637,7 @@ http://013tv.com:8080/F33848/cbd9779b/165062
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+#https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
