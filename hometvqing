@@ -1706,11 +1706,10 @@ http://202.150.161.212:5000/live/channel27/playlist.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
 ====nickJR===
-#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-16-13-121.png" group-title="KIDS", Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey	
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015		
+#EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-16-13-121.png",NICK Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/nick.png" group-title="KIDS" tvg-id="Nickelodeon.id", Nickelodeon (v+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
