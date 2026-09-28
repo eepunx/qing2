@@ -1887,10 +1887,13 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 
 
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/82af014b-3c24-4ae7-9b3f-02922774fa39.png" group-title="Premium Movies",HBO (trans)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmustv.tvnid.workers.dev
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/82af014b-3c24-4ae7-9b3f-02922774fa39.png" group-title="Premium Movies",HBO (cubmu)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
