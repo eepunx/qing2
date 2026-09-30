@@ -1888,6 +1888,14 @@ http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:0
 
 #EXTINF:0 tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Premium Movies",HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/434873a2-10b6-4447-950e-f8e62fe2589f.png" group-title="Premium Movies",HBO Family
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3e48d990-c181-4ef4-90a3-1e2c5709d465.png" group-title="Premium Movies",HBO Signature
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
+
+
 #EXTINF:-1 tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="Premium Movies", tvN
 http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
 
