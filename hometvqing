@@ -1902,6 +1902,8 @@ http://202.150.161.212:5000/live/channel29/playlist.m3u8
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/axn.jpg" group-title="Premium Movies",AXN (max)
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
 
 
 
