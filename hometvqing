@@ -1877,6 +1877,20 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓
 🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅🍅
 
@@ -1918,6 +1932,16 @@ https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="Premium Movies",astro fam
 http://31.43.191.125:8080/restream/restream/34571
+
+
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="Premium Movies", Celestial Movies
+https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_2500000=7-3277707030000000.mpd
+
+
+
+
+
+
 
 
 
