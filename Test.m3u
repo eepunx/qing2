@@ -1,5 +1,11 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="230" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5613ec24-ed04-42e5-917b-dee0e0ec074a.png" group-title="Indonesia",Bioskop Indonesia
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b/ucU68oT9WQIX7eHrp2Xg:Sr8f0m6MRaW2uuYM9v/CuQ
+https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=ZjIzM2U5OWVlZDdkMzg3ZWE5MWQ3YTBmN2JkZGIxZmI=&time=15257441255&device_id=G1xWZTExsfhXVWJuMAoQJCruAmRtPX7ObiNZlzubUemF
 
 
 
