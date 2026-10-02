@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-##EXTINF:-1 tvg-id="215" tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="🇮🇩| Indonesia",SCTV v
+#EXTINF:-1 tvg-id="215" tvg-name="SCTV" tvg-logo="" group-title="🇮🇩| Indonesia",SCTVVvvvbbbbbbbbbbb
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
