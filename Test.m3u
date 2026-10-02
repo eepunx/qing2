@@ -1,12 +1,12 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="215" tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" group-title="🇮🇩| Indonesia",SCTV (cubmu)
+#EXTINF:-1 tvg-id="215" tvg-name="SCTV" tvg-logo="" group-title="🇮🇩| Indonesia",SCTV hex
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6FFB9C53AF284FD590217ED11EBA765E:4ABB1FD26E8C45AEB6BAE60CF6FFC2B9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/U0NUVi1teQ/manifest.mpd?signature=NWVlZGEyOGNjZGYxMDdkZjNjZmU4ZjBiYzBkZmY1YWI=&time=15257614272&device_id=ceVWZzZKmOBR1m67T9mKsxh-ELoP4BVm3iWH4cstwwcn
 
 
