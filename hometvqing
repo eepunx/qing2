@@ -322,8 +322,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/TURUVg/manifest.mpd?signature=NWI0NjVkMzg5ODQ5MzkxNmNkODc0ZWMzZjBhOGE4YjQ=&time=15257614274&device_id=qoB6Hqbv5rm0mbNLfzVKMEu7sthtAtu6VRzQFhnhYbbR
-
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/QU5UVg/manifest.mpd?signature=MzQzZGQzZTQ3MWY3NmVlNjI5ODJmNjU5ZDg3YjQ2Mjg=&time=15260624474&device_id=TLQAMWj8I21MJgrXyd1hUjbFFXwhmPeUg_Mvt33GclNw
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -934,22 +933,22 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/YWxxdXJhbmFsa2FyZWVt/manifest.mpd?signature=YWE1MWU3ZTEyYTZhOTBmZTNkYzkyMGEyZmVkNWNjZDY=&time=15257614310&device_id=WNmGiTzovYCvmEgaJHBiyCoR6na7FgqvZS4oQbCRap-9XJZFjMex2fPXE1E31Q
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/YWxxdXJhbmFsa2FyZWVt/manifest.mpd?signature=NjhhMzZlZTQ1ZWRiZGQ4ZmJhMmQ2NjMzOTdhMjRjNGM=&time=15260624515&device_id=8j9MZJVTnwKqxjSHmx3dbWePIsZb-g1dfGV5bHw-hKcP
 
 #EXTINF:-1 tvg-id="240" tvg-name="Nabawi TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e6c3b4e-129e-4fcb-963e-957098927079.jpg" group-title="RELIGI",Nabawi TV
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/TmFiYXdpIFRW/manifest.mpd?signature=YmI1MGU0YTY0ZjNiZTVlZGFmN2E2ZmYxNTk2N2VkNGQ=&time=15257614311&device_id=DZBZdelOEp88bZjFJMB9N0ChwEA4iRQsj5DseDQ3uIQY
 
 
-
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/TmFiYXdpIFRW/manifest.mpd?signature=ZDRkYzk4OGEzMGI3MGE2YWI5ODMzNWM5YjYzMWRiOGQ=&time=15260624516&device_id=oafigVxjRsjSSuDE8_kdg___McaEeJUGUVEDYthGDqnf
 
 #EXTINF:-1 tvg-id="187" tvg-name="tvMU" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1b908432-e3a7-4d39-ba32-1acc69966989.jpg" group-title="RELIGI",tvMU (cubmu)
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/dHYgTXUgQ2hhbm5lbA/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/dHYgTXUgQ2hhbm5lbA/manifest.mpd?signature=Yzk3OTgxNDFlNTY4MmY2Yjc5MWM4ZGI5NDUyNTFlZWI=&time=15260624515&device_id=4X_-7w9Mdt9AZbQsoV5Pso30w5Wz-m-ls9TpVVE7clli
+
 
 #EXTINF:-1 tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV" tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="RELIGI", TV MU
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -977,8 +976,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/S2hhemFuYWg/manifest.mpd?signature=YTY2ZTc2MDI1NTc3MTgzNjU1Y2IyNWJmZGUyYTk5YzY=&time=15257614312&device_id=LiYUQhKwpEjTZlv6ofY5uR4rbvGL69pvI-Ggn2I8SmBU
-
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/S2hhemFuYWg/manifest.mpd?signature=NzM4ZTg2NDJmMGRmMTUzN2ZkYTRjZDA1YTQ2MzM1YzY=&time=15260624522&device_id=dJkG_TsX_q0GqFg_kp8duUbaFA2VspcN2eRlxhv1XX99
 
 
 
@@ -1900,8 +1898,7 @@ https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_25000
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/&User-Agent=https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd
-https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=NzRjYTRmODQ2MzkxMzUzZmQ1MWFkZTgyNDdlNGI5YWQ=&time=15257441255&device_id=rhFFZ-Thkk1y0Z82m-k2OoZXtKQa8Tyk1F-BeqO1WC_v
-
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=NWU4NThjZmQ0YjAxYWYyYmJkN2YxNzkzZmNmNjk2ZjA=&time=15260624476&device_id=nc-pb4re31UuDTt73Yp01NV43k3SZ_YFyvlw7IxeWnrF
 
 
 #EXTINF:-1 tvg-id="667" tvg-name="K+" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4ff96e7e-b79f-47e0-8ebc-9b81398c49b8.jpg" group-title="Premium Movies",K+
@@ -1910,8 +1907,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZDk1ODUwZTM5MjRmZGQwZGM2OWM3NzUwY2I1YjY5ZTY=&time=15257441260&device_id=I8Giw6OpHwJkN62azDKD4Lj_yCQgbz9LmNhRasQT42ar
-
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZmMwMDM2MTcyODk1ZTIwMTJlZDU2MjY4NDVjYjU3ZGQ=&time=15260624503&device_id=qRAcmkFjPEtyVgMtsHDIRro5TIgGZnd55AF_eqWNHIfU
 
 
 
