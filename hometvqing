@@ -1910,7 +1910,13 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZmMwMDM2MTcyODk1ZTIwMTJlZDU2MjY4NDVjYjU3ZGQ=&time=15260624503&device_id=qRAcmkFjPEtyVgMtsHDIRro5TIgGZnd55AF_eqWNHIfU
 
 
-
+#EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" group-title="Premium Movies",Thrill
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/VGhyaWxs/manifest.mpd?signature=YWRhZTIwNGRjOTk4Y2YxM2U4NWZhMTY1OWZhMTNhYTc=&time=15260624476&device_id=z302F1-AqKkuRWWN98M2kwjMuDQJwpKypRTWn3Bqbe6w
 
 
 
