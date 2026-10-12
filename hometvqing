@@ -196,7 +196,7 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=NjUwZGNhMGNlODI3NzQ1N2I3Mzk2NjA2ZGY1MzA3OGY=&time=15260624471&device_id=ahiYm7uuN4LsLIF8dKvx5syg3zARc3fcG5C1MqD3nfwF
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (V+)
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
