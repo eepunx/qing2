@@ -1909,7 +1909,7 @@ https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_25000
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/&User-Agent=https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=NWU4NThjZmQ0YjAxYWYyYmJkN2YxNzkzZmNmNjk2ZjA=&time=15260624476&device_id=nc-pb4re31UuDTt73Yp01NV43k3SZ_YFyvlw7IxeWnrF
+#https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=NWU4NThjZmQ0YjAxYWYyYmJkN2YxNzkzZmNmNjk2ZjA=&time=15260624476&device_id=nc-pb4re31UuDTt73Yp01NV43k3SZ_YFyvlw7IxeWnrF
 
 
 #EXTINF:-1 tvg-id="667" tvg-name="K+" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4ff96e7e-b79f-47e0-8ebc-9b81398c49b8.jpg" group-title="Premium Movies",K+ (cubmu)
@@ -1918,7 +1918,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZmMwMDM2MTcyODk1ZTIwMTJlZDU2MjY4NDVjYjU3ZGQ=&time=15260624503&device_id=qRAcmkFjPEtyVgMtsHDIRro5TIgGZnd55AF_eqWNHIfU
+#https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZmMwMDM2MTcyODk1ZTIwMTJlZDU2MjY4NDVjYjU3ZGQ=&time=15260624503&device_id=qRAcmkFjPEtyVgMtsHDIRro5TIgGZnd55AF_eqWNHIfU
 
 
 #EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" group-title="Premium Movies",Thrill (cubmu)
@@ -1927,7 +1927,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/VGhyaWxs/manifest.mpd?signature=YWRhZTIwNGRjOTk4Y2YxM2U4NWZhMTY1OWZhMTNhYTc=&time=15260624476&device_id=z302F1-AqKkuRWWN98M2kwjMuDQJwpKypRTWn3Bqbe6w
+#https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/VGhyaWxs/manifest.mpd?signature=YWRhZTIwNGRjOTk4Y2YxM2U4NWZhMTY1OWZhMTNhYTc=&time=15260624476&device_id=z302F1-AqKkuRWWN98M2kwjMuDQJwpKypRTWn3Bqbe6w
 
 
 
@@ -2013,6 +2013,9 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TW92aWVzIE5ld3M/manifest.mpd
+
+
+
 
 
 
@@ -2165,21 +2168,22 @@ https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c
 
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="Premium Movies",Celestial Movies (v+)
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=44&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+
+
 #EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="Premium Movies",Celestial Classic Movies (v+)
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=45&type=drm&token=alf-store
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
 
 
 
