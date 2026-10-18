@@ -286,8 +286,8 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (Digital)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
 http://ktpremium.world:2095/oc100138/3826778900/73617
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (VD)3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
