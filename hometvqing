@@ -1754,6 +1754,19 @@ http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-id="DreamWorks.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png",Dreamworks 🇮🇩 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=67
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=67&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=67&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
 
 ======NICK 🇮🇩 =====
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" group-title="KIDS" tvg-id="Nickelodeon.id", Nickelodeon 🇮🇩 
@@ -1854,7 +1867,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 
-#EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="" group-title="KIDS",Baby Shark TV
+#EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10" group-title="KIDS",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
