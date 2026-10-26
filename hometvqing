@@ -284,7 +284,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/SW5kb3NpYXI/manifest.mpd?signature=OGRiYjliZWZjYjMyMzA4NjI0OGNjZGMzNDMyODFlMmI=&time=15260624471&device_id=adBrIZL4Lo2EhWbmS5LEtuI5Y8N1qPuQNDmtydGEsgbT
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SW5kb3NpYXI/manifest.mpd?signature=ZDc0ZDFkMzM0Njg0NTEzN2I0ZjBjMTA4Mjk0NzIyYmM=&time=15267574006&device_id=IQAKXD-bT6o3ECFuQvb9rIq7YPRUvoaKNULg673YLE0itcxz_ZOghFHm
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -298,7 +298,7 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (Digital)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
-http://ktpremium.world:2095/oc100138/3826778900/73617
+#http://ktpremium.world:2095/oc100138/3826778900/73617
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (VD)3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -320,7 +320,7 @@ http://ktpremium.world:2095/oc100138/3826778900/73617
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/U0NUVi1teQ/manifest.mpd?signature=M2M3MmFlNjVjZDNhZmQ2MmU1Nzk4YWU1OTdjOWI0YzM=&time=15260624470&device_id=AJou-0ORKEx4pFSrDypjSoShkeQH_nXS4p2iD4pMI9Gf
+https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/U0NUVi1teQ/manifest.mpd?signature=ZWI3ZjA1MDlhZDZlNGY3YWYwYmVkZjUwM2FjZWYyOTk=&time=15267573457&device_id=JKIeclRZe4sZ968IAgtbWxP06n9fX_Qa31asYdwvnZcVRvCRu5N8yEAL
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (Vd)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
