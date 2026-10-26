@@ -443,7 +443,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png", MDTV (trans)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 ===moji===
 
@@ -667,7 +667,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 
 
-
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cf102264bf3/decf82ff8ddd4bf1b0f895d4e2eab840.jpg" group-title="🇮🇩| Indonesia", Garuda TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 
 
