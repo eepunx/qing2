@@ -446,7 +446,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 
 
 ===rtv===
