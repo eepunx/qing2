@@ -811,7 +811,6 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 
 
 
-
 ♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️
 
 =====TVRI ======
@@ -1730,7 +1729,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=mentaritv
-https://vidsemar.pages.dev/terraluna3/8237.mpd
+#https://vidsemar.pages.dev/terraluna3/8237.mpd
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="KIDS", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+
 
 
 
