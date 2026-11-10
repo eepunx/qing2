@@ -1719,7 +1719,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-44-37-967.png", MentariTV (Vidio)
@@ -1727,7 +1727,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=mentaritv
-#https://vidsemar.pages.dev/terraluna3/8237.mpd
+https://vidsemar.pages.dev/terraluna3/8237.mpd
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="KIDS", RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -1736,25 +1736,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
-#EXTINF:-1 tvg-id="ytv" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="KIDS",YTV
-#https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-10-03-533.png" group-title="KIDS",DISNEY Jr
 
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-08-41-177.png" group-title="KIDS",DISNEY CHANNEL
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY XD" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-11-20-507.png" group-title="KIDS",DISNEY XD
-#http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57420.ts
+
 
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-29_23-12-30-908.png" group-title="KIDS" tvg-id="Cartoon Network" , Cartoon Network (Trans)
@@ -1803,7 +1792,8 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=60&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=60&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=60
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
 
 
 ===NICK===
