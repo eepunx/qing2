@@ -256,7 +256,7 @@ http://202.150.165.66:8088/play/813-GTV/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://rplus.inisemar.my.id/inews.m3u8
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)2
@@ -265,10 +265,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (max)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#https://cdnbal1.indihometv.com/atm/DASH/inews/inews.mpd
-
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (proxy)
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
 
 =====indosiar=====
