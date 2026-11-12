@@ -1214,10 +1214,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 
 
-==TRUE SP=====
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT PREMIER LEAGUE 
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
 
 
@@ -1281,6 +1277,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out
 https://otte.cache.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 
+==TRUE SP=====
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT PREMIER LEAGUE 
+http://xtreme-tv.is:18800/r8xbAmxX/fzdHRMx/75355
 
 
 =====TNT====
