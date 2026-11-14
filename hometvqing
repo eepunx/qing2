@@ -143,7 +143,7 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (cubmu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://202.150.165.66:8088/play/811-RCTI/index.m3u8
+
 
 
 
@@ -187,7 +187,7 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (cubmu)
-http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
+
 
 
 
@@ -230,7 +230,7 @@ https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (cubmu)
-http://202.150.165.66:8088/play/813-GTV/index.m3u8
+
 
 
 ===inews==
@@ -297,8 +297,8 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (digital)
 http://013tv.com:8080/F33848/cbd9779b/162138
 
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (cubmu)
-http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR
+http://aflaxtv.xyz:8080/F33848/cbd9779b/162138
 
 
 =====sctv====
@@ -328,8 +328,8 @@ http://013tv.com:8080/F33848/cbd9779b/162141
 #EXTVLCOPT:http-origin=http://www.vidio.com
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (cubmu)
-http://202.150.165.66:8088/play/808-SCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/162141
 
 
 ====antv====
@@ -364,11 +364,8 @@ http://013tv.com:8080/F33848/cbd9779b/165072
 https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 
 
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/165072
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (Vidio)
@@ -1927,21 +1924,20 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://31.43.191.125:8080/restream/restream/34571
 
 
-#EXTINF:0 tvg-name="HBO" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Premium Movies",HBO (cubmu)
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:0 tvg-name="HBO" ch-number="105" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Premium Movies",HBO 🇮🇩 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306484
 
-#EXTINF:0 tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Premium Movies",HBO Hits (cubmu)
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:0 tvg-name="HBO Hits" ch-number="107" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Premium Movies",HBO Hits 🇮🇩 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306486
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/434873a2-10b6-4447-950e-f8e62fe2589f.png" group-title="Premium Movies",HBO Family (cubmu)
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/434873a2-10b6-4447-950e-f8e62fe2589f.png" group-title="Premium Movies",HBO Family 🇮🇩 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
-#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3e48d990-c181-4ef4-90a3-1e2c5709d465.png" group-title="Premium Movies",HBO Signature (cubmu)
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3e48d990-c181-4ef4-90a3-1e2c5709d465.png" group-title="Premium Movies",HBO Signature 🇮🇩 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/306483
 
-
-#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="" group-title="Premium Movies",cinemax (cubmu)
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="" group-title="Premium Movies",cinemax 
+http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 
 #EXTINF:-1 tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="Premium Movies", tvN
 #http://tv.cloudcdn.me/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
