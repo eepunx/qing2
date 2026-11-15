@@ -1,73 +1,35 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",mentari (proxy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/mentaritv/index.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", insan
+https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",sctv (proxy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/sctv/index.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 2
+https://flv.intechmedia.net/live/ch2.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 3
+https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 4
+https://flv.intechmedia.net/live/ch4.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 5
+https://flv.intechmedia.net/live/ch5.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 6
+https://flv.intechmedia.net/live/ch6.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 7
+https://flv.intechmedia.net/live/ch7.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 8
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",tvn (proxy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 9
+https://flv.intechmedia.net/live/ch9.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",tvnmov(proxy)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="", 10
+https://flv.intechmedia.net/live/ch10.m3u8|user-agent=Mozilla/5.0
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO (TRANS)
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO Family (TRANS)
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO Hits (TRANS)
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",HBO Signature (TRANS)
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Cinemax (TRANS)
-http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",ANTV (TRANS)
-http://202.150.165.66:8088/play/807-ANTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",AXN (TRANS)
-http://202.150.165.66:8088/play/301-AXN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",TRANS TV HD (TRANS)
-http://202.150.165.66:8088/play/800-TransTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",TRANS 7 HD (TRANS) 
-http://202.150.165.66:8088/play/801-Trans7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Indosiar (TRANS)
-http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",KBS World (TRANS)
-http://202.150.165.66:8088/play/323-KBSWorld/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",MNC (TRANS)
-http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",RCTI (TRANS)
-http://202.150.165.66:8088/play/811-RCTI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",RTV (TRANS)
-http://202.150.165.66:8088/play/818-RTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",SCTV (TRANS)
-http://202.150.165.66:8088/play/808-SCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Thrill (TRANS)
-http://202.150.165.66:8088/play/109-Thrill/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",TvOne (TRANS)
-http://202.150.165.66:8088/play/806-TvOne/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Warner TV (TRANS)
-http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Zee Bioskop (TRANS)
-http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",tVN (TRANS)
-http://202.150.165.66:8088/play/321-tvN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",tvN Movies (TRANS)
-http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Cinema World (TRANS)
-http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Celestial Movies (TRANS)
-http://202.150.165.66:8088/play/108-Celestial/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ LIVE TV",Bioskop Indonesia (TRANS)
-http://202.150.165.66:8088/play/107-BioskopIndonesia/index.m3u8
