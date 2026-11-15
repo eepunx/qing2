@@ -294,11 +294,11 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR (digital)
-http://013tv.com:8080/F33848/cbd9779b/162138
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR 
+http://royaltv.world:25461/live/O1008/5132/105.ts
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/indosiar.png", INDOSIAR
-http://aflaxtv.xyz:8080/F33848/cbd9779b/162138
+
 
 
 =====sctv====
@@ -319,17 +319,11 @@ http://aflaxtv.xyz:8080/F33848/cbd9779b/162138
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (digital)
-http://013tv.com:8080/F33848/cbd9779b/162141
-
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV
+http://royaltv.world:25461/live/O1008/5132/101.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="🇮🇩| Indonesia",SCTV 
-http://aflaxtv.xyz:8080/F33848/cbd9779b/162141
+
 
 
 ====antv====
@@ -356,7 +350,7 @@ http://aflaxtv.xyz:8080/F33848/cbd9779b/162141
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (digital)
-http://013tv.com:8080/F33848/cbd9779b/165072
+
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -365,7 +359,7 @@ https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV 
-http://aflaxtv.xyz:8080/F33848/cbd9779b/165072
+
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (Vidio)
