@@ -1265,13 +1265,12 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-=====SPOTV phi====
+=====SPOTV phi==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSfo4Ko.png" group-title="SPORTS",SpoTV 
+http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oSfo4Ko.png" group-title="SPORTS",SpoTV (afl)
-http://aflaxtv.xyz:8080/F33848/cbd9779b/165105
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p1ZsvyQ.png" group-title="SPORTS",SpoTV 2 (afl)
-http://aflaxtv.xyz:8080/F33848/cbd9779b/298506
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1ZsvyQ.png" group-title="SPORTS",SpoTV 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
 
 
