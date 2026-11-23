@@ -137,8 +137,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
-
+https://dsgtq5sngxkde.cloudfront.net/rcti/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="🇮🇩| Indonesia",RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -183,7 +182,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="🇮🇩| Indonesia",MNCTV (cubmu)
 
@@ -224,8 +223,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
-
+https://dsgtq5sngxkde.cloudfront.net/gtv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="🇮🇩| Indonesia",GTV (cubmu)
@@ -265,10 +263,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (R+)2
-#EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
-
+https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="iNews.id" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png",iNews (proxy)
 #https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
@@ -375,7 +372,7 @@ http://royaltv.world:25461/live/O1008/5132/101.ts
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png", ANTV (vidio)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -619,7 +616,7 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/idx.png",IDX (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/idx/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/idx/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="🇮🇩| Indonesia",SindoNews (V+)
@@ -1272,6 +1269,17 @@ http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSfo4Ko.png" group-title="SPORTS",SpoTV (v+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/spotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1ZsvyQ.png" group-title="SPORTS",SpoTV 2 (v+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
+
+
 
 =======Dsport====
 
@@ -1754,10 +1762,18 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_49.png" group-title="KIDS" tvg-id="Nickelodeon.id", Nickelodeon asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/nickelodeon/index.m3u8
+
+
 #EXTINF:-1 tvg-id="NickJrAsia.sg@SD" group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg",Nick Jr asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
+
 
 
 
@@ -1999,7 +2015,7 @@ http://aflaxtv.xyz:8080/F33848/cbd9779b/197964
 #EXTINF:-1 tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="Premium Movies", tvN (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/tvn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="Premium Movies", tvN (cubmu)
@@ -2023,7 +2039,7 @@ http://202.150.165.66:8088/play/321-tvN/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="Premium Movies",TVN Movies (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/tvnmovies/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="Premium Movies",TVN Movies (cubmu)
@@ -2048,7 +2064,7 @@ http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="Premium Movies",Celestial Movies (v+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/celestialmovies/index.m3u8
 
 🔷 
 #EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="Premium Movies",Celestial Classic Movies (v+)
@@ -2066,7 +2082,7 @@ https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
 #EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="Premium Movies",Celestial Classic Movies (v+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/celestialclassic/index.m3u8
 
 
 
@@ -2085,7 +2101,7 @@ https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/galaxy.jpg", Galaxy (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/galaxy/index.m3u8
 
 
 🔷 
@@ -2099,7 +2115,7 @@ https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/galaxyprem.jpg" group-title="Premium Movies",Galaxy Premium (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 
 
 
@@ -2116,8 +2132,7 @@ https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/rockaction.jpg" group-title="Premium Movies", ROCK Action (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
-
+https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
 
 🔷 
 #EXTINF:-1 tvg-id="39" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/rockenter.jpg" group-title="Premium Movies", ROCK Entertainment
@@ -2130,12 +2145,31 @@ https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/rockenter.jpg" group-title="Premium Movies", ROCK Entertainment (proxy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/axn.jpg" group-title="Premium Movies",AXN (proxy)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/studiouniv.jpg" group-title="Premium Movies", STUDIO UNIVERSAL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" group-title="Premium Movies",Thrill (cubmu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/axn.jpg" group-title="Premium Movies",AXN (max)
+
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/wbros.jpg" group-title="Premium Movies",Warner TV (trans)
 
 
@@ -2174,51 +2208,11 @@ https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 #https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZmMwMDM2MTcyODk1ZTIwMTJlZDU2MjY4NDVjYjU3ZGQ=&time=15260624503&device_id=qRAcmkFjPEtyVgMtsHDIRro5TIgGZnd55AF_eqWNHIfU
 
 
-#EXTINF:-1 tvg-id="232" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bec4b1b-262f-44e0-821f-a3897ce93251.jpg" group-title="Premium Movies",Thrill (cubmu)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/VGhyaWxs/manifest.mpd?signature=YWRhZTIwNGRjOTk4Y2YxM2U4NWZhMTY1OWZhMTNhYTc=&time=15260624476&device_id=z302F1-AqKkuRWWN98M2kwjMuDQJwpKypRTWn3Bqbe6w
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/82af014b-3c24-4ae7-9b3f-02922774fa39.png" group-title="Premium Movies",HBO (trans)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmustv.tvnid.workers.dev
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/01789118-6828-410f-aae9-53d4a684bc64.png" group-title="Premium Movies",HBO Hits
-#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/3e48d990-c181-4ef4-90a3-1e2c5709d465.png" group-title="Premium Movies",HBO Signature
-#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/434873a2-10b6-4447-950e-f8e62fe2589f.png" group-title="Premium Movies",HBO Family
-#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/09fd84f1-c869-4dec-8a07-2b5d99847b71.png" group-title="Premium Movies",Cinemax
-#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
 
 #EXTINF:0 tvg-id="WarnerTVHD" tvg-name="Warner TV HD" tvg-logo="http://cdrs2-mediaott.sysln.id:8080/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/114.png" group-title="Premium Movies",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2231,10 +2225,6 @@ https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QVhOLW15/manifest.mpd
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f124427a-931e-47d1-ab50-1b29a7a3e406.jpg" group-title="Premium Movies", Celestial Movies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2282,12 +2272,7 @@ https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/citrabios.jpg",Citra Bioskop
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://github.com/eepunx/logo/raw/refs/heads/main/studiouniv.jpg" group-title="Premium Movies", STUDIO UNIVERSAL 
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
